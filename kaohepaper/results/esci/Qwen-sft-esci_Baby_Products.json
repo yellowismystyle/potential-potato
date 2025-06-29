@@ -1,0 +1,414 @@
+{
+    "103": {
+        "generated_text": "(\"two\" OR \"two items\" OR \"pair\") AND (\"received\" OR \"only one\" OR \"single\") NOT (\"both\" OR \"two together\")",
+        "target": "['B07DKMCDY5']"
+    },
+    "104": {
+        "generated_text": "(\"oralgel\" OR \"dental gel\" OR \"oral care gel\" OR \"baby oral gel\") AND (\"baby\" OR \"infant\" OR \"newborn\" OR \"toddler\")",
+        "target": "['B07DKMCDY5', 'B0013HOU28', 'B000GFIL8M']"
+    },
+    "105": {
+        "generated_text": "(\"baby gate\" OR \"infant gate\" OR \"toddler gate\" OR \"child gate\") AND (\"door\" OR \"entryway\" OR \"entrance\" OR \"portable gate\")",
+        "target": "['B001OC5UNK', 'B01MUEGID5']"
+    },
+    "106": {
+        "generated_text": "(blankets AND (\"extra large\" OR oversized OR giant))",
+        "target": "['B081PFLZT4', 'B07VBKRWGM', 'B08DRD584D', 'B089DP2Q6G', 'B083LJV4CH', 'B086GYNTXK', 'B000WKW2SG', 'B07QLNX9SM', 'B075THQ8LG']"
+    },
+    "107": {
+        "generated_text": "(\"nipple\" OR \"nursing nipple\" OR \"breastfeeding nipple\") AND (\"breastfeed\") AND (\"babies\" OR \"infants\" OR \"newborns\")",
+        "target": "['B004TON9BK', 'B075GSQXQ2', 'B07FH81WSD']"
+    },
+    "108": {
+        "generated_text": "(stroller OR pram OR pushchair) AND (\"2 seat\" OR double OR twin OR dual OR \"two-seat\" OR convertible)",
+        "target": "['B0781VL1WR', 'B076DKND6Z', 'B01GHVJHMW', 'B00UVW3PPY', 'B00STG5Z16', 'B00UVW3PSQ']"
+    },
+    "109": {
+        "generated_text": "(nose AND (frida OR \"Frida brand\" OR \"Frida products\" OR \"Frida accessories\" OR \"nose care\" OR \"nose products\"))",
+        "target": "['B01N093BYV', 'B01N4BBTFQ']"
+    },
+    "110": {
+        "generated_text": "(\"4moms\" OR \"4 Moms\" OR \"four moms\") AND (\"pack and play\" OR \"portable crib\" OR \"baby bed\" OR \"bassinet\" OR \"travel system\")",
+        "target": "['B086FZH4LM']"
+    },
+    "111": {
+        "generated_text": "(\"Child's Play\" AND (\"pinball\" OR \"toy\" OR \"collectible\" OR \"novelty\")) OR (\"pin\" AND (\"collectible\" OR \"toy\"))",
+        "target": "['B01MSWRGIY', 'B01MSWRFWY']"
+    },
+    "112": {
+        "generated_text": "(\"grey\" OR \"gray\") AND (\"dresser\" OR \"chest\" OR \"chest of drawers\") AND (\"kids\" OR \"children\" OR \"child\" OR \"toddler\" OR \"baby\" OR \"youth\")",
+        "target": "['B07P3HYVPD', 'B06WWQDPZH']"
+    },
+    "113": {
+        "generated_text": "(\"vtech\" AND \"dm223\" AND \"safe and sound\")",
+        "target": "['B07ZNBVFXG', 'B07JJ4D4H3', 'B01GED7OIW']"
+    },
+    "114": {
+        "generated_text": "(abbie AND beyond AND wooden AND (\"high chair\" OR \"infant chair\" OR \"baby chair\"))",
+        "target": "['B08CXFXTFK', 'B09CYJ9H2V', 'B07N3CFP7S']"
+    },
+    "115": {
+        "generated_text": "(graco AND \"simple switch\") AND (cover AND replacement)",
+        "target": "['B00AHVR708', 'B00AHVR6TA', 'B06Y1QQDVZ', 'B01N3MYQ99']"
+    },
+    "116": {
+        "generated_text": "\"Fisher Price\" AND \"chair\" AND (\"girls\" OR \"female\" OR \"kids\" OR \"children\")",
+        "target": "['B07WRSSSRJ', 'B017B76SZU']"
+    },
+    "117": {
+        "generated_text": "\"baby swings\" AND \"infants\" AND \"40lbs\"",
+        "target": "['B014D4HQ28']"
+    },
+    "118": {
+        "generated_text": "\"HSA eligible\" AND \"products\" AND \"baby\"",
+        "target": "['B086BL3BB2', 'B07YFCFCPN', 'B0107QP1VE', 'B086C4MG9R', 'B017GYO3I2', 'B01962MDHA', 'B07N6NBRGD', 'B07QN39PZ9', 'B002HOQE6Q']"
+    },
+    "119": {
+        "generated_text": "\"baby swings\" AND \"infants\" AND \"clearance\"",
+        "target": "['B01MQM7W6M', 'B07D7DX94B', 'B083FGCFD3', 'B01DGIKD68', 'B01K7VHV2Q', 'B007HHQ4VI']"
+    },
+    "120": {
+        "generated_text": "(avent AND (natural OR eco-friendly OR organic OR non-toxic) AND (bottle caps OR bottle top OR cap))",
+        "target": "['B07JM4HSHP']"
+    },
+    "121": {
+        "generated_text": "(\"starbucks\" AND \"sippy cups\" AND \"baby\")",
+        "target": "['B01M6C0KET']"
+    },
+    "122": {
+        "generated_text": "(stickers OR labels OR 'adhesive notes') AND (felt OR fabric) AND (monthly OR 'monthly-themed' OR 'monthly series' OR 'monthly collection')",
+        "target": "['B07DCCVJ6G', 'B07FFFQP1G', 'B078FWRHC6', 'B00XJSTKR4']"
+    },
+    "123": {
+        "generated_text": "(\"car seats\" OR \"automobile seats\" OR \"vehicle seats\") AND (\"car\" OR \"automobile\" OR \"vehicle\")",
+        "target": "['B07C2RNRCJ', 'B00TES30F6', 'B007UYBOJU', 'B013YCWASA']"
+    },
+    "124": {
+        "generated_text": "(\"graco\" AND \"classic\" AND \"car seat\")",
+        "target": "['B07C2RNRCJ', 'B00Y285WFO', 'B07CVCHKTT', 'B07D7DX9MR', 'B07C35848T', 'B07N3CJF41', 'B07S27HVLK', 'B07Y5QYR1Q', 'B08K2X1DPC', 'B00BNQEZXS', 'B01NBAA09A', 'B071W2XFXQ', 'B074WJ4T8C']"
+    },
+    "125": {
+        "generated_text": "(\"graco\" AND \"for ever\" AND \"car seat\")",
+        "target": "['B07C2RNRCJ', 'B00Y285WFO', 'B07CVCHKTT', 'B07D7DX9MR', 'B00Y2863GQ', 'B07K92FVV7', 'B01N3MYMB2', 'B08K2X1DPC', 'B071W2XFXQ', 'B07L4JPQ64']"
+    },
+    "126": {
+        "generated_text": "(\"pack n play\" OR \"portable playpen\" OR \"travel system\" OR \"baby playpen\" OR \"foldable playpen\" OR \"infant playpen\")",
+        "target": "['B07RZQC1T1', 'B07N3CJ7DN']"
+    },
+    "127": {
+        "generated_text": "(grey OR gray) AND (crib OR nursery OR infant bed) AND (set OR bundle OR package)",
+        "target": "['B07GNQ3LVG', 'B07BHMHQR1', 'B077L145M5']"
+    },
+    "128": {
+        "generated_text": "(swaddle OR baby OR infant) AND (blanket) AND (lightweight OR portable OR easy to carry)",
+        "target": "['B088YRHZF5', 'B07VSH8KZG', 'B07SZ6Y3R7', 'B07H4X4LXZ']"
+    },
+    "129": {
+        "generated_text": "(travel OR portable OR lightweight OR compact OR 'suitable for travel') AND (car OR automobile OR vehicle OR airplane) AND (seat OR 'child seat' OR 'baby seat' OR 'booster seat')",
+        "target": "['B006PB2B6O', 'B06XTT17QC', 'B085WD5SBC']"
+    },
+    "130": {
+        "generated_text": "(\"your germs\" OR \"germ awareness\" OR \"germ humor\" OR \"germ joke\") AND (\"are too big\" OR \"exaggerated\" OR \"humorous\" OR \"funny\") AND (\"for me sign\" OR \"personal sign\" OR \"self-help\" OR \"reminder\")",
+        "target": "['B071G68YND', 'B0743NGX15', 'B07C6838KZ', 'B07C6P7X7F', 'B074DZ425B', 'B07GSNX54Q', 'B081ZVX8YY', 'B089LZN3DR', 'B07CG26M3Q', 'B091P3ZCNM', 'B07C6Q446L']"
+    },
+    "131": {
+        "generated_text": "(\"changing table\" OR \"baby changing table\" OR \"infant changing station\" OR \"nursery changing table\" OR \"foldable changing table\" OR \"storage changing table\" OR \"sink changing table\")",
+        "target": "['B07Z8VNS8G', 'B00OGIB5E2', 'B01LYCN6A7', 'B00DZFUUTS', 'B0841YRLPY']"
+    },
+    "132": {
+        "generated_text": "(baby OR infant OR newborn) AND (diaper OR nursery OR \"infant care\") AND (organizer OR storage OR holder) AND (stand OR mount OR \"wall unit\")",
+        "target": "['B07V61BYZL', 'B07VFQNF4T', 'B07XK85J4Z', 'B08MW1MLPX', 'B08Y19Z831', 'B00006408K', 'B00512VMVI', 'B00HWXXTBA', 'B07HSXJ6QR', 'B07LCJ3SCG', 'B07HSX1J3K']"
+    },
+    "133": {
+        "generated_text": "\"diaper organizer\" AND NOT \"handles\"",
+        "target": "['B07V61BYZL', 'B08L4CC4BP', 'B000056OUO', 'B088WDCGZH', 'B08GC3XPPM', 'B08P41T13J', 'B08M6D8YKY', 'B077B8WG7W']"
+    },
+    "134": {
+        "generated_text": "(baby AND \"feeding spoon\" AND \"bpa free\")",
+        "target": "['B07JYT3R3Z', 'B006VB29D8']"
+    },
+    "135": {
+        "generated_text": "\"easieeaters\" AND \"curved utensils\" AND \"right handed\" AND \"without shields\"",
+        "target": "['B07K589Z1Z', 'B07J6P12X9', 'B08CR6CK77', 'B08XWYZ4DK', 'B074JGZTKV', 'B0002DLAJA', 'B000X9R150']"
+    },
+    "136": {
+        "generated_text": "(\"baby\" OR \"infant\" OR \"toddler\" OR \"child\" OR \"newborn\") AND (\"fork\" OR \"utensil\" OR \"feeding\" OR \"tableware\" OR \"dining set\")",
+        "target": "['B07SBHH4SQ', 'B07P7M4RBK', 'B07BBNS9Z5', 'B07H9KJHGJ']"
+    },
+    "137": {
+        "generated_text": "\"baby gate\" AND \"summer\" AND \"white\"",
+        "target": "['B07X1WHVK8']"
+    },
+    "138": {
+        "generated_text": "(\"baby\" AND \"girl\" AND \"white\" AND \"lace\" AND \"headband\")",
+        "target": "['B07Y4X6H9W', 'B01N9N0NE2', 'B079WMLBSP']"
+    },
+    "139": {
+        "generated_text": "(newborn AND baby AND boy AND bungee)",
+        "target": "['B000WJLKQM']"
+    },
+    "140": {
+        "generated_text": "(\"baby shusher\" OR \"baby pacifier\" OR \"baby sound machine\" OR \"white noise machine\" OR \"soother for babies\" OR \"calming device for infants\")",
+        "target": "['B07PSG1Z4V', 'B07QRR6XFW', 'B082DZXY4G']"
+    },
+    "141": {
+        "generated_text": "(\"crib\" OR \"baby\" OR \"infant\" OR \"nursery\") AND (\"TV\" OR \"television\" OR \"screen\" OR \"monitor\") AND (\"soother\" OR \"calmer\" OR \"relaxer\" OR \"entertainment\")",
+        "target": "['B07N1JSXKF']"
+    },
+    "142": {
+        "generated_text": "(\"baby\" OR \"infant\" OR \"toddler\" OR \"child\") AND (\"nursery\" OR \"bedroom\" OR \"playroom\" OR \"children's room\") AND (\"closet\" OR \"wardrobe\" OR \"storage\" OR \"cupboard\")",
+        "target": "['B07Y1SFRLN', 'B06XFJ3P64', 'B074PYSZ4R']"
+    },
+    "143": {
+        "generated_text": "(\"skylight\" AND (\"cover\" OR \"fixture\" OR \"kit\" OR \"replacement\"))",
+        "target": "['B0833PDHD9']"
+    },
+    "144": {
+        "generated_text": "(\"baby\" AND \"stroller\") NOT \"car seat\"",
+        "target": "['B07N3CNKKX']"
+    },
+    "145": {
+        "generated_text": "(baby OR infant OR newborn) AND (travel OR portable OR foldable OR lightweight) AND (bouncer OR 'bounce seat' OR 'baby bounce')",
+        "target": "['B01HREKVW8']"
+    },
+    "146": {
+        "generated_text": "(\"baby trend\" AND \"hybrid plus\" AND \"3-in-1\" AND \"car seat\")",
+        "target": "['B06Y1QQDVZ', 'B06WP4PZ1P']"
+    },
+    "147": {
+        "generated_text": "\"extra large\" AND \"diaper\" AND (\"bag\" OR \"backpack\")",
+        "target": "['B077N4G6DW', 'B07NZMNJPL']"
+    },
+    "148": {
+        "generated_text": "(toddler AND backpack AND girls AND personalized)",
+        "target": "['B00H2CRNVI']"
+    },
+    "149": {
+        "generated_text": "(\"bamboo\" OR \"bamboo fiber\" OR \"bamboo material\") AND (\"diapers\" OR \"nappies\") AND \"size 6\"",
+        "target": "['B07B52D8X1', 'B06Y5W1QLG']"
+    },
+    "150": {
+        "generated_text": "(\"tall\" OR \"high\" OR \"elevated\" OR \"upright\") AND (\"plastic\" OR \"polymer\" OR \"acrylic\" OR \"PVC\") AND (\"dresser\" OR \"chest\" OR \"wardrobe\" OR \"closet\")",
+        "target": "['B00RYQJFOA', 'B07RLGNS2J']"
+    },
+    "151": {
+        "generated_text": "(\"bibs\" OR \"baby bibs\" OR \"feeding bibs\" OR \"infant bibs\") AND (\"pacifier\" OR \"soother\" OR \"nursing aid\" OR \"calming toy\") AND (\"6-18 months\")",
+        "target": "['B07DPWMGWL']"
+    },
+    "152": {
+        "generated_text": "(\"bird\" OR \"avian\" OR \"feathered\") AND (\"vinyl\" OR \"plastic\") AND (\"decal\" OR \"sticker\" OR \"transfer\")",
+        "target": "['B085LP54ZP', 'B07XRH9Q76', 'B07K7MMZK5', 'B015QQYU5I', 'B0123E9RX6', 'B00MBPCDR0', 'B004089IGU']"
+    },
+    "153": {
+        "generated_text": "(\"pet gates\" OR \"animal gates\" OR \"dog gates\") AND (\"black\" OR \"dark\" OR \"charcoal\") AND (\"hinged\" OR \"sliding\") AND (\"doorways\" OR \"entryway\" OR \"entrance\")",
+        "target": "['B074SR6C6S']"
+    },
+    "154": {
+        "generated_text": "(\"boogie board\" OR \"inflatable surfboard\" OR \"water slide\" OR \"fun in the sun\") AND \"boogie scooper\"",
+        "target": "['B07RP84PFP', 'B00GXTTPKI', 'B01CI28I38']"
+    },
+    "155": {
+        "generated_text": "(\"Britax\" OR \"Bryce\") AND (\"car seat\" OR \"child safety seat\" OR \"booster seat\" OR \"baby seat\")",
+        "target": "['B079W4NMH5', 'B07SCFTPFR', 'B07V9ZXK94', 'B013YCWASA']"
+    },
+    "156": {
+        "generated_text": "(\"boppy\" AND \"nursing pillow\" AND \"without cover\")",
+        "target": "['B07XLNFBZX', 'B08CL4TCNK', 'B07SCPXSH5', 'B06Y278D6K', 'B07F4B7572']"
+    },
+    "157": {
+        "generated_text": "(\"box\" OR \"storage\" OR \"container\" OR \"organizer\") AND (\"hair\" OR \"hair accessories\" OR \"hair decorations\") AND (\"bows\" OR \"ribbons\" OR \"accessories\")",
+        "target": "['B0811SJKB3', 'B07F1FFNDD', 'B01NBLOXEC']"
+    },
+    "158": {
+        "generated_text": "(\"breast\" OR \"nipple\" OR \"chest\") AND (\"feeding\" OR \"nursing\" OR \"bottle feeding\" OR \"milk supply\") AND (\"sign\" OR \"indicator\" OR \"symbol\" OR \"signal\" OR \"display\")",
+        "target": "['B07V4TNZQD', 'B0794GLB7X', 'B01E96U2YE', 'B00R76V8IS', 'B008QSVAIE']"
+    },
+    "159": {
+        "generated_text": "(\"bright\" OR \"vibrant\" OR \"colorful\" OR \"shiny\") AND (\"flower\" OR \"bloom\" OR \"petal\" OR \"botanical\") AND (\"print\" OR \"design\") AND (\"sheet\" OR \"blanket\" OR \"bedding\")",
+        "target": "['B06Y5Q3W5M']"
+    },
+    "160": {
+        "generated_text": "(\"butt\" OR \"gluteal\" OR \"buttocks\" OR \"posterior\") AND (\"paste\" OR \"cream\" OR \"lotion\" OR \"gel\") AND (\"applicator\" OR \"tool\" OR \"device\" OR \"applicating\")",
+        "target": "['B01B912VM8']"
+    },
+    "161": {
+        "generated_text": "(cacti AND decor AND (playroom OR children OR kids OR themed OR wall art OR planters))",
+        "target": "['B07RGVS4Z7', 'B07K1CWW89']"
+    },
+    "162": {
+        "generated_text": "\"step 2\" AND \"toddler bed\" AND (\"for girls\" OR \"girl\" OR \"female\" OR \"pink\" OR \"cute\")",
+        "target": "['B01FLQM6YK', 'B00MYUG3U0', 'B00D9OMXHM']"
+    },
+    "163": {
+        "generated_text": "(\"chewy\" OR \"chewable\" OR \"chewing\" OR \"edible\") AND (\"bank\" OR \"storage\" OR \"container\" OR \"organizer\")",
+        "target": "['B07L4H37VW', '0375758623']"
+    },
+    "164": {
+        "generated_text": "(\"Citi\" AND \"Mini\" AND \"GT2\" AND \"Stroller\")",
+        "target": "['B07SB92D6Q']"
+    },
+    "165": {
+        "generated_text": "(\"high chair\") AND (\"cozy\" OR \"comfortable\") AND (\"cover\" OR \"case\" OR \"protector\") AND (\"easy\" OR \"simple\" OR \"user-friendly\") AND (\"portable\" OR \"lightweight\" OR \"compact\")",
+        "target": "['B07WCSBPGT']"
+    },
+    "166": {
+        "generated_text": "(\"high\" OR \"tall\" OR \"elevated\" OR \"adjustable\") AND \"chair\" AND (\"wrap\" OR \"cover\" OR \"strap\" OR \"belt\" OR \"sleeve\")",
+        "target": "['B07R7NH5RX', 'B07MZFD26C', 'B0788JBJBP', 'B078H74GCY']"
+    },
+    "167": {
+        "generated_text": "\"Little Love\" AND \"Nojo\" AND \"Sweet Deer\"",
+        "target": "['B07KZ9J3WV', 'B07MFZKKR7', 'B07XMDWMK6', 'B07SNS49VQ', 'B071W6WX8L', 'B06ZYSMF4M', 'B06ZYHZN13']"
+    },
+    "168": {
+        "generated_text": "(Playtex AND bottles) AND (reflux AND bottle liner)",
+        "target": "['B000056JMU']"
+    },
+    "169": {
+        "generated_text": "(matching OR coordinated OR paired OR ensemble) AND (hospital OR medical OR healthcare OR nursing) AND (outfits OR clothing OR apparel OR attire) AND (mom OR mother OR maternity OR pregnant) AND (baby OR infant OR newborn)",
+        "target": "['B07H952RKS']"
+    },
+    "170": {
+        "generated_text": "(firefighter OR fire engine OR fireman OR rescue OR emergency services) AND (baby OR infant OR newborn OR toddler) AND (blanket OR swaddle OR wrap OR cover)",
+        "target": "['B078FRRNB9', 'B06XXVPPXW']"
+    },
+    "171": {
+        "generated_text": "(\"blanket\" OR \"swaddle\" OR \"wrap\" OR \"cover\") AND (\"pineapple\" OR \"fruit\" OR \"nature\") AND (\"girl\" OR \"female\" OR \"baby girl\" OR \"toddler girl\") AND (\"baby\" OR \"infant\" OR \"newborn\")",
+        "target": "['B08432MRX6']"
+    },
+    "172": {
+        "generated_text": "(\"grey\" OR \"gray\") AND (\"infant\" OR \"baby\" OR \"newborn\") AND (\"cover\" OR \"wrap\" OR \"sleeve\" OR \"jacket\")",
+        "target": "['B01MYT6V9Y']"
+    },
+    "173": {
+        "generated_text": "(\"Grovia\" AND \"Magic Stick\") AND (\"Z\" OR \"model Z\" OR \"version Z\")",
+        "target": "['B07Q6D3TM4', 'B002RT8O5U']"
+    },
+    "174": {
+        "generated_text": "(\"Gucci\" OR \"Gucci brand\" OR \"Gucci designer\") AND (\"bag\" OR \"handbag\" OR \"pouch\" OR \"satchel\" OR \"wallet\")",
+        "target": "['B01N9DKKFH']"
+    },
+    "175": {
+        "generated_text": "(sticker AND hand AND symbol)",
+        "target": "['B07XX6S284', 'B081VJRCQL', 'B004K4FCP0']"
+    },
+    "176": {
+        "generated_text": "(infant OR baby OR newborn OR toddler) AND (bows OR hair accessories OR decorative hair pieces OR claymores) AND (diy OR do-it-yourself OR kit OR craft)",
+        "target": "['B072WR96PL', 'B07R5MXM1Q', 'B01JC5VL4W']"
+    },
+    "177": {
+        "generated_text": "(newborn OR infant OR baby OR \"newborn baby\") AND (\"ear plugs\" OR earmuffs OR \"hearing protection\" OR \"noise-cancelling headphones\")",
+        "target": "['B07C9BBKF1', 'B07Z9MP5TW']"
+    },
+    "178": {
+        "generated_text": "(hippo OR \"hippo-themed\" OR \"hippo design\" OR \"hippo pattern\") AND (nursery OR baby OR infant OR child OR \"nursery supplies\" OR \"baby products\" OR \"children's products\")",
+        "target": "['B07W6KNR64', 'B07SN9W6TB', 'B07SL3CZR4', 'B075WPP2W6', 'B071S6DS3R']"
+    },
+    "179": {
+        "generated_text": "(\"Huggies\" AND \"overnight\" AND \"size 4\")",
+        "target": "['B0027A8QXE', 'B00008I7ZZ']"
+    },
+    "180": {
+        "generated_text": "\"little swimmers\" AND \"size 4\"",
+        "target": "['B00394DQGE', 'B09B8N5GXS', 'B0929DSHT4', 'B0929XV1JJ', 'B000GPUI88', 'B0014E6IXO', 'B00J0G3LJC', 'B00ISF9ALO']"
+    },
+    "181": {
+        "generated_text": "(\"infant\" OR \"baby\" OR \"newborn\" OR \"toddler\") AND (\"winter\" OR \"cold\" OR \"warm\" OR \"pajama\" OR \"nightwear\") AND (\"got wear\" OR \"gown\" OR \"pajama gown\" OR \"pajama set\")",
+        "target": "['B0733LM9BD']"
+    },
+    "182": {
+        "generated_text": "(insulated OR \"heat retention\" OR \"temperature control\") AND (toddler OR child OR baby) AND (\"sippy cup\" OR \"spouted cup\" OR \"baby cup\")",
+        "target": "['B00G6EE6I6']"
+    },
+    "183": {
+        "generated_text": "(\"Joovy\" AND \"Vent\")",
+        "target": "['B00HXDVM90']"
+    },
+    "184": {
+        "generated_text": "(\"long\" OR \"extended\" OR \"extra-long\" OR \"lengthy\") AND (\"mobile\" OR \"portable\" OR \"adjustable\") AND \"clamp\" AND (\"crib\" OR \"baby bed\" OR \"infant bed\")",
+        "target": "['B07HSKP6VG', 'B07W37QQ6H', 'B07RQ1BDLZ', 'B07SK14RST']"
+    },
+    "185": {
+        "generated_text": "(Medela AND (connectors OR attachments OR adapters OR parts)) OR (Medela AND compatible AND connectors)",
+        "target": "['B0018LLZXQ']"
+    },
+    "186": {
+        "generated_text": "(\"Medella\" AND (\"pump\" OR \"breast pump\" OR \"milk pump\" OR \"lactation pump\"))",
+        "target": "['B0018LLZXQ', 'B00092A7E8', 'B07MRP7SWX', 'B06XCG66VL', 'B000LPZTQY', 'B08KRQ7N5T', 'B08KT3P5BS', 'B001URWNIY', 'B06XCGDRQR']"
+    },
+    "187": {
+        "generated_text": "(Merlin AND (Magic OR 'Magic Sleepsuit') AND (Sleepsuit OR Pajama OR Pyjama) AND Large)",
+        "target": "['B07XCJFR7D', 'B00B1M2N88']"
+    },
+    "188": {
+        "generated_text": "\"mickey mouse\" AND \"flannel\" AND \"fabric\"",
+        "target": "['B01NBTGSUQ', 'B00IRGA6GC']"
+    },
+    "189": {
+        "generated_text": "(rest OR relaxation OR comfort OR recuperation OR sleep OR soothing) AND (time OR durable OR long-lasting OR comfortable OR supportive) AND (mat OR floor mat OR cushion OR pad OR matting)",
+        "target": "['B01N9ZQWMW']"
+    },
+    "190": {
+        "generated_text": "(\"nipple suckers\" OR \"nipple sealer\" OR \"nipple shield\" OR \"feeding nipple\" OR \"baby feeder\" OR \"oral stimulation\" OR \"lactation aid\" OR \"nipple suckers for babies\" OR \"nipple suckers for adults\")",
+        "target": "['B07L1PQJGW', 'B07D5T7ZKQ']"
+    },
+    "191": {
+        "generated_text": "(\"baby monitors\" OR \"infant monitors\" OR \"newborn monitors\") AND (\"Owlet\" OR \"Owlette\")",
+        "target": "['B07MFR6NZG']"
+    },
+    "192": {
+        "generated_text": "(owlet AND sock AND replacement)",
+        "target": "['B0773XS66S', 'B0773W6TYZ']"
+    },
+    "193": {
+        "generated_text": "(\"flower poppies\" OR \"annual poppies\" OR \"red poppies\" OR \"pink poppies\" OR \"blue poppies\") OR (\"Poppies brand\" OR \"Poppies products\") OR (\"Poppies clothing\" OR \"Poppies accessories\")",
+        "target": "['B0817D2S8V', 'B07CNXDDBM', 'B01C4V5MU0', 'B00BFMHSZW']"
+    },
+    "194": {
+        "generated_text": "(Quinny AND Buzz AND stroller) OR (Quinny AND stroller) OR (Buzz AND stroller)",
+        "target": "['B017A1E6HY', 'B00IBTNZD6']"
+    },
+    "195": {
+        "generated_text": "(\"Rockits\" OR \"rock climbing\" OR \"rock equipment\" OR \"climbing gear\")",
+        "target": "['B076KP7HKW', 'B00IKVLRC6', '1532094655', '0740767321']"
+    },
+    "196": {
+        "generated_text": "(\"samxic\" OR \"Samxic Baby Monitor\") AND (\"baby monitor\" OR \"infant monitor\" OR \"crib monitor\" OR \"nursing home monitor\")",
+        "target": "['B08N5RHX75']"
+    },
+    "197": {
+        "generated_text": "(\"sleepsuit\" OR \"nightwear\" OR \"pajama\" OR \"snuggle suit\" OR \"one-piece\" OR \"diaper-friendly\") AND (\"newborn\" OR \"infant\" OR \"baby\" OR \"toddler\" OR \"very young baby\")",
+        "target": "['B07WNQZMK3']"
+    },
+    "198": {
+        "generated_text": "(\"slim\" OR \"thin\" OR \"lightweight\" OR \"compact\" OR \"space-saving\") AND (\"diaper\" OR \"nursery\" OR \"baby\") AND (\"changing\" OR \"change\" OR \"changing station\") AND (\"pad\" OR \"cover\" OR \"mat\")",
+        "target": "['B074FVGXZ8', 'B074W37NQ1', 'B00P7TQ0ZS']"
+    },
+    "199": {
+        "generated_text": "(\"stackable\" AND (\"steps\" OR \"ladder\" OR \"platform\" OR \"riser\" OR \"stair\" OR \"climb\")) AND (\"multi-level\" OR \"modular\" OR \"convertible\" OR \"expandable\")",
+        "target": "['B07KWDTKSV', 'B083K7MC2N', 'B07KWFMSSM', 'B003ZZGAV0']"
+    },
+    "200": {
+        "generated_text": "(Stokke AND Tripp AND Trapp AND Tray)",
+        "target": "['B07V58FD45', 'B07NDKN57X', 'B08BPJZ5TK', 'B07F18TG39', 'B00YF0KUDS']"
+    },
+    "201": {
+        "generated_text": "(\"SwaddleMe\" OR \"Swaddle Me\" OR \"Swaddle-Me\") AND (\"blue\" OR \"navy\" OR \"sky blue\" OR \"light blue\")",
+        "target": "['B0107CYKJ2', 'B07BMCMZXL', 'B0160R7D6U', 'B014QVIKBE', 'B074R2SX12']"
+    },
+    "202": {
+        "generated_text": "(\"The First Years\" OR \"First Years\") AND (\"bottle\" OR \"baby bottle\" OR \"infant bottle\" OR \"water bottle\" OR \"sippy cup\")",
+        "target": "['B001PVAXZK']"
+    },
+    "203": {
+        "generated_text": "(toddler OR children OR kids OR \"young children\") AND (sports OR athletic OR team OR activity OR entertainment) AND (bedding OR \"bed linen\" OR \"bed coverings\" OR \"bed accessories\")",
+        "target": "['B07DTLJRXB', 'B07BCBFPGK', 'B06XJJBYXV']"
+    },
+    "204": {
+        "generated_text": "(\"upright\" OR \"vertical\" OR \"standing\") AND (\"infant\" OR \"baby\") AND (\"seat\" OR \"stroller\" OR \"crib\" OR \"bassinet\")",
+        "target": "['B084KJ93MF']"
+    },
+    "205": {
+        "generated_text": "\"wall stickers\" AND \"bedroom\" AND \"girls\" AND \"personalizado\"",
+        "target": "['B07BGGZHQK', 'B0772XG3PK', 'B018HL6NXG']"
+    }
+}

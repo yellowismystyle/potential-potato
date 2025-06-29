@@ -1,0 +1,738 @@
+{
+    "206": {
+        "generated_text": "(#10 AND standard AND no tint AND no window AND not self seal)",
+        "target": "['B01N175R8R', 'B06VVLD2GL', 'B078HHGY2L', 'B08CK95JS3']"
+    },
+    "207": {
+        "generated_text": "\"#10\" AND \"envelopes\" AND \"without security tint\"",
+        "target": "['B06Y3SQG57', 'B01FWMM738']"
+    },
+    "208": {
+        "generated_text": "(\"do not enter\" OR \"no entry\" OR \"do not allow entry\") AND (\"bedroom door\" OR \"bedroom entrance\" OR \"bedroom door sign\" OR \"bedroom door do not enter\" OR \"bedroom door lock\" OR \"bedroom door handle\" OR \"bedroom door knob\")",
+        "target": "['B094Z7GCNY', 'B085Q7NGFZ', 'B079DVH3GY', 'B0879KJTL5', 'B09BKZ875N', 'B07YSYPGMW', 'B00700Q5MA', 'B06WLKQ6S7', 'B07D7GLM5X']"
+    },
+    "209": {
+        "generated_text": "(\"merchandising tags\" OR \"display tags\" OR \"product tags\") AND (\"without string\" OR \"stringless\") AND \"#8\"",
+        "target": "['B07DN7DGLB', 'B07VDRNXL5', 'B081GZHD9C', 'B077XBR4RZ', 'B003H8WOPQ', 'B00485MJG6', 'B00A7FB0XO', 'B00SSCGE6Q', 'B00I0EU22Y', 'B0776MTTSC']"
+    },
+    "210": {
+        "generated_text": "(\"items with prime\" OR \"prime items\") AND (\"overcharge\" OR \"overcharged\" OR \"price issue\") AND (\"solution\" OR \"return\" OR \"refund\" OR \"address\")",
+        "target": "['B01MA3EYC5']"
+    },
+    "211": {
+        "generated_text": "(\"3 line\" OR \"three-line\" OR triline) AND (\"hand held\" OR portable OR \"hand-held\") AND (\"label maker\" OR \"labeling machine\" OR \"labeling device\")",
+        "target": "['B013DG2FNW', 'B01C5IN89O']"
+    },
+    "212": {
+        "generated_text": "(\"deliveries\" OR \"shipping\" OR \"transportation\") AND (\"packages\" OR \"boxes\" OR \"cartons\") AND (\"not accepted\" OR \"refused\" OR \"rejected\") AND (\"sign\" OR \"placard\" OR \"notice\")",
+        "target": "['B07NHPY5WQ']"
+    },
+    "213": {
+        "generated_text": "(0.5 OR \"0.5 mm\" OR \"0.5mm\") AND (pen OR pens) AND (\"fine point\" OR fine) AND (black OR \"black color\") AND (\"not gel\" OR \"no gel\" OR \"non-gel\")",
+        "target": "['B078MCWLX7', 'B08G1GL971', 'B08HD6B57S', 'B08XW8VW46', 'B019QBO3GK']"
+    },
+    "214": {
+        "generated_text": "(lead AND (bain OR '.5'))",
+        "target": "['B01HODH9QI', 'B017Q9VRIQ']"
+    },
+    "215": {
+        "generated_text": "(0.5 OR \"0.5 mm\" OR \"0.5mm\") AND (\"lead pencil\" OR \"graph pencil\" OR \"HB pencil\") AND (\"without grip\" OR \"no grip\" OR \"non-grip\")",
+        "target": "['B06XV61B3T', 'B07QW2TR2F', 'B06XTX4STK', 'B01NCU2M3J']"
+    },
+    "216": {
+        "generated_text": "(kurotoga AND mechanical pencil AND 0.5)",
+        "target": "['B06XV61B3T', 'B00TOYALAM', 'B00F9MVP08']"
+    },
+    "217": {
+        "generated_text": "\"0.5 mm\" AND \"pens\" AND \"ballpoint\" AND \"black\" AND NOT \"gel\"",
+        "target": "['B0855H2L3D']"
+    },
+    "218": {
+        "generated_text": "\"chairs\" AND (\"seats\" OR \"bench\" OR \"dining set\" OR \"office furniture\" OR \"outdoor furniture\")",
+        "target": "['B072Y5MZQH', 'B00IIFW2L4', 'B088381CXS']"
+    },
+    "219": {
+        "generated_text": "(\"0zo\" OR \"0zo products\" OR \"0zo brand\" OR \"0zo line\") AND (\"not bit\" OR \"not bit model\" OR \"not bit product\" OR \"not bit feature\")",
+        "target": "['B07MZK68FZ', 'B00168CPYO']"
+    },
+    "220": {
+        "generated_text": "(1 inch OR 1-inch OR 1\") AND (3 ring OR 3-ring OR three-ring) AND binder AND (without clear pocket OR no clear pocket OR without clear-view pocket)",
+        "target": "['B07HJYG8PT', 'B07G4MVQPJ', 'B07MVH9SDW', 'B07TK2JTZT', 'B004I01IU4', 'B00974KT7O', 'B00B1FKDKU']"
+    },
+    "221": {
+        "generated_text": "(red AND notebook AND (wide ruled OR wide format OR wide column))",
+        "target": "['B07CJQGFBY', 'B07MTPDFJ1', 'B09CL18HHQ', 'B003O2RXQU']"
+    },
+    "222": {
+        "generated_text": "(\"1 inch\" OR \"1-inch\" OR \"1\\\"\") AND (white OR whit OR ivory) AND (felt OR felted) AND (letters OR alphabet OR characters)",
+        "target": "['B07N6CXKVC', 'B06X19BT47', 'B0018OALK6']"
+    },
+    "223": {
+        "generated_text": "(\"long\" OR \"tall\" OR \"high\") AND (\"ruler\" OR \"measuring tape\" OR \"scale\")",
+        "target": "['B00309RVJ6', 'B000YZ5U1U']"
+    },
+    "224": {
+        "generated_text": "\"answering machines\" AND NOT \"phone\"",
+        "target": "['B08DW9TNHD', 'B00BLVLHO0', 'B072N3T79P', 'B00JZH89X4', 'B00485PHCE']"
+    },
+    "225": {
+        "generated_text": "(\"2 pocket\" OR \"2-pocket\" OR \"two pocket\") AND (poly OR \"polypropylene\" OR plastic) AND folders AND (\"without prongs\" OR \"no prongs\" OR prongless)",
+        "target": "['B078G7N8P1', 'B078KF7VVS', 'B07ZQM19H4', 'B07ZQM67HW', 'B084P977G8', 'B003U6N2HY', 'B004Q9VHPI', 'B004Q9ZA0Q', 'B01LQUXIVK', 'B01G8BV3OG', 'B07Z6M1B1F', 'B0734V7GRB', 'B07GGS7M2N', 'B07Z6MDHYX', 'B07Z6ND1SM', 'B093DL61D7', 'B075MPLZRZ', 'B01MYTOHJV']"
+    },
+    "226": {
+        "generated_text": "(\"folder\" AND \"green\" AND \"plastic\" AND NOT \"prongs\")",
+        "target": "['B01LQUXIVK', 'B07W94RVM6', 'B07Z6ND1SM', 'B088P8GZBR']"
+    },
+    "227": {
+        "generated_text": "(1.5mm AND (chair mat OR chairmat) AND studded AND (carpeted floors OR carpeted OR floor) AND (without lip OR no lip))",
+        "target": "['B088D4YRJS', 'B089K8NT3H', 'B08J4DMFPY']"
+    },
+    "228": {
+        "generated_text": "(\"plastic\" OR \"vinyl\" OR \"padded\" OR \"non-slip\" OR \"durable\") AND (\"floormat\" OR \"floor covering\" OR \"floor mat\" OR \"mat\" OR \"floor protector\" OR \"walk-off mat\")",
+        "target": "['B07GNNGXNK']"
+    },
+    "229": {
+        "generated_text": "(\"1/2 inch\" OR \"0.5 inch\" OR \"half inch\") AND (binder OR \"document binder\" OR \"notebook binder\" OR \"folder binder\")",
+        "target": "['B07KFZ4RDN', 'B07LC1RPL3', 'B07LBZQGJN', 'B0006SWEEG', 'B01N35Z6HU', 'B016ZHK3PS', 'B0098FKGNE', 'B00972M9B0']"
+    },
+    "230": {
+        "generated_text": "(\"manila\" OR \"manila\") AND \"envelopes\" AND \"10x13\"",
+        "target": "['B000DN88IU', 'B0821RZJBT', 'B07GMLP42Z', 'B09BSDVZY3', 'B08D252HZ5', 'B00ACDKRFS']"
+    },
+    "231": {
+        "generated_text": "(\"100 day\" AND \"girls\") AND (\"dress\" OR \"outfit\" OR \"set\")",
+        "target": "['B07NTPZ353', 'B01HY9SU6K', '1684086051', '031008962X']"
+    },
+    "232": {
+        "generated_text": "(\"cardstock\" AND \"color\" AND \"printer\")",
+        "target": "['B01LWNQ8NG', 'B07RQB5WJW', 'B07RSHG542', 'B07QNSDX64']"
+    },
+    "233": {
+        "generated_text": "(\"weekly calendar\" OR \"weekly planner\" OR \"weekly schedule\" OR \"weekly view\" OR \"weekly planner calendar\" OR \"weekly planner book\")",
+        "target": "['B07KPZSLKT', 'B07KHL4BT7', 'B07XRXPVQ3', 'B06X9WCP2M', 'B06XB1DS16', 'B075T1BV7R', 'B07GC9YQLC']"
+    },
+    "234": {
+        "generated_text": "(\"reasons\" AND \"not to be\" AND \"liberal\") OR (\"anti-liberal\" OR \"opposition to liberalism\" OR \"critique of liberalism\")",
+        "target": "['1601065477', '1630061735']"
+    },
+    "235": {
+        "generated_text": "(badges OR medals OR awards OR decorations) AND (borderless OR universal OR international OR unified OR global)",
+        "target": "['B07Q78YNCW', 'B07RW8NHHL', '0520295625', 'B0876Y3JG4', 'B07Z8XV24M']"
+    },
+    "236": {
+        "generated_text": "(prismacolor AND markers AND colored AND pack)",
+        "target": "['B000C6RCD0', 'B01M5FYUVN', 'B00M4L52M4', 'B007L4MFS8', 'B00EP3GWV4']"
+    },
+    "237": {
+        "generated_text": "(prismacolor AND premier AND (colored pencils OR color pencils OR art pencils) AND 72)",
+        "target": "['B000C6RCD0', 'B01MFD7HXP', 'B000089DCH', 'B01FUYQWIO', 'B08PW1CT24', 'B06XRMCP8Q', 'B000EVQ89W', 'B0019IP2GE']"
+    },
+    "238": {
+        "generated_text": "(\"26 toner\" OR \"26 ink cartridge\" OR \"26 printer cartridge\" OR \"26 refill\")",
+        "target": "['B07QBNR21W', 'B07F24D9SS', 'B07KLVK6FV', 'B07PHRMRXX', 'B07PSKZ31X', 'B07Q982VM1', 'B089B425D5', 'B0841M1CV9', 'B088GZZS4R', 'B0897PKN8R', 'B0899LRZ54', 'B07D9CLDFW', 'B07XLNR41P', 'B074Q44C61', 'B00DC4ORG4', 'B00J4A2528', 'B015H31W60', 'B01C4SP6Y0', 'B01C4SWMQU', 'B01ENZORC4', 'B01ENZQXMQ', 'B06W9GG9V3', 'B074G535XW', 'B01EK76TWG']"
+    },
+    "239": {
+        "generated_text": "\"2nd grade\" AND \"reading\" AND \"games\"",
+        "target": "['B00GLH996M']"
+    },
+    "240": {
+        "generated_text": "(\"paper journals\" OR \"notebooks\" OR \"diaries\" OR \"workbooks\" OR \"stationery\") AND (\"bulk\" OR \"wholesale\" OR \"large quantity\" OR \"pack\" OR \"case\" OR \"lot\")",
+        "target": "['B07T3FF9KS', 'B07T1BX2Y6', 'B079JHHYGT', 'B07DXKCBKG']"
+    },
+    "241": {
+        "generated_text": "(3 AND (\"rollerblade\" OR \"roller blade\") AND (\"caster\" OR \"wheel\" OR \"wheel mechanism\"))",
+        "target": "['B07VKJHMWC', 'B07V3HMLKT', 'B07KMXHZRJ', 'B06XB6FYQX', 'B01N9WA4Y7']"
+    },
+    "242": {
+        "generated_text": "\"limited addition\" AND (\"post it notes\" OR \"sticky notes\" OR \"adhesive notes\")",
+        "target": "['B0002DOC5Y', 'B076XG2XRS', 'B01LLW2S5U', 'B01C8MCISE', 'B00NPANWV6', 'B00CMKA9BG', 'B001BVDIDI']"
+    },
+    "243": {
+        "generated_text": "(\"5 year old\" OR \"5-year-old\" OR \"five-year-old\" OR \"five year old\" OR \"5yo\" OR \"5 year old child\" OR \"young child\") AND (\"study books\" OR \"study materials\" OR \"educational books\" OR \"learning books\" OR \"workbooks\")",
+        "target": "['1607194244']"
+    },
+    "244": {
+        "generated_text": "(\"5x8\" OR \"5 by 8\" OR \"5 by 8\") AND (\"spiral\" OR \"spiral-bound\" OR \"coil-bound\") AND (\"index cards\" OR \"note cards\" OR \"writing cards\")",
+        "target": "['B000EFNKVC']"
+    },
+    "245": {
+        "generated_text": "(\"hp63\" AND \"ink cartridges\" AND (\"black and color\" OR \"black & color\"))",
+        "target": "['B07W1X23DJ', 'B07THZYFB4', 'B00WJDWG3A', 'B07QPW1ZK7', 'B01DACCPFM', 'B015YVNQ82', 'B08QR83FW6', 'B08NWYDQBF']"
+    },
+    "246": {
+        "generated_text": "\"7x5\" AND \"notebook\" AND \"spiral\"",
+        "target": "['B0000AQOO6', 'B07W869K1X', 'B08DY7J7KS', 'B07TCDZVQG', 'B07FXWT3TC', 'B077T92H1G']"
+    },
+    "247": {
+        "generated_text": "(\"6x9\" OR \"6 by 9\" OR \"6 by 9 inch\" OR \"6x9 inch\") AND (envelopes OR envelope OR stationery OR mailing OR correspondence)",
+        "target": "['B07YYH92B5', 'B01DJKPE1C']"
+    },
+    "248": {
+        "generated_text": "(college OR educational OR assessment) AND (scantron OR \"answer sheet\" OR \"standardized testing\" OR test)",
+        "target": "['B01NARX2N4', 'B01N5O3PEY', 'B01G04SR1I', 'B0163IR7HQ', 'B06XH6HPYZ', 'B01D7UOLCC']"
+    },
+    "249": {
+        "generated_text": "(\"9x12\" OR \"9 x 12\" OR \"9 by 12\") AND (\"clasp\" OR \"latch\" OR \"fastener\") AND (\"envelopes\" OR \"mailers\" OR \"envelopes for mail\")",
+        "target": "['B000DLBX1G']"
+    },
+    "250": {
+        "generated_text": "\"901\" AND \"color\" AND \"ink cartridge\" AND \"hp printer\"",
+        "target": "['B08Y5V39L8', 'B08QRCQV46', 'B08MVKXSWP', 'B08M9QN8L2', 'B00VF1SPUA', 'B00VTOJYD0', 'B002KLFLS8', 'B0016P8Q2W']"
+    },
+    "251": {
+        "generated_text": "(\"901\" OR \"901 series\" OR \"901 model\") AND (\"ink\" OR \"ink cartridge\" OR \"ink refill\" OR \"printer ink\")",
+        "target": "['B00VTOJYD0', 'B002KLFLS8', 'B0016P8Q2W', 'B00CQ8X1DC']"
+    },
+    "252": {
+        "generated_text": "(HP AND \"962xl\" AND (\"black and color\" OR \"black & color\") AND \"combo pack\")",
+        "target": "['B07MCYDD62', 'B079GZWZ33', 'B07T2S3D6J', 'B07TXR9R4V', 'B09FQ8LSTR', 'B09D81MTV7', 'B08X45CZK1', 'B08THND23Z', 'B0991Z6VLM', 'B07MCYDHFN']"
+    },
+    "253": {
+        "generated_text": "(952 OR \"952\") AND (yellow OR \"color:yellow\") AND (xl OR large)",
+        "target": "['B01B6QGNYI']"
+    },
+    "254": {
+        "generated_text": "(\"cursive\" AND \"handwriting\") AND \"kickoff\" AND \"Handwriting Without Tears\"",
+        "target": "['193981443X', '1939814707', '1939814715', '1939814669', '189162766X', '1934825182', '1934825565', 'B0062TKYKE', '1891627708', '1934825794', 'B00S3TRODG', '1891627805', '193981426X']"
+    },
+    "255": {
+        "generated_text": "(\"A Separate Peace\" AND \"John Knowles\") AND (novel OR book)",
+        "target": "['B07HD4DC1W', 'B001LZX3K2', '1411469798', '0743253973']"
+    },
+    "256": {
+        "generated_text": "(\"I'm Not Dead\" OR \"Imagine Dragons\") AND (\"t-shirt\" OR \"hat\" OR \"CD\" OR \"vinyl\" OR \"merchandise\")",
+        "target": "['1441317996', '169894795X']"
+    },
+    "257": {
+        "generated_text": "(\"sticky pockets\" OR \"adhesive pockets\" OR \"sticky pouches\" OR \"adhesive pouches\") AND (\"planners\" OR \"planning books\" OR \"planner notebooks\" OR \"planner accessories\")",
+        "target": "['B07W74MTZ2', 'B0739LKJLD', 'B0739K72BP', 'B0739K1VYV', 'B0739JWS69', 'B07ZH77M5Y', 'B0186KGEZK', 'B002M7XYOI']"
+    },
+    "258": {
+        "generated_text": "\"animal print\" AND \"zip binder\"",
+        "target": "['B07RLWLQNG']"
+    },
+    "259": {
+        "generated_text": "(\"bluetooth\" AND \"phone\") OR (\"wireless\" AND \"phone\") OR (\"Bluetooth-enabled\" AND \"phone\") OR (\"cell\" AND \"phone\") OR (\"mobile\" AND \"phone\") OR (\"hands-free\" AND \"phone\")",
+        "target": "['B072N3T79P']"
+    },
+    "260": {
+        "generated_text": "(\"student gifts\" OR \"school supplies\" OR \"educational gifts\" OR \"gift cards for students\") AND (\"from teacher\" OR \"teacher-made\" OR \"teacher-created\" OR \"gifts from educators\") AND (\"bulk\" OR \"large quantity\" OR \"pack\" OR \"bulk purchase\" OR \"multipack\")",
+        "target": "['B07TWHRN3M', 'B07T4GHZCV', 'B07DXNZZL3', 'B076BBTYTK', 'B071ZFX9CG', 'B076S29WBJ', 'B08742P2PT', 'B086RSCY53', 'B07ZS6PZTX', 'B0731T52ND', 'B07CGDM3LP', 'B07NM31V76']"
+    },
+    "261": {
+        "generated_text": "(disc OR discs OR round OR circular) AND (binding OR bind OR stitch OR fasten) AND (machine OR equipment OR tool OR device)",
+        "target": "['B08389LJD9', 'B00K899QA8', 'B079L4W8MX', 'B07DS9L14X', 'B07YVKVK4R', 'B07Q8Y7CZD', 'B01GQRZDYI', 'B00H63D8NU']"
+    },
+    "262": {
+        "generated_text": "(binder OR container OR holder OR organizer OR document holder) AND (stickers OR decoration OR adhesive OR label OR sticker sheet)",
+        "target": "['B07BKMDZT1']"
+    },
+    "263": {
+        "generated_text": "(designer AND id badge AND horizontal holder AND lanyard)",
+        "target": "['B081P4YPQM', 'B07KWG5LP7', 'B07Y3V1FXP']"
+    },
+    "264": {
+        "generated_text": "(\"name tag\" OR \"nameplate\" OR \"label\" OR \"identification tag\") AND (\"clip\" OR \"clip-on\" OR \"clip attachment\" OR \"clip fastener\")",
+        "target": "['B0122PXDH2', 'B07STTQ9KW']"
+    },
+    "265": {
+        "generated_text": "(carnet AND printer) OR (carnet AND (inkjet OR all-in-one) AND printer)",
+        "target": "['B00SAI49AG', 'B01LDTRCHA']"
+    },
+    "266": {
+        "generated_text": "(teacher AND (supplies OR textbooks OR workbooks OR educational materials OR classroom resources OR learning aids OR stationery OR stationery supplies))",
+        "target": "['B00006IEI4', 'B079SSQVML', 'B07GMZ5NBS', 'B071RYD3J4', 'B00006IATI', 'B07VT9Z3WD', 'B07K2DCD1V', '107837788X']"
+    },
+    "267": {
+        "generated_text": "(baskets OR \"gift bags\" OR \"gift boxes\" OR \"gift containers\" OR \"gift totes\") AND (gifts OR \"gift items\" OR \"giftware\" OR \"gift packaging\" OR \"gift sets\")",
+        "target": "['B07J4JFLNF', 'B00D6JP6FG']"
+    },
+    "268": {
+        "generated_text": "\"bed desk\" AND NOT \"cup holder\"",
+        "target": "['B08YYHF3VX', 'B092VJ2YRD', 'B07VVBP6S1', 'B08DFNTXLZ', 'B08FX45XQ5', 'B08F1XL1N8', 'B08F1Z49SB']"
+    },
+    "269": {
+        "generated_text": "(small OR compact OR miniature OR tiny OR compact size) AND (schedule OR calendar OR planner OR timetable OR to-do list) AND (book OR notebook OR journal OR diary OR workbook)",
+        "target": "['B07XDM7XZ1', 'B07WD3GXY4', 'B07YYLT6NS', '1612126979', 'B07HKCB7WN']"
+    },
+    "270": {
+        "generated_text": "(\"large\" OR \"big\" OR \"oversized\" OR \"jumbo\") AND (\"spring\" OR \"bendable\" OR \"adjustable\") AND (\"paper clips\" OR \"paperclip\" OR \"office clip\" OR \"stationery clip\")",
+        "target": "['B07GGSDFVY', 'B07DXSBT5J', 'B07BPJRCSF', 'B002VD6BLG', 'B07QF4R96J']"
+    },
+    "271": {
+        "generated_text": "(\"black\" OR \"black color\" OR \"black theme\") AND (\"magnetic\" OR \"magnetic board\" OR \"magnetic holder\") AND (\"monthly\" OR \"monthly planner\" OR \"monthly schedule\") AND (\"calendar\" OR \"wall calendar\" OR \"desk calendar\")",
+        "target": "['B07JWF823X', 'B07NDNY4KS', 'B07VW6GNXY', 'B076HYQ27Z', 'B074J2NJ6H', 'B01DQ10Y78']"
+    },
+    "272": {
+        "generated_text": "(\"self-adhesive\" OR \"adhesive-free\") AND (\"holiday-themed\" OR \"happy holidays\") AND (\"roll format\" OR \"continuous roll\")",
+        "target": "['B07G56TKTV', 'B06XRZ7TSX', 'B07Z8D95P6', 'B07YZB9TMS', 'B075765XKQ', 'B07575Z7V5', 'B0746TR1LH']"
+    },
+    "273": {
+        "generated_text": "(\"book ends\" OR \"book holders\" OR \"book supports\") AND (silver OR shimmering OR metallic OR reflective)",
+        "target": "['B07ZYJ1HXV', 'B01N2B6BZB', 'B077BT587N', 'B0009P409S']"
+    },
+    "274": {
+        "generated_text": "First, I need to break down the query \"book markers for women\" into its key components: \"book markers\" and \"women\". The goal is to find products that are specifically book markers and are designed for women. \n\n1. \"book markers\" - This is the primary product type. I need to ensure that the query captures products that are book markers. Synonyms or related terms could include \"book clip\", \"book clipper\", \"book mark\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip\", \"book clipper\", \"book clip",
+        "target": "['1441328890', '1441328157', '1441321748', 'B07WHHXP4P', 'B00IRW9IRE', '1593593147']"
+    },
+    "275": {
+        "generated_text": "(paper AND cotton AND (\"deckled edges\" OR \"untrimmed edges\" OR \"raw edges\"))",
+        "target": "['B07N7JHQ21', 'B004955U5W', '161992286X', '1619922835', '1619922827']"
+    },
+    "276": {
+        "generated_text": "(\"bottle\" OR \"bottles\" OR \"container\") AND (\"shrink\" OR \"contract\" OR \"reduce\") AND (\"wrap\" OR \"envelop\" OR \"cover\" OR \"package\") AND (\"bands\" OR \"ties\" OR \"wraps\" OR \"bands\")",
+        "target": "['B084P2GKDY', 'B01BO58CX6', 'B018TNDK60']"
+    },
+    "277": {
+        "generated_text": "(\"forever stamps\" OR \"forever series\" OR \"forever collection\") AND disney",
+        "target": "['B07MQL979Y', 'B07GT63QDQ', 'B07FN3N8W4', 'B01BEFRF02', 'B013VNQ84O', 'B00AOU9U3Y', 'B007AW36KW', 'B004KISVEK', 'B002Q8JO9M']"
+    },
+    "278": {
+        "generated_text": "(brother AND (fax OR 'multifunction printer') AND (ink cartridges OR 'ink supplies'))",
+        "target": "['B07X5TML8X', 'B07SJ4WPR8', 'B002LGR2A2', 'B00000JDET', 'B00000J19R']"
+    },
+    "279": {
+        "generated_text": "(printer AND brother AND mcf)",
+        "target": "['B07C4V4WWF', 'B00MFG588Q', 'B01BHSLJGC', 'B01824ZCBM']"
+    },
+    "280": {
+        "generated_text": "\"brother\" AND \"tn730\" AND \"high yield\" AND \"black\" AND \"toner\"",
+        "target": "['B075X7TFY5', 'B08915VC1S', 'B08FH8B1MB', 'B08LG788FQ', 'B09D7CMPQ4', 'B08R7HV4SZ', 'B07F65KCHL']"
+    },
+    "281": {
+        "generated_text": "(brown AND notecards AND NOT envelopes)",
+        "target": "['B01N3UBE2J']"
+    },
+    "282": {
+        "generated_text": "(BT21 AND (folder OR case OR cover OR sleeve OR 'protective cover'))",
+        "target": "['B079HSRH1R']"
+    },
+    "283": {
+        "generated_text": "(pl\u00e1stico OR plastic) AND (burbujas OR bubbles) AND (embalar OR packaging OR wrapping)",
+        "target": "['B07SKSZ36R', 'B07S1JPBL3', 'B07QZCMCVT', 'B07S1JR3WB', 'B07S2MMB2C', 'B07S3R3LJ5', 'B08QTRFQPC', 'B099DPYXDC', 'B07RXFDSQG', 'B06X15257J']"
+    },
+    "284": {
+        "generated_text": "\"handwriting without tears\" AND \"grade 3\"",
+        "target": "['1939814650']"
+    },
+    "285": {
+        "generated_text": "(\"bulletin board\" OR \"notice board\" OR \"information board\" OR \"display board\") AND (\"letters\" OR \"alphabet\" OR \"word\" OR \"text\")",
+        "target": "['B0722C7NZL', 'B000NNQ2MY']"
+    },
+    "286": {
+        "generated_text": "chairs AND without wheels",
+        "target": "['B003BZG1D6', 'B08N6CW2DN', 'B091KFN2Q6', 'B098T7DQ9Y', 'B08ZJGV287', 'B01LYXKF4D', 'B00KOP4U2U', 'B01N09NE9A', 'B0722P7BFN']"
+    },
+    "287": {
+        "generated_text": "(\"bxt\" AND (\"markers\" OR \"felt-tips\" OR \"writing instruments\") AND (\"pen\" OR \"pens\"))",
+        "target": "['B073WVZ5RR']"
+    },
+    "288": {
+        "generated_text": "(ti-nspire OR ti nspire OR ti nspire) AND cas AND cx AND calculator",
+        "target": "['B07RL7HM5V', 'B004NBZAYS', 'B07SPVP7D4']"
+    },
+    "289": {
+        "generated_text": "(\"ti84\" OR \"ti-84\" OR \"ti 84\") AND (\"plus\" OR \"plus model\" OR \"plus version\") AND (\"calculator\" OR \"scientific calculator\" OR \"graphing calculator\")",
+        "target": "['B007WM3MW2', 'B0001EMM0G', 'B01M1RX9WU', 'B00XOLOQMK', 'B00UG8TIZ4', 'B00EDZDJ42', 'B00UG8TN2M', 'B07SSJQS2Z', 'B00UG8TT4E', 'B00UG8TLTC']"
+    },
+    "290": {
+        "generated_text": "(\"ti84\" AND \"plus\" AND (\"graphing calculator\" OR \"scientific calculator\" OR \"TI-84 Plus\"))",
+        "target": "['B007WM3MW2', 'B0001EMM0G', 'B00XOLOQMK', 'B00EDZDJ42', 'B07HG3WGVY', 'B081VV8DW1', 'B07SSJQS2Z', 'B07VWRY81C', 'B07QY3BD1B', 'B078NFWPKK']"
+    },
+    "291": {
+        "generated_text": "(\"laundry tags\" OR \"laundry care tags\" OR \"fabric care tags\" OR \"wash care tags\" OR \"dry care tags\" OR \"tag for laundry\" OR \"tag for washing\" OR \"tag for cleaning\" OR \"tag for clothing\") AND (\"paper tags\" OR \"plastic tags\" OR \"stick-on tags\" OR \"embroidered tags\" OR \"machine-readable tags\")",
+        "target": "['B01H5W9OIE', 'B07G58YWL6', 'B0779GTSZW', 'B07Y12WFGP']"
+    },
+    "292": {
+        "generated_text": "\"cartridge\" AND \"dell\" AND \"21 color\" AND \"y499d\"",
+        "target": "['B00MV2PFQ4', 'B00JV4ASB2', 'B00JV4ARF4', 'B0080A73GG', 'B004L3ZECQ', 'B003TE9Y9W']"
+    },
+    "293": {
+        "generated_text": "(chair OR seat OR sitting OR furniture) AND (table OR \"dining table\" OR \"coffee table\" OR \"side table\") AND (recliner OR lounge OR sofa OR couch)",
+        "target": "['B074DW45G8', 'B01N1NA8KZ', 'B01FSGZ6FE', 'B0026IBSUA']"
+    },
+    "294": {
+        "generated_text": "(zario AND (chapstick OR \"lip balm\" OR \"lipstick\") AND (holder OR case OR container))",
+        "target": "['B07JGG41FN', 'B07MBDJ9GT', 'B07CG5NKSV']"
+    },
+    "295": {
+        "generated_text": "(\"Chelsea\" OR \"Chelsea FC\") AND (\"stadium\" OR \"arena\" OR \"ground\") AND (\"soccer cards\" OR \"football cards\")",
+        "target": "['B003MPPNPM']"
+    },
+    "296": {
+        "generated_text": "(Christmas OR Xmas OR holiday OR festive) AND (gift OR present OR gift item OR gift set OR gift basket)",
+        "target": "['B07M81TWY7', 'B072W281WG', '1950785246', 'B07WJYBV41', 'B072LNPBZX']"
+    },
+    "297": {
+        "generated_text": "\"clipboard\" AND \"bottom pack\" AND \"pack of 12\"",
+        "target": "['B000Q62CKE']"
+    },
+    "298": {
+        "generated_text": "(\"coin changer\" OR \"coin exchange\" OR \"coin conversion\" OR \"coin processing\" OR \"coin machine\" OR \"coin system\") AND (automatic OR manual OR \"vending machine compatible\" OR \"ATM compatible\" OR \"coin return\" OR \"coin storage\")",
+        "target": "['B079P4FBPS', 'B01MSL9L1Y', 'B00LXS5PVC', 'B008AC5T42']"
+    },
+    "299": {
+        "generated_text": "(\"guitar strings\" OR \"guitar strings set\") AND (\"color coded\" OR \"color-coded\" OR \"colored\" OR \"colorful\") AND (\"beginner\" OR \"for beginners\" OR \"for new players\")",
+        "target": "['B07LBFPNMF', 'B01ISPBAUW', 'B00GTVF6VC']"
+    },
+    "300": {
+        "generated_text": "(\"silver age\" OR \"Golden Age\") AND (\"comic book\" OR \"comics\") AND (\"boards\" OR \"bound\" OR \"bound volumes\")",
+        "target": "['B00D8LMNLC', 'B004TGVU96', 'B000JFKSOE', 'B004D1LBCI', 'B0831TPGRT', 'B00MH3NTD8', 'B003ZUSOC8']"
+    },
+    "301": {
+        "generated_text": "(\"postcard\" OR \"postcards\") AND (\"congratulations\" OR \"birthday\" OR \"wedding\" OR \"celebration\" OR \"greeting\" OR \"happy\" OR \"congratulatory\" OR \"wish\" OR \"message\" OR \"occasion\")",
+        "target": "['B079K6SWYG', 'B07D1D4332', 'B075G2JR47', 'B01MY9242Q']"
+    },
+    "302": {
+        "generated_text": "(\"construction paper\" AND (pastel OR \"pastel color\" OR \"pastel paper\"))",
+        "target": "['B01BIPH7VA']"
+    },
+    "303": {
+        "generated_text": "(\"continents\" OR \"world\" OR \"globe\" OR \"hemisphere\") AND (\"map\" OR \"chart\" OR \"diagram\" OR \"guide\") AND (\"set\" OR \"kit\" OR \"bundle\" OR \"package\")",
+        "target": "['B009A181QU', 'B002OMUOLW', '0545118395', '0528020420']"
+    },
+    "304": {
+        "generated_text": "(\"cork board\" OR \"bulletin board\" OR \"cork bulletin board\") AND (\"strikethrough\" OR \"strike through\" OR \"strike-through\" OR \"strike through\")",
+        "target": "['B005CKKHOM']"
+    },
+    "305": {
+        "generated_text": "(\"coupon\" OR \"discount\" OR \"voucher\" OR \"deal\") AND (\"box\" OR \"container\" OR \"holder\" OR \"storage\") AND (\"organizer\" OR \"system\" OR \"rack\" OR \"holder\")",
+        "target": "['B07G7ZRX25', 'B01447LJOK']"
+    },
+    "306": {
+        "generated_text": "(\"milk crate\" OR \"vinyl crate\" OR \"record crate\") AND (\"vinyl records\" OR \"records\" OR \"phonograph records\")",
+        "target": "['B076MFPPYG', 'B06XGBDJMD', 'B017EA6VJW', 'B07NF5BNXB', 'B00I9VP9NU', 'B007IUPR0I', 'B0054029SM', 'B0001ACQQA']"
+    },
+    "307": {
+        "generated_text": "(\"crosscut\" OR \"cross-cut\") AND \"shredder\" AND \"without basket\"",
+        "target": "['B08HD9KTS6']"
+    },
+    "308": {
+        "generated_text": "(\"paper shredder\" OR \"document shredder\" OR \"cross-cut shredder\" OR \"strip-cut shredder\" OR \"office shredder\") AND (\"without basket\" OR \"no basket\" OR \"basketless\")",
+        "target": "['B08HD9KTS6', 'B07WHVKVPR', 'B0046JZ0OW', 'B01E3KVF7O']"
+    },
+    "309": {
+        "generated_text": "\"pocket planner\" AND \"without dates\"",
+        "target": "['B07WM1N168', 'B08P6G66R8', 'B08FR6Z6XJ', 'B07W9KYWWG', 'B08ZJ61PP5', 'B08KQFZ2DM', 'B095VTG5ZD']"
+    },
+    "310": {
+        "generated_text": "(\"planner\" OR \"notebook\" OR \"diary\" OR \"agenda\" OR \"journal\" OR \"pad\") AND (\"without spiral binding\" OR \"no spiral binding\" OR \"not spiral bound\" OR \"without spiral\" OR \"no spiral\" OR \"not spiral\")",
+        "target": "['B098HJDMM7', 'B08WHYVK5G', 'B08YN8BD92', 'B08ZJ61PP5', 'B08V5JLLLK', 'B0923T8BZR', 'B093R5W239', 'B09875X1C1', 'B08T3JPLX7', 'B07KFKGXPC', 'B08HKNMJJL', 'B08KQFZ2DM']"
+    },
+    "311": {
+        "generated_text": "(\"data stamp\" OR \"data marker\" OR \"data tag\" OR \"data label\" OR \"database stamp\" OR \"spreadsheet stamp\" OR \"document stamp\")",
+        "target": "['B004HY49KW', 'B0012ND8GC']"
+    },
+    "312": {
+        "generated_text": "(\"deco\" OR \"decorative\" OR \"artistic\" OR \"stylish\" OR \"elegant\") AND (\"paper clip\" OR \"paper fastener\" OR \"paper clipper\")",
+        "target": "['B07SJFBW5Z', 'B07RH9G2K6']"
+    },
+    "313": {
+        "generated_text": "(\"desk blotter\" OR \"desk mat\" OR \"writing pad\" OR \"office mat\") AND (\"paper pad\" OR \"note pad\" OR \"writing pad\" OR \"pad of paper\")",
+        "target": "['B0043REUFM']"
+    },
+    "314": {
+        "generated_text": "(\"napkin ring\" OR \"napkin holder\" OR \"tableware\" OR \"dinnerware\" OR \"table setting\") AND (plastic OR glass OR metal OR ceramic OR small OR medium OR large OR rustic OR modern OR decorative OR functional)",
+        "target": "['B06Y1SW5K5']"
+    },
+    "315": {
+        "generated_text": "(\"pin\" OR \"sticker\" OR \"decal\" OR \"adhesive\") AND (\"collector\" OR \"fan\" OR \"enthusiast\" OR \"appreciator\") AND (\"book\" OR \"guide\" OR \"manual\" OR \"publication\")",
+        "target": "['B0085YATYK', 'B01J6AR2NM', 'B00S8QVHNC', 'B06XZRBXQL']"
+    },
+    "316": {
+        "generated_text": "(\"dorm safe\" OR \"dorm room safe\" OR \"compact safe\" OR \"lodge safe\" OR \"lockable safe\" OR \"dorm storage\" OR \"dorm security\")",
+        "target": "['B01FE5VYRS', 'B005JCZI5G', 'B005F69G5E']"
+    },
+    "317": {
+        "generated_text": "(\"dry erase board\" OR \"whiteboard\" OR \"electronic board\") AND (\"primary lines\" OR \"grid\" OR \"squares\")",
+        "target": "['B01I2JU73K', 'B07DN5GM5R', 'B07BLJWWS2', 'B074P9CHFV']"
+    },
+    "318": {
+        "generated_text": "\"Dunder Mifflin\" AND (\"paper\" OR \"stationery\" OR \"office supplies\")",
+        "target": "['B07XQLKXKV', 'B07VRXFWFM', 'B07PZBF1H5', 'B07QV4JQB1']"
+    },
+    "319": {
+        "generated_text": "(\"duster\" OR \"duster tool\" OR \"duster brush\" OR \"duster attachment\") AND (\"board\" OR \"wooden board\" OR \"glass board\" OR \"digital board\")",
+        "target": "['B085CP8WDR', 'B0824GVM54', 'B07BMFFW48', 'B01IV3COII', 'B01FM4G54S', 'B01DEELAG6', 'B016OSWQEE']"
+    },
+    "320": {
+        "generated_text": "(\"editing day sign\" OR \"editing time sign\" OR \"edit day sign\" OR \"edit time sign\" OR \"editing sign\" OR \"edit sign\")",
+        "target": "['B0893Z53MS', 'B08996DKGR', 'B089Q2XP2Q', 'B08CNL1K6F', 'B08DR5V8R1', 'B08F1MGTP8', 'B08XVXFSWR', 'B091YL7PQC', 'B093DBX7S7', 'B095PL61BB', 'B0858BL3F4', 'B07G2M8DPY', 'B07BYYH4SL', 'B07V1MPY49', 'B07WKV8CQ2', 'B083JN938L', 'B07HLHHMJC']"
+    },
+    "321": {
+        "generated_text": "(\"Express\" AND \"pencils\") OR (\"express line\" AND \"pencils\") OR (\"express model\" AND \"pencils\") OR (\"express feature\" AND \"pencils\")",
+        "target": "['B00WH3CLFK', 'B00TXSZSAW', 'B00PGNSC92', 'B00P5JW9NM', 'B00KKUIGXI', 'B0194I0F5I']"
+    },
+    "322": {
+        "generated_text": "(\"upholstery\" OR \"fabric\" OR \"cushion\" OR \"fabrication\") AND (\"arm\" OR \"armrest\" OR \"support\" OR \"rest\") AND (\"chairs\" OR \"chair\" OR \"seat\" OR \"furniture\")",
+        "target": "['B01M66AQ3D', 'B006NVVP3G']"
+    },
+    "323": {
+        "generated_text": "(\"fake\" OR \"imitation\" OR \"synthetic\") AND (\"diamond\" OR \"gemstone\") AND (\"big\" OR \"large\" OR \"oversized\" OR \"jumbo\")",
+        "target": "['B072615JBK']"
+    },
+    "324": {
+        "generated_text": "\"file folders\" AND brown",
+        "target": "['B07HX38F44', 'B00006IEWN']"
+    },
+    "325": {
+        "generated_text": "(important OR valuable OR sensitive OR confidential OR highly important OR critical) AND (document OR paper OR paperwork OR files OR records OR papers) AND (storage OR cabinet OR safe OR box OR container OR holder OR vault)",
+        "target": "['B0198KICTS', 'B07X4DPKCS', 'B07Y7XH8KH', 'B0827XT7L4']"
+    },
+    "326": {
+        "generated_text": "(\"Paper Mate\" AND \"flair felt tip pens\" AND \"ultra fine point (0.4mm)\"",
+        "target": "['B0013CGFZS', 'B077NWCSY6']"
+    },
+    "327": {
+        "generated_text": "(\"paper cutter\" OR \"scissors\" OR \"cutting tool\") AND \"blue\"",
+        "target": "['B0017KYE5Y', 'B01H5F6DNK']"
+    },
+    "328": {
+        "generated_text": "(\"fountain pen\" AND (NOT \"cartridge\" AND NOT \"cartridge included\"))",
+        "target": "['B08MFS5742', 'B00SNIIPIU', 'B07K21CFH3', 'B07DM6KT33', 'B074HR5LC3', 'B078WR5DFQ']"
+    },
+    "329": {
+        "generated_text": "(\"red\" OR \"scarlet\" OR \"crimson\" OR \"ruby\" OR \"scarlet\") AND (\"pens\" OR \"pen\" OR \"pens\" OR \"felt pen\" OR \"marker\" OR \"pilot\") AND (\"erasable\" OR \"erasable ink\" OR \"erasable pen\" OR \"erasable marker\")",
+        "target": "['B009QYH554', 'B01EB2BEW0', 'B00KUY6E5G', 'B00H9OND9K']"
+    },
+    "330": {
+        "generated_text": "(\"pilot\" OR \"pilot light\" OR \"pilot mechanism\") AND (\"needle\" OR \"needle tip\" OR \"needle assembly\") AND (\"point\" OR \"pointing\" OR \"end\") AND (\"refills\" OR \"cartridge\" OR \"fill\" OR \"supplies\")",
+        "target": "['B00006IEC6', 'B01N5KTVYE', 'B00P1PYX6G', 'B00GYG3Y2K', 'B00F92248K', 'B00P1PJ65E']"
+    },
+    "331": {
+        "generated_text": "(wood AND small AND box) AND (\"with drawers\" OR drawer)",
+        "target": "['B07GRCCW7P']"
+    },
+    "332": {
+        "generated_text": "(\"genealogy\" OR \"family history\" OR \"ancestry\" OR \"family tree\") AND (\"charts\" OR \"diagrams\" OR \"flowcharts\" OR \"visual aids\") AND (\"forms\" OR \"templates\" OR \"workbooks\" OR \"guides\") AND (\"beginners\" OR \"for beginners\" OR \"introductory\" OR \"easy\")",
+        "target": "['B07CZP3XSG', 'B071NL7Q23', 'B072LWTGX3', '1791757456']"
+    },
+    "333": {
+        "generated_text": "(\"labels\" OR \"stickers\" OR \"tags\" OR \"adhesive sheets\") AND (\"plastic\" OR \"polyethylene\" OR \"polypropylene\") AND (\"storage bins\" OR \"storage containers\" OR \"storage boxes\" OR \"storage tubs\")",
+        "target": "['B00MN4VRG2', 'B00BPYX4TE', 'B00007M5KZ']"
+    },
+    "334": {
+        "generated_text": "(\"sorting hat\" OR \"hat for sorting\" OR \"organizational hat\" OR \"professional hat\" OR \"hat with sorting features\" OR \"hat for sorting items\" OR \"hat for sorting purposes\" OR \"hat with sorting pockets\" OR \"hat for sorting in a facility\")",
+        "target": "['B00439ASRY', 'B00439ASRY', 'B07FQWVF11', 'B07F7PD6CN', 'B07KYTWBH3']"
+    },
+    "335": {
+        "generated_text": "(\"marble\" OR \"marbled\" OR \"marble-like\" OR \"marble pattern\" OR \"marble texture\" OR \"marble material\") AND (\"notebook\" OR \"writing pad\" OR \"journal\" OR \"book\")",
+        "target": "['B001JTL032']"
+    },
+    "336": {
+        "generated_text": "\"Great Mother\" OR \"Mother's Great\" OR \"Great Mother's\" OR (\"Great Mother\" AND (book OR clothing OR accessories OR services))",
+        "target": "['B07MTDLB67', 'B079BCJ2QH']"
+    },
+    "337": {
+        "generated_text": "(\"hallmark\" OR \"holiday\" OR \"seasonal\") AND (\"shoebox\" OR \"gift box\" OR \"present box\") AND (\"funny\" OR \"humorous\" OR \"amusing\") AND (\"christmas cards\" OR \"holiday cards\" OR \"Xmas cards\")",
+        "target": "['B07JK9BHC6', 'B094YMBSQ1']"
+    },
+    "338": {
+        "generated_text": "(Harpia AND planner AND A6)",
+        "target": "['B082HSWBZD', 'B087P2F9J9', 'B076RHD3MV', 'B076VVHW9K', 'B0789QG3CV']"
+    },
+    "339": {
+        "generated_text": "(\"turn in\" OR \"submit\" OR \"turn in work\" OR \"turn in assignment\" OR \"turn in homework\") AND (\"box\" OR \"container\" OR \"storage box\" OR \"submission box\") AND (\"classroom\" OR \"educational\" OR \"school\" OR \"learning environment\")",
+        "target": "['B01K07MXYS', 'B07NZ914C5', 'B07SG322BF', 'B071WWXGG3', 'B014CD2O2M']"
+    },
+    "340": {
+        "generated_text": "HP AND 201a AND black",
+        "target": "['B00UBMNYM8']"
+    },
+    "341": {
+        "generated_text": "(hp AND glossy AND photo AND paper AND \"8.5 x 11\")",
+        "target": "['B07YBGGQSZ', 'B004SGDYF0', 'B004SGDYCI', 'B00066IHMG', 'B0000TIMUG', 'B0061AL71E']"
+    },
+    "342": {
+        "generated_text": "(hp OR \"Hewlett Packard\") AND (m604 OR \"M604\" OR 604) AND toner",
+        "target": "['B07MZ1CHWR', 'B073XTMZTY', 'B072QR5WHC', 'B0721PJVBH', 'B06ZZK1FNT', 'B00MCDK9MM', 'B019O00X3U']"
+    },
+    "343": {
+        "generated_text": "(\"immigration rights card\" OR \"immigration card\" OR \"visa card\" OR \"legal card\" OR \"status card\" OR \"guidance card\")",
+        "target": "['B017RKQY3M', 'B00X14Q6E6', 'B0018DWAAQ', '0983723346', 'B004T4WQP0']"
+    },
+    "344": {
+        "generated_text": "(\"index cards\" OR \"index cards\") AND (\"3x5\" OR \"3 by 5\") AND (\"holder\" OR \"container\") AND (\"box\" OR \"container\") AND (\"white\" OR \"ivory\")",
+        "target": "['B00V5DQJWY', 'B071CDTVKK']"
+    },
+    "345": {
+        "generated_text": "(\"ink cartridges\" AND \"hp 67xl\" AND (\"black\" OR \"color\"))",
+        "target": "['B09D7RW4Y8', 'B09B3KR2XS', 'B096ZMZYR5', 'B096V6FR7Q', 'B096MLRDRZ', 'B092Q1DMYT', 'B08XY2DRGX', 'B08M5QZL36', 'B084132H6X', 'B08412PTS8', 'B08CMZHL6R']"
+    },
+    "346": {
+        "generated_text": "(\"photo scanner\" OR \"digital scanner\" OR \"scanner\") AND (\"auto feed\" OR \"automatic feed\" OR \"feed mechanism\")",
+        "target": "['B00WXN8JA0', 'B01GU5QEC6']"
+    },
+    "347": {
+        "generated_text": "(\"jms580\" OR \"jms-580\" OR \"jms 580\" OR \"jms580 model\" OR \"jms580 product\") AND (electronics OR appliances OR automotive OR \"home goods\" OR \"consumer products\")",
+        "target": "['B00HGUWJK6', 'B01C6CSJ8E']"
+    },
+    "348": {
+        "generated_text": "(Kartos AND stationery)",
+        "target": "['B01GVGGJ8S', 'B079Q7HCNS', 'B06ZYB99B2', 'B00J9ULAVU', 'B00J7YQH16']"
+    },
+    "349": {
+        "generated_text": "(kaweco AND (sketch OR drawing OR art) AND (up OR high-quality OR premium) AND (pencil OR writing tool OR drawing tool))",
+        "target": "['B06XD55HTT', 'B06XD55HTT', 'B06XCLY7Y5', 'B06XCLY7Y5', 'B00KKNRHIK', 'B00KKNRHIK', 'B01DQCUU5S', 'B00KRZVW1E', 'B00KRZVW1E', 'B01DO1ZV9Q', 'B06XD5F85N', 'B07NY6371P', 'B0747NT6HK', 'B01F1VV94I', 'B07QX3M81M', 'B0077OI0P4', 'B007CEUGP6', 'B007HNFUPI', 'B00KKNTDXM', 'B00CANO0J2']"
+    },
+    "350": {
+        "generated_text": "kaweco AND liliput AND fountain pen AND cartridge",
+        "target": "['B00D7C8V4A', 'B00D7BKWDE', 'B006CQSY9K', 'B006CQSXYQ', 'B00D7BV8YG']"
+    },
+    "351": {
+        "generated_text": "(\"sport\" AND \"key covers\" AND \"caps\" AND \"silicone\")",
+        "target": "['B07G73BLNH', 'B07SFWJ2ZK']"
+    },
+    "352": {
+        "generated_text": "(\"key caps\" OR \"keyboard keys\" OR \"keyboard caps\" OR \"keyboard stickers\") AND (\"labels\" OR \"stickers\" OR \"adhesive\" OR \"custom\")",
+        "target": "['B08CBR1488', 'B086YVGM16', 'B07K68NQKM', 'B07K68NQKM']"
+    },
+    "353": {
+        "generated_text": "(kids OR children OR youth) AND (\"thank you\" OR thanks OR gratitude) AND (\"fill in the blank\" OR fill in OR template OR form OR worksheet)",
+        "target": "['B086P6RTN2', 'B07ZD933SV', 'B07FVNYPSL', 'B078MT76YF', 'B01BMVGVKS']"
+    },
+    "354": {
+        "generated_text": "(\"retractable\" OR \"collapsible\" OR \"foldable\" OR \"retractable\" OR \"collapsible\" OR \"foldable\") AND (\"portable\" OR \"portable\" OR \"lightweight\" OR \"easy to carry\" OR \"compact\" OR \"travel-friendly\")",
+        "target": "['B074473Z6T', 'B005DXQ92W']"
+    },
+    "355": {
+        "generated_text": "(red AND (gel.pen OR 'gel pen' OR 'gelstylus'))",
+        "target": "['B00AH6UU48', 'B019QBO77K', 'B07L9WZMH6', 'B00N2NCYQU']"
+    },
+    "356": {
+        "generated_text": "(\"left handed\" OR \"left-handed\" OR \"southpaw\") AND (pen OR \"writing instrument\" OR stationery)",
+        "target": "['B019KECWCK']"
+    },
+    "357": {
+        "generated_text": "(\"legal forms\" OR \"legal documents\" OR \"legal paperwork\" OR \"legal templates\" OR \"legal agreements\") AND (\"contractors\" OR \"construction contractors\" OR \"contracting companies\" OR \"building contractors\" OR \"professional contractors\")",
+        "target": "['B003FM41SM', 'B0012YTB8U']"
+    },
+    "358": {
+        "generated_text": "(\"little mermaid\" OR \"mermaid\" OR \"sea creature\") AND (\"reusable\" OR \"eco-friendly\" OR \"biodegradable\" OR \"durable\") AND (\"bag\" OR \"carrier\" OR \"tote\")",
+        "target": "['B07T8JRXNT', 'B07KRH652V']"
+    },
+    "359": {
+        "generated_text": "(\"locker\" OR \"cubby\" OR \"storage\" OR \"locker system\") AND (\"decorations\" OR \"accessories\" OR \"ornaments\" OR \"decoration kits\")",
+        "target": "['B07Y5P34C8']"
+    },
+    "360": {
+        "generated_text": "(weekly calendar OR weekly planner OR weekly schedule OR weekly diary) AND (magnetic white board OR magnetic dry erase board OR whiteboard with magnets OR magnetic whiteboard) AND (wall OR wall-mounted OR wall-mounted whiteboard OR wall-mounted calendar)",
+        "target": "['B07VX7T8CR', 'B07XRZVQ6Q', 'B07S9PHHCR', 'B07YKDR12T']"
+    },
+    "361": {
+        "generated_text": "(\"scotch tape\" OR \"duct tape\" OR \"adhesive tape\") AND (\"refills\" OR \"cartridge\" OR \"replacement\") AND (\"dispenser\" OR \"holder\" OR \"container\")",
+        "target": "['B000Y52D5G', 'B07BWVKMWC', 'B000MFJNVK', 'B0000AQOAB', 'B00DFYH5QA']"
+    },
+    "362": {
+        "generated_text": "(\"mask\" OR \"helmet\" OR \"headgear\") AND (\"chain\" OR \"rope\" OR \"cord\") AND (\"lanyard\" OR \"cord\" OR \"strap\")",
+        "target": "['B08G8L78JW', 'B08GWZWKP4', 'B08FC5KVHS', 'B08C2547MH', 'B08G19V77W']"
+    },
+    "363": {
+        "generated_text": "(\"mouse pad\" OR \"mouse mat\" OR \"gaming pad\") AND (\"track pad\" OR \"touchpad\" OR \"trackball\")",
+        "target": "['B07X935DDL', 'B07N5YGQLN']"
+    },
+    "364": {
+        "generated_text": "(mouse AND (tray OR pad OR holder OR desk OR wireless OR computer))",
+        "target": "['B07CJL4ZWJ', 'B071458RJB']"
+    },
+    "365": {
+        "generated_text": "(\"music\" OR \"sheet music\" OR \"music sheets\" OR \"sheet music collection\" OR \"music book\") AND (\"bulletin board\" OR \"display board\" OR \"notice board\" OR \"information board\" OR \"wall board\")",
+        "target": "['B083FQSL1S', 'B00KQ6ELLM', 'B004XMNVYI', 'B004PIT0QS', 'B0017OE252', 'B000NNPYCS', '0545177448', 'B00HS5VAN6']"
+    },
+    "366": {
+        "generated_text": "neenah AND classic AND crest AND solar AND white AND 80 lb",
+        "target": "['B07SYZW9TY', 'B000I20NWK', 'B0034JZ79I']"
+    },
+    "367": {
+        "generated_text": "(\"nerite snails\" OR \"nerites\" OR \"freshwater snails\") AND (\"live\" OR \"fresh\" OR \"aquatic\") AND (\"freshwater\" OR \"aquarium\")",
+        "target": "['B07ZQQGCLK', 'B07T157QNK', 'B07L3S6D2X', 'B079VJV3PK', 'B078HFT91P', 'B072Q6SDC3', 'B071Z27M6P', 'B0711KZKM6', 'B07J1F1383', 'B079VTX386']"
+    },
+    "368": {
+        "generated_text": "(small OR compact OR lightweight) AND notebooks AND (3x5 OR 3x5-inch OR 3x5in)",
+        "target": "['B07V3TRD65', 'B00WKZ3Y88', 'B0764FX686']"
+    },
+    "369": {
+        "generated_text": "(numbered AND brightly colored AND sit spots AND classroom)",
+        "target": "['B07YFP91PS', 'B07W22J7GH', 'B07N6737F7']"
+    },
+    "370": {
+        "generated_text": "(office OR stationery OR supplies) AND (staples OR pen OR pencil OR notebook OR stapler OR paper)",
+        "target": "['B07Q868JRS', 'B07Q61NR5Z', 'B07Q5VKRRT', 'B079W72LCG', 'B0008GQ0PA', 'B00006IFMO']"
+    },
+    "371": {
+        "generated_text": "(oversize OR oversized OR large OR giant OR jumbo OR bulk) AND (load OR transport OR haul OR move OR movable OR moveable) AND (banner OR sign OR display OR placard OR 'outdoor sign')",
+        "target": "['B07K49X7CS', 'B07G2LK7H9', 'B07G2L9FH7', 'B07G2G5LV5', 'B076C1DC25', 'B01MY7CBFA', 'B07PY54QBP', 'B00HYLB6X8', 'B00HYLB4TY', 'B001JT09KM']"
+    },
+    "372": {
+        "generated_text": "(\"pink\" OR \"crimson\" OR \"scarlet\" OR \"rose\") AND (\"metal\" OR \"steel\" OR \"aluminum\" OR \"copper\") AND (\"letter\" OR \"alphabet\" OR \"writing\" OR \"education\") AND (\"tray\" OR \"container\" OR \"holder\" OR \"organizer\")",
+        "target": "['B017ULCPJ0']"
+    },
+    "373": {
+        "generated_text": "(prince OR royal OR high-end OR luxury OR designer OR accessories OR bags) AND purse",
+        "target": "['B01JNBSD6Y', 'B01EY2JIB6']"
+    },
+    "374": {
+        "generated_text": "(religious OR spiritual OR faith-based OR Christian OR Biblical) AND (bulk OR \"large quantity\" OR pack OR case OR multipack OR \"bulk buy\") AND (\"christmas cards\" OR \"holiday cards\" OR \"seasonal cards\" OR \"Xmas cards\")",
+        "target": "['B07ZWCH6GD', 'B073VXPJ7K', 'B010DXYNRY', 'B00DH0Q7UM']"
+    },
+    "375": {
+        "generated_text": "\"seat cushion\" AND \"not memory foam\"",
+        "target": "['B08SLL2NKY', 'B09731Q8P6', 'B08T17MZS8']"
+    },
+    "376": {
+        "generated_text": "(\"sf giants\" OR \"San Francisco Giants\" OR \"Giants\") AND (\"mousepad\" OR \"mouse mat\" OR \"gaming pad\" OR \"computer pad\")",
+        "target": "['B07VZ93BF6']"
+    },
+    "377": {
+        "generated_text": "(\"shark\" AND \"pencil\") OR (\"shark-themed\" AND \"pencil\") OR (\"shark design\" AND \"pencil\")",
+        "target": "['B07VRGBWGB']"
+    },
+    "378": {
+        "generated_text": "(\"sheet protectors\" AND \"8.5 x 11\" AND \"no holes\")",
+        "target": "['B07BMB2GPY', 'B00691ZRQQ', 'B000CD483K']"
+    },
+    "379": {
+        "generated_text": "(skimming OR \"oil skimming\" OR \"water skimming\" OR \"skimming tool\" OR \"skimming kit\") AND (safe OR secure OR protective OR safeguard OR safety)",
+        "target": "['B005CY001I']"
+    },
+    "380": {
+        "generated_text": "(notebook AND pens AND small)",
+        "target": "['B07DN79GX8']"
+    },
+    "381": {
+        "generated_text": "\"standing desk\" AND \"electric\" AND \"four legs\"",
+        "target": "['B08DDL9222']"
+    },
+    "382": {
+        "generated_text": "Tol AND pens AND med point",
+        "target": "['B0838QCYYG', 'B07X2653P3', 'B07X262S6L', 'B07HW1PKMP', 'B0797D2RY2', 'B00UKF6JUU', 'B009HTYWKO', 'B002VLH7AW', 'B002VLH6NU']"
+    },
+    "383": {
+        "generated_text": "(\"wardrobe locker\" OR \"wardrobe organizer\" OR \"closet locker\" OR \"wardrobe system\" OR \"closet organizer\") AND (\"hanging space\" OR \"storage bins\" OR \"door locks\" OR \"easy to use\")",
+        "target": "['B07L4QW7QH', 'B07GRPW56G', 'B007I9VYRE', 'B0788KC81K']"
+    },
+    "384": {
+        "generated_text": "(\"Webster's\" AND (\"spelling corrector\" OR \"spelling dictionary\" OR \"spell-checker\" OR \"spelling aid\"))",
+        "target": "['B0017T0KLC', 'B000XQ6T74', 'B06XXGGN6D']"
+    },
+    "385": {
+        "generated_text": "(\"Where the Crawdads Sing\" OR \"Where the Crawdads Sing paperback\") AND (paperback OR softcover) AND (\"Delia Owens\" OR author)",
+        "target": "['B07XW8M5T3', '1984827618']"
+    },
+    "386": {
+        "generated_text": "women AND black leather AND personalized AND padfolio",
+        "target": "['B01N0ZY3JO']"
+    },
+    "387": {
+        "generated_text": "(\"writing board\" OR \"desk\" OR \"table\" OR \"workstation\" OR \"stationery\") AND (\"wall\" OR \"mount\" OR \"hanging\" OR \"display\" OR \"storage\")",
+        "target": "['B01N171T9E']"
+    },
+    "388": {
+        "generated_text": "(\"Xtra Tex\" OR \"Xtreme Tex\" OR \"EPDM\" OR \"Ethylene Propylene Diene Monomer\") AND (bands OR strip OR sheet) AND (roof OR waterproof)",
+        "target": "['B07GTS2TSL', 'B07FKSRKHK', 'B008X0A71Q', 'B004E2MGQG', 'B00AM2UBVE', 'B009A58LDE']"
+    },
+    "389": {
+        "generated_text": "(xray AND lanyard AND \"oh snap\" AND retractable)",
+        "target": "['B07F3MHP7H']"
+    }
+}

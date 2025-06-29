@@ -1,0 +1,431 @@
+{
+    "103": {
+        "generated_text": "1 item received, 1 item missing from order; second item not in package; product type: electronics; expected delivery date: 3 days ago; shipping company: UPS; reason for missing item: inventory error at seller's end",
+        "target": "['B07DKMCDY5']"
+    },
+    "104": {
+        "generated_text": "oralgel baby toothpaste xylitol chamomile for ages 6 months and up",
+        "target": "['B07DKMCDY5', 'B0013HOU28', 'B000GFIL8M']"
+    },
+    "105": {
+        "generated_text": "baby gate with door made of durable plastic, adjustable height, suitable for 1-3 year olds, certified safe by ASTM F2057, comes with hardware kit",
+        "target": "['B001OC5UNK', 'B01MUEGID5']"
+    },
+    "106": {
+        "generated_text": "extra large receiving blankets made of soft microfiber, suitable for newborns and infants, providing warmth and comfort during sleep",
+        "target": "['B081PFLZT4', 'B07VBKRWGM', 'B08DRD584D', 'B089DP2Q6G', 'B083LJV4CH', 'B086GYNTXK', 'B000WKW2SG', 'B07QLNX9SM', 'B075THQ8LG']"
+    },
+    "107": {
+        "generated_text": "breastfeeding nipple for newborns aged 0-6 months with anti-colic design and easy-to-clean",
+        "target": "['B004TON9BK', 'B075GSQXQ2', 'B07FH81WSD']"
+    },
+    "108": {
+        "generated_text": "2 seat stroller, portable, foldable, wheels, aluminum, cup holders, storage compartments",
+        "target": "['B0781VL1WR', 'B076DKND6Z', 'B01GHVJHMW', 'B00UVW3PPY', 'B00STG5Z16', 'B00UVW3PSQ']"
+    },
+    "109": {
+        "generated_text": "nose frida nasal irrigation device",
+        "target": "['B01N093BYV', 'B01N4BBTFQ']"
+    },
+    "110": {
+        "generated_text": "4moms Pack and Play Co-Sleeper Pack & Play Crib Pack & Play Convertible Pack & Play with Rocking Stroller Pack & Play with Bassinet Pack & Play with Changing Table Pack & Play with Mobile Pack & Play with Swing",
+        "target": "['B086FZH4LM']"
+    },
+    "111": {
+        "generated_text": "children's play accessories including pins",
+        "target": "['B01MSWRGIY', 'B01MSWRFWY']"
+    },
+    "112": {
+        "generated_text": "grey children's dresser with small size, made of solid wood, featuring multiple drawers for storage",
+        "target": "['B07P3HYVPD', 'B06WWQDPZH']"
+    },
+    "113": {
+        "generated_text": "vtech dm223 safe and sound baby monitor security system",
+        "target": "['B07ZNBVFXG', 'B07JJ4D4H3', 'B01GED7OIW']"
+    },
+    "114": {
+        "generated_text": "Abbie Beyond infant wooden high chair",
+        "target": "['B08CXFXTFK', 'B09CYJ9H2V', 'B07N3CFP7S']"
+    },
+    "115": {
+        "generated_text": "Graco infant car seat protective cover replacement, suitable for infant car seat size, made from durable fabric material",
+        "target": "['B00AHVR708', 'B00AHVR6TA', 'B06Y1QQDVZ', 'B01N3MYQ99']"
+    },
+    "116": {
+        "generated_text": "Fisher-Price rocking chair for girls aged 1-3 years",
+        "target": "['B07WRSSSRJ', 'B017B76SZU']"
+    },
+    "117": {
+        "generated_text": "baby swings for infants up to 40 lbs - age range 6-24 months, safety certified, adjustable height, quiet operation",
+        "target": "['B014D4HQ28']"
+    },
+    "118": {
+        "generated_text": "hsa eligible baby products formula diapers wipes clothing",
+        "target": "['B086BL3BB2', 'B07YFCFCPN', 'B0107QP1VE', 'B086C4MG9R', 'B017GYO3I2', 'B01962MDHA', 'B07N6NBRGD', 'B07QN39PZ9', 'B002HOQE6Q']"
+    },
+    "119": {
+        "generated_text": "baby swings for infants clearance",
+        "target": "['B01MQM7W6M', 'B07D7DX94B', 'B083FGCFD3', 'B01DGIKD68', 'B01K7VHV2Q', 'B007HHQ4VI']"
+    },
+    "120": {
+        "generated_text": "avent natural bottle caps size 1 oz blue",
+        "target": "['B07JM4HSHP']"
+    },
+    "121": {
+        "generated_text": "Starbucks sippy cups for baby",
+        "target": "['B01M6C0KET']"
+    },
+    "122": {
+        "generated_text": "felt sticker sheets for crafts, monthly delivery service",
+        "target": "['B07DCCVJ6G', 'B07FFFQP1G', 'B078FWRHC6', 'B00XJSTKR4']"
+    },
+    "123": {
+        "generated_text": "car seats for car (SUV, comfort, safety, premium quality)",
+        "target": "['B07C2RNRCJ', 'B00TES30F6', 'B007UYBOJU', 'B013YCWASA']"
+    },
+    "124": {
+        "generated_text": "Graco classic connect car seat for children aged 4-8 years old, compatible with most vehicles, including SUVs and sedans, with built-in harness system and adjustable headrest",
+        "target": "['B07C2RNRCJ', 'B00Y285WFO', 'B07CVCHKTT', 'B07D7DX9MR', 'B07C35848T', 'B07N3CJF41', 'B07S27HVLK', 'B07Y5QYR1Q', 'B08K2X1DPC', 'B00BNQEZXS', 'B01NBAA09A', 'B071W2XFXQ', 'B074WJ4T8C']"
+    },
+    "125": {
+        "generated_text": "Graco car seat for infants up to 36 pounds, convertible, with 5-point harness, high safety ratings, compatible with various car models",
+        "target": "['B07C2RNRCJ', 'B00Y285WFO', 'B07CVCHKTT', 'B07D7DX9MR', 'B00Y2863GQ', 'B07K92FVV7', 'B01N3MYMB2', 'B08K2X1DPC', 'B071W2XFXQ', 'B07L4JPQ64']"
+    },
+    "126": {
+        "generated_text": "pack n play portable crib",
+        "target": "['B07RZQC1T1', 'B07N3CJ7DN']"
+    },
+    "127": {
+        "generated_text": "crib bedding set, crib mattress cover set, crib changing pad set, crib footboard set, crib headboard set, crib decor set, crib bed set, crib bedding accessories set",
+        "target": "['B07GNQ3LVG', 'B07BHMHQR1', 'B077L145M5']"
+    },
+    "128": {
+        "generated_text": "swaddle blanket lightweight cotton 36x48 inches",
+        "target": "['B088YRHZF5', 'B07VSH8KZG', 'B07SZ6Y3R7', 'B07H4X4LXZ']"
+    },
+    "129": {
+        "generated_text": "travel car seat or portable seat for road trips, child safety seats, or long-distance travel",
+        "target": "['B006PB2B6O', 'B06XTT17QC', 'B085WD5SBC']"
+    },
+    "130": {
+        "generated_text": "sign expressing concern about large germs or personal hygiene issues",
+        "target": "['B071G68YND', 'B0743NGX15', 'B07C6838KZ', 'B07C6P7X7F', 'B074DZ425B', 'B07GSNX54Q', 'B081ZVX8YY', 'B089LZN3DR', 'B07CG26M3Q', 'B091P3ZCNM', 'B07C6Q446L']"
+    },
+    "131": {
+        "generated_text": "changing table (baby changing station, crib table, diaper changing table) OR folding table (foldable table, adjustable table, multi-functional table)",
+        "target": "['B07Z8VNS8G', 'B00OGIB5E2', 'B01LYCN6A7', 'B00DZFUUTS', 'B0841YRLPY']"
+    },
+    "132": {
+        "generated_text": "baby diaper organizer stand",
+        "target": "['B07V61BYZL', 'B07VFQNF4T', 'B07XK85J4Z', 'B08MW1MLPX', 'B08Y19Z831', 'B00006408K', 'B00512VMVI', 'B00HWXXTBA', 'B07HSXJ6QR', 'B07LCJ3SCG', 'B07HSX1J3K']"
+    },
+    "133": {
+        "generated_text": "diaper organizer without handles portable small fabric",
+        "target": "['B07V61BYZL', 'B08L4CC4BP', 'B000056OUO', 'B088WDCGZH', 'B08GC3XPPM', 'B08P41T13J', 'B08M6D8YKY', 'B077B8WG7W']"
+    },
+    "134": {
+        "generated_text": "baby feeding spoon bpa free",
+        "target": "['B07JYT3R3Z', 'B006VB29D8']"
+    },
+    "135": {
+        "generated_text": "curved ergonomic utensils right-handed without shields; ergonomic contoured utensils right-handed without shields; curved utensils right-handed without shields; ergonomic utensils right-handed without shields; contoured utensils right-handed without shields",
+        "target": "['B07K589Z1Z', 'B07J6P12X9', 'B08CR6CK77', 'B08XWYZ4DK', 'B074JGZTKV', 'B0002DLAJA', 'B000X9R150']"
+    },
+    "136": {
+        "generated_text": "baby fork",
+        "target": "['B07SBHH4SQ', 'B07P7M4RBK', 'B07BBNS9Z5', 'B07H9KJHGJ']"
+    },
+    "137": {
+        "generated_text": "baby gate summer white for toddlers safety gate",
+        "target": "['B07X1WHVK8']"
+    },
+    "138": {
+        "generated_text": "baby girl white lace headband",
+        "target": "['B07Y4X6H9W', 'B01N9N0NE2', 'B079WMLBSP']"
+    },
+    "139": {
+        "generated_text": "newborn baby boy swaddling blankets baby carriers diaper bags gender-neutral outfits",
+        "target": "['B000WJLKQM']"
+    },
+    "140": {
+        "generated_text": "baby shusher, baby quieting device, baby white noise machine, baby sleep sound, pacifier, swaddle, baby carrier",
+        "target": "['B07PSG1Z4V', 'B07QRR6XFW', 'B082DZXY4G']"
+    },
+    "141": {
+        "generated_text": "baby crib television pacifier",
+        "target": "['B07N1JSXKF']"
+    },
+    "142": {
+        "generated_text": "baby nursery closet changing table shelves storage bins crib playpen",
+        "target": "['B07Y1SFRLN', 'B06XFJ3P64', 'B074PYSZ4R']"
+    },
+    "143": {
+        "generated_text": [
+            "home improvement skylight",
+            "architectural skylight"
+        ],
+        "target": "['B0833PDHD9']"
+    },
+    "144": {
+        "generated_text": "baby stroller without car seat foldable lightweight durable 20-30 lbs capacity",
+        "target": "['B07N3CNKKX']"
+    },
+    "145": {
+        "generated_text": "baby travel bouncer with safety certifications, comfortable design, suitable for car rides, durable construction, and easy to transport",
+        "target": "['B01HREKVW8']"
+    },
+    "146": {
+        "generated_text": "Baby Trend Hybrid 3-in-1 Car Seat",
+        "target": "['B06Y1QQDVZ', 'B06WP4PZ1P']"
+    },
+    "147": {
+        "generated_text": "extra large diaper bag backpack made of durable materials, available in various colors including blue and pink, with multiple compartments and waterproof feature",
+        "target": "['B077N4G6DW', 'B07NZMNJPL']"
+    },
+    "148": {
+        "generated_text": "toddler backpack for girls personalized with name and design options, suitable for ages 2-4, made from durable fabric, and available in various colors such as blue, pink, and green",
+        "target": "['B00H2CRNVI']"
+    },
+    "149": {
+        "generated_text": "bamboo diapers size 6 overnight absorbency",
+        "target": "['B07B52D8X1', 'B06Y5W1QLG']"
+    },
+    "150": {
+        "generated_text": "tall plastic dresser with ample storage space, made of high-quality ABS plastic, 60 inches tall, 4 spacious drawers, and a spacious top",
+        "target": "['B00RYQJFOA', 'B07RLGNS2J']"
+    },
+    "151": {
+        "generated_text": "pacifier for babies aged 6-18 months with orthodontic benefits and soft silicone nipple",
+        "target": "['B07DPWMGWL']"
+    },
+    "152": {
+        "generated_text": "bird vinyl decal for car, 12x12 inches, multicolor",
+        "target": "['B085LP54ZP', 'B07XRH9Q76', 'B07K7MMZK5', 'B015QQYU5I', 'B0123E9RX6', 'B00MBPCDR0', 'B004089IGU']"
+    },
+    "153": {
+        "generated_text": "black hinged pet gates for doorways, 24\" x 80\" size, made of durable plastic, with automatic opening mechanism",
+        "target": "['B074SR6C6S']"
+    },
+    "154": {
+        "generated_text": "boogie board",
+        "target": "['B07RP84PFP', 'B00GXTTPKI', 'B01CI28I38']"
+    },
+    "155": {
+        "generated_text": "britax car seat forward-facing",
+        "target": "['B079W4NMH5', 'B07SCFTPFR', 'B07V9ZXK94', 'B013YCWASA']"
+    },
+    "156": {
+        "generated_text": "Boppy nursing pillow without cover for breastfeeding support",
+        "target": "['B07XLNFBZX', 'B08CL4TCNK', 'B07SCPXSH5', 'B06Y278D6K', 'B07F4B7572']"
+    },
+    "157": {
+        "generated_text": "box for hair bows (for organizing various sizes and colors of hair bows)",
+        "target": "['B0811SJKB3', 'B07F1FFNDD', 'B01NBLOXEC']"
+    },
+    "158": {
+        "generated_text": "breastfeeding sign (public space)",
+        "target": "['B07V4TNZQD', 'B0794GLB7X', 'B01E96U2YE', 'B00R76V8IS', 'B008QSVAIE']"
+    },
+    "159": {
+        "generated_text": "vibrant flower motif sheet bedding, colorful petal pattern bedspread, linen comforter, fleece throw blanket",
+        "target": "['B06Y5Q3W5M']"
+    },
+    "160": {
+        "generated_text": [
+            "butt paste applicator",
+            "applicator for butt paste"
+        ],
+        "target": "['B01B912VM8']"
+    },
+    "161": {
+        "generated_text": "indoor cacti decor for playroom",
+        "target": "['B07RGVS4Z7', 'B07K1CWW89']"
+    },
+    "162": {
+        "generated_text": "toddler bed for girls including style options, size considerations (e.g., twin, full), materials (e.g., wood, metal), and any special features (e.g., storage, safety certifications)",
+        "target": "['B01FLQM6YK', 'B00MYUG3U0', 'B00D9OMXHM']"
+    },
+    "163": {
+        "generated_text": "Chewy savings account",
+        "target": "['B07L4H37VW', '0375758623']"
+    },
+    "164": {
+        "generated_text": "Citi Mini GT2 stroller size, weight, color, material, accessories",
+        "target": "['B07SB92D6Q']"
+    },
+    "165": {
+        "generated_text": "easy seat portable high chair",
+        "target": "['B07WCSBPGT']"
+    },
+    "166": {
+        "generated_text": "high chair wrap fabric [material] size [specific size]",
+        "target": "['B07R7NH5RX', 'B07MZFD26C', 'B0788JBJBP', 'B078H74GCY']"
+    },
+    "167": {
+        "generated_text": "Little Love by Nojo Sweet Deer - Soft Fur Deer Plush Toy",
+        "target": "['B07KZ9J3WV', 'B07MFZKKR7', 'B07XMDWMK6', 'B07SNS49VQ', 'B071W6WX8L', 'B06ZYSMF4M', 'B06ZYHZN13']"
+    },
+    "168": {
+        "generated_text": "Playtex bottle liners for various uses",
+        "target": "['B000056JMU']"
+    },
+    "169": {
+        "generated_text": "matching hospital outfits for mom and baby aged 0-3 months in maternity wear styles including dresses and pantsuits",
+        "target": "['B07H952RKS']"
+    },
+    "170": {
+        "generated_text": "firefighter baby blanket material: cotton size: 30x40 inches",
+        "target": "['B078FRRNB9', 'B06XXVPPXW']"
+    },
+    "171": {
+        "generated_text": "baby girl pineapple print soft baby blanket",
+        "target": "['B08432MRX6']"
+    },
+    "172": {
+        "generated_text": "newborn infant cover for car seats",
+        "target": "['B01MYT6V9Y']"
+    },
+    "173": {
+        "generated_text": "grovia magic wand z",
+        "target": "['B07Q6D3TM4', 'B002RT8O5U']"
+    },
+    "174": {
+        "generated_text": "Gucci bag made of leather, medium size, black",
+        "target": "['B01N9DKKFH']"
+    },
+    "175": {
+        "generated_text": "hand symbol sticker for greeting cards",
+        "target": "['B07XX6S284', 'B081VJRCQL', 'B004K4FCP0']"
+    },
+    "176": {
+        "generated_text": "DIY infant bows using soft cotton fabric for newborns",
+        "target": "['B072WR96PL', 'B07R5MXM1Q', 'B01JC5VL4W']"
+    },
+    "177": {
+        "generated_text": "newborn infant ear plugs for sleep aid noise reduction",
+        "target": "['B07C9BBKF1', 'B07Z9MP5TW']"
+    },
+    "178": {
+        "generated_text": "hippo baby nursery decor stuffed artwork",
+        "target": "['B07W6KNR64', 'B07SN9W6TB', 'B07SL3CZR4', 'B075WPP2W6', 'B071S6DS3R']"
+    },
+    "179": {
+        "generated_text": "Huggies overnight size 4 diapers for ages 3-12 months, high absorbency, easy-to-use tabs",
+        "target": "['B0027A8QXE', 'B00008I7ZZ']"
+    },
+    "180": {
+        "generated_text": "little swimmers size 4 one-piece girl's swimsuit made of chlorine-resistant fabric for water parks",
+        "target": "['B00394DQGE', 'B09B8N5GXS', 'B0929DSHT4', 'B0929XV1JJ', 'B000GPUI88', 'B0014E6IXO', 'B00J0G3LJC', 'B00ISF9ALO']"
+    },
+    "181": {
+        "generated_text": "infant winter wear soft durable coats and pants",
+        "target": "['B0733LM9BD']"
+    },
+    "182": {
+        "generated_text": "insulated toddler sippy cup",
+        "target": "['B00G6EE6I6']"
+    },
+    "183": {
+        "generated_text": "joovy vent",
+        "target": "['B00HXDVM90']"
+    },
+    "184": {
+        "generated_text": "extra-long portable mobile crib clamp for infant's bed",
+        "target": "['B07HSKP6VG', 'B07W37QQ6H', 'B07RQ1BDLZ', 'B07SK14RST']"
+    },
+    "185": {
+        "generated_text": "Medela breast pump connectors male luer lock female luer lock infusion system",
+        "target": "['B0018LLZXQ']"
+    },
+    "186": {
+        "generated_text": [
+            "Medella blood pressure pump for home use",
+            "Medella ventilator pump for hospital settings"
+        ],
+        "target": "['B0018LLZXQ', 'B00092A7E8', 'B07MRP7SWX', 'B06XCG66VL', 'B000LPZTQY', 'B08KRQ7N5T', 'B08KT3P5BS', 'B001URWNIY', 'B06XCGDRQR']"
+    },
+    "187": {
+        "generated_text": "merlin magic sleepsuit large OR nightwear large OR pyjamas extra-large",
+        "target": "['B07XCJFR7D', 'B00B1M2N88']"
+    },
+    "188": {
+        "generated_text": "mickey mouse flannel fabric clothing for children",
+        "target": "['B01NBTGSUQ', 'B00IRGA6GC']"
+    },
+    "189": {
+        "generated_text": "best rest time mattress with cooling technology and adjustable firmness levels",
+        "target": "['B01N9ZQWMW']"
+    },
+    "190": {
+        "generated_text": "nipple stimulators for sexual pleasure",
+        "target": "['B07L1PQJGW', 'B07D5T7ZKQ']"
+    },
+    "191": {
+        "generated_text": "Owlet Smart Sock baby monitor for newborns with heart rate and oxygen level monitoring capabilities",
+        "target": "['B07MFR6NZG']"
+    },
+    "192": {
+        "generated_text": "owlet sock replacement for baby monitoring devices - heart rate and oxygen level monitoring, infant sleep safety, newborn care, soft and breathable materials, adjustable sizes",
+        "target": "['B0773XS66S', 'B0773W6TYZ']"
+    },
+    "193": {
+        "generated_text": "poppy flower",
+        "target": "['B0817D2S8V', 'B07CNXDDBM', 'B01C4V5MU0', 'B00BFMHSZW']"
+    },
+    "194": {
+        "generated_text": "quinny buzz stroller infant-friendly urban terrain adjustable seat multiple reclining positions foldable",
+        "target": "['B017A1E6HY', 'B00IBTNZD6']"
+    },
+    "195": {
+        "generated_text": "rocket engines, guidance systems, and payload types",
+        "target": "['B076KP7HKW', 'B00IKVLRC6', '1532094655', '0740767321']"
+    },
+    "196": {
+        "generated_text": "baby monitor with night vision and Wi-Fi connectivity",
+        "target": "['B08N5RHX75']"
+    },
+    "197": {
+        "generated_text": "soft newborn sleepsuit for infants aged 0-3 months with cute animal prints",
+        "target": "['B07WNQZMK3']"
+    },
+    "198": {
+        "generated_text": "diaper changing pad for babies, portable and non-slip, made of soft fabric, waterproof, 24x36 inches",
+        "target": "['B074FVGXZ8', 'B074W37NQ1', 'B00P7TQ0ZS']"
+    },
+    "199": {
+        "generated_text": "stackable wooden outdoor furniture steps 24 inches wide 6 steps high",
+        "target": "['B07KWDTKSV', 'B083K7MC2N', 'B07KWFMSSM', 'B003ZZGAV0']"
+    },
+    "200": {
+        "generated_text": [
+            "stokke tripp trapp changing tray",
+            "stokke tripp trapp storage tray",
+            "stokke tripp trapp tray set",
+            "stokke tripp trapp baby tray",
+            "stokke tripp trapp office tray",
+            "stokke tripp trapp desk tray",
+            "stokke tripp trapp kitchen tray"
+        ],
+        "target": "['B07V58FD45', 'B07NDKN57X', 'B08BPJZ5TK', 'B07F18TG39', 'B00YF0KUDS']"
+    },
+    "201": {
+        "generated_text": "SwaddleMe blue baby swaddle soft organic certified",
+        "target": "['B0107CYKJ2', 'B07BMCMZXL', 'B0160R7D6U', 'B014QVIKBE', 'B074R2SX12']"
+    },
+    "202": {
+        "generated_text": "First Years baby bottle for infants 0-12 months, BPA-free, easy-to-clean",
+        "target": "['B001PVAXZK']"
+    },
+    "203": {
+        "generated_text": "toddler sports bedding comforter 12-36 months",
+        "target": "['B07DTLJRXB', 'B07BCBFPGK', 'B06XJJBYXV']"
+    },
+    "204": {
+        "generated_text": "upright infant seat for car use - durable fabric, adjustable height, 5-point harness system",
+        "target": "['B084KJ93MF']"
+    },
+    "205": {
+        "generated_text": "decorative wall decals for bedroom female-themed customized designs",
+        "target": "['B07BGGZHQK', 'B0772XG3PK', 'B018HL6NXG']"
+    }
+}

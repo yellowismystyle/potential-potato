@@ -1,0 +1,414 @@
+{
+    "103": {
+        "generated_text": "(\"two items\" OR \"set\" OR \"package\" OR \"complete\") AND NOT (\"single\" OR \"individual\" OR \"one item\")",
+        "target": "['B07DKMCDY5']"
+    },
+    "104": {
+        "generated_text": "(\"oralgel\" OR \"oral care\" OR \"toothpaste\" OR \"dental care\") AND (\"baby\" OR \"infant\" OR \"newborn\" OR \"toddler\")",
+        "target": "['B07DKMCDY5', 'B0013HOU28', 'B000GFIL8M']"
+    },
+    "105": {
+        "generated_text": "(\"baby gate\" OR \"infant gate\" OR \"child gate\" OR \"toddler gate\") AND (\"door\" OR \"entryway\" OR \"entrance\" OR \"gateway\")",
+        "target": "['B001OC5UNK', 'B01MUEGID5']"
+    },
+    "106": {
+        "generated_text": "(\"extra large\" OR \"oversized\" OR \"large\" OR \"big\" OR \"XL\") AND (\"receiving blankets\" OR \"welcome mats\" OR \"matting\" OR \"floor mats\" OR \"entry mats\")",
+        "target": "['B081PFLZT4', 'B07VBKRWGM', 'B08DRD584D', 'B089DP2Q6G', 'B083LJV4CH', 'B086GYNTXK', 'B000WKW2SG', 'B07QLNX9SM', 'B075THQ8LG']"
+    },
+    "107": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"nipple\" and \"breastfeed babies\".\n2. Consider synonyms or related terms for \"nipple\": \"nursing nipple\", \"feeding nipple\", \"breastfeeding nipple\".\n3. Consider synonyms or related terms for \"breastfeed babies\": \"infant\", \"newborn\", \"baby\".\n4. Combine these terms using Boolean operators to ensure comprehensive coverage while maintaining relevance.\n\nThe goal is to create a query that captures various ways people might refer to nipple products for breastfeeding babies, ensuring we cover different terminologies used in product descriptions or titles.\n\nNow, let's construct the query using Boolean logic:\n- We want to ensure that the search includes any term related to nipples AND any term related to breastfeeding babies.\n- Use OR to include synonyms and related terms.\n\nFinal query construction:\n(\"nipple\" OR \"nursing nipple\" OR \"feeding nipple\" OR \"breastfeeding nipple\") AND (\"breastfeed babies\" OR \"infant\" OR \"newborn\" OR \"baby\")\n\nThis query will help retrieve products that are specifically designed for breastfeeding babies, covering a wide range of terminology that might be used in product listings.",
+        "target": "['B004TON9BK', 'B075GSQXQ2', 'B07FH81WSD']"
+    },
+    "108": {
+        "generated_text": "(\"2 seat\" OR \"double\" OR \"twin\" OR \"dual\" OR \"two-seat\") AND (\"stroller\" OR \"pram\" OR \"pushchair\")",
+        "target": "['B0781VL1WR', 'B076DKND6Z', 'B01GHVJHMW', 'B00UVW3PPY', 'B00STG5Z16', 'B00UVW3PSQ']"
+    },
+    "109": {
+        "generated_text": "(nose AND frida)",
+        "target": "['B01N093BYV', 'B01N4BBTFQ']"
+    },
+    "110": {
+        "generated_text": "(\"4moms\" AND (\"pack and play\" OR \"portable crib\" OR \"bassinet\" OR \"baby tent\" OR \"travel system\"))",
+        "target": "['B086FZH4LM']"
+    },
+    "111": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"childs play pin\".\n2. Identify key components:\n   - \"child\" could refer to children or kids.\n   - \"play\" suggests toys or games.\n   - \"pin\" might refer to a type of toy, such as a \"plush toy\" or \"stuffed animal\".\n3. Consider synonyms and related terms:\n   - For \"child\": kids, children, toddler, youth.\n   - For \"play\": toy, game, fun, entertainment.\n   - For \"pin\": plush, stuffed, toy, doll, figurine.\n4. Construct a Boolean query using these terms to ensure comprehensive coverage of potential product listings.\n\nThe goal is to create a query that captures various combinations of these terms to maximize the chances of retrieving relevant products. I will use the AND operator to ensure all aspects are covered, and the OR operator to include synonyms and related terms.\n\nFinal Boolean query:\n(\"child\" OR \"kids\" OR \"children\" OR \"toddler\" OR \"youth\") AND (\"play\" OR \"toy\" OR \"game\" OR \"fun\" OR \"entertainment\") AND (\"pin\" OR \"plush\" OR \"stuffed\" OR \"figurine\" OR \"doll\"). This query should effectively retrieve products related to children's play items, particularly those categorized under \"pins\" or similar types of toys.",
+        "target": "['B01MSWRGIY', 'B01MSWRFWY']"
+    },
+    "112": {
+        "generated_text": "(\"grey\" OR \"gray\") AND (\"dresser\" OR \"chest\" OR \"chest of drawers\" OR \"storage unit\") AND (\"kids\" OR \"children\" OR \"child\" OR \"toddler\" OR \"youth\")",
+        "target": "['B07P3HYVPD', 'B06WWQDPZH']"
+    },
+    "113": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"vtech dm223 safe and sound\".\n   - \"vtech\" likely refers to VTech, a brand known for children's educational toys and gadgets.\n   - \"dm223\" seems to be a specific model number or product code.\n   - \"safe and sound\" suggests that the customer is looking for a product that is safe, possibly implying features like safety certifications or child-friendly design.\n\n2. Identify key components:\n   - Brand: VTech\n   - Model/Product: DM223\n   - Feature/Attribute: Safe, Sound\n\n3. Consider synonyms or related terms:\n   - \"Safe\": Childproof, Secure, Certified, Safety\n   - \"Sound\": Audio, Noise, Echo, Audible\n\n4. Construct a Boolean query:\n   - We want to ensure that the search results include the brand and model, so these should be combined with AND.\n   - The safety and sound attributes can be combined using OR to capture various ways they might be described.\n\n5. Final Boolean query:\n   - (\"VTech\" AND \"DM223\") AND (\"safe\" OR \"childproof\" OR \"secure\" OR \"certified\" OR \"safety\") AND (\"sound\" OR \"audio\" OR \"noise\" OR \"echo\" OR \"audible\")\n\nThis query will help retrieve products that match the brand, model, and have features related to safety and sound.",
+        "target": "['B07ZNBVFXG', 'B07JJ4D4H3', 'B01GED7OIW']"
+    },
+    "114": {
+        "generated_text": "(abbie AND beyond) AND (wooden AND \"high chair\")",
+        "target": "['B08CXFXTFK', 'B09CYJ9H2V', 'B07N3CFP7S']"
+    },
+    "115": {
+        "generated_text": "(graco AND \"simple switch\" AND (cover OR case OR shell) AND (replacement OR spare OR substitute))",
+        "target": "['B00AHVR708', 'B00AHVR6TA', 'B06Y1QQDVZ', 'B01N3MYQ99']"
+    },
+    "116": {
+        "generated_text": "(\"Fisher Price\" OR \"Fisher &amp; Paykel\") AND (\"chair\" OR \"stool\" OR \"seat\") AND (\"for girls\" OR \"pink\" OR \"girl's\")",
+        "target": "['B07WRSSSRJ', 'B017B76SZU']"
+    },
+    "117": {
+        "generated_text": "(\"baby swings\" OR \"infant swings\" OR \"newborn swings\" OR \"toddler swings\") AND (\"infants\" OR \"newborns\" OR \"babies\") AND (\"up to 40 lbs\" OR \"40 lbs\" OR \"40 pounds\" OR \"max weight\" OR \"weight limit\")",
+        "target": "['B014D4HQ28']"
+    },
+    "118": {
+        "generated_text": "(\"hsa eligible\" OR \"health savings account\" OR \"tax-free\" OR \"medical\" OR \"healthcare\") AND (\"products\" OR \"items\" OR \"goods\") AND (\"baby\" OR \"infant\" OR \"newborn\" OR \"child\")",
+        "target": "['B086BL3BB2', 'B07YFCFCPN', 'B0107QP1VE', 'B086C4MG9R', 'B017GYO3I2', 'B01962MDHA', 'B07N6NBRGD', 'B07QN39PZ9', 'B002HOQE6Q']"
+    },
+    "119": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query:\n   - \"baby swings\": This is the primary product category.\n   - \"infants\": This specifies the target age group for the product.\n   - \"clearance\": This suggests that the customer is looking for discounted or sale items.\n\n2. Determine synonyms or related terms:\n   - \"baby swings\" could also be referred to as \"infant swings\", \"newborn swings\", \"crib swings\".\n   - \"infants\" can be directly used as it is already specific.\n   - \"clearance\" might include \"sale\", \"discount\", \"promotion\", \"deal\".\n\n3. Construct the query using Boolean operators:\n   - We want to ensure that the search results include products that are baby swings and are suitable for infants, while also being on clearance.\n   - Use AND to combine different concepts that must all be present.\n   - Use OR to include synonyms or related terms for broader coverage.\n\n4. Final query construction:\n   - (\"baby swings\" OR \"infant swings\" OR \"newborn swings\" OR \"crib swings\") AND \"infants\" AND (\"clearance\" OR \"sale\" OR \"discount\" OR \"promotion\" OR \"deal\")\n\nThis query will help retrieve products that are baby swings, specifically designed for infants, and currently on clearance or discounted.",
+        "target": "['B01MQM7W6M', 'B07D7DX94B', 'B083FGCFD3', 'B01DGIKD68', 'B01K7VHV2Q', 'B007HHQ4VI']"
+    },
+    "120": {
+        "generated_text": "(avent AND (natural OR eco-friendly OR organic OR non-toxic) AND (bottle caps OR bottle tops))",
+        "target": "['B07JM4HSHP']"
+    },
+    "121": {
+        "generated_text": "(\"starbucks\" OR \"Starbucks branded\") AND (\"sippy cups\" OR \"baby cups\" OR \"infant cups\" OR \"nursing cups\") AND (\"baby\" OR \"infant\" OR \"newborn\" OR \"toddler\")",
+        "target": "['B01M6C0KET']"
+    },
+    "122": {
+        "generated_text": "(stickers AND (felt OR fabric) AND (monthly OR seasonal))",
+        "target": "['B07DCCVJ6G', 'B07FFFQP1G', 'B078FWRHC6', 'B00XJSTKR4']"
+    },
+    "123": {
+        "generated_text": "(\"car seats\" OR \"automobile seats\" OR \"vehicle seats\" OR \"child seats\" OR \"booster seats\" OR \"safety seats\") AND (\"for car\" OR \"front seat\" OR \"back seat\" OR \"passenger seat\" OR \"driver seat\")",
+        "target": "['B07C2RNRCJ', 'B00TES30F6', 'B007UYBOJU', 'B013YCWASA']"
+    },
+    "124": {
+        "generated_text": "(Graco AND Classic Connect AND (car seat OR child seat OR booster seat OR safety seat))",
+        "target": "['B07C2RNRCJ', 'B00Y285WFO', 'B07CVCHKTT', 'B07D7DX9MR', 'B07C35848T', 'B07N3CJF41', 'B07S27HVLK', 'B07Y5QYR1Q', 'B08K2X1DPC', 'B00BNQEZXS', 'B01NBAA09A', 'B071W2XFXQ', 'B074WJ4T8C']"
+    },
+    "125": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"graco for ever car seat\".\n2. Identify key components:\n   - \"graco\": This is likely a brand name, so it's important to include it in the query.\n   - \"for ever\": This could refer to a specific product line or model, such as \"Graco For Ever\".\n   - \"car seat\": This is the type of product being searched for.\n\n3. Determine synonyms or related terms:\n   - \"graco\" doesn't have direct synonyms but is crucial for the query.\n   - \"for ever\" might be a specific model or series, so it should be included as is.\n   - \"car seat\" can also be referred to as \"child seat\", \"baby seat\", or \"booster seat\".\n\n4. Construct the query using Boolean operators:\n   - Use AND to ensure all key components are included.\n   - Use OR to include synonyms or related terms for broader coverage.\n\n5. Final query construction:\n   - Ensure that the brand \"graco\" is always present.\n   - Include \"for ever\" as a specific model or series.\n   - Use OR to include different terms for \"car seat\".\n\nThe final query will look like this:\n(\"graco\" AND \"for ever\" AND (\"car seat\" OR \"child seat\" OR \"baby seat\" OR \"booster seat\")). This ensures that the search results will include Graco products specifically from the \"For Ever\" line and cover various types of car seats.",
+        "target": "['B07C2RNRCJ', 'B00Y285WFO', 'B07CVCHKTT', 'B07D7DX9MR', 'B00Y2863GQ', 'B07K92FVV7', 'B01N3MYMB2', 'B08K2X1DPC', 'B071W2XFXQ', 'B07L4JPQ64']"
+    },
+    "126": {
+        "generated_text": "(packable OR portable OR travel OR assembly-free OR \"easy setup\") AND (play mat OR playpen OR \"baby gear\" OR \"travel system\")",
+        "target": "['B07RZQC1T1', 'B07N3CJ7DN']"
+    },
+    "127": {
+        "generated_text": "(\"grey\" OR \"gray\") AND (\"crib set\" OR \"crib bedding\" OR \"crib mattress cover\" OR \"baby bedding\")",
+        "target": "['B07GNQ3LVG', 'B07BHMHQR1', 'B077L145M5']"
+    },
+    "128": {
+        "generated_text": "(swaddle OR cozy OR snug OR 'baby wrap') AND (blanket OR cover OR wrap) AND (lightweight OR thin OR soft OR gentle)",
+        "target": "['B088YRHZF5', 'B07VSH8KZG', 'B07SZ6Y3R7', 'B07H4X4LXZ']"
+    },
+    "129": {
+        "generated_text": "(travel OR portable OR foldable OR lightweight OR easy to carry) AND (car OR automotive OR vehicle) AND (seat OR chair OR booster seat OR child seat)",
+        "target": "['B006PB2B6O', 'B06XTT17QC', 'B085WD5SBC']"
+    },
+    "130": {
+        "generated_text": "(\"your germs\" OR \"personal hygiene\" OR \"health awareness\" OR \"germ prevention\") AND (\"are too big\" OR \"size of germs\" OR \"perception of germs\" OR \"microscopic\") AND (\"for me sign\" OR \"personal sign\" OR \"individual message\" OR \"self-help\")",
+        "target": "['B071G68YND', 'B0743NGX15', 'B07C6838KZ', 'B07C6P7X7F', 'B074DZ425B', 'B07GSNX54Q', 'B081ZVX8YY', 'B089LZN3DR', 'B07CG26M3Q', 'B091P3ZCNM', 'B07C6Q446L']"
+    },
+    "131": {
+        "generated_text": "(\"changing table\" OR \"baby changing station\" OR \"nursery furniture\" OR \"baby furniture\" OR \"changing station\" OR \"change table\" OR \"diaper changing table\" OR \"baby changing table\")",
+        "target": "['B07Z8VNS8G', 'B00OGIB5E2', 'B01LYCN6A7', 'B00DZFUUTS', 'B0841YRLPY']"
+    },
+    "132": {
+        "generated_text": "(\"baby\" OR \"infant\" OR \"child\") AND (\"diaper\" OR \"nappy\") AND (\"organizer\" OR \"storage\" OR \"holder\" OR \"container\") AND (\"stand\" OR \"rack\" OR \"holder\" OR \"unit\")",
+        "target": "['B07V61BYZL', 'B07VFQNF4T', 'B07XK85J4Z', 'B08MW1MLPX', 'B08Y19Z831', 'B00006408K', 'B00512VMVI', 'B00HWXXTBA', 'B07HSXJ6QR', 'B07LCJ3SCG', 'B07HSX1J3K']"
+    },
+    "133": {
+        "generated_text": "(\"diaper organizer\" OR \"diaper storage\" OR \"diaper bin\" OR \"diaper holder\") AND (\"without handles\" OR \"no handles\")",
+        "target": "['B07V61BYZL', 'B08L4CC4BP', 'B000056OUO', 'B088WDCGZH', 'B08GC3XPPM', 'B08P41T13J', 'B08M6D8YKY', 'B077B8WG7W']"
+    },
+    "134": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query:\n   - \"baby\": This indicates the product is for infants or young children.\n   - \"feeding spoon\": This specifies the type of product.\n   - \"bpa free\": This is a specific feature or requirement that the product should have.\n\n2. Determine synonyms or related terms:\n   - \"baby\" could also be \"infant\", \"newborn\", \"toddler\".\n   - \"feeding spoon\" could also be \"sippy cup\", \"sippy spoon\", \"baby spoon\".\n   - \"bpa free\" is a specific feature, so there are no direct synonyms, but we can ensure it's included as a mandatory term.\n\n3. Construct the query using Boolean operators:\n   - We want to ensure that all products retrieved are relevant to babies, are feeding spoons, and are BPA-free.\n   - Use AND to combine different concepts that must all be present.\n   - Use OR to include synonyms or related terms for broader coverage.\n\n4. Final query construction:\n   - (\"baby\" OR \"infant\" OR \"newborn\" OR \"toddler\") AND (\"feeding spoon\" OR \"sippy cup\" OR \"sippy spoon\" OR \"baby spoon\") AND \"bpa free\"\n\nThis query will help retrieve products that are specifically designed for baby feeding, are spoon-like in form, and are BPA-free. The use of synonyms ensures comprehensive coverage of relevant products.",
+        "target": "['B07JYT3R3Z', 'B006VB29D8']"
+    },
+    "135": {
+        "generated_text": "(\"easieeaters\" AND \"curved utensils\" AND \"right handed\" AND \"without shields\")",
+        "target": "['B07K589Z1Z', 'B07J6P12X9', 'B08CR6CK77', 'B08XWYZ4DK', 'B074JGZTKV', 'B0002DLAJA', 'B000X9R150']"
+    },
+    "136": {
+        "generated_text": "(\"baby\" OR \"infant\" OR \"toddler\" OR \"child\" OR \"young child\") AND (\"fork\" OR \"utensil\" OR \"spoon\" OR \"eating utensil\")",
+        "target": "['B07SBHH4SQ', 'B07P7M4RBK', 'B07BBNS9Z5', 'B07H9KJHGJ']"
+    },
+    "137": {
+        "generated_text": "\"baby gate\" AND \"summer\" AND \"white\"",
+        "target": "['B07X1WHVK8']"
+    },
+    "138": {
+        "generated_text": "(\"baby\" OR \"infant\" OR \"toddler\") AND (\"girl\" OR \"female\" OR \"young girl\") AND \"white\" AND (\"lace\" OR \"netting\" OR \"mesh\") AND \"headband\"",
+        "target": "['B07Y4X6H9W', 'B01N9N0NE2', 'B079WMLBSP']"
+    },
+    "139": {
+        "generated_text": "(\"newborn\" OR \"infant\" OR \"0-3 months\" OR \"early baby\") AND (\"baby boy\" OR \"male infant\" OR \"boy baby\" OR \"little boy\") AND (\"bunjee\" OR \"bungee\")",
+        "target": "['B000WJLKQM']"
+    },
+    "140": {
+        "generated_text": "(baby OR infant OR child OR toddler) AND (shusher OR pacifier OR soothing OR calming OR \"white noise\" OR \"sound machine\")",
+        "target": "['B07PSG1Z4V', 'B07QRR6XFW', 'B082DZXY4G']"
+    },
+    "141": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the original query: \"crib tv soother\" suggests that the customer is looking for a product related to a TV that can be used as a soothing device, possibly for babies or infants who need calming during sleep.\n\n2. Identify key components:\n   - \"crib\": This indicates the product should be suitable for a crib or be used in conjunction with one.\n   - \"tv\": This suggests the product might have some television-related feature or be associated with televisions.\n   - \"soother\": This implies the product should have soothing capabilities, possibly for calming or entertainment purposes.\n\n3. Generate synonyms and related terms:\n   - For \"crib\": infant, baby, nursery\n   - For \"tv\": television, screen, monitor\n   - For \"soother\": pacifier, calming, entertainment, soothing\n\n4. Construct a Boolean query:\n   - We want to ensure that the product is related to all three aspects: it should be suitable for a crib, have a TV component, and offer soothing capabilities.\n   - Use AND to combine different concepts and OR to include synonyms or related terms.\n\n5. Final Boolean query:\n   - (\"crib\" OR \"infant\" OR \"baby\" OR \"nursery\") AND (\"tv\" OR \"television\" OR \"screen\" OR \"monitor\") AND (\"soother\" OR \"pacifier\" OR \"calming\" OR \"entertainment\" OR \"soothing\")\n\nThis query will help retrieve products that are relevant to the original request, ensuring they are suitable for cribs, involve TVs, and have soothing features.",
+        "target": "['B07N1JSXKF']"
+    },
+    "142": {
+        "generated_text": "(baby OR infant OR toddler OR child) AND (nursery OR \"kids' room\" OR \"children's space\" OR playroom) AND (closet OR storage OR organizer OR cabinet OR \"storage unit\")",
+        "target": "['B07Y1SFRLN', 'B06XFJ3P64', 'B074PYSZ4R']"
+    },
+    "143": {
+        "generated_text": "(\"skylight\" OR \"roof window\" OR \"roof light\" OR \"sunroof\" OR \"sunlight\" OR \"solar light\" OR \"roof lantern\") AND (\"product\" OR \"feature\" OR \"installation\")",
+        "target": "['B0833PDHD9']"
+    },
+    "144": {
+        "generated_text": "Let me solve this step by step.\n1. Identify the key components of the query: \"baby stroller\" and \"without car seat\".\n2. The main focus is on finding a \"baby stroller\", which is the primary product category.\n3. The condition specified is \"without car seat\", meaning we want to exclude products that include a car seat.\n4. To achieve this, we can use the Boolean operator AND to ensure the inclusion of \"baby stroller\" and NOT to exclude \"car seat\".\n5. Construct the query using these logical operators.\n\nThe final query will be structured as follows:\n- Include \"baby stroller\"\n- Exclude \"car seat\"\n\nThe Boolean query would look like: (\"baby stroller\" AND NOT \"car seat\"). This ensures that we retrieve products that are strollers for babies but do not come with a car seat attachment.",
+        "target": "['B07N3CNKKX']"
+    },
+    "145": {
+        "generated_text": "(\"baby\" OR \"infant\" OR \"child\" OR \"toddler\") AND (\"travel\" OR \"portable\" OR \"easy to carry\" OR \"lightweight\") AND (\"bouncer\" OR \"seat\" OR \"rocker\" OR \"swing\" OR \"stroller\")",
+        "target": "['B01HREKVW8']"
+    },
+    "146": {
+        "generated_text": "(\"Baby Trend\" AND \"Hybrid Plus\" AND \"3-in-1\" AND \"car seat\") OR (\"Baby Trend\" AND \"Hybrid Plus\" AND \"convertible car seat\")",
+        "target": "['B06Y1QQDVZ', 'B06WP4PZ1P']"
+    },
+    "147": {
+        "generated_text": "(\"extra large\" OR large OR spacious OR oversized) AND (\"diaper bag\" OR \"diaper pail\" OR \"diaper storage\") AND (\"backpack\" OR tote OR shoulder bag OR carryall)",
+        "target": "['B077N4G6DW', 'B07NZMNJPL']"
+    },
+    "148": {
+        "generated_text": "(\"toddler backpack\" OR \"kids backpack\" OR \"children's backpack\") AND (\"for girls\" OR \"girl's\" OR \"female\" OR \"ladies\") AND (\"personalized\" OR \"custom\" OR \"customized\" OR \"embellished\")",
+        "target": "['B00H2CRNVI']"
+    },
+    "149": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \n   - \"bamboo\" refers to the material of the diapers.\n   - \"diapers\" is the product type.\n   - \"size 6\" specifies the size of the diapers.\n\n2. Consider synonyms or related terms:\n   - \"bamboo\" could also be referred to as \"bamboo fiber\" or \"bamboo fabric.\"\n   - \"diapers\" might also be referred to as \"nappies,\" but \"diapers\" is more commonly used in English-speaking countries.\n   - \"size 6\" is specific and doesn't have direct synonyms, but it's important to ensure that the search captures all relevant sizes if there are variations.\n\n3. Construct the query using Boolean operators:\n   - Use \"AND\" to ensure all key components are included in the search results.\n   - Use \"OR\" to include synonyms or related terms for broader coverage.\n\n4. Finalize the query:\n   - Ensure the query is structured to capture products that are bamboo diapers specifically designed for size 6.\n\nThe final query will look like this:\n(\"bamboo\" OR \"bamboo fiber\" OR \"bamboo fabric\") AND \"diapers\" AND (\"size 6\" OR \"size 6 nappies\")\n\nThis query ensures that we retrieve products that are bamboo-based diapers suitable for the specified size.",
+        "target": "['B07B52D8X1', 'B06Y5W1QLG']"
+    },
+    "150": {
+        "generated_text": "(tall OR high OR elegant) AND (plastic OR acrylic OR polypropylene) AND (dresser OR chest OR cupboard OR 'storage unit')",
+        "target": "['B00RYQJFOA', 'B07RLGNS2J']"
+    },
+    "151": {
+        "generated_text": "(\"bibs\" OR \"pacifiers\") AND (\"6-18 months\")",
+        "target": "['B07DPWMGWL']"
+    },
+    "152": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"bird vinyl decal\".\n2. Identify key components:\n   - \"bird\": This suggests the design or theme of the vinyl decal.\n   - \"vinyl\": This indicates the material of the decal.\n   - \"decal\": This refers to the type of product.\n3. Consider synonyms or related terms:\n   - For \"bird\", related terms could include \"avian\" or specific bird names like \"sparrow\", \"owl\", etc.\n   - For \"vinyl\", there aren't many direct synonyms but it's important to ensure the material is included.\n   - For \"decal\", related terms might include \"sticker\" or \"decal\".\n4. Construct a Boolean query:\n   - Use AND to ensure all key components are included.\n   - Use OR to include synonyms or related terms for broader search results.\n\nThe goal is to create a query that ensures we find products that are vinyl decals with a bird design, while also considering variations in terminology.\n\nFinal Boolean query:\n(\"bird\" OR \"avian\" OR \"sparrow\" OR \"owl\") AND (\"vinyl\" OR \"plastic\") AND (\"decal\" OR \"sticker\"). This query will help retrieve products that match the description and variations of the terms provided.",
+        "target": "['B085LP54ZP', 'B07XRH9Q76', 'B07K7MMZK5', 'B015QQYU5I', 'B0123E9RX6', 'B00MBPCDR0', 'B004089IGU']"
+    },
+    "153": {
+        "generated_text": "(black OR dark OR charcoal OR ebony) AND (hinged OR adjustable OR swing OR sliding) AND (\"pet gates\" OR \"pet doors\" OR \"pet entryways\") AND (\"doorways\" OR entrance OR passageway)",
+        "target": "['B074SR6C6S']"
+    },
+    "154": {
+        "generated_text": "(\"boogie\" OR \"boat\" OR \"water\" OR \"pool\" OR \"marine\") AND (\"scooper\" OR \"scoop\" OR \"tool\" OR \"device\" OR \"toy\")",
+        "target": "['B07RP84PFP', 'B00GXTTPKI', 'B01CI28I38']"
+    },
+    "155": {
+        "generated_text": "(\"britax\" AND (\"car seat\" OR \"child safety seat\" OR \"booster seat\" OR \"baby seat\"))",
+        "target": "['B079W4NMH5', 'B07SCFTPFR', 'B07V9ZXK94', 'B013YCWASA']"
+    },
+    "156": {
+        "generated_text": "(\"boppy\" OR \"Boppy\" OR \"Bobbie\") AND (\"nursing pillow\" OR \"lounger\") AND (\"without cover\" OR \"coverless\" OR \"no cover\")",
+        "target": "['B07XLNFBZX', 'B08CL4TCNK', 'B07SCPXSH5', 'B06Y278D6K', 'B07F4B7572']"
+    },
+    "157": {
+        "generated_text": "(\"box\" OR \"storage\" OR \"organizer\" OR \"container\") AND (\"hair\" OR \"hair accessories\" OR \"hair decorations\") AND (\"bows\" OR \"hair bows\" OR \"hair ties\" OR \"hair clips\")",
+        "target": "['B0811SJKB3', 'B07F1FFNDD', 'B01NBLOXEC']"
+    },
+    "158": {
+        "generated_text": "(\"breast feeding\" OR \"lactation\" OR \"nursing\" OR \"breastfeeding\") AND (\"sign\" OR \"poster\" OR \"banner\" OR \"display\")",
+        "target": "['B07V4TNZQD', 'B0794GLB7X', 'B01E96U2YE', 'B00R76V8IS', 'B008QSVAIE']"
+    },
+    "159": {
+        "generated_text": "(\"bright\" OR \"vibrant\" OR \"colorful\" OR \"shiny\") AND (\"flower\" OR \"floral\" OR \"bloom\" OR \"petal\") AND (\"print\") AND (\"sheet\" OR \"bedding\" OR \"bedsheet\") AND (\"blanket\" OR \"cover\" OR \"comforter\")",
+        "target": "['B06Y5Q3W5M']"
+    },
+    "160": {
+        "generated_text": "(\"butt\" OR \"gluteal\" OR \"buttocks\") AND (\"paste\" OR \"cream\" OR \"gel\" OR \"ointment\") AND (\"applicator\" OR \"stick\" OR \"applicator tip\")",
+        "target": "['B01B912VM8']"
+    },
+    "161": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"cacti decor playroom\".\n2. Identify key components:\n   - \"cacti\": This suggests the customer is interested in products related to cacti, possibly as decorative items or for play.\n   - \"decor\": Indicates the customer is looking for decorative items, which could include plants like cacti.\n   - \"playroom\": Suggests the context of use is a playroom, implying the need for items suitable for children or that can be used as toys.\n\n3. Generate synonyms and related terms:\n   - For \"cacti\": succulents, planters, greenery\n   - For \"decor\": decoration, embellishment, accessory\n   - For \"playroom\": kids, children, toy, playset\n\n4. Construct a Boolean query using these terms to ensure comprehensive coverage of potential products:\n   - Use AND to combine different concepts that must be present.\n   - Use OR to include synonyms and related terms to broaden the search.\n\n5. Final Boolean query:\n   - (\"cacti\" OR \"succulents\" OR \"planters\" OR \"greenery\") AND (\"decor\" OR \"decoration\" OR \"embellishment\" OR \"accessory\") AND (\"playroom\" OR \"kids\" OR \"children\" OR \"toy\" OR \"playset\")\n\nThis query should effectively retrieve products that are related to cacti decor suitable for a playroom environment.",
+        "target": "['B07RGVS4Z7', 'B07K1CWW89']"
+    },
+    "162": {
+        "generated_text": "(\"step 2\" OR \"safety gate\" OR \"baby gate\" OR \"toddler guard\") AND (\"toddler bed\" OR \"crib\" OR \"nursery bed\" OR \"kids bed\") AND (\"for girls\" OR \"pink\" OR \"cute\" OR \"princess\" OR \"girly\")",
+        "target": "['B01FLQM6YK', 'B00MYUG3U0', 'B00D9OMXHM']"
+    },
+    "163": {
+        "generated_text": "(\"chewy\" OR \"edible\" OR \"tasty\" OR \"sweet\" OR \"snackable\") AND (\"bank\" OR \"financial\" OR \"savings\" OR \"money\" OR \"storage\")",
+        "target": "['B07L4H37VW', '0375758623']"
+    },
+    "164": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"citi mini gt2 stroller\".\n   - \"Citi\" is likely referring to a brand name.\n   - \"Mini GT2\" seems to be a specific model or version of a product.\n   - \"Stroller\" is the type of product.\n\n2. Identify key components:\n   - Brand: Citi\n   - Model/Version: Mini GT2\n   - Product Type: Stroller\n\n3. Consider synonyms or related terms:\n   - \"Stroller\" could also be referred to as \"pram\" or \"pushchair\".\n\n4. Construct a logical query using Boolean operators:\n   - We want to ensure that all three components are present in the search results.\n   - Use AND to combine different components.\n   - Use OR for synonyms or related terms to broaden the search if needed.\n\n5. Final query construction:\n   - Ensure the brand, model/version, and product type are all included.\n   - Include synonyms for broader coverage if necessary.\n\nThe final query will look like this:\n(\"Citi\" AND (\"Mini GT2\" OR \"Mini 2\") AND (\"stroller\" OR \"pram\" OR \"pushchair\")).\n\nThis query ensures that we retrieve products that are specifically the Citi Mini GT2 stroller, while also considering variations in naming or synonyms.",
+        "target": "['B07SB92D6Q']"
+    },
+    "165": {
+        "generated_text": "(\"cozy\" OR \"comfort\") AND (\"cover\" OR \"protective cover\") AND (\"easy\" OR \"simple\") AND (\"seat\" OR \"chair\") AND (\"portable\" OR \"movable\") AND (\"high chair\" OR \"child's chair\")",
+        "target": "['B07WCSBPGT']"
+    },
+    "166": {
+        "generated_text": "(\"high chair\" OR \"infant chair\" OR \"toddler chair\" OR \"baby chair\") AND (\"wrap\" OR \"cover\" OR \"strap\" OR \"belt\" OR \"attachment\")",
+        "target": "['B07R7NH5RX', 'B07MZFD26C', 'B0788JBJBP', 'B078H74GCY']"
+    },
+    "167": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"little love by nojo sweet deer\".\n2. Identify key components:\n   - \"little love\" could refer to a specific product or brand name.\n   - \"nojo\" seems to be a brand or designer name.\n   - \"sweet deer\" likely refers to a specific design or motif.\n3. Determine logical relationships:\n   - \"little love\" AND \"nojo\" could be used to find products from Nojo that are related to \"Little Love\".\n   - \"sweet deer\" might be a specific design or motif that can be associated with either \"little love\" or \"nojo\".\n4. Construct a query using Boolean operators:\n   - We want to ensure we capture products that are either from the \"Nojo\" brand or related to \"Little Love\", while also considering the \"sweet deer\" motif.\n   - Use AND to combine necessary conditions and OR to allow for variations or synonyms.\n\nThe final query should look like this:\n(\"little love\" AND \"nojo\") OR (\"sweet deer\" AND (\"little love\" OR \"nojo\"))\n\nThis query ensures that we retrieve products that are either from the Nojo brand or related to \"Little Love\", while also considering the \"sweet deer\" motif. This should help in retrieving the most relevant products based on the given query.",
+        "target": "['B07KZ9J3WV', 'B07MFZKKR7', 'B07XMDWMK6', 'B07SNS49VQ', 'B071W6WX8L', 'B06ZYSMF4M', 'B06ZYHZN13']"
+    },
+    "168": {
+        "generated_text": "(Playtex AND bottles AND reflux AND bottle liner)",
+        "target": "['B000056JMU']"
+    },
+    "169": {
+        "generated_text": "(\"matching\" OR \"similar\" OR \"coordinated\" OR \"complementary\") AND (\"hospital\" OR \"medical\" OR \"maternity\" OR \"neonatal\") AND (\"outfits\" OR \"clothing\" OR \"apparel\" OR \"attire\") AND (\"mom\" OR \"mother\" OR \"mother-to-be\") AND (\"baby\" OR \"infant\" OR \"newborn\" OR \"child\")",
+        "target": "['B07H952RKS']"
+    },
+    "170": {
+        "generated_text": "(firefighter OR fireman OR emergency responder OR hero) AND (baby blanket OR infant blanket OR newborn cover OR baby wrap)",
+        "target": "['B078FRRNB9', 'B06XXVPPXW']"
+    },
+    "171": {
+        "generated_text": "(girl OR female OR 'baby girl' OR 'toddler girl') AND (pineapple OR papaya) AND (baby OR infant OR newborn OR child) AND (blanket OR swaddle OR wrap OR cover)",
+        "target": "['B08432MRX6']"
+    },
+    "172": {
+        "generated_text": "(\"grey\" OR \"gray\") AND (\"infant\" OR \"baby\" OR \"newborn\" OR \"toddler\") AND (\"cover\" OR \"case\" OR \"protector\" OR \"wrap\")",
+        "target": "['B01MYT6V9Y']"
+    },
+    "173": {
+        "generated_text": "(grovia AND magic stick AND z)",
+        "target": "['B07Q6D3TM4', 'B002RT8O5U']"
+    },
+    "174": {
+        "generated_text": "(\"Gucci\" OR \"Gucci brand\" OR \"Gucci handbags\") AND (\"bag\" OR \"handbag\" OR \"purses\" OR \"leather goods\")",
+        "target": "['B01N9DKKFH']"
+    },
+    "175": {
+        "generated_text": "(\"hi\" AND \"hand\" AND \"symbol\" AND \"sticker\")",
+        "target": "['B07XX6S284', 'B081VJRCQL', 'B004K4FCP0']"
+    },
+    "176": {
+        "generated_text": "(\"infant\" OR \"baby\" OR \"newborn\") AND (\"bows\" OR \"hair accessories\" OR \"bobs\") AND (\"diy\" OR \"make\" OR \"create\" OR \"craft\")",
+        "target": "['B072WR96PL', 'B07R5MXM1Q', 'B01JC5VL4W']"
+    },
+    "177": {
+        "generated_text": "(\"newborn\" OR \"infant\" OR \"baby\" OR \"small\" OR \"toddler\") AND (\"ear plugs\" OR \"earbuds\" OR \"ear defenders\" OR \"earplugs\" OR \"ear muffs\")",
+        "target": "['B07C9BBKF1', 'B07Z9MP5TW']"
+    },
+    "178": {
+        "generated_text": "(hippo OR hippopotamus OR \"animal print\" OR wildlife OR nature) AND (nursery OR \"baby room\" OR \"children's room\" OR playroom OR decor OR accessories)",
+        "target": "['B07W6KNR64', 'B07SN9W6TB', 'B07SL3CZR4', 'B075WPP2W6', 'B071S6DS3R']"
+    },
+    "179": {
+        "generated_text": "(\"huggies\" OR \"Huggies diapers\" OR \"Huggies wipes\") AND (\"overnight\" OR \"nighttime\" OR \"long night\" OR \"extended wear\") AND (\"size 4\" OR \"size 4 diaper\" OR \"size 4 size guide\" OR \"size 4 pack\")",
+        "target": "['B0027A8QXE', 'B00008I7ZZ']"
+    },
+    "180": {
+        "generated_text": "(\"little swimmers\" OR \"kids\" OR \"children\") AND (\"size 4\" OR \"small\" OR \"toddler\" OR \"youth\")",
+        "target": "['B00394DQGE', 'B09B8N5GXS', 'B0929DSHT4', 'B0929XV1JJ', 'B000GPUI88', 'B0014E6IXO', 'B00J0G3LJC', 'B00ISF9ALO']"
+    },
+    "181": {
+        "generated_text": "(infant AND winter AND (wear OR clothing OR jackets))",
+        "target": "['B0733LM9BD']"
+    },
+    "182": {
+        "generated_text": "(\"insulated\" OR \"temperature-controlled\" OR \"thermos\" OR \"heat retention\") AND (\"toddler\" OR \"child\" OR \"baby\" OR \"small child\") AND (\"sippy cup\" OR \"spout cup\" OR \"baby cup\" OR \"toddlers' cup\")",
+        "target": "['B00G6EE6I6']"
+    },
+    "183": {
+        "generated_text": "(\"Joovy AND vent\") OR (\"Joovy vent\" as phrase) OR (\"vent Joovy\")",
+        "target": "['B00HXDVM90']"
+    },
+    "184": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the original query: \n   - \"long\": This suggests the customer is looking for a product that has extended length capabilities.\n   - \"mobile\": Indicates the product should be suitable for use on a mobile device or in a mobile context.\n   - \"clamp\": The main product type being searched for.\n   - \"crib\": The intended use or location for the clamp.\n\n2. Consider synonyms or related terms:\n   - \"long\" could also mean \"extended\", \"extra-long\", \"lengthy\".\n   - \"mobile\" might relate to \"portable\", \"handheld\", \"device-compatible\".\n   - \"clamp\" could include \"holder\", \"bracket\", \"attachment\".\n   - \"crib\" might relate to \"nursery\", \"infant bed\", \"baby bed\".\n\n3. Construct a Boolean query using these terms to ensure comprehensive coverage of potential matches while maintaining relevance:\n   - Use AND to ensure all essential aspects are included.\n   - Use OR to incorporate synonyms and related terms.\n\n4. Finalize the query:\n   - Ensure logical grouping and prioritization of terms to maximize retrieval effectiveness.\n\nThe final query will look like this:\n(\"long\" OR \"extended\" OR \"extra-long\" OR \"lengthy\") AND (\"mobile\" OR \"portable\" OR \"handheld\" OR \"device-compatible\") AND (\"clamp\" OR \"holder\" OR \"bracket\" OR \"attachment\") AND (\"crib\" OR \"nursery\" OR \"infant bed\" OR \"baby bed\"). This query ensures we capture various ways customers might describe the same product while focusing on the essential attributes they are interested in.",
+        "target": "['B07HSKP6VG', 'B07W37QQ6H', 'B07RQ1BDLZ', 'B07SK14RST']"
+    },
+    "185": {
+        "generated_text": "(Medela AND (connectors OR attachments OR adapters OR ports))",
+        "target": "['B0018LLZXQ']"
+    },
+    "186": {
+        "generated_text": "(\"Medella\" AND (\"pump\" OR \"breast pump\" OR \"nursing pump\" OR \"milk pump\"))",
+        "target": "['B0018LLZXQ', 'B00092A7E8', 'B07MRP7SWX', 'B06XCG66VL', 'B000LPZTQY', 'B08KRQ7N5T', 'B08KT3P5BS', 'B001URWNIY', 'B06XCGDRQR']"
+    },
+    "187": {
+        "generated_text": "(merlin AND (magic OR fantasy ORstorybook) AND (sleepsuit OR pyjama OR pajama OR nightwear) AND (large OR big OR oversized OR XL))",
+        "target": "['B07XCJFR7D', 'B00B1M2N88']"
+    },
+    "188": {
+        "generated_text": "(\"mickey mouse\" AND (\"flannel\" OR \"soft\") AND (\"fabric\" OR \"cloth\"))",
+        "target": "['B01NBTGSUQ', 'B00IRGA6GC']"
+    },
+    "189": {
+        "generated_text": "(\"rest\" OR \"comfort\" OR \"relaxation\" OR \"sleep\" OR \"recuperation\") AND (\"time\" OR \"long-lasting\" OR \"durable\" OR \"extended\") AND (\"mat\" OR \"cushion\" OR \"pad\" OR \"mattress\" OR \"yoga mat\" OR \"meditation mat\")",
+        "target": "['B01N9ZQWMW']"
+    },
+    "190": {
+        "generated_text": "(\"nipple\" OR \"teat\") AND (\"suckers\" OR \"pacifiers\") AND (\"infant\" OR \"baby\" OR \"toddler\") AND (\"bottle\" OR \"dispenser\") AND (\"cup\" OR \"sippy cup\") AND (\"learning\" OR \"training\") AND (\"spilling\" OR \"spill-proof\")",
+        "target": "['B07L1PQJGW', 'B07D5T7ZKQ']"
+    },
+    "191": {
+        "generated_text": "(\"owelette\" AND (\"baby monitors\" OR \"infant monitors\" OR \"nursing babies\" OR \"newborn monitoring\"))",
+        "target": "['B07MFR6NZG']"
+    },
+    "192": {
+        "generated_text": "(\"owlet\" OR \"owl\") AND (\"sock\" OR \"footwear\" OR \"sleeve\" OR \"cover\") AND (\"replacement\" OR \"spare\" OR \"substitute\" OR \"extra\")",
+        "target": "['B0773XS66S', 'B0773W6TYZ']"
+    },
+    "193": {
+        "generated_text": "(\"poppy seeds\" OR \"poppy seed snacks\" OR \"poppy seed products\" OR \"poppy seed oil\" OR \"poppy seed supplements\") OR (\"poppy themed\" OR \"poppy design\" OR \"poppy motif\")",
+        "target": "['B0817D2S8V', 'B07CNXDDBM', 'B01C4V5MU0', 'B00BFMHSZW']"
+    },
+    "194": {
+        "generated_text": "(\"quinny\" OR \"Quinn\" OR \"Qunnie\") AND (\"buzz\" OR \"vibrating\" OR \"sound\" OR \"alarm\") AND (\"stroller\" OR \"pram\" OR \"pushchair\")",
+        "target": "['B017A1E6HY', 'B00IBTNZD6']"
+    },
+    "195": {
+        "generated_text": "(\"rock it\" AND (toys OR baby OR infant)) OR \"rockits\"",
+        "target": "['B076KP7HKW', 'B00IKVLRC6', '1532094655', '0740767321']"
+    },
+    "196": {
+        "generated_text": "(\"samxic\" OR \"Samsung\") AND (\"baby monitor\" OR \"infant monitor\" OR \"nursing baby monitor\" OR \"monitor\")",
+        "target": "['B08N5RHX75']"
+    },
+    "197": {
+        "generated_text": "(\"sleepsuit\" OR \"diaper suit\" OR \"nursery sleepwear\" OR \"baby sleepwear\") AND (\"newborn\" OR \"infant\" OR \"babies\" OR \"toddler\")",
+        "target": "['B07WNQZMK3']"
+    },
+    "198": {
+        "generated_text": "(slim OR thin OR lightweight OR narrow) AND (\"diaper changing pad\" OR \"changing pad\" OR \"diaper pail liner\" OR \"diaper changing mat\")",
+        "target": "['B074FVGXZ8', 'B074W37NQ1', 'B00P7TQ0ZS']"
+    },
+    "199": {
+        "generated_text": "(\"stackable\" OR \"collapsible\" OR \"foldable\" OR \"modular\" OR \"multi-level\" OR \"adjustable\") AND (\"steps\" OR \"ladder\" OR \"stairs\" OR \"platform\" OR \"riser\")",
+        "target": "['B07KWDTKSV', 'B083K7MC2N', 'B07KWFMSSM', 'B003ZZGAV0']"
+    },
+    "200": {
+        "generated_text": "(stokke AND \"tripp trapp\" AND (tray OR storage OR container OR holder))",
+        "target": "['B07V58FD45', 'B07NDKN57X', 'B08BPJZ5TK', 'B07F18TG39', 'B00YF0KUDS']"
+    },
+    "201": {
+        "generated_text": "(\"swaddleme\" OR \"blue\")",
+        "target": "['B0107CYKJ2', 'B07BMCMZXL', 'B0160R7D6U', 'B014QVIKBE', 'B074R2SX12']"
+    },
+    "202": {
+        "generated_text": "(\"The First Years\" OR \"First Years\") AND (\"bottle\" OR \"baby bottle\" OR \"infant bottle\" OR \"feeding bottle\")",
+        "target": "['B001PVAXZK']"
+    },
+    "203": {
+        "generated_text": "(\"toddler\" OR \"kids\" OR \"children\" OR \"young children\") AND (\"sports\" OR \"athletic\" OR \"team\" OR \"sporting\" OR \"game\") AND (\"bedding\" OR \"bed sheets\" OR \"bed coverings\" OR \"bed accessories\")",
+        "target": "['B07DTLJRXB', 'B07BCBFPGK', 'B06XJJBYXV']"
+    },
+    "204": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"upright infant seat\".\n2. Identify key components:\n   - \"upright\": This suggests a specific type of infant seat that is not rear-facing or convertible.\n   - \"infant\": Indicates the product is for very young children, typically newborns or very young babies.\n   - \"seat\": The main product category.\n3. Consider synonyms and related terms:\n   - \"upright\" could also be referred to as \"vertical\" or \"standing\".\n   - \"infant\" might also be represented by \"baby\", \"newborn\", or \"toddler\" (though toddler is slightly older, it can sometimes be used interchangeably).\n   - \"seat\" could include \"stroller\", \"crib\", or \"bouncer\" if they are similar in function or design.\n4. Construct a Boolean query:\n   - Use AND to ensure all key components are included.\n   - Use OR to include synonyms and related terms.\n5. Final query construction:\n   - (\"upright\" OR \"vertical\" OR \"standing\") AND (\"infant\" OR \"baby\" OR \"newborn\" OR \"toddler\") AND (\"seat\" OR \"stroller\" OR \"crib\" OR \"bouncer\").\nThis query will help retrieve products that match the description of an upright infant seat, considering variations in terminology.",
+        "target": "['B084KJ93MF']"
+    },
+    "205": {
+        "generated_text": "(\"wall stickers\" OR \"stickers\" OR \"decorative stickers\" OR \"wall art\") AND (\"bedroom\" OR \"kids\" OR \"children\" OR \"nursery\") AND (\"girls\" OR \"female\" OR \"ladies\" OR \"girl's room\") AND (\"personalizado\" OR \"custom\" OR \"customize\" OR \"personalized\")",
+        "target": "['B07BGGZHQK', 'B0772XG3PK', 'B018HL6NXG']"
+    }
+}

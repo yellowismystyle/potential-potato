@@ -1,0 +1,1634 @@
+{
+    "390": {
+        "generated_text": "(\"omega\" AND \"knife\") AND (\"black\" OR \"dark\" OR \"noir\" OR \"charcoal\" OR \"jet black\")",
+        "target": "['B01FHDZGGM', 'B00GMNI7SQ', 'B07QVKTG9P', 'B07G9RBFCP', 'B001EIM83E']"
+    },
+    "391": {
+        "generated_text": "(\"self-defense\" OR \"safety\" OR \"security\" OR \"protection\" OR \"deterrent\") AND (\"weapons\" OR \"armaments\" OR \"firearms\" OR \"bladed weapons\" OR \"martial arts equipment\")",
+        "target": "['B01FHDZGGM', 'B07DY4J11S']"
+    },
+    "392": {
+        "generated_text": "(crossman AND (\"full auto\" OR automatic OR \"auto mode\" OR \"full-auto\" OR \"continuous fire\"))",
+        "target": "['B07R5WLY7K', 'B081V8BT7G', 'B01DC3ZH7M', 'B084RNXHTD', 'B07G2J1XVR']"
+    },
+    "393": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"kids\", \"airsoft\", \"gun\".\n2. Consider synonyms or related terms for each component:\n   - \"kids\": children, child, youth\n   - \"airsoft\": foam, blaster, toy gun\n   - \"gun\": weapon, firearm, toy\n3. Construct a Boolean query using these terms to ensure comprehensive coverage of relevant products.\n\nThe goal is to create a query that captures all possible variations of the original search while maintaining relevance. We'll use the AND operator to ensure all aspects are covered, and the OR operator to include synonyms.\n\nFinal Boolean query:\n(\"kids\" OR \"children\" OR \"child\" OR \"youth\") AND (\"airsoft\" OR \"foam\" OR \"blaster\" OR \"toy gun\") AND (\"gun\" OR \"weapon\" OR \"firearm\" OR \"toy\"). This query will help retrieve products that are specifically designed for kids, are related to airsoft, and are guns or similar toys.",
+        "target": "['B079VHLFZ7', 'B01MQS74AT', 'B0797FQRWV', 'B0037RN4M4']"
+    },
+    "394": {
+        "generated_text": "(\"dartboard\" OR \"dart game\" OR \"dart set\") AND (\"bar\" OR \"pub\" OR \"sports bar\" OR \"gaming\" OR \"barcade\") AND (\"style\" OR \"design\" OR \"theme\" OR \"decor\")",
+        "target": "['B007J38NC8', 'B089SSJHT2', 'B077MC92Q5', 'B07FP1LXPJ', 'B088JPXMVP', 'B091MMW8SZ', 'B00009EPCY', 'B000G2Z4VW', 'B000UV57DE', 'B0052QO71A', 'B0018D69TE', 'B00PHEP70W', 'B00EX7FCJ0']"
+    },
+    "395": {
+        "generated_text": "(\"challenges\" OR \"trends\" OR \"tasks\" OR \"projects\" OR \"initiatives\") AND (\"youtubers\" OR \"creators\" OR \"vloggers\" OR \"online content producers\")",
+        "target": "['B073R59XYF', 'B08THZBHC5', 'B0778X6JJX', 'B0742DY1GX', 'B075ZRJDK4']"
+    },
+    "396": {
+        "generated_text": "(electric OR powered electric OR battery-powered) AND (adult OR grown-up OR mature) AND (tricycle OR three-wheeler)",
+        "target": "['B07ZZ2SNXT']"
+    },
+    "397": {
+        "generated_text": "(\"177\" OR \".177\" OR \"177mm\") AND (\"alloy\" OR \"metal\" OR \"steel\") AND (\"pellets\" OR \"bullets\" OR \"ammunition\") AND (\"air rifle\" OR \"air gun\" OR \"pneumatic rifle\")",
+        "target": "['B0015N6I70', 'B007UOOWSA', 'B00B7399TW', 'B00AU6A3D8', 'B00NW9KL7I', 'B0074MUZZM', 'B003C6W3XG', 'B003DW5KH0', 'B076PS18MC', 'B07NDBW172', 'B0973MVHX4', 'B0973N91P9', 'B000F2XX98', 'B001BS98JE', 'B007FFXB90']"
+    },
+    "398": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"02cool spray water bottle for drinking not flap to drink\".\n   - Key components: \"02cool\", \"spray\", \"water bottle\", \"drinking\", \"not flap\", \"to drink\".\n   - \"02cool\" seems like a brand or model name.\n   - \"spray\" indicates the type of mechanism for dispensing water.\n   - \"water bottle\" is the product category.\n   - \"drinking\" suggests the primary function of the product.\n   - \"not flap\" implies a specific feature or lack thereof (no lid or flap).\n   - \"to drink\" reinforces the drinking function.\n\n2. Identify important keywords and concepts:\n   - Brand/model: \"02cool\"\n   - Product type: \"water bottle\"\n   - Mechanism: \"spray\"\n   - Feature: \"not flap\"\n   - Function: \"drinking\"\n\n3. Construct a logical query using Boolean operators:\n   - We want to ensure that the search includes the brand/model, product type, and mechanism.\n   - We need to exclude products with flaps.\n   - The function \"drinking\" is implied by the context but can be included for completeness.\n\n4. Formulate the query:\n   - Use AND to combine essential features: \"02cool\", \"spray\", \"water bottle\", \"drinking\".\n   - Use NOT to exclude products with flaps: \"NOT flap\".\n   - Consider synonyms or related terms for broader coverage if needed, but in this case, the terms are quite specific.\n\n5. Final query:\n   - (\"02cool\" AND \"spray\" AND \"water bottle\" AND \"drinking\" AND NOT \"flap\")\n\nThis structured query should effectively retrieve products that match the customer's needs based on the provided input.",
+        "target": "['B07DLFJ1WV', 'B07DLG3B1W', 'B07W67T98W', 'B00TY7OHEA', 'B00U0JIWXS', 'B07B1KXYFV']"
+    },
+    "399": {
+        "generated_text": "(\"bike carrier\" OR \"luggage rack\" OR \"roof rack\" OR \"bike rack\") AND (\"suv\" OR \"compact car\" OR \"crossover\" OR \"small vehicle\") AND (\"without hitch\" OR \"no hitch\" OR \"no lift\" OR \"non-hitch\")",
+        "target": "['B08B5M9C4R', 'B000QJ8C1Y', 'B08K2J778F', 'B07954CY49', 'B077XYM4VF', 'B075FMFXFZ']"
+    },
+    "400": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"trunk bike rack 4\".\n   - \"trunk\" suggests that the bike rack should be suitable for use in a car's trunk.\n   - \"bike rack\" indicates the product type.\n   - \"4\" could refer to compatibility with a 4th wheel or a specific model/series.\n\n2. Identify key components:\n   - Product type: \"bike rack\"\n   - Use case/location: \"trunk\"\n   - Specific feature/model: \"4\"\n\n3. Consider synonyms or related terms:\n   - \"trunk\": cargo, rear\n   - \"bike rack\": carrier, bicycle rack\n\n4. Formulate a structured query using Boolean operators:\n   - Ensure the query captures the essential aspects of the original query.\n   - Use AND to combine different concepts that must all be present.\n   - Use OR to include synonyms or related terms.\n\n5. Construct the query:\n   - (\"trunk\" OR \"cargo\" OR \"rear\") AND (\"bike rack\" OR \"carrier\" OR \"bicycle rack\") AND (\"4\" OR \"fourth wheel\" OR \"model 4\")\n\nThis query will help retrieve products that are specifically designed for use in a car's trunk, are bike racks, and have some relevance to the number \"4\". The use of synonyms ensures broader coverage while maintaining relevance.",
+        "target": "['B000QJ8C1Y']"
+    },
+    "401": {
+        "generated_text": "(\"100 oz\" OR \"100 ounce\" OR \"one hundred ounces\") AND (\"water bottle\" OR \"hydration bottle\" OR \"sports bottle\") AND (\"bpa free\" OR \"BPA-free\" OR \"BPA-free plastic\" OR \"BPA-free material\")",
+        "target": "['B08D9BV9LQ', 'B08WRHMSLQ', 'B08Z379RFJ', 'B097QPBC65', 'B08D6SH6SQ', 'B08VGS7VH8', 'B07S59Q765']"
+    },
+    "402": {
+        "generated_text": "(\"1/2 gallon\" OR \"half gallon\" OR \"0.5 gallon\") AND (\"water bottle\" OR \"hydration bottle\" OR \"drinking bottle\") AND (\"without straw\" OR \"no straw\" OR \"non-straw\")",
+        "target": "['B08791Q8X4', 'B08VMV91F3', 'B08SGR79PQ', 'B08XZ7G2B5', 'B08HMLPH5R', 'B07WW3KC3D']"
+    },
+    "403": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the given query: \"fsa fat pig\".\n2. Identify key components:\n   - \"fsa\": This could refer to a brand or specific product line.\n   - \"fat pig\": This likely refers to a type of toy or figurine, often used as a stress relief item.\n\n3. Determine the intent behind the query:\n   - The user is likely looking for a specific product related to \"fat pig\" that might be associated with \"fsa\".\n\n4. Generate query terms:\n   - We want to ensure the search captures both the brand/product line (\"fsa\") and the specific item type (\"fat pig\").\n   - Use Boolean operators to combine these terms logically.\n\n5. Construct the query:\n   - Use AND to ensure both terms are present in the search results.\n   - Consider synonyms or related terms for \"fat pig\" like \"stress relief\", \"toy\", \"figurine\" to broaden the search if needed.\n\nFinal Query:\n- (\"fsa\" AND (\"fat pig\" OR \"stress relief\" OR \"toy\" OR \"figurine\"))\nThis query ensures that we retrieve products that are related to both \"fsa\" and \"fat pig\", while also considering related terms to capture a broader range of relevant products.",
+        "target": "['B003J7XCRO', 'B07WF97NJM', 'B07D48LQYJ', 'B07D589QDN', 'B001N84WKC', 'B004OUQC22']"
+    },
+    "404": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \n   - \"15 pound\" refers to the weight of the barbell.\n   - \"barbell\" refers to the type of product.\n   - \"bar\" indicates the specific part of the barbell.\n\n2. Consider synonyms or related terms:\n   - \"15 pound\" could also be expressed as \"15 lbs\" or \"15 lb\".\n   - \"barbell\" might be referred to simply as \"bar\" in some contexts, but it's important to include both terms to ensure comprehensive coverage.\n   - \"bar\" is straightforward, but we should ensure it's included alongside \"barbell\".\n\n3. Construct the query using Boolean operators:\n   - We want to ensure that all products retrieved are related to a 15-pound barbell, so we'll use AND to combine these terms.\n   - To account for variations in how \"15 pound\" might be written, we can use OR to include different expressions.\n\n4. Final query construction:\n   - Combine the terms using Boolean logic to ensure precision in retrieval.\n\nThe final query will look like this:\n(\"15 pound\" OR \"15 lbs\" OR \"15 lb\") AND (\"barbell\" OR \"bar\") AND \"bar\"\n\nThis query ensures that we retrieve products that are specifically 15-pound barbells, considering possible variations in how the weight is expressed and including both the full term and its abbreviation. The inclusion of \"bar\" ensures we don't miss products that might not explicitly mention \"barbell\".",
+        "target": "['B00E0DJ7L6', 'B00R93GJ74', 'B09B5G8914', 'B088CVNBNQ', 'B08NJ6TQW5', 'B098XBCRYC', 'B07VW85FNQ', 'B01A03C2GQ']"
+    },
+    "405": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"1 wheel skates without breaks\".\n2. Identify key components:\n   - \"1 wheel\": This suggests a single-wheel skate, which is also known as a unicycle or monocycle.\n   - \"skates\": This is the general term for the product category.\n   - \"without breaks\": This implies that the skate should not have brake mechanisms, which are typically used to stop the wheel.\n\n3. Determine synonyms and related terms:\n   - \"1 wheel\" can be referred to as \"unicycle\" or \"monocycle\".\n   - \"skates\" is already specific enough, but we could consider \"skate\" as well.\n   - \"without breaks\" means no brakes, so we can include terms like \"no brakes\", \"brakeless\", or \"non-braking\".\n\n4. Construct the Boolean query:\n   - We want to ensure that the search includes products that are either unicycles or monocycles and specifically those that do not have brakes.\n   - Use AND to combine different concepts and OR to include synonyms.\n\n5. Final Boolean query:\n   - (\"1 wheel\" OR \"unicycle\" OR \"monocycle\") AND (\"skates\" OR \"skate\") AND (\"without breaks\" OR \"no brakes\" OR \"brakeless\" OR \"non-braking\")\n\nThis query will help retrieve products that match the description of a single-wheel skate without brakes, considering different terminologies that might be used by sellers or manufacturers.",
+        "target": "['B07V35YGR7', 'B07X3MJNZC', 'B08FY7KJHG', 'B018SRBNLQ', 'B07FD4278Y']"
+    },
+    "406": {
+        "generated_text": "(\"10 gallon\" OR \"10-gallon\" OR \"ten gallon\") AND (\"camping\" OR \"outdoor\" OR \"portable\" OR \"travel\") AND (\"shower bag\" OR \"shower backpack\" OR \"shower container\")",
+        "target": "['B087441THB']"
+    },
+    "407": {
+        "generated_text": "(\"10 lb\" OR \"ten pound\" OR \"10 lbs\") AND (\"fly fishing\" OR \"fishing with flies\" OR \"fly casting\" OR \"fly tackle\") AND (\"leader\" OR \"guide\" OR \"tippet\" OR \"line\")",
+        "target": "['B072K5D5Z5', 'B0160BROBU', 'B001T6MM46', 'B000E66OHS']"
+    },
+    "408": {
+        "generated_text": "(\"stackable\" OR \"stacking\" OR \"multi-level\" OR \"adjustable stack\") AND (\"weights\" OR \"weights equipment\") AND (\"dumbbells\" OR \"hand weights\" OR \"exercise weights\") AND (\"set\" OR \"collection\")",
+        "target": "['B08P614WWT', 'B08BNMKDPH', 'B07G8NDVT2', 'B000OC5RXE', 'B08J2L498P', 'B07PZV2HDG', 'B07PZV2HDG', 'B077ZGS799', 'B01J8S38LW', 'B07373N7DR', 'B000NWTX6W', 'B00A21NRNO', 'B08DKNWH47', 'B08YD818YN', 'B08YJXMM28', 'B0946QHLW5', 'B07J5FRH9B']"
+    },
+    "409": {
+        "generated_text": "(razor AND (mx650 OR MX-650) AND (dirt bike OR off-road motorcycle OR trail bike))",
+        "target": "['B000FK7C60', 'B01N9JFSD8', 'B004DGVUWO', 'B07HGG59KD', 'B08T6GZ82D', 'B00SV9XH7U', 'B01LZ2OCKW']"
+    },
+    "410": {
+        "generated_text": "\"water bottle\" AND (\"work\" OR \"office\") AND (\"productivity\" OR \"drinking\" OR \"hydration\")",
+        "target": "['B0868Q7M18', 'B088BZPS35', 'B09226SN2G']"
+    },
+    "411": {
+        "generated_text": "(\"tonal\" OR \"Tonal Fitness\") AND (\"exercise equipment\" OR \"fitness machine\" OR \"workout equipment\" OR \"gym equipment\")",
+        "target": "['B00K6ZURAW', 'B07GYXF65S', 'B07HF36TC1', 'B07HF36TC1', 'B07YNGMJY7', 'B08JTV9DNG', 'B08LFZGBQ4']"
+    },
+    "412": {
+        "generated_text": "(\"circle belts\" OR \"ring belts\" OR \"circular belts\" OR \"necklace belts\") AND (\"women\" OR \"ladies\" OR \"female\" OR \"girls\")",
+        "target": "['B00065X222']"
+    },
+    "413": {
+        "generated_text": "\"yoga strap\" AND (\"without buckle\" OR \"no buckle\" OR \"buckleless\")",
+        "target": "['B00065X222', 'B01LXWS98E', 'B07H23HJBQ', 'B00X7N1MRW', 'B07WJRK81C', 'B087LWRSX4', 'B088X56YHY', 'B092MJ621Z', 'B01E04TOJO']"
+    },
+    "414": {
+        "generated_text": "(arm OR arm exercises OR arm training OR arm workouts) AND (bra OR brace OR support OR compression garment) AND (fat OR weight loss OR toning OR sculpting) AND (workout OR exercise OR fitness OR training)",
+        "target": "['B0081SBAPW', 'B08G87CWCL']"
+    },
+    "415": {
+        "generated_text": "(\"104\" AND \"bcd\" AND \"crank arms\") NOT \"chainring\"",
+        "target": "['B07Z81PSTD', 'B07SYYKKRW', 'B004SKKCLU', 'B075FM93Z4', 'B07593166H', 'B07FCPR3TR']"
+    },
+    "416": {
+        "generated_text": "Let me solve this step by step.\n1. Break down the original query into key components:\n   - \"11-speed\"\n   - \"crankset\"\n   - \"without ring\"\n   - \"mtb\"\n\n2. Understand the context and intent:\n   - \"11-speed\" likely refers to a specific type of crankset that supports 11 speeds.\n   - \"crankset\" is the main product being searched for.\n   - \"without ring\" suggests that the crankset should not include a chainring or similar component.\n   - \"mtb\" stands for mountain bike, indicating the target usage or compatibility.\n\n3. Formulate the query using Boolean logic:\n   - We want to ensure that the search results include products that are specifically \"11-speed cranksets\".\n   - These cranksets should be \"without ring\", meaning they should not have a chainring.\n   - They should be compatible with \"mtb\" or mountain bikes.\n\n4. Construct the query:\n   - Use AND to combine different conditions that must all be met.\n   - Consider synonyms or related terms where applicable, but in this case, the terms are quite specific.\n\nThe final query will be structured as follows:\n- (\"11-speed\" AND \"crankset\" AND \"without ring\" AND \"mtb\")\n\nThis ensures that the search results will include products that are 11-speed cranksets suitable for mountain biking and do not include a chainring.",
+        "target": "['B074QH1MYY', 'B08J896RT6', 'B005FWBPZW', 'B0739Q82LH']"
+    },
+    "417": {
+        "generated_text": "(brincolines OR 'exercise equipment' OR 'fitness machines' OR 'workout devices') AND ('para adultos' OR 'adult users' OR 'grown-ups' OR 'mature individuals')",
+        "target": "['B08B53ZB2T', 'B093L6WRG3', 'B088DH75BB', 'B0881ZSGSB', 'B08T89ZJRQ', 'B08P3MVX22', 'B08TBPPQDK', 'B08GD5R328', 'B08VJ2YY6K']"
+    },
+    "418": {
+        "generated_text": "(\"tumble\" OR \"jumping\" OR \"bouncing\" OR \"aerial\" OR \"acrobatic\") AND (\"trampoline\" OR \"jumping mat\" OR \"exercise trampoline\" OR \"outdoor trampoline\")",
+        "target": "['B08KYDGTS6', 'B07T532RGX', 'B07QB9DZYY', 'B01MS8GY1U']"
+    },
+    "419": {
+        "generated_text": "(\"motos\" OR \"motorbikes\" OR \"motorcycles\") AND (\"electricas\" OR \"battery-powered\" OR \"eco-friendly\") AND (\"adults\" OR \"adult\" OR \"grown-ups\" OR \"people\")",
+        "target": "['B07K9MB6X1', 'B06X3VLJ5N', 'B009B0OSLC', 'B07XVP6N3H', 'B07SQZFV3J', 'B099RGQDSP', 'B08ZCFD9LP', 'B08NV6TLQ7', 'B082H3TYCJ']"
+    },
+    "420": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"hydro flask small\".\n   - \"Hydro Flask\" is a brand known for insulated water bottles and related products.\n   - \"Small\" likely refers to the size or capacity of the product.\n\n2. Identify key components:\n   - Brand: Hydro Flask\n   - Size/Type: Small\n\n3. Consider synonyms or related terms:\n   - For \"small,\" consider terms like \"compact,\" \"mini,\" \"portable,\" \"travel,\" \"lightweight.\"\n\n4. Construct a Boolean query:\n   - We want to ensure that we retrieve products from the Hydro Flask brand and that are small in size.\n   - Use AND to combine the brand with the size descriptor.\n   - Use OR to include potential synonyms for \"small.\"\n\n5. Final Boolean query:\n   - (\"Hydro Flask\" AND (\"small\" OR \"compact\" OR \"mini\" OR \"portable\" OR \"travel\" OR \"lightweight\"))\n\nThis query will help retrieve products that are specifically Hydro Flask products and are small in size, covering various ways \"small\" might be described.",
+        "target": "['B07WHS3MPV', 'B078PMNGQX', 'B0744RCT77', 'B01ACASTHS']"
+    },
+    "421": {
+        "generated_text": "\"Hydro Flask\" AND \"straw\"",
+        "target": "['B07PVD2DZN', 'B078PMNGQX', 'B01GW2GVC0', 'B07S64VPQR']"
+    },
+    "422": {
+        "generated_text": "(\"16.9 oz\" OR \"17 oz\" OR \"1.7 liters\") AND (\"bottled water cooler\" OR \"bottle water dispenser\" OR \"bottle filler\" OR \"water station\")",
+        "target": "['B07Q7MY1NK', 'B074KDLF1H', 'B06Y39F84M']"
+    },
+    "423": {
+        "generated_text": "(\"trp\" AND \"spyre\")",
+        "target": "['B01N2359AR', 'B077JVRG6X', 'B07S7TGFLZ', 'B07Z3LDJ17', 'B078W642RM', 'B074ZHZZ5D']"
+    },
+    "424": {
+        "generated_text": "(\"18 inch\" OR \"eighteen inch\" OR \"18-inch\" OR \"eighteen inch\") AND (\"batman\" OR \"Batman figure\" OR \"Batman toy\" OR \"Batman collectible\")",
+        "target": "['B00ZJHFUQS', 'B00IL5XY1I', 'B00BF7G7D6']"
+    },
+    "425": {
+        "generated_text": "\"2 foot\" AND \"fishing rod\" AND \"Andreel\" AND \"setup\"",
+        "target": "['B00OTOK5UI', 'B00FPR2PHE', 'B00FPR2OJ8', 'B002Z2VZMS']"
+    },
+    "426": {
+        "generated_text": "(\"2 iron\" OR \"2-iron\" OR \"two iron\" OR \"2i\") AND (\"golf club\" OR \"golf clubs\" OR \"golf\" OR \"golf equipment\")",
+        "target": "['B07VYK5F79']"
+    },
+    "427": {
+        "generated_text": "(\"goalkeeper\" OR \"goal keeper\" OR \"goalie\") AND (\"net\" OR \"goal net\" OR \"training net\" OR \"practice net\")",
+        "target": "['B07NW2KF32', 'B07NW2KF32', 'B07LGXDTFG', 'B0779QVZBT', 'B011VNV3NW', 'B013LPVN1A', 'B00Z857848', 'B01MQTRK8I']"
+    },
+    "428": {
+        "generated_text": "(\"20 ft\" OR \"20 feet\" OR \"twenty feet\" OR \"20ft\") AND \"trampoline\" AND (\"enclosure\" OR \"cover\" OR \"portable cover\" OR \"frame\" OR \"structure\")",
+        "target": "['B09742421Z', 'B093L6WRG3']"
+    },
+    "429": {
+        "generated_text": "(trampoline) AND ((bounce OR bouncy) AND (pro OR professional OR advanced))",
+        "target": "['B09742421Z', 'B07R44XP7Y', 'B077SMJH59', 'B077QFRP8D', 'B01N6U2YL6']"
+    },
+    "430": {
+        "generated_text": "(\"20 lb\" OR \"twenty pounds\" OR \"20 lbs\") AND (\"medicine balls\" OR \"exercise balls\" OR \"fitness balls\") AND (\"rubber\" OR \"elastic\" OR \"pliable\")",
+        "target": "['B01J2D0CGW']"
+    },
+    "431": {
+        "generated_text": "(\"20 pound\" OR \"20 lbs\" OR \"twenty pounds\") AND (\"weights\" OR \"barbell\" OR \"dumbbell\" OR \"set\")",
+        "target": "['B08CHLLW5W']"
+    },
+    "432": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"20 wheel mountain bike\".\n   - \"20 wheel\" suggests a specific size or type of mountain bike wheel, likely referring to 26-inch wheels which are common for mountain bikes.\n   - \"mountain bike\" indicates the type of bicycle.\n\n2. Identify key components:\n   - Size/type: \"20 wheel\" or \"26 inch\"\n   - Category: \"mountain bike\"\n\n3. Consider synonyms or related terms:\n   - \"20 wheel\" could also be expressed as \"26 inch\", \"twenty-six inch\", \"26\\\"\"\n   - \"mountain bike\" might include \"off-road bike\", \"trail bike\", \"cross country bike\"\n\n4. Construct a Boolean query:\n   - We want to ensure that both the size/type and category are included in the search results.\n   - Use AND to combine the main components and OR to include synonyms or variations.\n\n5. Final Boolean query:\n   - (\"20 wheel\" OR \"26 inch\" OR \"twenty-six inch\" OR \"26\\\"\") AND (\"mountain bike\" OR \"off-road bike\" OR \"trail bike\" OR \"cross country bike\")\n\nThis query will help retrieve products that match the description of a 20-inch wheel mountain bike, considering different ways these terms might be expressed in product listings.",
+        "target": "['B07X96JDDZ', 'B07SZTKDVH']"
+    },
+    "433": {
+        "generated_text": "(\"20 x 26\" OR \"20x26\" OR \"20 inch\" OR \"26 inch\") AND (\"bicycle\" OR \"bike\")",
+        "target": "['B076Z69P95']"
+    },
+    "434": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the given query: \"toxozers\".\n2. Determine possible interpretations or related terms:\n   - \"Toxozers\" could be a brand name, product line, or specific type of product.\n   - It might be a misspelling or variation of another known term.\n3. Consider potential categories or contexts where \"toxozers\" might be used:\n   - If it's a brand, it could relate to health, beauty, cleaning, or any industry where such names are common.\n   - If it's a product, it could be related to chemicals, medications, or consumer goods.\n4. Generate query terms using Boolean operators to cover possible interpretations:\n   - Use \"OR\" to include variations or related terms.\n   - Use \"AND\" to narrow down to specific categories if needed.\n5. Construct the query logically to maximize relevance.\n\nBased on these considerations, I will generate a query that covers potential interpretations of \"toxozers\". Since it's unclear what \"toxozers\" refers to, I'll assume it could be a brand or product name and include some general terms that might be relevant.\n\nFinal query construction:\n- Include possible variations or related terms like \"toxozers\", \"toxozer\", \"toxozer products\", \"toxozer brand\".\n- Use Boolean operators to ensure comprehensive coverage.\n\nThe final query will look something like this:\n(\"toxozers\" OR \"toxozer\" OR \"toxozer products\" OR \"toxozer brand\") AND (\"health\" OR \"beauty\" OR \"cleaning\" OR \"chemicals\" OR \"medications\" OR \"consumer goods\"). This ensures we capture any products or brands related to \"toxozers\" across different categories.",
+        "target": "['B07HT4QYY1', 'B082H3TYCJ', 'B09157HLGV', 'B0924R4WPC', 'B09491KZVF', 'B08D94C95Z']"
+    },
+    "435": {
+        "generated_text": "(\"adjustable\" OR \"flexible\" OR \"changeable\" OR \"customizable\" OR \"variable\") AND (\"kettlebell\" OR \"dumbbell\" OR \"weightlifting equipment\")",
+        "target": "['B074V1FMDT', 'B084RSDLWG', 'B0875N9VMH', 'B07YY14GZS']"
+    },
+    "436": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"20lb maxima chameleon\".\n   - \"20lb\" likely refers to weight capacity or size.\n   - \"maxima\" could refer to a brand or model name.\n   - \"chameleon\" might refer to a type of product or feature.\n\n2. Identify key components:\n   - Weight: 20lb\n   - Brand/Model: Maxima\n   - Product Type/Feature: Chameleon\n\n3. Consider synonyms or related terms:\n   - \"20lb\": 20 pounds, 20 lbs\n   - \"Maxima\": Maxima brand, Maxima model\n   - \"Chameleon\": Chameleon product, chameleon feature\n\n4. Construct a Boolean query:\n   - Use AND to ensure all key components are included.\n   - Use OR to include synonyms or related terms.\n\n5. Final Boolean query:\n   - (\"20lb\" OR \"20 pounds\" OR \"20 lbs\") AND (\"Maxima\" OR \"Maxima brand\" OR \"Maxima model\") AND (\"Chameleon\" OR \"Chameleon product\" OR \"chameleon feature\")\n\nThis query ensures that we retrieve products that match the weight capacity, brand/model, and product type/feature specified in the original query. The use of synonyms helps broaden the search to capture variations in how these terms might be listed in product descriptions.",
+        "target": "['B07QPYFQ2C', 'B003FKTEZE']"
+    },
+    "437": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"cultural tags game\".\n2. Identify key components:\n   - \"cultural\": This suggests themes related to culture, such as cultural heritage, traditions, or customs.\n   - \"tags\": This could refer to game pieces or markers that players use to identify or categorize items.\n   - \"game\": This indicates that the product is a type of game.\n3. Consider synonyms and related terms:\n   - For \"cultural\": traditional, heritage, ethnic, historical, folklore.\n   - For \"tags\": markers, cards, tokens, pieces.\n   - For \"game\": board game, card game, tabletop game, multiplayer game.\n4. Construct a Boolean query using these terms to ensure comprehensive coverage of potential products:\n   - Combine synonyms and related terms using OR to capture variations.\n   - Use AND to ensure all key components are included in the search.\n\nThe final Boolean query will look like this:\n(\"cultural\" OR \"traditional\" OR \"heritage\" OR \"ethnic\" OR \"historical\" OR \"folklore\") AND (\"tags\" OR \"markers\" OR \"cards\" OR \"tokens\" OR \"pieces\") AND (\"game\" OR \"board game\" OR \"card game\" OR \"tabletop game\" OR \"multiplayer game\"). This query ensures we cover various aspects of the original query while allowing for different terminologies that might be used in product descriptions.",
+        "target": "['B07GSNRZVJ', '1933054395', 'B01M6B9JV5', 'B07NDRRP33', 'B08NS8FQ29', 'B000BKZ97I', 'B01G5HR8TC']"
+    },
+    "438": {
+        "generated_text": "(\"9mm\" OR \"nine millimeter\") AND (\"ammo\" OR \"ammunition\") AND (\"cans\" OR \"canisters\" OR \"containers\")",
+        "target": "['B00I8NJMM8', 'B08JRW3WYW', 'B08ZSM2TLX', 'B00I8NJM5K', 'B00T4XL2MO']"
+    },
+    "439": {
+        "generated_text": "(\"reloading\" OR \"ammunition reloading\" OR \"ammo reloading\") AND (\"equipment\" OR \"tools\" OR \"machinery\" OR \"resizing dies\" OR \"press tools\" OR \"powder hoppers\" OR \"case cleaners\")",
+        "target": "['B000PD6QJ6', 'B008F5H636', 'B003ISVWC6']"
+    },
+    "440": {
+        "generated_text": "(\"mtm\" AND (\"gun\" OR \"firearm\" OR \"pistol\" OR \"rifle\" OR \"weapon\") AND (\"case\" OR \"bag\" OR \"cover\" OR \"storage\" OR \"holder\"))",
+        "target": "['B019LIO7V4', 'B01MR2CXZ8', 'B000H8ZWYE', 'B0000C50G9', 'B0000C50GA', 'B0000C50GC', 'B000JJND7E', 'B001F0GDO6']"
+    },
+    "441": {
+        "generated_text": "(dpms AND (sbr OR 'short barrel rifle') AND (accessories OR parts OR attachments OR gear OR supplies))",
+        "target": "['B01GHSY0SQ', 'B07GWNTJR4', 'B01N5BWE4P', 'B019MN7N5U', 'B08BHL15LL', 'B07G2J1XVR', 'B07TWCZGDL', 'B0791D8GH2', 'B074NCC554', 'B01GAETRNA']"
+    },
+    "442": {
+        "generated_text": "(rifle AND (scope OR optics) AND (night vision OR NV OR thermal))",
+        "target": "['B07211HGZ2', 'B082RF18V4', 'B0768BHHFY', 'B06XJ1M846', 'B088FJ1Q6J']"
+    },
+    "443": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"cruiser bike\" and \"for women\".\n2. \"Cruiser bike\" refers to a type of bicycle characterized by its comfort, ease of riding, and often larger tires. It's important to include synonyms or related terms that capture this essence.\n3. \"For women\" indicates a focus on products designed specifically for female riders, which may include considerations like frame size, comfort features, and design aesthetics.\n4. Consider potential synonyms or related terms for \"cruiser bike\": \"comfort bike\", \"easy ride\", \"ladies' cruiser\", \"wide tire bike\".\n5. Consider potential synonyms or related terms for \"women\": \"female\", \"ladies\", \"girls\".\n6. Combine these terms using Boolean operators to ensure the query captures both the type of bike and the intended user demographic effectively.\n\nThe final query should aim to retrieve products that are cruiser bikes and are specifically designed or marketed towards women. I will use AND to combine the main concepts and OR to include synonyms or related terms.\n\nFinal query: (\"cruiser bike\" OR \"comfort bike\" OR \"easy ride\" OR \"ladies' cruiser\" OR \"wide tire bike\") AND (\"women\" OR \"female\" OR \"ladies\" OR \"girls\"). This ensures we capture a wide range of relevant products while maintaining focus on the target audience and product type.",
+        "target": "['B071FTK77Y', 'B06XXC8WTT']"
+    },
+    "444": {
+        "generated_text": "(\"24 volt\" OR \"24V\") AND (\"electric\" OR \"battery-powered\") AND (\"plug\" OR \"cord\" OR \"connector\") AND (\"trolling motor\" OR \"boat motor\" OR \"fishing motor\")",
+        "target": "['B07XLFT1M8', 'B000NI38O4']"
+    },
+    "445": {
+        "generated_text": "(24v OR '24 volt' OR '24 volts') AND ('bow mount' OR 'boat bow' OR 'marine bow' OR 'boat deck') AND ('trolling motor' OR 'fishing motor' OR 'boat motor')",
+        "target": "['B01N94X60M', 'B01M8IHO7A', 'B01MQ3Y0TJ', 'B077BG7YW5', 'B000DZSGYE', 'B001M5TTF4', 'B00HUQMTZQ', 'B01M3063HI']"
+    },
+    "446": {
+        "generated_text": "(fit OR fitness OR workout OR health) AND (simplify OR easy OR simple OR user-friendly) AND (\"resistance loop\" OR \"resistance band\" OR \"loop band\") AND (\"exercise bands\" OR \"workout bands\" OR \"fitness bands\")",
+        "target": "['B01KS6DZ34', 'B074775QXB', 'B07CZTNY7T', 'B07ZYYYM1C', 'B087YSHDV5', 'B087ZZ2726', 'B0882Y717Z', 'B0897QTNND', 'B08DDJ7T26', 'B09CSB959J', 'B08NT7WGPH', 'B07CZVWKW6', 'B07X56M51P', 'B07X43JKWJ']"
+    },
+    "447": {
+        "generated_text": "(BMX AND (rim OR \"wheel rim\") AND (sun OR \"sun brand\" OR \"sun feature\"))",
+        "target": "['B07H46L831', 'B0014GJYO2', 'B006FCHTZQ', 'B00TJAOKIU', 'B01HOXOS0I', 'B0186OUK3I', 'B00B133ITA', 'B000AO9KS4', 'B005LY4UYC', 'B000BMNP2W', 'B000AO7DBA', 'B000AO5FEC']"
+    },
+    "448": {
+        "generated_text": "(\"26 inch\" OR \"26-inch\" OR \"twenty-six inch\") AND (\"bike tire\" OR \"bicycle tire\" OR \"tire\") AND (\"gravel\" OR \"off-road\" OR \"trail\" OR \"dirt\")",
+        "target": "['B078BC4FHJ', 'B01HZ67WBQ', 'B00RDDRVHW']"
+    },
+    "449": {
+        "generated_text": "(\"28 oz\" OR \"28 ounces\" OR \"eighteen ounces\" OR \"two pounds\") AND (\"tent\" OR \"canopy\" OR \"shelter\" OR \"camping tent\")",
+        "target": "['B01F58B8L6', 'B018TLR01S']"
+    },
+    "450": {
+        "generated_text": "(\"basketball\" OR \"basketball hoop\" OR \"basketball apparel\" OR \"basketball equipment\" OR \"basketball balls\" OR \"basketball accessories\")",
+        "target": "['B003VIET82', 'B00SOKFHFG', 'B0794BVL8X', 'B07PKX333K', 'B07S5R8HKV', 'B083QVHVZQ', 'B000A7OUE0', 'B002MAF47A', 'B00HNQD8K8', 'B00AOCV50S', 'B00HNQD894']"
+    },
+    "451": {
+        "generated_text": "(\"3 inch\" OR \"three inch\" OR \"3\\\"\") AND (\"foam roller\" OR \"foam massager\" OR \"exercise roller\") AND (\"physical therapy\" OR \"PT\" OR \"physical therapy equipment\" OR \"rehabilitation\") AND (\"exercise\" OR \"workout\" OR \"fitness\" OR \"training\")",
+        "target": "['B07LCSN6DZ', 'B000AY4R0K']"
+    },
+    "452": {
+        "generated_text": "(\"30 quart\" OR \"thirty quart\" OR \"30 qt\" OR \"thirty qt\") AND (\"coolers\" OR \"ice chests\" OR \"portable coolers\" OR \"cooler boxes\")",
+        "target": "['B004GN8KGI', 'B01N0TQ6MV']"
+    },
+    "453": {
+        "generated_text": "(\"30 oz\" OR \"30oz\" OR \"30 ounce\" OR \"thirty ounce\") AND (\"coffee mug\" OR \"coffee cup\" OR \"mug\" OR \"cup\" OR \"drinkware\")",
+        "target": "['B08FC371LH', 'B08DKRC44J', 'B093H9FSS9', 'B0993V16CM']"
+    },
+    "454": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the original query:\n   - \"camelbak\": This is likely a brand name.\n   - \"eddy\": This could refer to a specific model or series within the CamelBak brand.\n   - \"32 oz\": This specifies the size or capacity of the water bottle.\n   - \"water bottle\": This describes the type of product.\n\n2. Determine synonyms or related terms:\n   - \"camelbak\" might not have direct synonyms but could be associated with \"hydration\" or \"drinking system.\"\n   - \"eddy\" could be associated with \"model\" or \"series.\"\n   - \"32 oz\" can also be expressed as \"32 ounces\" or \"half-liter.\"\n   - \"water bottle\" could be referred to as \"hydration bottle\" or \"drinking container.\"\n\n3. Construct a Boolean query:\n   - Use AND to ensure all essential components are included.\n   - Use OR to include synonyms or related terms for broader coverage.\n\n4. Finalize the query:\n   - Ensure that the query captures the brand, model, size, and type of product effectively.\n\nThe final Boolean query will look like this:\n(\"camelbak\" AND (\"eddy\" OR \"model\" OR \"series\") AND (\"32 oz\" OR \"32 ounces\" OR \"half-liter\") AND (\"water bottle\" OR \"hydration bottle\" OR \"drinking container\")). \nThis query ensures that we retrieve products that match the brand, model, size, and type specified by the original query while considering variations in terminology.",
+        "target": "['B07HGR3S4C', 'B07HGTQ5MK', 'B07HGR8L96', 'B015DJAYD0']"
+    },
+    "455": {
+        "generated_text": "(\"back roller\" OR \"massage roller\" OR \"therapy roller\" OR \"back massager\" OR \"post-workout roller\" OR \"fitness roller\") AND (\"back\" OR \"massage\" OR \"therapy\" OR \"recovery\" OR \"pain relief\")",
+        "target": "['B07GQDW62F', 'B07L2Y3LLB', 'B07HGMXQP9', 'B07C9S3NFT']"
+    },
+    "456": {
+        "generated_text": "(380 OR '380 auto' OR '380mm') AND (reloading OR reload OR 'reloading kit' OR 'reloading set') AND (dies OR die OR tool OR kit)",
+        "target": "['B00162TLWE', 'B000N8MWHS']"
+    },
+    "457": {
+        "generated_text": "(\"small\" OR \"compact\" OR \"lightweight\" OR \"mini\" OR \"portable\") AND (\"gun\" OR \"firearm\" OR \"rifle\" OR \"pistol\" OR \"weapon\" OR \"holster\") AND (\"back pack\" OR \"backpack\" OR \"rucksack\" OR \"bag\")",
+        "target": "['B01LQQZ2RC', 'B07GGP69QD', 'B07TWB7JP5']"
+    },
+    "458": {
+        "generated_text": "(reusable OR washable OR \"dishwasher safe\" OR \"eco-friendly\") AND (plates OR dinnerware OR dishware) AND (utensils OR cutlery OR knives OR forks OR spoons) AND (set OR kit OR collection OR package)",
+        "target": "['B01E7EIXLC', 'B07MGVXFWJ', 'B07913K24B', 'B01CF4HPZQ', 'B07VXSB7TR', 'B078WZY91Y', 'B081JFCCVW']"
+    },
+    "459": {
+        "generated_text": "(maven AND (rifle scopes OR rifle optics OR rifle sights OR scopes))",
+        "target": "['B08RYX7PWJ', 'B006X3WMRW', 'B005UGIMNQ']"
+    },
+    "460": {
+        "generated_text": "(\"49ers\" OR \"San Francisco 49ers\") AND (\"hats\" OR \"caps\" OR \"beanies\" OR \"headwear\") AND (\"men\" OR \"male\" OR \"men's\")",
+        "target": "['B07HYKKW8Q', 'B077KD5TBD', 'B007940HLM', 'B07HKHVY8S']"
+    },
+    "461": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"5.11 shoulder bag\".\n   - \"5.11\" likely refers to the brand 5.11 Tactical, which is known for tactical gear.\n   - \"shoulder bag\" is a type of bag that typically hangs on the shoulder, often used for carrying items like laptops or gear.\n\n2. Identify key components:\n   - Brand: \"5.11\" or \"5.11 Tactical\"\n   - Product type: \"shoulder bag\"\n\n3. Consider synonyms or related terms:\n   - For \"shoulder bag\": backpack, shoulder pack, tactical bag\n\n4. Construct a Boolean query:\n   - We want to ensure we capture products from the 5.11 brand and any variation of shoulder bags.\n   - Use AND to combine the brand with the product type and its variations.\n   - Use OR to include synonyms for \"shoulder bag\".\n\n5. Final Boolean query:\n   - (\"5.11\" OR \"5.11 Tactical\") AND (\"shoulder bag\" OR \"backpack\" OR \"shoulder pack\" OR \"tactical bag\")\n\nThis query will help retrieve products that are either directly branded as 5.11 or related to it, and that are shoulder bags or similar types of bags.",
+        "target": "['B07ZPC4XT7', 'B00CYBZ9ZY', 'B00CYBZBL6', 'B0131SE0KI', 'B002OP5TUA', 'B00XPV4C7S']"
+    },
+    "462": {
+        "generated_text": "(\"morral\" OR \"backpack\" OR \"rucksack\") AND \"t\u00e1ctico\" AND (\"5.11\" OR \"5.11 Tactical\")",
+        "target": "['B07ZPC4XT7', 'B0131SE0KI', 'B00XPV4C7S']"
+    },
+    "463": {
+        "generated_text": "(roof AND (roofing OR roofing materials OR roof accessories OR roof cleaning OR roof repair OR roofing tools))",
+        "target": "['B07TXPPNHQ', 'B011NJ33VO', 'B0074OL2I4', 'B07VFP11W6', 'B004A32HUY', 'B003YJCDXQ']"
+    },
+    "464": {
+        "generated_text": "(\"pool table\" OR \"ping pong table\") AND (\"top combo\" OR \"set\" OR \"package\" OR \"deal\")",
+        "target": "['B00923WFJK', 'B005IX37AE', 'B016D3ZTR6', 'B001CCHHX8', 'B005IX37WC', 'B07PK672WW', 'B077XNNC97', 'B00N5TO7IY', 'B07G8XVBLS', 'B009QXTKLC', 'B078HC2KD5']"
+    },
+    "465": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the original query: \"6 inch packer\".\n   - \"6 inch\" likely refers to a specific size or dimension.\n   - \"packer\" could refer to a tool or accessory used for packing, such as a packing tape dispenser or a tool that packs items tightly.\n\n2. Identify key components:\n   - Size: \"6 inch\"\n   - Product type: \"packer\"\n\n3. Consider synonyms or related terms:\n   - For \"6 inch\": \"six inch\", \"6-inch\", \"6in\"\n   - For \"packer\": \"packing tool\", \"tape dispenser\", \"packing tape\", \"organizer\"\n\n4. Construct a Boolean query:\n   - Use AND to ensure both size and product type are included.\n   - Use OR to include synonyms or related terms for broader coverage.\n\n5. Final Boolean query:\n   - (\"6 inch\" OR \"six inch\" OR \"6-inch\" OR \"6in\") AND (\"packer\" OR \"packing tool\" OR \"tape dispenser\" OR \"packing tape\" OR \"organizer\")\n\nThis query will help retrieve products that match the specified size and type, considering variations in terminology. Now, let's format it in JSON.",
+        "target": "['B01FREISNE']"
+    },
+    "466": {
+        "generated_text": "(\"6 person\" OR \"six-person\" OR \"6-person\") AND (\"pop up tent\" OR \"foldable tent\" OR \"collapsible tent\" OR \"quick setup tent\")",
+        "target": "['B01GY46QIK']"
+    },
+    "467": {
+        "generated_text": "(\"6ft\" OR \"six feet\" OR \"6 feet\" OR \"72 inches\") AND (\"surfboard\" OR \"surfing equipment\") AND (\"bag\" OR \"case\" OR \"cover\" OR \"pack\")",
+        "target": "['B07NS2YNSL', 'B00HTA25W0']"
+    },
+    "468": {
+        "generated_text": "(\"7 1/8\" OR \"7.125\" OR \"7.125 inches\") AND (\"baseball\" OR \"softball\") AND (\"helmet\" OR \"headgear\" OR \"protective gear\")",
+        "target": "['B0182XY70U', 'B01N35SUR3', 'B014FWH7NG', 'B010R04D14']"
+    },
+    "469": {
+        "generated_text": "(\"bike\" OR \"bicycle\" OR \"cycle\") AND (\"rear\" OR \"back\") AND (\"wheel\" OR \"tire\" OR \"tyre\") AND (\"parts\" OR \"components\" OR \"accessories\" OR \"spares\")",
+        "target": "['B006FCHTZQ', 'B000AO3GES', 'B07MN943TF', 'B0063R3L46', 'B004YJ2NXU', 'B00129ACWO', 'B000AO9PCU']"
+    },
+    "470": {
+        "generated_text": "(\"700\" OR \"700c\") AND (\"32\" OR \"32mm\") AND (\"tire\" OR \"tyre\")",
+        "target": "['B01JN4YDTC', 'B005UGD9XY']"
+    },
+    "471": {
+        "generated_text": "(\"8 speed\" OR \"eight-speed\" OR \"8-speed\") AND (\"shifter\" OR \"gear shifter\" OR \"shift lever\") AND (\"drop bar\" OR \"road bike handlebars\" OR \"aero bars\") AND (\"right\" OR \"side\" OR \"portable\")",
+        "target": "['B07BVPTD7S', 'B07BVPMRKN', 'B073X7QH1C', 'B00CABMQLS']"
+    },
+    "472": {
+        "generated_text": "(\"small\" OR \"compact\" OR \"mini\" OR \"portable\" OR \"lightweight\") AND (\"cooler\" OR \"cooler box\" OR \"insulated bag\" OR \"portable fridge\" OR \"icebox\")",
+        "target": "['B07MM67QNJ']"
+    },
+    "473": {
+        "generated_text": "(syosin AND (\"resistance bands\" OR \"exercise bands\" OR \"fitness bands\" OR \"workout bands\"))",
+        "target": "['B088396TM2', 'B07RLVNST5', 'B07HBP2KX7', 'B08RS7MQD6', 'B087LZYVK5', 'B094G1JQS3']"
+    },
+    "474": {
+        "generated_text": "(900 OR \"model 900\") AND (\"global bowling\" OR \"global\") AND (\"bowling ball bag\" OR \"bowling bag\" OR \"ball storage\")",
+        "target": "['B07G3JCSBW', 'B07G3J8JQ3', 'B07G3J74RD', 'B07G3H1QRM', 'B00CP6RSA2', 'B07G3HKTTZ']"
+    },
+    "475": {
+        "generated_text": "(\"941m\" AND \"mercury\")",
+        "target": "['B0777PXCG5']"
+    },
+    "476": {
+        "generated_text": "(\"firearm\" OR \"gun\" OR \"pistol\") AND (\"cleaning kit\" OR \"cleaning set\" OR \"maintenance kit\") AND \"9mm\" AND (\"oil\" OR \"lubricant\")",
+        "target": "['B084P3G16V', 'B07P1FX1PV', 'B002ZJ1364', 'B07XK6B4Z8']"
+    },
+    "477": {
+        "generated_text": "(\"a15\" OR \"iPad Air 15-inch\" OR \"iPad Pro 15-inch\") AND (\"case\" OR \"cover\" OR \"shell\" OR \"protector\") AND (\"tactical\" OR \"functional\" OR \"durable\" OR \"compact\" OR \"designer\")",
+        "target": "['B087BCL7DS', 'B08Y8T4KY4', 'B075VBGMQ8']"
+    },
+    "478": {
+        "generated_text": "(\"abu garcia\" AND (\"baitcasting\" OR \"fishing reel\" OR \"spinning\" OR \"reel\") AND (\"combo\" OR \"set\" OR \"package\" OR \"kit\"))",
+        "target": "['B011LUQLHS']"
+    },
+    "479": {
+        "generated_text": "(action AND army) AND vsr10 AND (hop up OR chamber)",
+        "target": "['B00P1OKTLA']"
+    },
+    "480": {
+        "generated_text": "(Samsung AND (\"Galaxy Active 2\" OR \"Galaxy Active Two\" OR \"Samsung Galaxy Active 2\"))",
+        "target": "['B081DBNF6C', 'B07YNTSSP6', 'B07VPF4DGW', 'B081D9LJ8J', 'B07YNVGNPD', 'B081KB2FJ2', 'B07YNTPGZH', 'B07YNTM7P4', 'B07YNQP54K']"
+    },
+    "481": {
+        "generated_text": "(acudraw AND pro) OR (acudraw AND professional) OR (acudraw AND premium) OR (acudraw AND advanced)",
+        "target": "['B079FB179M']"
+    },
+    "482": {
+        "generated_text": "(adidas OR Adidas) AND (suits OR 'formal wear' OR 'business attire' OR 'office wear') AND (women OR ladies OR female OR girls)",
+        "target": "['B07XVRYXDL', 'B07XVQCDKN']"
+    },
+    "483": {
+        "generated_text": "(\"adidas\" AND (\"tech fit\" OR \"technology\" OR \"advanced\" OR \"performance\") AND (\"compression shorts\" OR \"leggings\" OR \"activewear\" OR \"athletic shorts\") AND (\"men\" OR \"male\" OR \"men's\"))",
+        "target": "['B01MG80Y1J', 'B00QG7ZU24']"
+    },
+    "484": {
+        "generated_text": "(\"Bowflex\" AND \"Revolution\") AND (\"home gym\" OR \"compact gym\" OR \"portable workout equipment\")",
+        "target": "['B000OC5RXE', 'B000XU5U7A', 'B000GRDS6U', 'B000M0FDGE', 'B001OSIH8Y']"
+    },
+    "485": {
+        "generated_text": "\"slant board\" AND (\"strength\" OR \"cap\" OR \"exercise\" OR \"fitness\")",
+        "target": "['B07HNLBZ4Y', 'B07HNLBZ4Y', 'B07DNYSJ8W', 'B07DNYSJ8W', 'B07GYXF65S', 'B00G44X9D6', 'B07ZZ4T674', 'B074BG38FZ', 'B07R7RZ8N7', 'B08Z3SPVBV', 'B093L4SPXL', 'B000J3JDIS']"
+    },
+    "486": {
+        "generated_text": "(red AND (ryder OR 'Red Ryder') AND bb)",
+        "target": "['B082LHGX4M', 'B002LY8GYA', 'B004T84NS4', 'B00BXHDJ34']"
+    },
+    "487": {
+        "generated_text": "(agility OR quickness OR speed OR training OR sport OR exercise) AND (ladder OR rung OR bars OR equipment OR 'training tool')",
+        "target": "['B085THZYXC', 'B086WNFRTW', 'B088FNBF9T', 'B089XYT6PD', 'B08C4ZBS7C', 'B08DHTCY41', 'B082NMVJJC', 'B07M9DMYR6', 'B071FN96N5']"
+    },
+    "488": {
+        "generated_text": "(\"hard\" OR \"durable\" OR \"sturdy\" OR \"impact-resistant\") AND (\"bow\" OR \"compound bow\") AND (\"case\" OR \"cover\" OR \"shell\" OR \"container\")",
+        "target": "['B07V87G7G6', 'B072YFN1TW', 'B072HCGKWD', 'B001QVLFH4', 'B000P9YEDU', 'B079M1YL37', 'B06XT6MC53', 'B07BYX1L31', 'B06W9J41BC', 'B07P2K4FJS', 'B07JPXQ2Q6', 'B01452JLVW', 'B000P432FG', 'B001B90J3C', 'B002TE5Y38', 'B007TOHDQY', 'B007XDAAW0', 'B007XDABW4', 'B0097RM11S', 'B00CP4MA16', 'B00DUIGLQG', 'B016EACM0A', 'B005V1DY0G']"
+    },
+    "489": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the original query: \"air guns\" refers to air rifles or airsoft guns, which are used for recreational shooting or training.\n2. Identify related terms: Consider synonyms, variations, and related categories such as \"air rifle,\" \"airsoft gun,\" \"pneumatic rifle,\" \"BB gun,\" \"toy gun.\"\n3. Consider product features: Think about common features or types of air guns like \"electric,\" \"gas,\" \"spring,\" \"recoil,\" \"silencer,\" \"training,\" \"decorative.\"\n4. Structure the query using Boolean operators: Use \"OR\" to include synonyms and related terms, and \"AND\" to combine different aspects of the query.\n\nNow, let's construct the query:\n- We want to ensure that we capture all relevant products, so we'll use \"OR\" to include various terms related to air guns.\n- We can also add optional features using \"OR\" to refine the search further if needed.\n\nThe final query will look something like this:\n(\"air guns\" OR \"air rifle\" OR \"airsoft gun\" OR \"pneumatic rifle\" OR \"BB gun\" OR \"toy gun\") AND (\"electric\" OR \"gas\" OR \"spring\" OR \"recoil\" OR \"silencer\" OR \"training\" OR \"decorative\")\n\nThis query should effectively retrieve a wide range of relevant products related to air guns.",
+        "target": "['B07VRSR1M9', '0990568776']"
+    },
+    "490": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"train horn\" and \"football games\".\n2. Consider synonyms or related terms for \"train horn\": \"whistle\", \"sound effect\", \"alarm\".\n3. Consider synonyms or related terms for \"football games\": \"sports\", \"soccer\", \"arena\", \"stadium\".\n4. Determine how these terms can be combined using Boolean operators to ensure relevance.\n5. The goal is to find products that are specifically designed for train horns used in football game settings, so we need to combine these terms effectively.\n\nThe logical structure will involve combining synonyms and related terms using AND/OR operators to ensure comprehensive coverage while maintaining specificity.\n\nFinal query structure:\n(\"train horn\" OR \"whistle\" OR \"sound effect\" OR \"alarm\") AND (\"football games\" OR \"sports\" OR \"soccer\" OR \"arena\" OR \"stadium\")\n\nThis structure ensures that the search retrieves products that are relevant to train horns used in the context of football games or similar events.",
+        "target": "['B06XBZGZB4', 'B004UOVBAU', 'B0019M5EZ4', 'B01KJ986SY', 'B008MUGZ5O']"
+    },
+    "491": {
+        "generated_text": "(\"airsoft\" AND \"guns\") AND (\"full auto\" OR \"automatic\" OR \"auto fire\" OR \"rapid fire\") AND (\"professional grade\" OR \"high quality\" OR \"premium\" OR \"advanced\")",
+        "target": "['B076532SP4', 'B00GIBPYU6', 'B00BR9X780', 'B001B4QVMA', 'B000PSQWOK']"
+    },
+    "492": {
+        "generated_text": "(\"shotgun\" OR \"airsoft shotgun\" OR \"hunting shotgun\" OR \"toy shotgun\" OR \"firearm\" OR \"slug gun\" OR \"rifle\") AND \"sporting goods\"",
+        "target": "['B01DMJLDV0', 'B071HTQGX6', 'B00I5NVFPI', 'B00ENTF270', 'B0053DA5ZO']"
+    },
+    "493": {
+        "generated_text": "(\"workout equipment\" OR \"exercise machines\" OR \"fitness gear\" OR \"workout tools\") AND (\"home gym\" OR \"compact gym\" OR \"personal gym\" OR \"small gym\") AND (\"women\" OR \"female\" OR \"ladies\" OR \"women's\")",
+        "target": "['B07GYXF65S', 'B009QXP77I', 'B08CL4SLTS', 'B08CMJKJ5M']"
+    },
+    "494": {
+        "generated_text": "(\"mini stove\" OR \"compact stove\" OR \"portable stove\" OR \"travel stove\" OR \"camping stove\" OR \"small stove\" OR \"miniature stove\") AND (\"portable\" OR \"lightweight\" OR \"energy efficient\" OR \"stainless steel\" OR \"compact design\")",
+        "target": "['B0125U36Q2', 'B00ZA39W6U']"
+    },
+    "495": {
+        "generated_text": "(\"wood stove\" OR \"wood-burning stove\" OR \"wood heater\" OR \"fireplace\") AND (\"compact\" OR \"large\" OR \"portable\" OR \"stainless steel\" OR \"cast iron\")",
+        "target": "['B072KGL1H1', 'B0155324VO', 'B07TF8SP6P']"
+    },
+    "496": {
+        "generated_text": "(\"all black\" OR \"black and white\") AND (\"yankees\" OR \"Yankee\" OR \"New York Yankees\") AND (\"hat\" OR \"cap\" OR \"beanie\")",
+        "target": "['B07CBC3V2D', 'B08246L76H', 'B08BDS97PK', 'B08SZ94PR5', 'B095J3C381', 'B01ANNYJX2', 'B0772RJFS9', 'B00AE9RE9W']"
+    },
+    "497": {
+        "generated_text": "(\"one person\" OR \"single\" OR \"personal\" OR \"individual\") AND (\"blow up\" OR \"inflatable\" OR \"air-filled\" OR \"floatation\") AND (\"boat\" OR \"raft\" OR \"watercraft\" OR \"vessel\")",
+        "target": "['B00EVII3BK', 'B00EVII3BK']"
+    },
+    "498": {
+        "generated_text": "(\"progressive\" OR \"advanced\" OR \"evolutionary\" OR \"enhancing\" OR \"improving\") AND (\"press\" OR \"machine\" OR \"tool\" OR \"device\" OR \"pressurizing\") AND (\"reloading\" OR \"refilling\" OR \"ammunition\" OR \"cartridge\" OR \"reloading kit\")",
+        "target": "['B000PD01NS', 'B00VKPX4PW', 'B00162ROB4', 'B000NOQJ5S']"
+    },
+    "499": {
+        "generated_text": "(\"fox\" AND (\"38\" OR \"38mm\") AND \"fork\")",
+        "target": "['B00V8S8DWU', 'B00V8S8DWU', 'B088KHFG9J', 'B07ZT821L7']"
+    },
+    "500": {
+        "generated_text": "(\"aqua\" AND \"sup\") AND (\"bound\" OR \"stability\" OR \"control\") AND \"paddle\"",
+        "target": "['B01M1R695U', 'B07J2VJKK1', 'B07XBPGWH6', 'B001C0E47W', 'B0187P09LO', 'B01872PR3C', 'B00NF9WZRE', 'B00N59IJXS']"
+    },
+    "501": {
+        "generated_text": "(\"water weights\" OR \"buoyancy belts\" OR \"water dumbbells\" OR \"float weights\") AND (\"pool\" OR \"swimming pool\" OR \"lap pool\" OR \"outdoor pool\") AND (\"exercise\" OR \"workout\" OR \"fitness\" OR \"training\" OR \"physical activity\")",
+        "target": "['B086H7Y2SQ', 'B07P6B7VDD', 'B000LX32WE', 'B07DCL1XGM']"
+    },
+    "502": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \n   - \"trx\": This refers to a brand known for home fitness equipment.\n   - \"home\": Indicates that the product is suitable for home use.\n   - \"suspension training kit\": A specific type of fitness equipment that involves using a harness and pulleys to perform exercises.\n\n2. Determine synonyms or related terms:\n   - \"trx\" could also be referred to as \"Trx\" (capitalization), \"Trx Home\", or \"Trx Suspension\".\n   - \"home\" might not have direct synonyms but can be associated with \"residential\" or \"indoor\".\n   - \"suspension training kit\" could be expanded to include \"suspension trainer\", \"pulley system\", \"fitness equipment\", \"workout kit\".\n\n3. Construct the query using Boolean operators:\n   - Use AND to ensure all key components are included.\n   - Use OR to include synonyms or related terms.\n\n4. Final query construction:\n   - (\"Trx\" OR \"Trx Home\" OR \"Trx Suspension\") AND (\"home\" OR \"residential\" OR \"indoor\") AND (\"suspension training kit\" OR \"suspension trainer\" OR \"pulley system\" OR \"fitness equipment\" OR \"workout kit\").\n\nThis query will help retrieve products that are specifically designed for home use, are related to the Trx brand, and involve suspension training. It covers various ways these products might be described, ensuring comprehensive retrieval.",
+        "target": "['B01LXL27XI', 'B01LXL27XI', 'B00A5ICP32']"
+    },
+    "503": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the original query: \"mlok foregrip\".\n   - \"mlok\" likely refers to a specific brand or type of product.\n   - \"foregrip\" is a common term used in firearms for grips that extend forward.\n\n2. Identify key components:\n   - Brand/Product Type: \"mlok\"\n   - Feature/Component: \"foregrip\"\n\n3. Consider synonyms or related terms:\n   - For \"foregrip\": grip, handle, stock\n   - For \"mlok\": MLOK, modular foregrip\n\n4. Construct a Boolean query:\n   - We want to ensure we capture products related to both \"mlok\" and \"foregrip\".\n   - Use OR to include synonyms and related terms to broaden the search.\n   - Use AND to ensure both concepts are included in the results.\n\n5. Final Boolean query:\n   - (\"mlok\" OR \"MLOK\" OR \"modular foregrip\") AND (\"foregrip\" OR \"grip\" OR \"handle\" OR \"stock\")\n\nThis query will help retrieve products that are either branded as \"mlok\" or similar, and are related to firearm grips or extensions.",
+        "target": "['B071RS3QJS', 'B0797GJXYZ', 'B082PX7PW1']"
+    },
+    "504": {
+        "generated_text": "(\"AR\" OR \"Assault Rifle\") AND (\"Charging handle\" OR \"Magazine handle\" OR \"Ammo handle\") AND (\"Ambidextrous\" OR \"Dual-hand\" OR \"Bi-hand\")",
+        "target": "['B074Q36S3Q']"
+    },
+    "505": {
+        "generated_text": "(AR-15 OR M4 OR M16) AND (flashlight OR light OR LED light OR tactical light) AND (mount OR bracket OR holder OR attachment)",
+        "target": "['B08NSFRQXR', 'B0928K4S8C', 'B07NV7DNQ1', 'B07XP4LJG3', 'B093WS5224', 'B098QC4DN6', 'B07WMSRMK6']"
+    },
+    "506": {
+        "generated_text": "(arcade OR 'arcade machine' OR 'game machine' OR 'pinball machine') AND (console OR 'gaming system' OR 'video game console') AND (fitting OR accessory OR part OR component OR upgrade)",
+        "target": "['B07SRDH4C8']"
+    },
+    "507": {
+        "generated_text": "(\"as seen on tv\" OR \"TV commercial\" OR \"infomercial\" OR \"television advertisement\" OR \"TV endorsement\") AND (\"products\" OR \"merchandise\" OR \"goods\" OR \"items\")",
+        "target": "['B07TYGCVX6', 'B087H6BFD9', 'B01KW07K00', 'B00BYH6C1E']"
+    },
+    "508": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"atn night vision scope\".\n2. Identify key components:\n   - \"atn\": This likely refers to a brand or specific model related to night vision scopes.\n   - \"night vision\": This is a critical feature of the product.\n   - \"scope\": This indicates the type of product.\n3. Consider synonyms or related terms:\n   - \"atn\" could be a brand name or model, so it should remain as is.\n   - \"night vision\" could also be referred to as \"NV\", \"night sight\", or \"low light\".\n   - \"scope\" might also be referred to as \"sight\" or \"optics\".\n4. Construct a Boolean query:\n   - Use AND to ensure all essential features are included.\n   - Use OR to include synonyms or related terms for broader coverage.\n\nThe goal is to ensure that the query retrieves products that are specifically ATN brand night vision scopes, while also considering variations in terminology that customers might use.\n\nFinal Boolean query:\n(\"atn\" AND (\"night vision\" OR \"NV\" OR \"night sight\" OR \"low light\") AND (\"scope\" OR \"sight\" OR \"optics\")).\n\nThis query ensures that we are targeting products that are from the ATN brand, have night vision capabilities, and are in the scope category, while also allowing for variations in terminology.",
+        "target": "['B01BYDUV4G', 'B01BYDUZ60']"
+    },
+    "509": {
+        "generated_text": "(\"baton\" OR \"stick\" OR \"canefit\" OR \"whip\") AND (\"extended\" OR \"long\" OR \"extra-long\" OR \"lengthened\")",
+        "target": "['B019RSXVGK']"
+    },
+    "510": {
+        "generated_text": "b07hg8b419 AND kids",
+        "target": "['B07HG8B419']"
+    },
+    "511": {
+        "generated_text": "(\"jersey\" OR \"shirt\" OR \"uniform\") AND (\"girl\" OR \"female\") AND (\"baby\" OR \"infant\" OR \"toddler\") AND (\"LeBron\" OR \"James\")",
+        "target": "['B00OX1RRV2']"
+    },
+    "512": {
+        "generated_text": "(electra OR 'electric bike' OR 'bike brand') AND (rear OR back OR trunk) AND (bike OR bicycle) AND (rack OR carrier) AND basket",
+        "target": "['B0081FR0VI', 'B003ZMBMQ6', 'B001AYKN84', 'B00ACTMJWQ']"
+    },
+    "513": {
+        "generated_text": "(sports OR athletic OR fitness OR training OR event) AND (water OR hydration OR dispenser OR container OR bottle OR filtration) AND (system OR setup OR equipment OR apparatus OR device)",
+        "target": "['B00B1OSU4W', 'B07JBH5ZFT', 'B07T3ZWPVC', 'B07YGPSXGW', 'B081QCHTLT', 'B07CHVYQLY', 'B07BKSNSXW']"
+    },
+    "514": {
+        "generated_text": "(\"balega\" AND (\"running\" OR \"track\" OR \"jogging\" OR \"athletic\") AND \"socks\" AND (\"women\" OR \"female\" OR \"ladies\" OR \"girls\"))",
+        "target": "['B07YP1LDGC', 'B00HS5BJ4G', 'B07BBYDPL8']"
+    },
+    "515": {
+        "generated_text": "(\"ball\" OR \"sphere\" OR \"sports ball\" OR \"basketball\" OR \"soccer ball\") AND (\"keeper\" OR \"holder\" OR \"catcher\" OR \"netting\" OR \"enclosure\") AND (\"net\" OR \"mesh\" OR \"webbing\" OR \"netting\" OR \"cage\")",
+        "target": "['B07JQT1X2F']"
+    },
+    "516": {
+        "generated_text": "(\"kids\" OR \"children\" OR \"child\" OR \"youth\") AND (\"bike\" OR \"bicycle\" OR \"cycle\") AND (\"paddles\" OR \"handlebars\" OR \"stems\" OR \"grips\")",
+        "target": "['B00E1XW87K', 'B078NR1HTL', 'B00MJYQ1QW']"
+    },
+    "517": {
+        "generated_text": "(\"tactacam\" AND \"trail camera\") OR \"reveal\"",
+        "target": "['B08HLR77F3', 'B086SGFK62', 'B09F72DMWB', 'B07N979ZQM', 'B086PYRG1P', 'B08BTR3S5K', 'B08CL3KC35']"
+    },
+    "518": {
+        "generated_text": "(\"stair masters\" OR \"stair climber\" OR \"step machine\" OR \"exercise stairs\") AND (\"exercise\" OR \"fitness\" OR \"workout\" OR \"training\")",
+        "target": "['B0822ZDFHL', 'B071CKK5SQ', 'B0871YGNDJ', 'B08XXCVCGT', 'B00B1W8N0A', 'B004WSAEC0']"
+    },
+    "519": {
+        "generated_text": "(baseball AND (bat OR bats))",
+        "target": "['B01N8QDOW1', 'B00N81QWUA']"
+    },
+    "520": {
+        "generated_text": "(\"harley quinn\" AND (\"baseball\" OR \"bat\" OR \"glove\") AND (\"bay\" OR \"location\"))",
+        "target": "['B01N8QDOW1', 'B01KONNT1O', 'B01MRUINUY']"
+    },
+    "521": {
+        "generated_text": "(\"cardboard\" OR \"corrugated paper\" OR \"paperboard\" OR \"carton\") AND (\"box\" OR \"container\" OR \"package\") AND (size OR shipping OR storage OR resealable OR stackable)",
+        "target": "['B01LZ1RCMW', 'B077YPK3B5', 'B01M0DVV6Y', 'B01LYE9PIL', 'B01LYKRCM3', 'B0071M9X12', 'B005WK853M', 'B01LWT0FSD']"
+    },
+    "522": {
+        "generated_text": "(\"jugs\" OR \"Jugs brand\") AND (\"pitching machine\" OR \"pitching device\" OR \"baseball machine\" OR \"softball machine\") AND (\"parts\" OR \"spare parts\" OR \"accessories\" OR \"replacement parts\")",
+        "target": "['B00BFIJ8HC', 'B07JL3DRK1', 'B07JX6MWM5', 'B001NPS2A6', 'B001CEZJT0', 'B001CEZJVS', 'B001CF3KTA', 'B001CF3L80', 'B000P5U0BO', 'B018R6OMJ8', 'B001CF4YV8', 'B001CEZK76', 'B001CEZKV2', 'B001CF1CH2', 'B001CEZKQM']"
+    },
+    "523": {
+        "generated_text": "(\"basketball\" OR \"basket\" OR \"hoop\") AND (\"case\" OR \"storage\" OR \"container\" OR \"box\" OR \"cover\") AND (\"display\" OR \"showcase\" OR \"stand\" OR \"light-up\" OR \"frame\")",
+        "target": "['B07FF6YS2M', 'B01L8322IU', 'B00416MAIE', 'B002QG6U00', 'B00095M572', 'B00416T5WS', 'B005OEHK00']"
+    },
+    "524": {
+        "generated_text": "(basketball AND (tights OR shorts) AND (knee pads OR protective gear) AND (men OR male OR guys))",
+        "target": "['B07XRGMQ1J', 'B07VD4HWCB', 'B07RK4Y4MQ', 'B07RGQHHPJ']"
+    },
+    "525": {
+        "generated_text": "(\"decoctive\" OR \"decorative\" OR \"eco-friendly\" OR \"chemical-free\") AND (\"laterns\" OR \"lamp\" OR \"lantern\" OR \"lighting\" OR \"illumination\")",
+        "target": "['B00NPLSZF8', 'B01C5QSENQ', 'B07KYF4K12', 'B07JVCBKGW', 'B07BVRMHWS', 'B06XKBDX8C']"
+    },
+    "526": {
+        "generated_text": "(\"Bauer\" AND (\"hockey skates\" OR \"hockey blades\" OR \"hockey equipment\"))",
+        "target": "['B008BTK9P8']"
+    },
+    "527": {
+        "generated_text": "\"beach cooler\" AND (\"wheel\" OR \"portable\") AND (\"30 quart\" OR \"large\")",
+        "target": "['B01NGYOCKU']"
+    },
+    "528": {
+        "generated_text": "(swimming AND (pool OR wear OR accessories OR equipment OR goggles OR shoes))",
+        "target": "['B01L8RM9QQ', 'B07RLNKH3D']"
+    },
+    "529": {
+        "generated_text": "(hat AND (bears OR bear) AND (b OR brand))",
+        "target": "['B01J4DRUUG']"
+    },
+    "530": {
+        "generated_text": "(\"beginner\" AND \"skateboards\") AND (\"for girls\" OR \"girls\") AND (\"roses\" OR \"rose\")",
+        "target": "['B07J4MG8N4']"
+    },
+    "531": {
+        "generated_text": "(\"belly band\" OR \"waistband\" OR \"midsection support\") AND (\"holster\" OR \"holder\") AND (\"left-handed\" OR \"male\")",
+        "target": "['B07Y2956FT', 'B07Y16TQVB', 'B08QZSJFTG', 'B08TWS8QF1', 'B01N633EQC', 'B07LCGQQHP']"
+    },
+    "532": {
+        "generated_text": "\"Carlson\" AND \"Long Beard\" AND \"XR Choke\" AND \"12 gauge\"",
+        "target": "['B00UH1HQPE', 'B071VVNPKD', 'B07CHTPGDV', 'B00UH1HILG', 'B00UH1HZM8']"
+    },
+    "533": {
+        "generated_text": "(electric OR powered OR motorized OR eco-friendly) AND (cycle OR bike OR bicycle OR scooter)",
+        "target": "['B01AU7KWXC', 'B087JVD2L3', 'B082XRYVRC', 'B07K4TZF62', 'B009KYRHVC']"
+    },
+    "534": {
+        "generated_text": "(large OR big OR oversized OR jumbo) AND (bowling OR 'bowling game' OR 'bowling set') AND (pins OR 'bowling pins' OR 'bowling balls')",
+        "target": "['B07G3636V5', 'B07Q191F77', 'B07D19TBRH', 'B000KIA3XG', 'B000KA4PFG', 'B002HWDHRM', 'B088W7F35G', 'B074QMPFVD', 'B0021WGKIG', 'B0778DSW5S']"
+    },
+    "535": {
+        "generated_text": "(\"bikes\" OR \"gear\" OR \"clothing\" OR \"accessories\" OR \"events\")",
+        "target": "['B01EUQ7ZQG', 'B07P4N4KJ6', 'B07CRRJJMP', 'B07SDFD53P', 'B07V5LDVGP', 'B01M8NWVUW', 'B017YCZGKA', 'B013TTDJYW', '193771537X']"
+    },
+    "536": {
+        "generated_text": "(\"bike\" OR \"bicycle\" OR \"cycle\") AND (\"stand\" OR \"rack\" OR \"mount\" OR \"holder\" OR \"support\") AND (\"indoor\" OR \"outdoor\" OR \"folding\" OR \"stationary\")",
+        "target": "['B0872255PS', 'B001F9V842', 'B082GQ1TPJ', 'B00KNO2P10']"
+    },
+    "537": {
+        "generated_text": "(\"bicycle\" OR \"bike\") AND (\"without pedals\" OR \"pedal-less\" OR \"no pedals\" OR \"non-pedalled\")",
+        "target": "['B08JKF3R5Y', 'B08DJBQZL9']"
+    },
+    "538": {
+        "generated_text": "(thermos AND owl AND \"water bottle\" AND \"replacement straw\")",
+        "target": "['B073VY8683']"
+    },
+    "539": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \n   - \"gallon water bottle\": This is the main product type the customer is interested in.\n   - \"without straw\": This specifies a feature that the customer does not want.\n\n2. Determine synonyms or related terms:\n   - \"gallon\" could also be \"large\" or \"big\".\n   - \"water bottle\" could be \"hydration bottle\" or \"drinking container\".\n   - \"without straw\" can be expressed as \"no straw\", \"non-straw\", or \"straw-free\".\n\n3. Construct the query using Boolean operators:\n   - We want to ensure we get results for \"gallon water bottle\" but exclude those with \"straw\".\n   - Use AND to combine necessary features and NOT to exclude unwanted features.\n\n4. Formulate the query:\n   - Include synonyms and related terms to broaden the search.\n   - Ensure logical grouping to prioritize the exclusion of straws.\n\nThe final query will look like this:\n(\"gallon\" OR \"large\" OR \"big\") AND (\"water bottle\" OR \"hydration bottle\" OR \"drinking container\") AND (\"without straw\" OR \"no straw\" OR \"non-straw\" OR \"straw-free\"). This query ensures we find products that match the size and type desired while excluding any that have a straw.",
+        "target": "['B097QPGPK5', 'B098XD84P6', 'B08VG4QXQ9', 'B08NJ5W1R2', 'B08HLL3X5B']"
+    },
+    "540": {
+        "generated_text": "(\"big&j\" AND (\"deer attractant\" OR \"deer lure\" OR \"deer scent\" OR \"game attractant\"))",
+        "target": "['B07VKF5XT4', 'B08HHG142K', 'B004BFVMWU', 'B00CJJA7R6', 'B011CRIVD2']"
+    },
+    "541": {
+        "generated_text": "(billiards OR pool OR \"cue sports\" OR snooker) AND (baskets OR holders OR racks OR organizers OR \"storage bins\")",
+        "target": "['B072K1J15R']"
+    },
+    "542": {
+        "generated_text": "(\"pool cue\" OR \"cue stick\" OR \"billiards cue\" OR \"pool stick\") AND (\"cue set\" OR \"cue accessories\" OR \"cue cases\" OR \"wooden cue\" OR \"stainless steel cue\" OR \"fitted cue\" OR \"travel cue\")",
+        "target": "['B014SLC8J2']"
+    },
+    "543": {
+        "generated_text": "(football OR soccer OR \"American football\" OR rugby) AND (headband OR headwear OR band OR headgear)",
+        "target": "['B07VT2QRRF', 'B07PSNLQW9', 'B081B7YFX8']"
+    },
+    "544": {
+        "generated_text": "(\"whistle\" OR \"signal whistle\" OR \"pet whistle\" OR \"musical whistle\" OR \"training whistle\" OR \"emergency whistle\")",
+        "target": "['B009EWIQ7E', 'B01CQPPR4K', 'B074M6RSM9', 'B074M6RSM9', 'B07SC5RSWM', 'B07YYJFS5Q', 'B07SCYMKJ2', 'B017LWS9Y8']"
+    },
+    "545": {
+        "generated_text": "(boat AND lift AND cover AND bungee)",
+        "target": "['B07HHLVTGY', 'B07TYNXJPP', 'B07MQK3PMS', 'B07L6D5933', 'B076WKS23C', 'B00004Y62H']"
+    },
+    "546": {
+        "generated_text": "(\"body shorts\" OR \"activewear\" OR \"exercise shorts\" OR \"athletic shorts\") AND (\"women\" OR \"ladies\" OR \"female\" OR \"girls\")",
+        "target": "['B08G4DZS8M']"
+    },
+    "547": {
+        "generated_text": "(\"Smith Machine\" OR \"Smith\") AND (\"cage\" OR \"weight bench\") AND (\"home gym\" OR \"personal gym\" OR \"compact gym\" OR \"small gym\")",
+        "target": "['B01KU69TDC', 'B099KHWFSH', 'B081GS9HG7', 'B087JZ7RVS', 'B07JZLT5G4', 'B08X11BH39', 'B08Z3P6NDG']"
+    },
+    "548": {
+        "generated_text": "(\"gym set\" OR \"workout equipment\" OR \"fitness equipment\") AND (\"for men\" OR \"men's\" OR \"male\" OR \"masculine\") AND (\"dumbbells\" OR \"weights\" OR \"free weights\")",
+        "target": "['B07PZV2HDG', 'B07PZV2HDG', 'B01N9FNI9V', 'B002I00P8W']"
+    },
+    "549": {
+        "generated_text": "(bontrager AND circuit AND (road shoe OR 'road bike shoe' OR 'mountain bike shoe'))",
+        "target": "['B00E7UZHB6']"
+    },
+    "550": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the term \"boomerang\":\n   - A boomerang is a traditional Australian tool used for hunting or farming, typically made of wood or plastic.\n   - It can also refer to a social media platform similar to Twitter.\n\n2. Identify potential product categories related to \"boomerang\":\n   - If referring to the tool: hunting tools, farming equipment, wooden toys, novelty items.\n   - If referring to the social media platform: software, apps, devices compatible with the platform.\n\n3. Generate query terms:\n   - For the tool: \"boomerang tool\", \"boomerang toy\", \"boomerang farming\", \"boomerang hunting\".\n   - For the social media platform: \"boomerang app\", \"boomerang software\", \"boomerang device\".\n\n4. Structure the query using Boolean operators to ensure comprehensive coverage:\n   - Use OR to include both categories.\n   - Use AND to combine synonyms or related terms.\n\n5. Finalize the query:\n   - Ensure it captures both potential meanings of \"boomerang\" while allowing for variations in product types.\n\nThe final query will look like this:\n(\"boomerang tool\" OR \"boomerang toy\" OR \"boomerang farming\" OR \"boomerang hunting\") OR (\"boomerang app\" OR \"boomerang software\" OR \"boomerang device\"). This query aims to retrieve products related to both the physical tool and the social media platform, covering various potential customer needs.",
+        "target": "['B07Q2G3G3Y', 'B07QNSF3K2', 'B07V2QPFN6', 'B07VNWRSCB', 'B07VQNRSBM', 'B002670A1O', 'B009NX7GGQ', 'B00ZG9ZRM6', 'B013FACGXA']"
+    },
+    "551": {
+        "generated_text": "(boosted OR performance OR advanced OR enhanced OR 'technology-enabled') AND (board OR skateboard OR longboard OR 'racing board')",
+        "target": "['B07TFB5SF7']"
+    },
+    "552": {
+        "generated_text": "(\"bounce pro\" OR \"Bounce\" OR \"ProTrampoline\") AND (\"14 ft\" OR \"14 feet\" OR \"fourteen feet\") AND (\"trampoline enclosure\" OR \"trampoline net\" OR \"trampoline cover\")",
+        "target": "['B077NNBHPW', 'B073DB8SSW', 'B07R44XP7Y', 'B072HPDYQP', 'B0716KW62Y', 'B005SKE75G', 'B005D5AK5M', 'B071G6NSP3']"
+    },
+    "553": {
+        "generated_text": "(\"compound bow\" OR \"compound hunting bow\" OR \"compound target bow\") AND (\"carbon bow\" OR \"high power\" OR \"long range\" OR \"adjustable sights\" OR \"outdoor\" OR \"hunting\" OR \"target practice\")",
+        "target": "['B00RGAPIYA', 'B077S611VH', 'B0748P4Q3J', 'B016I9MMHK', 'B01LYJHVPF']"
+    },
+    "554": {
+        "generated_text": "(bowie AND knife) AND (tactical OR military OR survival) AND (compass OR navigation)",
+        "target": "['B07BH63BJ6']"
+    },
+    "555": {
+        "generated_text": "(\"speed bags\" OR \"speed bag\" OR \"speed punching bag\" OR \"punching bag\") AND (\"boxing\" OR \"box\" OR \"boxer\" OR \"boxing gloves\" OR \"boxing equipment\")",
+        "target": "['B07ZBLLP6N', 'B087688ZYQ', 'B07KF79J6V', 'B088WXH7JM', 'B01IRXYRYG', 'B002ZQ0ZRA', 'B00005R2GR', 'B01N9RFN00']"
+    },
+    "556": {
+        "generated_text": "(boxing OR boxer OR \"heavyweight\") AND (body OR chest OR torso OR limbs) AND (shield OR protector OR guard OR armor)",
+        "target": "['B06XPPRC9L', 'B006CUCG5Y', 'B005ESONYC']"
+    },
+    "557": {
+        "generated_text": "(contigo AND NOT straw)",
+        "target": "['B00YYBBYN8', 'B01N6PYQVY', 'B084DWD6PH', 'B08BKSSDQ1', 'B07WPJQ274', 'B08V1YG5HC', 'B08CD2ZN55', 'B00T7MMUCS', 'B01N21G3LH', 'B01MR51OC3', 'B01GKCHKCM']"
+    },
+    "558": {
+        "generated_text": "(\"razor\" AND \"scooter\" AND \"accelerator\" AND \"lock\")",
+        "target": "['B07CS514JL', 'B0827L3NH1', 'B078XCL153']"
+    },
+    "559": {
+        "generated_text": "(\"BTS\" OR \"BTS brand\" OR \"BTS merchandise\" OR \"BTS collection\") AND (\"earrings\" OR \"earring\" OR \"jewelry\" OR \"accessories\")",
+        "target": "['B07Y73SC31', 'B07RPMQJZV']"
+    },
+    "560": {
+        "generated_text": "(\"bts\" OR \"BTS merchandise\" OR \"BTS album\" OR \"BTS concert\") AND (\"shaky\" OR \"shaker\" OR \"shake\") AND (\"water bottle\" OR \"hydration bottle\" OR \"sports bottle\")",
+        "target": "['B0821K6GMM', 'B07KY692PW', 'B07J1NVV87', 'B07HS2VM89']"
+    },
+    "561": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"reusable,\" \"spoon,\" \"fork,\" \"combo.\"\n2. Determine synonyms or related terms for each component:\n   - \"Reusable\": reusuable, washable, dishwasher safe.\n   - \"Spoon\": spoon, utensil.\n   - \"Fork\": fork, utensil.\n   - \"Combo\": set, pair, kit.\n3. Construct a Boolean query using these terms to ensure comprehensive coverage of relevant products.\n\nThe goal is to create a query that captures all possible variations of the product while maintaining relevance. We'll use AND to ensure all key concepts are included and OR to account for synonyms and related terms.\n\nFinal Boolean query:\n(\"reusable\" OR \"reusuable\" OR \"washable\" OR \"dishwasher safe\") AND (\"spoon\" OR \"utensil\") AND (\"fork\" OR \"utensil\") AND (\"combo\" OR \"set\" OR \"pair\" OR \"kit\"). This query ensures we capture products that are described with any of these synonymous terms, focusing on the combination of spoon and fork sets that are reusable or come as a combo.",
+        "target": "['B01FYJ6ICK', 'B077K942BR', 'B07M7PF2X3', 'B08222YP13', 'B09CPYDB47', 'B07R5L89Q9', 'B08BKLQMZZ', 'B08GRZ28JQ', 'B0915YLFHH', 'B098NBZB9F', 'B083CSTPQD', 'B07NQDFWTK', 'B0115D0D3O', 'B01CYVK250', 'B07BS77BNK', 'B07DD9R5ZJ', 'B07KPR87T4', 'B07NQD84H3']"
+    },
+    "562": {
+        "generated_text": "(kill AND gillie AND suit) OR (kill AND gillie AND armor) OR (halloween AND gillie AND suit) OR (halloween AND gillie AND armor)",
+        "target": "['B06XJHL7HL']"
+    },
+    "563": {
+        "generated_text": "(tracker OR tracking OR locator OR navigator OR sensor) AND (laser OR 'laser pointer' OR 'laser guidance' OR 'laser scanner')",
+        "target": "['B01BM5KN30', 'B01BM5KN30', 'B06XGCS6PV']"
+    },
+    "564": {
+        "generated_text": "(\"butcher\" OR \"meat\" OR \"cattle\" OR \"poultry\") AND (\"tent\" OR \"shelter\" OR \"cover\" OR \"structure\")",
+        "target": "['B01IVRSGT0']"
+    },
+    "565": {
+        "generated_text": "(\"camelbacks\" OR \"hydration system\" OR \"water bottle\" OR \"hydration pack\") AND (\"kids\" OR \"children\" OR \"child\" OR \"toddler\" OR \"youth\")",
+        "target": "['B07NRNZWYM', 'B07TFGQC3D']"
+    },
+    "566": {
+        "generated_text": "(mountain AND (man OR mountain) AND (gear OR equipment OR apparel OR accessories))",
+        "target": "['B07TFGQC3D']"
+    },
+    "567": {
+        "generated_text": "(\"water bottle\" OR \"hydration bottle\" OR \"sports bottle\" OR \"sunglass case\" OR \"glasses case\") AND (\"running\" OR \"jogging\" OR \"exercise\" OR \"fitness\" OR \"long run\" OR \"training\")",
+        "target": "['B07CTCWYTV', 'B07PVD6DT7', 'B077TDDMF8', 'B085WLJCTX']"
+    },
+    "568": {
+        "generated_text": "(\"camelbak\" AND \"bite valve\" AND \"kids\")",
+        "target": "['B00OBVOPD2', 'B07W36TMCD', 'B0019DCVTA']"
+    },
+    "569": {
+        "generated_text": "(\"camelbak\" OR \"CamelBak\") AND (\"eddy bite\" OR \"bite valve\" OR \"hydration reservoir\") AND (\"replacement\" OR \"spare\" OR \"part\" OR \"accessory\")",
+        "target": "['B07W36TMCD']"
+    },
+    "570": {
+        "generated_text": "(\"insulated\" OR \"temperature-controlled\" OR \"thermal\" OR \"heat retention\") AND (\"holder\" OR \"container\" OR \"cup\" OR \"bottle sleeve\") AND (\"20 oz bottle\" OR \"twenty ounce bottle\" OR \"20oz bottle\")",
+        "target": "['B081ZP1X4K', 'B07QR6WZ9P', 'B07R89FVWV']"
+    },
+    "571": {
+        "generated_text": "(campbell AND (posture OR balance OR support OR orthopedic) AND (cane OR walking stick OR can))",
+        "target": "['B07X4BRR6Z', 'B07VC619LH', 'B07Z38RPQ3', 'B07PFR8CYJ', 'B00CPPOGLM', 'B07N91HG4D']"
+    },
+    "572": {
+        "generated_text": "(\"camping\" OR \"portable\" OR \"outdoor\" OR \"travel\" OR \"lightweight\" OR \"durable\" OR \"weatherproof\") AND (\"table\" OR \"picnic table\" OR \"folding table\" OR \"portable table\" OR \"collapsible table\")",
+        "target": "['B005G0XFEM', 'B088LRK6SB', 'B07Z75HYQM', 'B002YXR766']"
+    },
+    "573": {
+        "generated_text": "(camping AND (tent OR sleeping bag OR portable stove OR multi-tool OR navigation device OR first aid kit OR lightweight backpack OR water bottle OR sunscreen OR insect repellent OR map OR compass)) AND (essential OR basic OR must-have OR foundational OR primary OR critical)",
+        "target": "['B01E7KBHSM', 'B07DXRWGCS']"
+    },
+    "574": {
+        "generated_text": "(camping OR outdoor OR recreational OR adventure OR tent OR caravan) AND (house OR cabin OR shelter OR dwelling OR lodge) AND (\"4 people\" OR family OR group OR couple OR \"room for four\")",
+        "target": "['B07RBK1BLC']"
+    },
+    "575": {
+        "generated_text": "(cannab OR cannabis) OR (can jam OR canning OR food preservation) OR (can jammer OR canning equipment)",
+        "target": "['B07DX99RP6']"
+    },
+    "576": {
+        "generated_text": "(\"Houston\" AND \"Texans\") AND (\"redneck\" OR \"country\" OR \"ranch\" OR \"farmhouse\" OR \"rustic\") AND (\"golf\" OR \"golf accessories\" OR \"golf apparel\" OR \"golf equipment\")",
+        "target": "['B0145IWKBE', 'B07TF7VPS8', 'B07K22CCN2', 'B0050X87UW']"
+    },
+    "577": {
+        "generated_text": "(\"galaxy s9\" OR \"Samsung Galaxy S9\" OR \"Galaxy S9 phone\" OR \"Galaxy S9 case\") AND (\"car holder\" OR \"vehicle mount\" OR \"phone holder\" OR \"car phone holder\" OR \"dashboard mount\")",
+        "target": "['B07VNCM91Q', 'B07BMVQ9DB', 'B07RLZLKGF', 'B082G2VZ91', 'B087NQ9Q76', 'B07VQZD9Y7']"
+    },
+    "578": {
+        "generated_text": "(\"fishing knife\" OR \"fish knife\" OR \"fillet knife\" OR \"marine knife\" OR \"outdoor knife\" OR \"gourmet knife\") AND (\"stainless steel\" OR \"durable\" OR \"sharp\")",
+        "target": "['B007HAE5GQ', 'B07X7MYV66', 'B081HWTMXN']"
+    },
+    "579": {
+        "generated_text": "(\"velocity\" AND (\"deep v\" OR \"deep section\" OR \"aero\") AND (\"wheelset\" OR \"bicycle wheels\" OR \"bike wheels\"))",
+        "target": "['B07VM76W5W', 'B0063R4N4S', 'B01HXJAPDW', 'B07JN46P6T', 'B083SCG9PN', 'B08TC54DMQ', 'B003BCCB4W']"
+    },
+    "580": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"zipp 404 wheelset\".\n   - \"zipp\" refers to a brand known for high-performance cycling wheels.\n   - \"404\" likely refers to a specific model or series of wheels from Zipp.\n   - \"wheelset\" indicates a set of wheels, typically for a bicycle.\n\n2. Identify key components:\n   - Brand: Zipp\n   - Model/Series: 404\n   - Product Type: Wheelset\n\n3. Consider synonyms or related terms:\n   - \"Zipp\" could also be referred to as \"Zipp Racing\" or simply \"Zipp\" in product listings.\n   - \"404\" might not have direct synonyms but could be associated with specific features or years.\n   - \"Wheelset\" could be expanded to include \"bicycle wheels\", \"bike wheels\", or \"cycling wheels\".\n\n4. Construct a Boolean query:\n   - Use AND to ensure all key components are included.\n   - Use OR to account for variations in naming or terminology.\n\n5. Final Boolean query:\n   - (\"Zipp\" OR \"Zipp Racing\") AND (\"404\") AND (\"wheelset\" OR \"bicycle wheels\" OR \"bike wheels\" OR \"cycling wheels\")\n\nThis query ensures that we retrieve products specifically related to the Zipp 404 wheelset while accounting for potential variations in how these products might be listed.",
+        "target": "['B07VM76W5W']"
+    },
+    "581": {
+        "generated_text": "(\"nfl\" OR \"football\") AND (\"jerseys\" OR \"sweaters\" OR \"shirts\") AND (\"mens\" OR \"male\" OR \"men's\")",
+        "target": "['B00AUBR58Y', 'B07XD67GR4', 'B00AUBSXN0', 'B01NCHYE56', 'B078HQPYYQ']"
+    },
+    "582": {
+        "generated_text": "(\"cat\" OR \"pet\" OR \"feline\") AND (\"tourniquet\" OR \"first aid kit\" OR \"emergency kit\" OR \"medical device\") AND (\"holder\" OR \"case\" OR \"pouch\" OR \"storage\")",
+        "target": "['B08139F9HH', 'B07WCPY8N1', 'B07NWTHC6N', 'B07GFS7VY8', 'B01KWFR7TO']"
+    },
+    "583": {
+        "generated_text": "\"chad wild clay\" AND (merch OR spy kit)",
+        "target": "['B07V4M92W6', 'B00K74K996']"
+    },
+    "584": {
+        "generated_text": "(\"indoor\" OR \"indoor-use\" OR \"home\" OR \"compact\" OR \"easy-to-maintain\") AND (\"golf\" OR \"golfing\" OR \"sport\") AND (\"putter\" OR \"practice putter\" OR \"training putter\" OR \"golf practice tool\")",
+        "target": "['B07L9L592K', 'B013BYCKDQ', 'B07BS9424K', 'B011U9TEI8', 'B000KGDYQG']"
+    },
+    "585": {
+        "generated_text": "\"Hydro Flask\" AND \"16 oz\" AND \"wide mouth\"",
+        "target": "['B01ACAUAFW', 'B07VCVJNHC', 'B08CYBDCWV', 'B01ACAUDGI', 'B07941QTV8']"
+    },
+    "586": {
+        "generated_text": "\"kansas city chiefs\" AND cups AND plastic",
+        "target": "['B00DHLPNNS', 'B07BHT7D7D', 'B009LQ6S82', 'B078T29B1N']"
+    },
+    "587": {
+        "generated_text": "(\"chicago cubs\" OR \"Cubs\" OR \"Chicago Cubs\") AND (\"tshirt\" OR \"T-shirt\" OR \"tee\" OR \"shirt\" OR \"apparel\")",
+        "target": "['B07MS9XS3N', 'B003XOUJW4']"
+    },
+    "588": {
+        "generated_text": "(Chump AND (\"t shirts\" OR tees OR shirts OR apparel))",
+        "target": "['B083TW8RT8', 'B083TQVBDH']"
+    },
+    "589": {
+        "generated_text": "(\"clearswim\" AND (\"goggles\" OR \"eyewear\" OR \"protective gear\") AND (\"over eyes\" OR \"full coverage\" OR \"complete\" OR \"totally covering\"))",
+        "target": "['B083Q5V9NX', 'B07PQJQCT4', 'B00K7G4JI6']"
+    },
+    "590": {
+        "generated_text": "(Cleveland AND (big OR large OR oversized OR capacity) AND (tall OR high OR vertical OR height))",
+        "target": "['B01N3LUPH0']"
+    },
+    "591": {
+        "generated_text": "(inflatable OR \"air mattress\" OR \"blow-up bed\") AND (\"full mattress\" OR \"double mattress\" OR \"king-sized mattress\") AND (\"built in pump\" OR \"integrated pump\" OR \"pump included\")",
+        "target": "['B000HBGSP8', 'B000HBGSP8', 'B0014E2BO4']"
+    },
+    "592": {
+        "generated_text": "(\"blue\" OR \"navy\" OR \"sky blue\") AND (\"metal\" OR \"steel\" OR \"aluminum\" OR \"iron\") AND (\"cold\" OR \"chilly\" OR \"frost\" OR \"freezing\")",
+        "target": "['B07DWD5ZYV', 'B07GS11253', 'B07MKH48TP', 'B07QPPDVXY', 'B076CN4961', 'B07HX1R8JS', 'B0179IKAZU', 'B0001YY3EE', 'B000LC9VKW', 'B00TOZTMDS', 'B00737EW84', 'B007387TVA']"
+    },
+    "593": {
+        "generated_text": "(\"MOLLE\" AND (\"vest\" OR \"pack\" OR \"accessories\" OR \"gear\" OR \"tactical\" OR \"load-bearing\"))",
+        "target": "['B005E0YJN0']"
+    },
+    "594": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the original query:\n   - \"cooling towels\": This is the main product type the customer is interested in.\n   - \"neck\": This specifies the intended use or location of the towels.\n   - \"10 pack\": Indicates the quantity or packaging size.\n\n2. Determine synonyms or related terms:\n   - \"cooling towels\" could also be referred to as \"ice towels\", \"cold compress\", \"neck cooling\", \"neck compress\".\n   - \"neck\" is specific enough, but we can consider \"cervical\" as a synonym.\n   - \"10 pack\" can be expressed as \"pack of 10\", \"set of 10\", \"bulk pack\".\n\n3. Construct the Boolean query:\n   - We want to ensure that all products retrieved are indeed cooling towels, so \"cooling towels\" OR its synonyms should be included.\n   - The term \"neck\" should be included to ensure relevance to the intended use.\n   - The phrase \"10 pack\" should be included to match the desired quantity.\n\n4. Combine these into a logical query using AND and OR operators to ensure all aspects are covered.\n\nThe final query will look like this:\n(\"cooling towels\" OR \"ice towels\" OR \"cold compress\" OR \"neck cooling\" OR \"neck compress\") AND (\"neck\" OR \"cervical\") AND (\"10 pack\" OR \"pack of 10\" OR \"set of 10\" OR \"bulk pack\"). This ensures that the search retrieves products that are cooling towels, specifically designed for the neck, and come in a 10-pack format.",
+        "target": "['B07SRLWP16']"
+    },
+    "595": {
+        "generated_text": "(corkscrew OR screw OR bottle opener OR cork remover) AND (tumbler OR spinner OR rotator OR shaker)",
+        "target": "['B07SH1Q91R', 'B07QHB9RY8', 'B07BC5ZZC5']"
+    },
+    "596": {
+        "generated_text": "(\"corn hole cover\" OR \"cornhole cover\" OR \"corn hole net\" OR \"cornhole netting\") AND (\"boards\" OR \"cornhole boards\" OR \"corn hole boards\")",
+        "target": "['B07QJ7232L', 'B01GSW73CQ', 'B01ES64OLW', 'B0716RFPRK']"
+    },
+    "597": {
+        "generated_text": "Teton AND (tent OR camping tent OR outdoor tent OR travel tent)",
+        "target": "['B07S384BCP', 'B07H5XWHVB', 'B079W9PXY3']"
+    },
+    "598": {
+        "generated_text": "(cowboys OR Western OR ranch OR prairie OR saddle OR stetson) AND (gifts OR presents OR souvenirs OR decorations OR accessories) AND (men OR male OR gentlemen OR guys)",
+        "target": "['B07JJPB9R3', 'B075WWJFDY']"
+    },
+    "599": {
+        "generated_text": "(\"cowitness\" AND (\"riser\" OR \"stool\" OR \"board\" OR \"exercise equipment\" OR \"fitness tool\"))",
+        "target": "['B07XFR454J', 'B01CKYYH4S', 'B00WGZOGJI', 'B00M9JH8W8', 'B003TWZG4G']"
+    },
+    "600": {
+        "generated_text": "\"Crank Brothers\" AND (\"pedals\" OR \"bike pedals\" OR \"bicycle pedals\" OR \"mountain bike pedals\" OR \"road bike pedals\")",
+        "target": "['B07H1LQWLF', 'B087W3MJY4']"
+    },
+    "601": {
+        "generated_text": "(stopwatch OR timer) AND (cute OR adorable OR charming OR pretty) AND (lanyard OR keychain OR fob)",
+        "target": "['B0192EVY18', 'B0000VM0MK', 'B0000C1XTN']"
+    },
+    "602": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"workout equipment\" and \"women\".\n2. Consider synonyms or related terms for \"workout equipment\": \"fitness equipment\", \"exercise machines\", \"gym equipment\".\n3. Consider synonyms or related terms for \"women\": \"female\", \"ladies\", \"girls\".\n4. Combine these terms using Boolean operators to ensure comprehensive coverage while maintaining relevance.\n\nThe goal is to create a query that captures various types of workout equipment specifically designed for women, using logical operators to broaden the search without losing specificity.\n\nFinal query construction:\n- Use \"OR\" to include synonyms and related terms.\n- Use \"AND\" to ensure both concepts (\"workout equipment\" and \"women\") are included in the search.\n\nThe structured query will look like this:\n(\"workout equipment\" OR \"fitness equipment\" OR \"exercise machines\" OR \"gym equipment\") AND (\"women\" OR \"female\" OR \"ladies\" OR \"girls\"). This ensures we capture a wide range of relevant products while focusing on the intended audience.",
+        "target": "['B085TDF6D2', 'B083JWXQ9B', 'B08CL4SLTS', 'B08CMJKJ5M', 'B089M7PZQ3', 'B083K44TYS']"
+    },
+    "603": {
+        "generated_text": "(\"protein feeders\" OR \"protein supplements\" OR \"nutrient feeders\" OR \"protein feed\") AND (\"deer\" OR \"deer feed\" OR \"deer nutrition\" OR \"deer supplement\")",
+        "target": "['B00C7PF7J0', 'B07NW9LMT6', 'B07NW93FP3', 'B00DPT3YAG', 'B0029WEALC', 'B000GVTYOG']"
+    },
+    "604": {
+        "generated_text": "\"Desert Eagle\" AND (\"grips\" OR \"stock\" OR \"handle\" OR \"stocking\" OR \"fore grip\")",
+        "target": "['B08BWS9GYS', 'B0002ILQGM', 'B002E6T1HG']"
+    },
+    "605": {
+        "generated_text": "(\"dingy\" OR \"inflatable boat\" OR \"canoe\") AND (\"boat\" OR \"watercraft\" OR \"vessel\") AND (\"wheels\" OR \"propulsion\" OR \"motor\" OR \"outboard\" OR \"engine\" OR \"prop\")",
+        "target": "['B06WLLW2S5', 'B071481N3Q', 'B076VRMXJN', 'B07BH84RKS', 'B07MCP446M', 'B07YBWM9NH', 'B08VDBKKTS', 'B01MQYAG8L', 'B086LCG3J4', 'B00A9KBR4Y', 'B00AWGS46E', 'B00G3ILGMY']"
+    },
+    "606": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"pull blocks weightlifting\".\n2. Identify key components:\n   - \"pull\": This could refer to exercises involving pulling, such as pull-ups or rows.\n   - \"blocks\": This might refer to weightlifting blocks, which are used to support weights during exercises like deadlifts.\n   - \"weightlifting\": This is a broad term that encompasses various exercises and equipment used in weightlifting.\n\n3. Determine synonyms and related terms:\n   - For \"pull\": pull-ups, rows, chin-ups.\n   - For \"blocks\": weightlifting platforms, weight benches.\n   - For \"weightlifting\": gym equipment, workout machines.\n\n4. Construct a logical query using Boolean operators:\n   - We want to ensure that the search includes products related to both \"pull\" exercises and \"weightlifting\", specifically focusing on \"blocks\" or similar equipment.\n   - Use AND to combine different concepts and OR to include synonyms or related terms.\n\n5. Final query construction:\n   - (\"pull\" OR \"pull-up\" OR \"rows\" OR \"chin-up\") AND (\"blocks\" OR \"weightlifting platform\" OR \"weight bench\") AND (\"weightlifting\" OR \"gym equipment\" OR \"workout machine\").\n\nThis query will help retrieve products that are relevant to someone interested in weightlifting equipment for pull exercises, including blocks or platforms.",
+        "target": "['B07ZR6NDWQ']"
+    },
+    "607": {
+        "generated_text": "(drift OR performance OR racing OR handling OR acceleration) AND (trike OR three-wheeler OR motocross)",
+        "target": "['B01LZKX9KR', 'B00WBVXYJK', 'B00HOTSJO4', 'B00HOTSJO4', 'B01NA9JKSL']"
+    },
+    "608": {
+        "generated_text": "(\"full body\" OR comprehensive OR total OR \"whole-body\") AND (vibration OR shake OR \"shake-up\" OR pulsation OR tremor) AND (system OR set OR apparatus OR equipment)",
+        "target": "['B0195Y9PF2', 'B00GMHWAF8', 'B00GMHWAF8', 'B00COGQ9IK', 'B01CK31J0Y', 'B07H3BQF4Q', 'B078NHZRL6', 'B017HM4G8K', 'B00LNHXXFS']"
+    },
+    "609": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the original query: \"emergency go bag\" suggests a need for a bag that can be used in emergency situations, possibly for carrying essential items.\n2. Identify key components:\n   - \"emergency\": Indicates the need for something useful or necessary in urgent situations.\n   - \"go bag\": Suggests a portable or easily accessible bag, often used for travel or emergencies.\n3. Consider synonyms and related terms:\n   - For \"emergency\": consider terms like \"disaster\", \"crisis\", \"preparedness\".\n   - For \"go bag\": consider \"portable bag\", \"travel bag\", \"kit\", \"emergency kit\".\n4. Structure the query using Boolean operators to ensure it captures the essence of what the customer might be looking for:\n   - Use AND to combine different concepts that must be present.\n   - Use OR to include synonyms or related terms to broaden the search.\n5. Construct the query:\n   - (\"emergency\" OR \"disaster\" OR \"crisis\" OR \"preparedness\") AND (\"go bag\" OR \"portable bag\" OR \"travel bag\" OR \"kit\" OR \"emergency kit\").\nThis query should help retrieve products that are relevant to someone looking for an emergency go bag or similar item.",
+        "target": "['B00U9L1ATK']"
+    },
+    "610": {
+        "generated_text": "(\"Easton\" AND \"crossbow bolts\" AND \"20 inch\" AND \"carbon\")",
+        "target": "['B00B1CAJTI', 'B009KOAC0U']"
+    },
+    "611": {
+        "generated_text": "(ebike OR \"electric bike\" OR \"e-bike\" OR pedelec OR \"electric bicycle\") AND (folding OR cruiser OR mountain OR city OR cargo OR battery life OR speed OR range OR accessories)",
+        "target": "['B07ZST3JJB', 'B088D8NXB3', 'B086QXGKSY', 'B07X8RKQ4B', 'B07THFR4NK']"
+    },
+    "612": {
+        "generated_text": "(Jazzy AND (power chair OR electric wheelchair) AND (charger OR adapter OR charging station))",
+        "target": "['B076D3R8NG', 'B07T18SGZ7', 'B07SZ5344B', 'B07H781R73', 'B075SRGDH8', 'B07WR11HXF', 'B00D95SSDO', 'B00CIZ1KCM', 'B00CIZ1GW6', 'B00BOVX880', 'B005FK3OZ8']"
+    },
+    "613": {
+        "generated_text": "(\"one\" OR \"single\" OR \"individual\") AND (\"wheel\" OR \"skateboard\" OR \"scooter\" OR \"bike\" OR \"vehicle\") AND (\"pint\" OR \"pneumatic\")",
+        "target": "['B07KPP25MG', 'B084SRSD6X', 'B07SSQ4VBT', 'B07SSQ4VBT', 'B06XPDJPRS', 'B07MJ2L1VL', 'B07BKP6322']"
+    },
+    "614": {
+        "generated_text": "(\"Eon\" OR \"Eon brand\" OR \"Eon model\") AND (\"hammocks\" OR \"hammock\" OR \"sleeping hammock\" OR \"outdoor hammock\")",
+        "target": "['B004PP3FSA', 'B01KUA86TQ', 'B01KUA823G', 'B004U9P6I8', 'B004PPM252', 'B004PPHB5S']"
+    },
+    "615": {
+        "generated_text": "(escrima OR 'stick fighting') AND ('cold steel' OR 'traditional knife')",
+        "target": "['B08QRLJ971', 'B083W6BNK2', 'B000BSY9AI', 'B01M3RT730']"
+    },
+    "616": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the given query: \"esstac kywi\".\n2. Identify potential keywords or product-related terms:\n   - \"esstac\" could be a brand name or a specific model.\n   - \"kywi\" might refer to a product type or feature.\n3. Consider possible variations or related terms:\n   - \"esstac\" could be misspelled or have alternative spellings.\n   - \"kywi\" might relate to \"kuiu,\" which is a known brand for outdoor gear.\n4. Formulate a logical query using Boolean operators:\n   - Use \"AND\" to ensure both terms are included in the search.\n   - Use \"OR\" to account for variations or related terms.\n5. Construct the query:\n   - (\"esstac\" OR \"essta\") AND (\"kywi\" OR \"kuiu\")\n\nThis query ensures that we retrieve products related to both \"esstac\" and \"kywi\" or its related term \"kuiu\". The use of OR allows for flexibility in matching variations or synonyms, while AND ensures both concepts are present in the results.",
+        "target": "['B008SFYN3Y']"
+    },
+    "617": {
+        "generated_text": "(\"eversport\" AND (\"goggles\" OR \"eyewear\" OR \"protective gear\" OR \"safety glasses\"))",
+        "target": "['B083RDV8P3', 'B07QDKQZ4P', 'B07CKZKCGB']"
+    },
+    "618": {
+        "generated_text": "(\"spinng\" OR \"spinning\") AND (\"bike\" OR \"bicycle\")",
+        "target": "['B07X6GHLLT', 'B08QV6XVSP', 'B08Q7M94M6']"
+    },
+    "619": {
+        "generated_text": "(\"exercise ball\" OR \"fitness ball\" OR \"workout ball\") AND (\"stabilizer\" OR \"support\" OR \"balance\" OR \"core support\")",
+        "target": "['B01KKRGAN8', 'B07RM3Z8WQ', 'B0722651DM']"
+    },
+    "620": {
+        "generated_text": "(\"fire\" OR \"starter\" OR \"ignition\" OR \"kindling\" OR \"flame\" OR \"pyro\") AND (\"striker\" OR \"lighter\" OR \"igniter\" OR \"spark\" OR \"match\")",
+        "target": "['B01M5JKHP1', 'B01FL9J55A', 'B00PSGOM32', 'B07LDF661T', 'B016UWWS2O', 'B07W6N1Z5B', 'B00VFBEJX2']"
+    },
+    "621": {
+        "generated_text": "(\"nordictrack\" AND \"exp 7i\" AND \"treadmill\")",
+        "target": "['B01F64YRIK']"
+    },
+    "622": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"extended clip for bodyguard 380\".\n2. Identify key components:\n   - \"extended clip\": This refers to a specific accessory or part that extends the reach of a firearm's clip.\n   - \"bodyguard 380\": This likely refers to a specific model of a firearm, specifically the Smith & Wesson Bodyguard series, which is chambered in .380 Auto.\n\n3. Determine synonyms or related terms:\n   - \"extended clip\" could also be referred to as \"clip extender\", \"clip extension\", or \"ammo clip extender\".\n   - \"bodyguard 380\" is specific enough, but we can include variations like \"Smith & Wesson Bodyguard 380\" to ensure comprehensive coverage.\n\n4. Construct the query using Boolean operators:\n   - We want to ensure that both the accessory type and the firearm model are included in the search results.\n   - Use AND to combine the two main components and OR to include synonyms or variations.\n\n5. Final query construction:\n   - (\"extended clip\" OR \"clip extender\" OR \"clip extension\" OR \"ammo clip extender\") AND (\"bodyguard 380\" OR \"Smith & Wesson Bodyguard 380\")\n\nThis query will help retrieve products that are specifically designed for the Smith & Wesson Bodyguard 380 and are related to extended clips or similar accessories.",
+        "target": "['B07R546C9F', 'B007MXM6NC', 'B0094T6MKK']"
+    },
+    "623": {
+        "generated_text": "(\"falcon\" OR \"bird of prey\" OR \"hawk\" OR \"raptor\") AND (\"keychain\" OR \"key holder\" OR \"key fob\" OR \"key ring\")",
+        "target": "['B003TIY6LO']"
+    },
+    "624": {
+        "generated_text": "(lady AND pee AND funnel AND one time)",
+        "target": "['B07WCRFN7R', 'B078SXXKRG']"
+    },
+    "625": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the given query: \"fimibuke\".\n2. Determine possible interpretations or related terms:\n   - \"Fimibuke\" could be a brand name, product line, or specific item.\n   - It might be a misspelling or variation of another known term.\n3. Consider potential categories or contexts where \"fimibuke\" might be used:\n   - If it's a brand, it could relate to electronics, toys, or any industry it operates in.\n   - If it's a product, it could be a gadget, toy, or accessory.\n4. Generate query terms using Boolean operators to cover possible interpretations:\n   - Use \"OR\" to include variations or related terms.\n   - Use \"AND\" to narrow down to specific attributes if needed.\n5. Construct the query to maximize relevance for potential matches.\n\nBased on these considerations, I will generate a query that includes possible variations and related terms to ensure comprehensive retrieval of relevant products. \n\nThe final query will look like this:\n(\"fimibuke\" OR \"fimibuk\" OR \"fimibuke brand\" OR \"fimibuke product\") AND (\"electronics\" OR \"toy\" OR \"accessory\")\n\nThis query aims to capture any products related to \"fimibuke\" while also considering possible variations and related categories.",
+        "target": "['B08LSGZNVD', 'B08SG8Q9LF', 'B08SGKBPJ5', 'B091YKWFPX', 'B08YR9D429', 'B08FB1NJL5', 'B087F9BK66', 'B087QG4XKV', 'B089RHMKY7', 'B087943TJM']"
+    },
+    "626": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"mag 4 bolt cleaning tool\".\n2. Identify key components:\n   - \"mag\": This likely refers to a specific type or brand of bolt cleaner.\n   - \"4\": Could refer to a model number or specification related to the bolt cleaner.\n   - \"bolt cleaning tool\": This is the main product category.\n\n3. Consider synonyms and related terms:\n   - \"mag\" could be associated with \"magnet\" or \"magnetic\", but given context, it's likely referring to a specific product line.\n   - \"4\" might be a model number or specification, so it should remain as is unless more context is provided.\n   - \"bolt cleaning tool\" can be expanded to include \"bottle cleaner\", \"tool kit\", \"cleaning device\".\n\n4. Construct a Boolean query:\n   - Use AND to ensure all essential components are included.\n   - Use OR for synonyms or related terms to broaden the search without losing specificity.\n\n5. Final query construction:\n   - Ensure that the search includes the specific product name or model (\"mag 4\") and the general category (\"bolt cleaning tool\").\n   - Include synonyms or related terms to capture variations in product listings.\n\nThe final Boolean query will look like this:\n(\"mag 4\" AND (\"bolt cleaning tool\" OR \"bottle cleaner\" OR \"tool kit\" OR \"cleaning device\")). \nThis query ensures that we are looking for products specifically related to the \"mag 4\" model while also considering various ways these products might be listed.",
+        "target": "['B00I81LC5A', 'B0035LU0O2']"
+    },
+    "627": {
+        "generated_text": "(\"fishing\" OR \"boat\" OR \"water\" OR \"angler\") AND (\"life jacket\" OR \"personal flotation device\" OR \"PFD\" OR \"swim jacket\")",
+        "target": "['B07D324VMG', 'B077XTCZD9', 'B07W6FF1CK']"
+    },
+    "628": {
+        "generated_text": "(\"fishing pole\" OR \"fishing rod\" OR \"casting rod\" OR \"angling pole\") AND (\"spinning\" OR \"casting\" OR \"hybrid\" OR \"carbon\" OR \"glass\" OR \"bamboo\" OR \"reel seat\" OR \"guide system\")",
+        "target": "['B08B1R1G1Q', 'B07SLDF1QS', 'B075DD7FGX', 'B07GCCQF55']"
+    },
+    "629": {
+        "generated_text": "(\"tangle free\" OR \"tangle-free\" OR \"no tangle\" OR \"easy tangle\" OR \"tangle prevention\") AND (\"fishing pole\" OR \"fishing rod\" OR \"casting rod\" OR \"spinning rod\")",
+        "target": "['B01LWSRQCV']"
+    },
+    "630": {
+        "generated_text": "(\"fishing rod\" AND NOT \"reel\")",
+        "target": "['B08617J5YC', 'B09258DXTY', 'B07MTSP24W', 'B00M95ICG8', 'B01IVL6AXA']"
+    },
+    "631": {
+        "generated_text": "(\"spinning\" AND \"assisted\" AND \"knife\") OR (\"folding knife\" AND \"spinning\") OR (\"automatic knife\" AND \"spinning\")",
+        "target": "['B06Y5CNCZC', 'B013JSJBG8', 'B002OAU30G', 'B07N7FDFNR', 'B00XMYLRLC']"
+    },
+    "632": {
+        "generated_text": "\"World of Golf\" AND (\"putting mat\" OR \"golf practice mat\" OR \"golf putting practice pad\")",
+        "target": "['B013BYCKDQ', 'B00HXAJ4VQ', 'B00BNFE764', 'B002ALIQ3A', 'B06XKDWL83', 'B087WM2J9H', 'B01M2161CR', 'B073GSNKHC', 'B07VTRHPHV', 'B082RP6V9B', 'B08HGJLFR5', 'B00000J6JO']"
+    },
+    "633": {
+        "generated_text": "(\"florida\" OR \"gulf coast\" OR \"southeastern\") AND (\"gators\" OR \"sports\" OR \"team\" OR \"athletic\") AND (\"pants\" OR \"apparel\" OR \"clothing\" OR \"jackets\")",
+        "target": "['B005MG41QQ']"
+    },
+    "634": {
+        "generated_text": "\"flyfishing\" AND \"leadfree\" AND \"splitshot\"",
+        "target": "['B07HHLP9D9', 'B008MGG788', 'B0084EJ02I', 'B007XCWTES', 'B005PW8384', 'B0050CZJ3G', 'B001OM1LRY', 'B00030A79G', 'B0083GG9TO']"
+    },
+    "635": {
+        "generated_text": "(youth OR kids OR children OR junior) AND (archery OR bow OR shooting) AND (target OR practice OR 'practice paper' OR 'target practice')",
+        "target": "['B001FYZYPQ', 'B001FYZYPG', 'B09F3SGNGB', 'B07WRJNH8H', 'B08TBXTYD2', 'B08YXJ2GZT', 'B07DPCV1VZ', 'B000LGRZZG', 'B00IJCI2ZG', 'B00VWJCX62', 'B01BT2LIE4']"
+    },
+    "636": {
+        "generated_text": "(\"football\" OR \"soccer\" OR \"sports\" OR \"athletics\") AND (\"arcade\" OR \"gaming console\" OR \"video game\" OR \"gaming machine\") AND (\"game\" OR \"play\" OR \"match\" OR \"competition\")",
+        "target": "['B076J4JTFB', 'B07BYV5LWL', 'B07XGZWVWX', 'B071DQQW34', 'B01DGDW2PS', 'B013CNKVD2']"
+    },
+    "637": {
+        "generated_text": "(fork OR knife OR cutlery) AND (spoon OR utensil OR cutlery) AND (knife OR cutting tool OR kitchen tool) AND (combo OR set OR collection OR kit)",
+        "target": "['B07C4R2JH2', 'B07M68CJ68', 'B07C2SY71B', 'B077K942BR', 'B07M7PF2X3']"
+    },
+    "638": {
+        "generated_text": "(\"gator\" AND \"car\" AND \"coaster\") OR (\"gator\" AND \"car\" AND (\"coaster\" OR \"ride-on\"))",
+        "target": "['B017DW3JWI', 'B009B88R98']"
+    },
+    "639": {
+        "generated_text": "(\"squeeze\" OR \"squeezable\" OR \"compressible\") AND (\"bottles\" OR \"containers\" OR \"flasks\") AND (\"water packs\" OR \"hydration packs\" OR \"water bottles\")",
+        "target": "['B00LZSJ642']"
+    },
+    "640": {
+        "generated_text": "(\"gci\" AND (\"outdoor\" OR \"patio\" OR \"porch\" OR \"garden\") AND (\"freestyle\" OR \"customizable\" OR \"adjustable\") AND (\"rocker\" OR \"chair\" OR \"seat\"))",
+        "target": "['B07DCCS15B']"
+    },
+    "641": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"georgia sweater\".\n2. Identify key components:\n   - \"georgia\": This likely refers to a brand or a specific style/design related to sweaters.\n   - \"sweater\": This is the product type.\n\n3. Consider synonyms or related terms:\n   - For \"sweater\", related terms could include \"jumper\", \"pullover\", \"wool\", \"knitwear\".\n   - For \"georgia\", if it's a brand, we might consider related terms like \"Georgia Apparel\" or \"Georgia Clothing\".\n\n4. Construct a Boolean query:\n   - We want to ensure that both \"georgia\" and \"sweater\" are included, but we can also allow for variations in the term \"sweater\" using OR.\n\n5. Final Boolean query:\n   - (\"georgia\" AND (\"sweater\" OR \"jumper\" OR \"pullover\" OR \"wool\" OR \"knitwear\"))\n\nThis query ensures that we retrieve products that are either directly branded as \"Georgia\" or have some association with \"Georgia\" while focusing on the product type of sweaters or similar items.",
+        "target": "['B0711H3RQJ']"
+    },
+    "642": {
+        "generated_text": "(\"grid\" OR \"grid paper\" OR \"grid system\" OR \"grid layout\") AND (\"tools\" OR \"instruments\" OR \"equipment\" OR \"devices\") AND (\"set\" OR \"kit\" OR \"bundle\" OR \"collection\")",
+        "target": "['B078MPFWRF', 'B00OM4GVX0']"
+    },
+    "643": {
+        "generated_text": "(Giam AND yoga ball)",
+        "target": "['B01DNQQAIS', 'B01C45GL88', 'B0112RKCVG']"
+    },
+    "644": {
+        "generated_text": "(\"gifts\" OR \"presents\" OR \"items\") AND (\"mom\" OR \"mother\" OR \"mummy\" OR \"mom\") AND (\"son\" OR \"child\" OR \"kid\" OR \"son\")",
+        "target": "['B07Y7ZQ265', 'B07Y84Z6K9', 'B082HDSHFP', 'B08561PQQL', 'B081KX59DQ', 'B07QL9Q5JG', 'B00K13M71G', 'B07BMLNF9Y']"
+    },
+    "645": {
+        "generated_text": "(girls OR female OR 'young girls' OR 'junior girls') AND (lacrosse OR 'field lacrosse' OR 'indoor lacrosse') AND (gear OR equipment OR apparel OR accessories OR 'protective gear')",
+        "target": "['B01MQ2IE02', 'B01LWQR85T']"
+    },
+    "646": {
+        "generated_text": "(\"skidoo\" OR \"snowmobile\" OR \"off-road vehicle\") AND (\"helmet\" OR \"headgear\") AND (\"colourful\" OR \"colorful\" OR \"vibrant\" OR \"bright\" OR \"patterned\" OR \"stylish\")",
+        "target": "['B00UK9GWUS']"
+    },
+    "647": {
+        "generated_text": "(gladiator AND lacrosse AND (rebounder OR hoop OR basket OR goal))",
+        "target": "['B07GRHPVRF', 'B01BVZ3LD0', 'B00HXJ6F5A']"
+    },
+    "648": {
+        "generated_text": "(\"glass\" OR \"clear\" OR \"transparent\") AND (\"water bottle\" OR \"hydration bottle\" OR \"drinking bottle\") AND (\"silicone sleeve\" OR \"silicone cover\" OR \"silicone grip\") AND (\"60 oz\" OR \"60 ounces\" OR \"750 ml\")",
+        "target": "['B07GP63CMH']"
+    },
+    "649": {
+        "generated_text": "(\"selector switch\" OR \"manual safety switch\" OR \"safety selector switch\" OR \"safety switch\") AND (\"Glock\" OR \"glock\")",
+        "target": "['B075XKB8VV']"
+    },
+    "650": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"one wheel beach hoverboard\".\n2. Identify key components:\n   - \"one wheel\": This suggests a single-wheel design, which is a type of hoverboard.\n   - \"beach\": Indicates usage on beaches, suggesting features like sand resistance or ease of use on soft surfaces.\n   - \"hoverboard\": The main product category.\n3. Consider synonyms and related terms:\n   - \"one wheel\" could also be referred to as \"unicycle\" or \"monowheel\".\n   - \"beach\" might relate to \"sand\", \"soft surface\", or \"waterproof\".\n   - \"hoverboard\" is already specific, but we can consider \"electric scooter\" as a related term.\n4. Construct a Boolean query:\n   - Use AND to ensure all key concepts are included.\n   - Use OR to include synonyms and related terms for broader coverage.\n\nThe goal is to create a query that captures the essence of the original request while allowing for variations in terminology that users might employ when searching for similar products.\n\nFinal Boolean query:\n(\"one wheel\" OR \"unicycle\" OR \"monowheel\") AND (\"beach\" OR \"sand\" OR \"soft surface\" OR \"waterproof\") AND (\"hoverboard\" OR \"electric scooter\"). \nThis query ensures that the search results will include products that match the description of a one-wheel beach hoverboard, considering different ways users might refer to these products.",
+        "target": "['B01N4OTDFX', 'B002ZF6HZ0', 'B07SSQ4VBT', 'B07SSQ4VBT', 'B06XPDJPRS']"
+    },
+    "651": {
+        "generated_text": "(\"Mystery Box\" OR \"Surprise Box\" OR \"Subscription Box\" OR \"Hidden Gift Box\" OR \"Decorative Box\")",
+        "target": "['B07VX7ZPZN', 'B07ZJSWWQB', 'B074JK49YH', 'B075PQY43V']"
+    },
+    "652": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"grey punisher decal\".\n   - \"grey\" refers to the color of the decal.\n   - \"punisher\" likely refers to a specific character or theme, possibly from a comic book or video game.\n   - \"decal\" refers to a type of product, typically used for decoration.\n\n2. Identify key components:\n   - Color: grey\n   - Theme/Character: punisher\n   - Product Type: decal\n\n3. Consider synonyms or related terms:\n   - For \"grey\": dark, charcoal, somber\n   - For \"punisher\": superhero, vigilante, antihero\n   - For \"decal\": sticker, transfer, decalcomania\n\n4. Construct a Boolean query:\n   - We want to ensure that all products retrieved are decals, so we'll use AND between \"decal\" and its synonyms.\n   - We also want to ensure that the color and theme are included, so we'll use AND between them and their synonyms.\n   - Use OR to include synonyms for broader matching.\n\n5. Final Boolean query:\n   - (\"grey\" OR \"dark\" OR \"charcoal\" OR \"sombre\") AND (\"punisher\" OR \"superhero\" OR \"vigilante\" OR \"antihero\") AND (\"decal\" OR \"sticker\" OR \"transfer\" OR \"decalcomania\")\n\nThis query will help retrieve products that are grey in color, related to the Punisher theme, and are decals or similar products.",
+        "target": "['B073H9VN4J']"
+    },
+    "653": {
+        "generated_text": "\"GT Performer\" AND \"bicycle parts\"",
+        "target": "['B0754QBPDC']"
+    },
+    "654": {
+        "generated_text": "(\"Leupold\" AND (\"Mark AR\" OR \"Mark-AR\" OR \"Mark A.R.\") AND (\"Mod 1\" OR \"Model 1\" OR \"Modification 1\" OR \"Version 1\"))",
+        "target": "['B079G6M3N1', 'B000GU67AQ', 'B078XG2QN8', 'B018YL5KTW', 'B005D2GHUM', 'B001HN5GR6']"
+    },
+    "655": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"leupold scout scope\".\n2. Identify key components:\n   - \"Leupold\": This is likely a brand name, so it's important for the query.\n   - \"Scout\": This could refer to a specific model or series within the Leupold brand.\n   - \"Scope\": This is a general term that refers to a type of product, which in this context is a rifle scope.\n\n3. Consider synonyms or related terms:\n   - \"Leupold\" doesn't have direct synonyms but might be misspelled or have variations like \"Leupold Optics\".\n   - \"Scout\" could be associated with \"Scout Model\", \"Scout Series\", or \"Scout Rifle\".\n   - \"Scope\" can be expanded to include \"rifle scope\", \"optics\", \"sight\", etc.\n\n4. Construct a logical query using Boolean operators:\n   - Ensure that the brand \"Leupold\" is included.\n   - Include variations or related terms for \"Scout\" and \"Scope\".\n   - Use AND to ensure all necessary components are present, and OR to allow for variations.\n\n5. Finalize the query:\n   - Combine these elements into a structured query that maximizes relevance while maintaining specificity.\n\nThe final query will look something like this:\n(\"Leupold\" AND (\"Scout\" OR \"Scout Model\" OR \"Scout Series\") AND (\"Scope\" OR \"Rifle Scope\" OR \"Optics\" OR \"Sight\")). \nThis ensures that we retrieve products that are specifically from the Leupold brand, related to the Scout line, and are scopes or similar optical devices.",
+        "target": "['B018YKYBVG', 'B078XGPY85', 'B08QSMV9HT', 'B000GU67AQ', 'B018YKOSSC', 'B00H26MVY8']"
+    },
+    "656": {
+        "generated_text": "(gym OR fitness OR workout OR exercise) AND (leggings OR \"compression shorts\" OR activewear) AND (women OR ladies OR female)",
+        "target": "['B07QH12G29']"
+    },
+    "657": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"hair bands men pink\".\n2. Identify key components:\n   - \"hair bands\": This is the primary product type the customer is interested in.\n   - \"men\": This specifies the target demographic for the hair bands.\n   - \"pink\": This indicates the color preference for the hair bands.\n3. Determine logical structure using Boolean operators:\n   - We want to ensure that all products retrieved are \"hair bands\", so we'll use AND between \"hair bands\" and the other terms.\n   - The terms \"men\" and \"pink\" are also essential, so they should be connected with AND as well.\n4. Construct the query:\n   - Combine these elements using AND to ensure all conditions are met.\n\nThe final query will be structured as follows:\n(\"hair bands\" AND \"men\" AND \"pink\")\n\nThis ensures that the search results will include products that are specifically hair bands designed for men and available in pink color.",
+        "target": "['B07VM4H3SH']"
+    },
+    "658": {
+        "generated_text": "(mtb OR mountain bike OR off-road OR trail biking) AND (jump OR jump feature OR jump platform OR jump bar)",
+        "target": "['B072C8HKGZ', 'B000I501WY', 'B000I4YIFQ', 'B07RM725MJ', 'B07RK3NQ7G']"
+    },
+    "659": {
+        "generated_text": "(sneaker AND lights AND (runner OR night))",
+        "target": "['B07L2DGDG2', 'B082BHP53D', 'B07JMHD37K']"
+    },
+    "660": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"heavy duty\", \"bicycle\", \"tubes\".\n2. Consider synonyms or related terms for each component:\n   - \"heavy duty\": durable, robust, strong, thick-walled.\n   - \"bicycle\": bike, cycle.\n   - \"tubes\": inner tubes, tires, pneumatic tubes.\n3. Combine these terms using Boolean operators to ensure comprehensive coverage while maintaining relevance:\n   - Use AND to ensure all main concepts are included.\n   - Use OR to include synonyms and related terms.\n\nThe goal is to create a query that captures products specifically designed for heavy-duty bicycle use, including variations in terminology.\n\nFinal query construction:\n(\"heavy duty\" OR \"durable\" OR \"robust\" OR \"strong\" OR \"thick-walled\") AND (\"bicycle\" OR \"bike\" OR \"cycle\") AND (\"tubes\" OR \"inner tubes\" OR \"tires\" OR \"pneumatic tubes\"). This ensures we cover various ways customers might describe or search for heavy-duty bicycle tubes.",
+        "target": "['B07N4WKLNW', 'B07KXS8V7N']"
+    },
+    "661": {
+        "generated_text": "\"heel o matic\" AND \"roping dummy\"",
+        "target": "['B01HDPUK4A', 'B002SYWYKU', 'B003M6IXIA', 'B00LPRUDT0', 'B00OWYK4TW', 'B00RO1924I']"
+    },
+    "662": {
+        "generated_text": "(kids OR children OR child OR toddler OR youth) AND (roping OR rope play OR rope skills OR rope toy OR rope game) AND (rope OR cord OR string OR lash)",
+        "target": "['B01HDPUK4A', 'B01J4RBPPI', 'B013RXPLB4', 'B002SYWYKU', 'B00PDGXI0U', 'B00PDGXTZ4', 'B01MQP5MYP', 'B0755H8Z1S', 'B078VL4XVG', 'B079Y4HWLR', 'B07MH3K8QL', 'B07MZFWN4F', 'B01LXCQPFJ', 'B088KV2WJD', 'B00061U93Q', 'B000622AZA', 'B005P6FWIE', 'B00H9V3TZQ']"
+    },
+    "663": {
+        "generated_text": "(helmet AND (faceguard OR facial guard OR face shield))",
+        "target": "['B07DLSLYC8']"
+    },
+    "664": {
+        "generated_text": "(\"high waisted\" OR \"high-rise\" OR \"high waist\") AND (\"yoga pants\" OR \"exercise pants\" OR \"workout leggings\") AND (\"women\" OR \"ladies\" OR \"female\") AND (\"plus size\" OR \"curvy\" OR \"full figure\" OR \"large\")",
+        "target": "['B07RNWC7ML', 'B07NPM8Q5P']"
+    },
+    "665": {
+        "generated_text": "(\"water bottle\" OR \"hydration bottle\" OR \"sports bottle\" OR \"flask\") AND (\"lid\" OR \"cap\" OR \"closure\" OR \"cover\")",
+        "target": "['B083GBVYCL', 'B07R3YXV6L']"
+    },
+    "666": {
+        "generated_text": "(indiana OR Hoosier) AND (trucker OR \"truck driver\" OR cowboy) AND (hat OR cap)",
+        "target": "['B01JSGHDXI']"
+    },
+    "667": {
+        "generated_text": "(\"paddle\" OR \"oar\" OR \"rowing paddle\" OR \"watercraft paddle\") AND (\"tubing\" OR \"inflatable tube\" OR \"tube\" OR \"water tubing\")",
+        "target": "['B0897Y3FGT', 'B00J2DSUGC', 'B07ZVPQSQF', 'B0000VVB4S', 'B07B3DVX7B']"
+    },
+    "668": {
+        "generated_text": "(\"inversion table\" OR \"inverting exercise machine\" OR \"retractable exercise equipment\") AND (\"replacement part\" OR \"spare part\" OR \"repair part\" OR \"accessory\")",
+        "target": "['B07B4M4KYH']"
+    },
+    "669": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"jackets with for kids with designs\".\n2. Identify key components:\n   - \"jackets\"\n   - \"kids\"\n   - \"designs\"\n3. Determine synonyms or related terms:\n   - \"jackets\": coat, outerwear\n   - \"kids\": children, child\n   - \"designs\": patterns, prints, graphics\n4. Construct a logical query using Boolean operators:\n   - We want to ensure that the product is a jacket, so we use (\"jackets\" OR \"coat\" OR \"outerwear\").\n   - It should be suitable for kids, so we use (\"kids\" OR \"children\" OR \"child\").\n   - It should have designs, so we use (\"designs\" OR \"patterns\" OR \"prints\" OR \"graphics\").\n5. Combine these into a single query using AND to ensure all conditions are met.\n\nThe final query will be structured as follows:\n(\"jackets\" OR \"coat\" OR \"outerwear\") AND (\"kids\" OR \"children\" OR \"child\") AND (\"designs\" OR \"patterns\" OR \"prints\" OR \"graphics\"). This ensures that the search results include jackets designed for kids with various design elements.",
+        "target": "['B07MPCD1TB', 'B078Y6M8X5']"
+    },
+    "670": {
+        "generated_text": "Jetboil AND (burner OR stove OR heater OR portable stove) AND (replacement OR spare OR repair OR upgrade)",
+        "target": "['B01MYQ74WI', 'B01AILWPTY', 'B004UVPDUM', 'B01N44DQEO', 'B01N5FWB85']"
+    },
+    "671": {
+        "generated_text": "(joola AND (\"ping pong table\" OR \"table tennis table\"))",
+        "target": "['B07XV1J5CF', 'B095W6J7NW', 'B0161BUJUM', 'B088P6CKMQ', 'B0002GTJTK', 'B0012QP0P6', 'B00D9QR7TY', 'B00IO8RZNU']"
+    },
+    "672": {
+        "generated_text": "(\"JP Football\" OR \"JP Soccer\")",
+        "target": "['B0048AC5NS']"
+    },
+    "673": {
+        "generated_text": "(\"trampoline\" AND (\"jump\" OR \"exercise\" OR \"play\") AND (\"power\" OR \"strong\" OR \"efficient\" OR \"high-performance\") AND (\"ladder\" OR \"safety net\" OR \"enclosure\"))",
+        "target": "['B07F5SL6L5', 'B078Z7W933', 'B004JQQTEW', 'B00U3RTNRG']"
+    },
+    "674": {
+        "generated_text": "(\"rope skipping\" OR \"skipping\" OR \"jump rope\" OR \"band skipping\" OR \"loop skipping\") AND (\"without rope\" OR \"alternative\" OR \"no rope\" OR \"cordless\" OR \"electronic\" OR \"digital\")",
+        "target": "['B08RXTJMS6', 'B08MVP5HBJ', 'B08S6SNV9S', 'B08QZK4HHT', 'B091CPKN9J', 'B091Y5F9P3', 'B095KPM1ZR', 'B08L65L2VX', 'B08L65L2VX', 'B08ZB6NQPF', 'B086S76GMT', 'B08DD36XLP', 'B08DD3K3R2', 'B08G4L9XK6', 'B08Y7L2CGS', 'B091SWXJ4D', 'B08HPDXS6H']"
+    },
+    "675": {
+        "generated_text": "\"kansas city chiefs\" AND (\"plastic cups\" OR \"drinkware\" OR \"cups\" OR \"tumblers\")",
+        "target": "['B07BHT7D7D']"
+    },
+    "676": {
+        "generated_text": "(\"kayak\" OR \"boat\" OR \"watercraft\" OR \"canoe\") AND (\"storage\" OR \"container\" OR \"organizer\" OR \"rack\" OR \"shed\" OR \"enclosure\")",
+        "target": "['B06XGM2Q8P', 'B0747PY8FH', 'B07QGQ42VN', 'B07Q3PBYQ5', 'B07K32Q6YS', 'B0776SP6VR', 'B074XBN1BC', 'B0728L6GYD', 'B00BSYM7WQ', 'B000SXQCUQ']"
+    },
+    "677": {
+        "generated_text": "(\"sea eagle\" AND \"inflatable\" AND \"fishing boat\" AND \"3 person\")",
+        "target": "['B07HB8GPS2']"
+    },
+    "678": {
+        "generated_text": "(\"kayak\" OR \"canoe\" OR \"watercraft\") AND (\"pad\" OR \"mat\" OR \"cushion\" OR \"seat\")",
+        "target": "['B082VPLSB5', 'B00FA3RSOS', 'B00EIHCI24', 'B000A3I7IY']"
+    },
+    "679": {
+        "generated_text": "(\"za-3hp\" AND (\"model\" OR \"series\" OR \"product\"))",
+        "target": "['B006H42TVG']"
+    },
+    "680": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"kc chiefs girl jerseys\".\n2. Identify key components:\n   - \"kc chiefs\": This likely refers to the Kansas City Chiefs, a professional American football team. It's important to keep these terms together as a phrase.\n   - \"girl\": This indicates that the jerseys are for girls, so we need to include this term to filter for gender-specific products.\n   - \"jerseys\": This is the product type we're interested in.\n\n3. Consider synonyms or related terms:\n   - \"kc chiefs\" could also be referred to as \"Kansas City Chiefs\" or simply \"Chiefs\".\n   - \"girl\" might also be represented by \"girls\", \"female\", or \"kids\" if we want to capture variations in product descriptions.\n   - \"jerseys\" doesn't have many direct synonyms but could include \"sweaters\" or \"apparel\" if we broaden the search slightly.\n\n4. Construct the query using Boolean operators:\n   - We want to ensure that all products retrieved are related to the Kansas City Chiefs, so \"kc chiefs\" should be a required phrase.\n   - The gender specification \"girl\" should also be mandatory.\n   - \"jerseys\" is essential as it specifies the product type.\n\n5. Combine these insights into a structured query:\n   - Use AND to ensure all main components are included.\n   - Use OR to account for variations in terminology.\n\nThe final query will look like this:\n(\"kc chiefs\" OR \"Kansas City Chiefs\" OR \"Chiefs\") AND (\"girl\" OR \"girls\" OR \"female\" OR \"kids\") AND (\"jerseys\" OR \"sweaters\" OR \"apparel\"). This ensures we capture all relevant products while allowing for slight variations in how they might be described.",
+        "target": "['B07TLNXB5D']"
+    },
+    "681": {
+        "generated_text": "(\"kid\" OR \"children\" OR \"child\" OR \"toddler\") AND (\"fleece\" OR \"warm\" OR \"insulated\" OR \"thick\") AND (\"sport\" OR \"athletic\" OR \"performance\" OR \"training\") AND \"gloves\"",
+        "target": "['B07NGY29W3', 'B0002NZTX8']"
+    },
+    "682": {
+        "generated_text": "(\"kids\" OR \"children\" OR \"child\" OR \"toddler\") AND (\"bike\" OR \"bicycle\" OR \"cycle\") AND (\"wheel\" OR \"tyre\")",
+        "target": "['B07MJFNQXF', 'B00FUHGMRI']"
+    },
+    "683": {
+        "generated_text": "\"new york giants\" AND \"big and tall\"",
+        "target": "['B07PB3DDL7', 'B08F82ZH1W', 'B08SHRNVPJ', 'B073XHP4L8', 'B07TLDZPMT']"
+    },
+    "684": {
+        "generated_text": "(\"kitchen\" OR \"kitchenware\" OR \"cooking\" OR \"dining\") AND (\"soap\" OR \"cleanser\" OR \"detergent\") AND (\"dish\" OR \"dishwashing\" OR \"plate\" OR \"bowl\")",
+        "target": "['B00623HGHE', 'B000LGISTS', 'B000LDMQ7G']"
+    },
+    "685": {
+        "generated_text": "(\"Kobe Bryant\" OR \"Kobe\" OR \"Bryant\") AND (\"socks\" OR \"footwear\" OR \"running shoes\" OR \"basketball socks\")",
+        "target": "['B0897Y1TQP', 'B0847JF5T1', 'B075TRV19V']"
+    },
+    "686": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the original query: \"txt lightstick\" likely refers to a product related to text messaging or lighting, possibly a device that helps with texting by providing light when needed.\n2. Identify key components:\n   - \"txt\": Could refer to \"text,\" \"texting,\" or \"communication.\"\n   - \"lightstick\": Likely refers to a device that emits light, often used for signaling or visibility.\n\n3. Consider synonyms and related terms:\n   - For \"txt\": text, texting, communication, message, digital.\n   - For \"lightstick\": flashlight, LED light, signal light, visibility aid.\n\n4. Formulate a logical query using Boolean operators:\n   - We want to ensure we capture products related to both texting and lighting. \n   - Use AND to combine concepts of texting and lighting.\n   - Use OR to include synonyms and related terms.\n\n5. Construct the query:\n   - (\"text\" OR \"texting\" OR \"communication\" OR \"message\" OR \"digital\") AND (\"lightstick\" OR \"flashlight\" OR \"LED light\" OR \"signal light\" OR \"visibility aid\")\n\nThis query will help retrieve products that are relevant to the original intent of the search, focusing on devices that assist with texting through lighting or visibility aids.",
+        "target": "['B087TKBFBY', 'B081K75GJD']"
+    },
+    "687": {
+        "generated_text": "(\"Krome\" AND (\"bike\" OR \"bicycle\" OR \"cycle\"))",
+        "target": "['B07RZZQ5B1', 'B07GKXFBG6', 'B07CZD5W3T', 'B07C3N6Q34', 'B07BPQTQJP', 'B076WL5C8H', 'B07BS6H14J']"
+    },
+    "688": {
+        "generated_text": "(\"lacrosse\" OR \"lax\" OR \"lax equipment\") AND (\"accessories\" OR \"gear\" OR \"equipment\" OR \"supplies\") AND (\"boys\" OR \"male\" OR \"kids\" OR \"children\")",
+        "target": "['B07B628KRS', 'B07T3DYZ11', 'B01K4LTE56', 'B007PSOKJM']"
+    },
+    "689": {
+        "generated_text": "(\"stand\" OR \"support\" OR \"base\" OR \"platform\") AND (\"ladder\" OR \"climbing\" OR \"ascender\" OR \"stepladder\") AND (\"tree\" OR \"arbor\" OR \"forest\" OR \"woodland\")",
+        "target": "['B07J163CSG', 'B00VJUTA9C', 'B07CTTGSNR', 'B08DFR1F5S', 'B08GH9NWCS', 'B00AU6FG6M', 'B07B6N7DR9', 'B00VJUTABK', 'B00WOLOV08', 'B00VJUTJK2', 'B06Y5STCGG', 'B01HF8PKBI', 'B01BY7LFO2']"
+    },
+    "690": {
+        "generated_text": "(\"ladies\" OR \"female\" OR \"women's\") AND (\"9 wood\" OR \"model 9\" OR \"9th wood\") AND (\"golf club\" OR \"golf clubs\")",
+        "target": "['B07Q18F46H', 'B07KZV5ZBJ', 'B0794VGG55', 'B00V9MLGRE']"
+    },
+    "691": {
+        "generated_text": "(\"yard games\" OR \"outdoor games\" OR \"garden games\" OR \"play games\") AND (\"adults\" OR \"grown-ups\" OR \"mature\" OR \"senior\")",
+        "target": "['B07DVLY49J']"
+    },
+    "692": {
+        "generated_text": "(\"LCP\" OR \"Long Term Capital Management\") AND (\"380\" OR \"380 auto\" OR \"380mm\") AND (\"extended\" OR \"long\" OR \"extra long\" OR \"lengthened\") AND (\"magazine\" OR \"clip\")",
+        "target": "['B08YNKS1LZ', 'B005VWCMW6', 'B0080R1XCY', 'B072MFYSDP', 'B01M8NVJJM', 'B01N7L9HIQ']"
+    },
+    "693": {
+        "generated_text": "(LCP AND 380 AND (\"laser sight\" OR \"laser sighter\" OR \"laser rangefinder\" OR \"laser pointer\"))",
+        "target": "['B006P4FRSK', 'B00AU6DYGG', 'B01NCP7KE5', 'B07DPVPWTN', 'B001FT8I2M']"
+    },
+    "694": {
+        "generated_text": "(Leatherman AND Raptor AND (shears OR scissors OR cutting tools OR clippers))",
+        "target": "['B00BHZJA58']"
+    },
+    "695": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"long hunter goose call\".\n2. Identify key components:\n   - \"long\": This suggests the customer is looking for a specific type of goose call that is long in length.\n   - \"hunter\": This indicates the customer is likely interested in a goose call suitable for hunting, which may have features like durability or loud sound.\n   - \"goose call\": This is the main product being searched for, a device used to attract geese for hunting.\n\n3. Consider synonyms and related terms:\n   - For \"long\", consider: \"extended\", \"extra-long\", \"lengthy\".\n   - For \"hunter\", consider: \"hunting\", \"game\", \"bird\".\n   - For \"goose call\", consider: \"geese call\", \"duck call\" (as some people might use these interchangeably).\n\n4. Construct a Boolean query using these terms to ensure comprehensive coverage of potential matches while maintaining relevance:\n   - Use AND to combine different concepts that must all be present.\n   - Use OR to include synonyms and related terms to broaden the search.\n\n5. Final Boolean query:\n   - (\"long\" OR \"extended\" OR \"extra-long\" OR \"lengthy\") AND (\"hunter\" OR \"hunting\" OR \"game\" OR \"bird\") AND (\"goose call\" OR \"geese call\" OR \"duck call\").\n\nThis query should effectively retrieve products that match the customer's needs for a long-lasting, durable goose call suitable for hunting purposes.",
+        "target": "['B01IW3HXLA', 'B000PWB0KM', 'B000PW9HPM']"
+    },
+    "696": {
+        "generated_text": "(referee OR official OR umpire) AND (uniform OR apparel OR clothing OR kit OR gear)",
+        "target": "['B07ZJ2YWSG']"
+    },
+    "697": {
+        "generated_text": "(macroline AND (paintball OR 'paintball pellets' OR 'paintball markers' OR 'paintball equipment'))",
+        "target": "['B0007LU480', 'B001VRLI0M', 'B001VRFV0A', 'B0000B396C']"
+    },
+    "698": {
+        "generated_text": "(phantom AND (quickdraw OR quick draw OR speeddraw OR fastdraw))",
+        "target": "['B07W6YHZN8']"
+    },
+    "699": {
+        "generated_text": "(\"shotgun\" AND \"sling\") AND NOT \"swivels\"",
+        "target": "['B00JAI14FI', 'B075LN11KT', 'B06XXXQQTN', 'B0000C51PD', 'B0000C53IH', 'B00LJ58HDC', 'B01NBV5S8N', 'B00MZC9R8W', 'B01CYURMUE']"
+    },
+    "700": {
+        "generated_text": "(medieval OR historical OR period OR old-world OR renaissance) AND (sword OR blade OR weapon OR martial arts) AND (display OR showcase OR mount OR holder OR case) AND (stand OR base OR support OR stand-up OR pedestal)",
+        "target": "['B07W8N9KT5', 'B00KEQ6FGI']"
+    },
+    "701": {
+        "generated_text": "(\"stomach girdles\" OR \"abdominal belts\" OR \"waist trainers\" OR \"corset\" OR \"shapewear\") AND (\"men\" OR \"male\" OR \"guys\" OR \"gentlemen\")",
+        "target": "['B01I1SJ800', 'B00R7JFW7I', 'B01D461U5U']"
+    },
+    "702": {
+        "generated_text": "(\"mens\" OR \"male\" OR \"men's\" OR \"gents\") AND (\"bike\" OR \"bicycle\" OR \"cycle\" OR \"two-wheeler\")",
+        "target": "['B07RY2QCTK', 'B07JBLDK2Y', 'B00P0UP15E', 'B0145730UK', 'B01HG3PD7I']"
+    },
+    "703": {
+        "generated_text": "(mens AND dragon AND alliance AND nfx2)",
+        "target": "['B01E1UKBSA', 'B018VN18SA']"
+    },
+    "704": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the original query:\n   - \"womens\": This indicates the target audience or gender-specific product.\n   - \"fat tire\": This specifies the type of tire, which is important for off-road or beach conditions.\n   - \"beach cruiser\": This describes the style or category of the bike, emphasizing its suitability for beach or cruiser-style riding.\n   - \"bike\": This is the general category of the product.\n\n2. Consider synonyms or related terms:\n   - \"womens\" could also be \"women's\" or \"ladies\".\n   - \"fat tire\" might also be referred to as \"wide tires\" or \"off-road tires\".\n   - \"beach cruiser\" could be synonymous with \"cruiser\" or \"touring\" bikes.\n   - \"bike\" is straightforward but could include \"cycle\" or \"bicycle\".\n\n3. Construct a Boolean query:\n   - Use AND to ensure all key components are included.\n   - Use OR to include synonyms or related terms.\n\n4. Final Boolean query:\n   - (\"womens\" OR \"women's\" OR \"ladies\") AND (\"fat tire\" OR \"wide tires\" OR \"off-road tires\") AND (\"beach cruiser\" OR \"cruiser\" OR \"touring\") AND (\"bike\" OR \"cycle\" OR \"bicycle\")\n\nThis query ensures that we retrieve products that are specifically designed for women, have fat tires suitable for beach or off-road conditions, and are styled as cruiser bikes. It uses Boolean operators to cover variations in terminology while maintaining the essential characteristics of the desired product.",
+        "target": "['B01GZSMDR8']"
+    },
+    "705": {
+        "generated_text": "(\"mosquito\" OR \"insect\" OR \"fly\") AND (\"porch\" OR \"outdoor\" OR \"patio\") AND (\"repellent\" OR \"deterrent\" OR \"spray\" OR \"solution\")",
+        "target": "['B01BE8JFEI', 'B0099DNQIM', 'B06XKXP8JM']"
+    },
+    "706": {
+        "generated_text": "\"Mr Crappie\" AND \"sausage head\"",
+        "target": "['B018MG3FUU']"
+    },
+    "707": {
+        "generated_text": "(mtb OR \"mountain bike\") AND (frame OR \"bicycle frame\" OR \"bike frame\") AND (protector OR guard OR shield OR cover)",
+        "target": "['B091PJ7W2B', 'B07YF64MK4', 'B08V5DDQKP', 'B077N69FDX', 'B07QZH4Y3P', 'B01DH21AAQ', 'B01DH218T4', 'B079LGD8K5', 'B079LR76JV']"
+    },
+    "708": {
+        "generated_text": "(\"MTB\" OR \"mountain bike\" OR \"off-road bike\" OR \"trail bike\") AND (\"hub\" OR \"wheel hub\" OR \"bike hub\") AND (\"set\" OR \"kit\" OR \"package\")",
+        "target": "['B00W8EY0NY']"
+    },
+    "709": {
+        "generated_text": "(\"nalgene\" AND \"splashguard\" AND \"wide mouth\")",
+        "target": "['B01N22EZ25', 'B01GU8PX8E', 'B0048SX9FI']"
+    },
+    "710": {
+        "generated_text": "(nba OR basketball OR 'NBA logo' OR 'NBA team') AND (starter OR beginner OR casual OR introductory) AND (jacket OR sweater OR outerwear)",
+        "target": "['B01AV3T14G']"
+    },
+    "711": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the original query: \"neon fishing\".\n2. Identify key components:\n   - \"neon\": This likely refers to a color or style, possibly neon-colored or related to neon lighting.\n   - \"fishing\": This could refer to fishing gear, fishing equipment, or items used in fishing activities.\n3. Generate synonyms and related terms:\n   - For \"neon\": fluorescent, glow, light-up, colorful, vibrant.\n   - For \"fishing\": fishing gear, fishing equipment, fishing accessories, fishing supplies, fishing tools.\n4. Combine these terms using Boolean operators to ensure comprehensive coverage of potential product categories:\n   - Use AND to combine different concepts (e.g., neon AND fishing).\n   - Use OR to include synonyms and related terms (e.g., neon OR fluorescent OR glow).\n5. Construct the query:\n   - (\"neon\" OR \"fluorescent\" OR \"glow\" OR \"light-up\" OR \"colorful\" OR \"vibrant\") AND (\"fishing\" OR \"fishing gear\" OR \"fishing equipment\" OR \"fishing accessories\" OR \"fishing supplies\" OR \"fishing tools\").\nThis query will help retrieve products that are either neon-colored or related to neon lighting and are specifically used in the context of fishing.",
+        "target": "['B07CP44ZL4', 'B00K5TTGQ0']"
+    },
+    "712": {
+        "generated_text": "(NFL OR 'National Football League' OR 'Super Bowl') AND (scarf OR shawl OR wrap) AND (women OR female OR ladies OR women's)",
+        "target": "['B00KYLAN7A']"
+    },
+    "713": {
+        "generated_text": "(nfl OR \"Dallas Cowboys\" OR \"Houston Texans\") AND (texan OR Texas OR \"Texas A&M\") AND (purse OR handbag OR wallet OR satchel)",
+        "target": "['B0776T7NGQ']"
+    },
+    "714": {
+        "generated_text": "(\"nfl\" AND \"white\" AND \"autograph\" AND \"football\")",
+        "target": "['B002WNST06']"
+    },
+    "715": {
+        "generated_text": "(\"nhl\" OR \"hockey\" OR \"NHL\" OR \"ice hockey\") AND (\"kids\" OR \"children\" OR \"child\" OR \"youth\") AND (\"costume\" OR \"outfit\" OR \"apparel\" OR \"attire\")",
+        "target": "['B071RC2TRG', 'B071R2K3GZ', 'B008PPYA62']"
+    },
+    "716": {
+        "generated_text": "(\"nhl\" OR \"NHL\") AND (\"pool balls\" OR \"snooker balls\" OR \"billiards balls\" OR \"pool game\")",
+        "target": "['B0719SB73J', 'B06W556ZW5', 'B003ZV7OLO', 'B0011MYM0U']"
+    },
+    "717": {
+        "generated_text": "(nike AND (running OR jogging OR exercise OR fitness) AND (backpack OR bag OR pack OR sack))",
+        "target": "['B06XZTLLND', 'B01MV2XLNA']"
+    },
+    "718": {
+        "generated_text": "(\"odor\" OR \"fragrance\" OR \"scent\") AND \"green\" AND (\"first aid\" OR \"emergency treatment\" OR \"first responder\") AND (\"patch\" OR \"bandage\" OR \"adhesive\")",
+        "target": "['B07PJH3PK4']"
+    },
+    "719": {
+        "generated_text": "(Pezzl AND (escalada OR climbing OR mountaineering OR rock climbing)) AND (harness OR rope OR carabiner OR anchor)",
+        "target": "['B01F8JBPV0', 'B0797HBY1L', 'B07NCMM36K', 'B07MBC8PNB', 'B002SQIMS6', 'B00JWZJFOG', 'B00RNJKF8S']"
+    },
+    "720": {
+        "generated_text": "(patagonia AND fanny pack AND women)",
+        "target": "['B07W2WR86W']"
+    },
+    "721": {
+        "generated_text": "(patriots OR 'New England Patriots') AND (license plate OR plate)",
+        "target": "['B075V3468W']"
+    },
+    "722": {
+        "generated_text": "(\"Penn State\" OR \"PSU\") AND (\"womens\" OR \"women's\" OR \"ladies'\" OR \"female\") AND (\"shirt\" OR \"t-shirt\" OR \"top\" OR \"apparel\")",
+        "target": "['B07FT3W3JK', 'B0753WSPW3']"
+    },
+    "723": {
+        "generated_text": "(Pittsburgh AND steelers AND (mask OR headgear OR protective gear OR face mask OR head cover))",
+        "target": "['B018EH4FWO']"
+    },
+    "724": {
+        "generated_text": "(\"Pittsburgh Steelers\" AND (\"jerseys\" OR \"apparel\" OR \"memorabilia\" OR \"tickets\" OR \"gadgets\"))",
+        "target": "['B07DRZ4Q5Q', '1975767411']"
+    },
+    "725": {
+        "generated_text": "(Polar AND (\"heart rate monitor\" OR HRM) AND (strap OR band))",
+        "target": "['B07HCCRCQY', 'B07H3B1HV6']"
+    },
+    "726": {
+        "generated_text": "(\"power ball\" OR \"resistance ball\" OR \"fitness ball\" OR \"exercise ball\") AND (\"hand\" OR \"grip\" OR \"finger\" OR \"wrist\") AND (\"exerciser\" OR \"workout\" OR \"trainer\" OR \"device\")",
+        "target": "['B086615FF3', 'B085Y319R2', 'B07ZLJQBZN', 'B07GKQX954', 'B07RZV12QC']"
+    },
+    "727": {
+        "generated_text": "(\"power poles\" OR \"electric fishing poles\" OR \"trolling machine poles\") AND (\"boats\" OR \"boat\" OR \"marine\" OR \"watercraft\") AND \"8ft\"",
+        "target": "['B07BH55KPN', 'B07FF8GPS1', 'B07PFFS33L', 'B09G3HPDL5', 'B07DZGJMG8', 'B0756P9FMN', 'B004RDOO1C', 'B0075D32KU', 'B0075D32VE', 'B00INMHC44', 'B00OMA3BMS', 'B00OMA3H8G', 'B00OMA3EZ2']"
+    },
+    "728": {
+        "generated_text": "(precise AND tall AND womens AND golf AND m5)",
+        "target": "['B07VXY278Q']"
+    },
+    "729": {
+        "generated_text": "(sole AND e95 AND (elliptical OR 'cross trainer'))",
+        "target": "['B08MVG81P6', 'B08H8WX64K']"
+    },
+    "730": {
+        "generated_text": "(\"Rage\" AND \"Crossbow\" AND \"X\" AND \"125 grain\" AND \"Broadhead\")",
+        "target": "['B000W8J1GO', 'B0197DAWV2']"
+    },
+    "731": {
+        "generated_text": "(\"record player\" OR \"turntable\" OR \"vinyl player\" OR \"audio device\") AND (\"watches\" OR \"wristwatches\" OR \"timepieces\")",
+        "target": "['B07XCCCJTW']"
+    },
+    "732": {
+        "generated_text": "\"red dot\" AND \"sightmark\"",
+        "target": "['B06Y255D8J']"
+    },
+    "733": {
+        "generated_text": "(\"red\" OR \"crimson\" OR \"scarlet\" OR \"ruby\") AND (\"paddle board\" OR \"surfboard\" OR \"waterboard\")",
+        "target": "['B08HX495PT', 'B08QZM1VN8', 'B0979YTS4D', 'B08VMYJS5R', 'B093DJVXZW', 'B00FZ9TDY0']"
+    },
+    "734": {
+        "generated_text": "(relax OR comfortable OR cozy OR plush OR ergonomic OR 'stress-free' OR spa OR lounge) AND (chair OR seating OR armchair OR recliner OR sofa OR couch)",
+        "target": "['B083H4V4N3', 'B082P1QXST', 'B07SSV8JZ8', 'B07WQ29W81', 'B00XIQ1KWK']"
+    },
+    "735": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"wet tumbler for brass\".\n2. Identify key components:\n   - \"wet tumbler\": This refers to a type of tool used for polishing or cleaning metal surfaces, especially brass.\n   - \"for brass\": Indicates that the product should be suitable for brass specifically.\n\n3. Consider synonyms and related terms:\n   - \"wet tumbler\" could also be referred to as \"polishing machine\", \"buffing machine\", or \"abrasive wheel\".\n   - \"brass\" is a specific material, so there are no direct synonyms, but it's important to ensure the product is specifically designed for brass.\n\n4. Formulate the query using Boolean operators:\n   - We want to ensure that both the type of product and its suitability for brass are emphasized.\n   - Use AND to combine the main concepts (\"wet tumbler\" and \"brass\").\n   - Use OR to include synonyms or related terms for \"wet tumbler\".\n\n5. Construct the query:\n   - (\"wet tumbler\" OR \"polishing machine\" OR \"buffing machine\" OR \"abrasive wheel\") AND \"brass\"\n\nThis query will help retrieve products that are wet tumblers specifically designed for brass, covering various terminologies that might be used in product descriptions.",
+        "target": "['B07KT8NQS8', 'B07KT935K8', 'B077PD6LDT', 'B01A3PNX1E', 'B00RPABBG0']"
+    },
+    "736": {
+        "generated_text": "(\"rib protector\" OR \"rib guard\" OR \"protective sleeve\" OR \"compression sleeve\") AND (\"Under Armour\" OR \"under arm\") AND (\"youth\" OR \"kids\" OR \"children\" OR \"junior\")",
+        "target": "['B00G7H4MOK']"
+    },
+    "737": {
+        "generated_text": "(\"rock\" OR \"stone\" OR \"mineral\" OR \"natural\" OR \"geologic\") AND (\"rings\" OR \"jewelry\" OR \"band\" OR \"circle\" OR \"loop\")",
+        "target": "['B07X58S696', 'B008FYJ5Y0']"
+    },
+    "738": {
+        "generated_text": "(\"RockShox\" OR \"Rockshocks\") AND (\"front fork\" OR \"handlebar\" OR \"stem\")",
+        "target": "['B07BF4DRKD']"
+    },
+    "739": {
+        "generated_text": "(\"rolling\" OR \"portable\" OR \"compact\" OR \"foldable\") AND (\"beach\" OR \"sand\" OR \"ocean\" OR \"sea\") AND (\"bag\" OR \"tote\" OR \"backpack\" OR \"rucksack\") AND (\"cooler\" OR \"chiller\" OR \"icebox\" OR \"fridge\")",
+        "target": "['B094J6CRP6', 'B09886YL3Q', 'B09BVHVQQJ', 'B0076FGXIU']"
+    },
+    "740": {
+        "generated_text": "(roping OR rope OR ropes) AND (climbing OR fishing OR industrial OR tying OR securing)",
+        "target": "['B01LZZT117']"
+    },
+    "741": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"ruger sr22 accessories\".\n   - \"Ruger\" refers to the brand name.\n   - \"SR22\" is a specific model of Ruger's firearms.\n   - \"Accessories\" indicates additional items or parts related to the firearm.\n\n2. Identify key components:\n   - Brand: Ruger\n   - Model: SR22\n   - Category: Accessories\n\n3. Consider synonyms or related terms for \"accessories\":\n   - Sights\n   - Optics\n   - Rails\n   - Magazines\n   - Cases\n   - Cleaning kits\n\n4. Construct a Boolean query that combines these elements logically:\n   - We want to ensure that the results include products related to both the brand and model, specifically accessories or related items.\n   - Use AND to combine essential components and OR to include variations of accessories.\n\n5. Final Boolean query:\n   - (\"Ruger\" AND \"SR22\" AND (\"accessories\" OR \"sights\" OR \"optics\" OR \"rails\" OR \"magazines\" OR \"cases\" OR \"cleaning kits\"))\n\nThis query will help retrieve products that are accessories for the Ruger SR22 model, covering a broad range of potential relevant items.",
+        "target": "['B00MA6END2']"
+    },
+    "742": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the Query: The query \"sas recurve\" likely refers to a type of recurve bow, which is a compound bow used for hunting or target practice. \"Sas\" could be a brand name or model associated with these bows.\n\n2. Identify Key Terms: \n   - \"Sas\": This term could refer to a specific brand or model of recurve bows.\n   - \"Recurve\": This is the type of bow being referred to.\n\n3. Consider Synonyms and Related Terms:\n   - Synonyms for \"recurve\" might include \"compound bow,\" as it is a category that includes recurves.\n   - \"Bow\" is a general term that could be included to broaden the search.\n\n4. Structure the Query:\n   - Use AND to ensure both key terms are present.\n   - Use OR to include synonyms or related terms to capture variations in product listings.\n\n5. Final Query Construction:\n   - Ensure the query captures products that are specifically \"Sas\" brand or model recurve bows, while also considering related terms like \"compound bow.\"\n\nThe final query will look something like this:\n(\"Sas\" AND (\"recurve\" OR \"compound bow\") AND \"bow\")\n\nThis query ensures that we retrieve products that are specifically related to the Sas brand or model of recurve bows, while also considering any related compound bow listings.",
+        "target": "['B017OMEQJM']"
+    },
+    "743": {
+        "generated_text": "(\"scarfs\" OR \"scarves\" OR \"shawls\" OR \"wrap\") AND (\"england\" OR \"British\" OR \"London\" OR \"English\")",
+        "target": "['B077QLNR8J', 'B07CGB2MHX']"
+    },
+    "744": {
+        "generated_text": "(\"seattle seahawks\" OR \"seahawks\" OR \"Seattle Seahawks\" OR \"NFL\" OR \"football team\") AND (\"sweatpants\" OR \"athletic pants\" OR \"workout pants\" OR \"activewear\")",
+        "target": "['B0813XZZQ5', 'B07CMJ5ZRP']"
+    },
+    "745": {
+        "generated_text": "(shimano AND (freehub OR bicycle hub OR bike hub OR wheel hub) AND (spacer OR adjuster OR spindle))",
+        "target": "['B07F2JQ3Y4', 'B00BO4X1SE', 'B00AQVVQ10', 'B001GSMQKW', 'B0063HMR6O']"
+    },
+    "746": {
+        "generated_text": "(\"shimano\" AND (\"gear\" OR \"gears\" OR \"chainset\" OR \"derailleur\" OR \"front derailleur\" OR \"rear derailleur\") AND (\"cable\" OR \"bicycle cable\" OR \"bike cable\" OR \"cycling cable\"))",
+        "target": "['B01N05XMKP']"
+    },
+    "747": {
+        "generated_text": "(Shimano AND (\"sh-11\" OR \"sh-11 chainring\" OR \"sh-11 crankset\" OR \"bike\" OR \"cycling\" OR \"bicycle\" OR \"components\"))",
+        "target": "['B07BP1B8NH', 'B00537GKJK']"
+    },
+    "748": {
+        "generated_text": "(\"shooting\" OR \"firearms\" OR \"rifles\" OR \"pistols\" OR \"ammunition\" OR \"target practice\") AND (\"range\" OR \"range finder\" OR \"chronograph\" OR \"practice area\" OR \"firing range\")",
+        "target": "['B01FL9JBUO', 'B014V2TT4A', 'B008F9KH10']"
+    },
+    "749": {
+        "generated_text": "(\"shotgun\" OR \"rifle\") AND (\"rear\" OR \"bottom\" OR \"downward\") AND (\"pistol grip\" OR \"handguard\" OR \"stock\")",
+        "target": "['B0757FK812', 'B00162TC5U']"
+    },
+    "750": {
+        "generated_text": "(\"side console\" OR \"port console\" OR \"starboard console\" OR \"side deck\" OR \"port side\" OR \"starboard side\") AND (\"aluminum boat\" OR \"alloy boat\" OR \"metal boat\" OR \"boat made of aluminum\")",
+        "target": "['B07RXVWZ5V', 'B000KKD304']"
+    },
+    "751": {
+        "generated_text": "(SIG AND Sauer AND MPX AND (magazine OR clip OR 'ammo holder'))",
+        "target": "['B01DAF51ZU']"
+    },
+    "752": {
+        "generated_text": "(silicone AND rings) AND (men OR male) AND (\"glow in the dark\" OR fluorescent OR \"light-up\")",
+        "target": "['B07VCN6693']"
+    },
+    "753": {
+        "generated_text": "(\"sleeping bag\" OR \"camping bag\" OR \"outdoor bag\" OR \"travel bag\") AND (\"wide\" OR \"wide fit\" OR \"wide opening\" OR \"wide size\")",
+        "target": "['B00363V3M2', 'B00363PRK6']"
+    },
+    "754": {
+        "generated_text": "(\"small\" OR \"compact\" OR \"mini\" OR \"portable\" OR \"lightweight\") AND (\"bell\" OR \"conical\" OR \"dome-shaped\" OR \"bell-shaped\") AND (\"tent\" OR \"shelter\" OR \"canopy\")",
+        "target": "['B07RDQ4RFL', 'B07G28L3RM']"
+    },
+    "755": {
+        "generated_text": "(smartwatch OR smartwatch OR wearable technology OR digital watch) AND (ECG OR electrocardiogram OR 'heart rate monitor') AND ('blood pressure' OR 'blood pressure monitor' OR 'BP cuff')",
+        "target": "['B07Q83NT9H']"
+    },
+    "756": {
+        "generated_text": "(\"Specialized\" AND \"Levo\") OR \"Levo\"",
+        "target": "['B00PWUPP1W']"
+    },
+    "757": {
+        "generated_text": "(spin AND (bike OR cycle OR exercise machine OR stationary bike OR Spin Bike OR Spin Studio))",
+        "target": "['B08CHNDY7Q', 'B08B3L5NSC', 'B07MBLKF25']"
+    },
+    "758": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"steph curry jersey\".\n2. Identify key components:\n   - \"steph curry\": This refers to a specific NBA player, so it's crucial to include both \"steph\" and \"curry\" to ensure relevance.\n   - \"jersey\": This indicates the type of product the customer is looking for.\n3. Consider synonyms or related terms:\n   - For \"jersey\", related terms could include \"shirt\", \"uniform\", or \"basketball jersey\".\n4. Structure the query using Boolean operators:\n   - Use AND to ensure both \"steph curry\" and \"jersey\" are included.\n   - Use OR to include possible variations of \"jersey\".\n5. Finalize the query to ensure it captures all necessary elements while allowing for some flexibility in product descriptions.\n\nThe structured query will look like this:\n(\"steph\" AND \"curry\") AND (\"jersey\" OR \"shirt\" OR \"uniform\" OR \"basketball jersey\"). This ensures that we retrieve products specifically related to Steph Curry jerseys, including any variations in how they might be listed.",
+        "target": "['B07MS9WZQV', 'B07V6QMNGT', 'B07KRZWCT7', 'B076HW2NQ7']"
+    },
+    "759": {
+        "generated_text": "(\"street bike\" OR \"road bike\" OR \"motorcycle\" OR \"bicycle\") AND (\"gear\" OR \"protective gear\" OR \"safety gear\" OR \"equipment\") AND (\"women\" OR \"female\" OR \"ladies\" OR \"women's\")",
+        "target": "['B08DXT6RQ4']"
+    },
+    "760": {
+        "generated_text": "(\"stylus\" OR \"pen\" OR \"digital pen\" OR \"touchscreen stylus\") AND (\"tablet\" OR \"tablet computer\" OR \"tablet device\")",
+        "target": "['B00N2802CI']"
+    },
+    "761": {
+        "generated_text": "(\"sunshade\" OR \"umbrella\" OR \"shade\" OR \"cover\" OR \"protection\") AND (\"scope\" OR \"telescopic\" OR \"rifle scope\" OR \"binocular scope\")",
+        "target": "['B01M1MM77M', 'B00XVBA9SS', 'B00W7RTFKK', 'B007ALK6JC', 'B004TDPTRS']"
+    },
+    "762": {
+        "generated_text": "(\"truck\" OR \"pickup\" OR \"vehicle\") AND (\"camper\" OR \"trailer\" OR \"camping trailer\") AND (\"pop up\" OR \"pop-up\" OR \"foldable\" OR \"collapsible\")",
+        "target": "['B07B6B7H32', 'B07B635CM6', 'B00Q4CQLY2', 'B00NQ02U0E', 'B00CXB8HCM', 'B000SLL8OS']"
+    },
+    "763": {
+        "generated_text": "(swixx AND (\"butter knife\" OR \"butter spreader\" OR \"butter knife set\" OR \"knife\"))",
+        "target": "['B01KUCAJ4Y']"
+    },
+    "764": {
+        "generated_text": "(\"taco\" OR \"tac\" OR \"taco\") AND (\"rod holder\" OR \"fishing rod holder\" OR \"boat rod holder\" OR \"dock rod holder\") AND (\"4\" OR \"four\" OR \"model 4\" OR \"set of 4\")",
+        "target": "['B00JI9JW3K', 'B0084EILM8', 'B079JQSP2F', 'B001HBVW1W', 'B001F0ILLO', 'B000F3MF78', 'B0000BYNBT']"
+    },
+    "765": {
+        "generated_text": "(takwando AND (equipment OR gear OR apparatus OR supplies) AND (kids OR children OR child OR youth OR junior))",
+        "target": "['B083J7ZF59', 'B082HCJW7V', 'B076CB6F13']"
+    },
+    "766": {
+        "generated_text": "(\"teton\" AND (\"hydration\" OR \"water bladder\" OR \"water reservoir\" OR \"hydration system\") AND (\"backpack\" OR \"pack\" OR \"bag\"))",
+        "target": "['B00OXPC2N6', 'B08Z3CXX48']"
+    },
+    "767": {
+        "generated_text": "(Titleist AND Pro AND V1 AND golf AND balls AND AAAA)",
+        "target": "['B01AGWQ2Y4', 'B00F1GLHVO', 'B001LNJ3UI']"
+    },
+    "768": {
+        "generated_text": "(\"Titlest\" OR \"Titleist\") AND (\"golf gloves\" OR \"golf hand protectors\" OR \"gloves\") AND (\"men\" OR \"male\" OR \"men's\" OR \"for men\")",
+        "target": "['B077NB3HZ6']"
+    },
+    "769": {
+        "generated_text": "(\"toddler\" OR \"kids\" OR \"children\" OR \"young children\") AND (\"water bottle\" OR \"hydration bottle\" OR \"sippy cup\") AND (\"without straw\" OR \"no straw\" OR \"non-straw\" OR \"straw-free\")",
+        "target": "['B08XVWRBGC', 'B00RVUFN04']"
+    },
+    "770": {
+        "generated_text": "(\"training\" OR \"practice\" OR \"skill\" OR \"drills\") AND (\"glove\" OR \"mittens\" OR \"protective gear\") AND (\"baseball\" OR \"baseball-specific\" OR \"sport-specific\")",
+        "target": "['B0043FGJEO', 'B0032VH2XC', 'B0019GEU5K']"
+    },
+    "771": {
+        "generated_text": "(\"tru ball\") AND (\"short\" OR \"basketball shorts\") AND (\"n sweet\" OR \"Nike\" OR \"sweet\")",
+        "target": "['B07YZX5J9L', 'B08FZQ5R39', 'B07G8P8GCC', 'B07CGFQWCB', 'B00I5LHBC6', 'B07C2D23XT']"
+    },
+    "772": {
+        "generated_text": "(\"Trusox\" OR \"Trusox brand\" OR \"Trusox products\") AND (\"footwear\" OR \"apparel\" OR \"accessories\")",
+        "target": "['B07FLNX3PW']"
+    },
+    "773": {
+        "generated_text": "(\"uconn\" OR \"UConn\" OR \"Connecticut\" OR \"Storrs\") AND (\"hoodie\" OR \"jacket\" OR \"pullover\" OR \"sweatshirt\")",
+        "target": "['B000RLOQR0']"
+    },
+    "774": {
+        "generated_text": "(\"ultimate\" OR \"premium\") AND (\"direction\" OR \"water bottle\") AND (\"soft\" OR \"filtered\" OR \"purified\") AND (\"flask\" OR \"bottle\")",
+        "target": "['B07TTD3ZST', 'B07TS8MWB2', 'B079FT6X4F']"
+    },
+    "775": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"universal eye bottle mount\".\n2. Identify key components:\n   - \"universal\": This suggests a product that can fit various situations or objects.\n   - \"eye\": This could refer to the eye of a bottle, which is often used for pouring liquids.\n   - \"bottle\": The main object the mount is intended to support.\n   - \"mount\": A device or holder that supports or attaches the bottle.\n\n3. Consider synonyms and related terms:\n   - \"universal\" could relate to \"compatible\", \"all-purpose\", \"fits all\".\n   - \"eye\" might relate to \"nozzle\", \"spout\".\n   - \"bottle\" could include \"flask\", \"container\".\n   - \"mount\" could relate to \"holder\", \"stand\", \"support\".\n\n4. Construct a Boolean query using these insights:\n   - We want to ensure the query captures products that are universal in nature and are specifically designed for bottles, focusing on the eye or nozzle.\n   - Use AND to combine essential concepts and OR to include synonyms or related terms.\n\n5. Final Boolean query:\n   - (\"universal\" OR \"compatible\" OR \"all-purpose\") AND (\"eye\" OR \"nozzle\" OR \"spout\") AND (\"bottle\" OR \"flask\" OR \"container\") AND (\"mount\" OR \"holder\" OR \"stand\" OR \"support\").\n```answer(\"universal\" OR \"compatible\" OR \"all-purpose\") AND (\"eye\" OR \"nozzle\" OR \"spout\") AND (\"bottle\" OR \"flask\" OR \"container\") AND (\"mount\" OR \"holder\" OR \"stand\" OR \"support\")```",
+        "target": "['B07TTGJCLM']"
+    },
+    "776": {
+        "generated_text": "(upenn OR 'University of Pennsylvania' OR 'Penn State') AND (hat OR cap OR beanie OR headwear)",
+        "target": "['B005WU599U']"
+    },
+    "777": {
+        "generated_text": "(\"us\" OR \"United States\") AND (\"divers\" OR \"snorkelers\") AND (\"snorkeling gear\" OR \"snorkel equipment\" OR \"snorkel set\") AND (\"adults\" OR \"adult\" OR \"grown-ups\")",
+        "target": "['B08DN43XFN', 'B08TMN4VVX', 'B085WRNZ9F', 'B08Z41RBRQ', 'B0925WTTHQ', 'B08XW25Y87', 'B01NAZPKHT', 'B079976YW2']"
+    },
+    "778": {
+        "generated_text": "(veniasa AND yoga mat)",
+        "target": "['B0751BS6PY', 'B01HLBE63W', 'B07JZKS63Q']"
+    },
+    "779": {
+        "generated_text": "(vertix OR vertex OR 'Vertex lens' OR 'camera lens' OR 'geometric vertex')",
+        "target": "['B07PTSZ6B3', 'B001QPFWDI']"
+    },
+    "780": {
+        "generated_text": "(\"waist trainer\" OR corset OR \"shapewear\" OR \"slimming belt\" OR \"waist reduction belt\") AND (\"weight loss\" OR slimming OR \"diet support\" OR \"fitness aid\" OR \"belly fat reduction\")",
+        "target": "['B089VTTN1P', 'B07MZXKQ33']"
+    },
+    "781": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query:\n   - \"waist trainer\": This is the main product type the customer is interested in.\n   - \"for women\": This specifies the target demographic.\n   - \"plus size\": This indicates the specific size range the waist trainer should accommodate.\n\n2. Consider synonyms or related terms:\n   - \"waist trainer\" could also be referred to as \"corset\" or \"shapewear\".\n   - \"women\" might include \"female\" or \"ladies\".\n   - \"plus size\" could be synonymous with \"curvy\", \"full figure\", or \"large\".\n\n3. Construct the query using Boolean operators:\n   - We want to ensure that the search includes all relevant aspects: the product type, the demographic, and the size range.\n   - Use AND to combine different concepts that must all be present.\n   - Use OR to include synonyms or related terms for broader coverage.\n\n4. Final query construction:\n   - (\"waist trainer\" OR \"corset\" OR \"shapewear\") AND (\"women\" OR \"female\" OR \"ladies\") AND (\"plus size\" OR \"curvy\" OR \"full figure\" OR \"large\")\n\nThis query will help retrieve products that are waist trainers specifically designed for women in the plus size category, considering various terminologies that might be used in product descriptions.",
+        "target": "['B07Z3875MW']"
+    },
+    "782": {
+        "generated_text": "(walleye OR whitefish) AND (live OR bait OR frozen OR fresh OR 'live bait' OR 'live fish')",
+        "target": "['B00YHZB742', 'B001G1UQCE']"
+    },
+    "783": {
+        "generated_text": "(\"waterfowl\" OR \"ducks\" OR \"geese\" OR \"swans\") AND (\"decoys\" OR \"fake birds\" OR \"life-size decoys\" OR \"attractants\")",
+        "target": "['B01IDW7E3M', 'B081NXHQQZ', 'B07RL68KXB', 'B00MV072SU', 'B00MV047RE', 'B012Y5MHWC']"
+    },
+    "784": {
+        "generated_text": "(wavemaster AND (punch bag OR boxing bag OR heavy bag OR kickboxing bag))",
+        "target": "['B001PLZ742', 'B000EZWPM2']"
+    },
+    "785": {
+        "generated_text": "(\"weaver\" AND \"high ring\" AND \"30mm\")",
+        "target": "['B0772G5CZX', 'B00AU6H58O', 'B003RBSKA6', 'B001H8Q576', 'B003RC54QI']"
+    },
+    "786": {
+        "generated_text": "(\"white\" OR \"ivory\" OR \"cream\" OR \"off-white\") AND (\"blue\" OR \"navy\" OR \"sky blue\" OR \"aqua\") AND (\"fishing reel\" OR \"spinning reel\" OR \"casting reel\" OR \"saltwater reel\" OR \"freshwater reel\")",
+        "target": "['B075MY2BHK']"
+    },
+    "787": {
+        "generated_text": "\"Wilderness Systems\" AND \"Tarpon\" AND \"120\"",
+        "target": "['B009755B7Q']"
+    },
+    "788": {
+        "generated_text": "(\"women\" OR \"ladies\" OR \"female\") AND (\"wrapped\" OR \"wrap\" OR \"wraparound\" OR \"hugger\" OR \"body wrap\") AND (\"coats\" OR \"jackets\" OR \"outerwear\")",
+        "target": "['B07CZZBSBZ']"
+    },
+    "789": {
+        "generated_text": "(womens OR female OR ladies OR women's) AND thielen",
+        "target": "['B07TKZW7PG']"
+    },
+    "790": {
+        "generated_text": "(\"workout\" OR \"exercise\" OR \"fitness\" OR \"training\") AND (\"socks\" OR \"compression socks\" OR \"running socks\" OR \"athletic socks\") AND (\"men\" OR \"male\" OR \"men's\" OR \"mens\")",
+        "target": "['B07GKSJF6S']"
+    },
+    "791": {
+        "generated_text": "(\"XT\" OR \"X-Treme\" OR \"Extreme\") AND (\"Di2\" OR \"Electronic Shifting\" OR \"eShifting\") AND (\"Groupset\" OR \"Drivetrain\" OR \"Component Set\")",
+        "target": "['B08R64TZV4', 'B003OWPRLI']"
+    },
+    "792": {
+        "generated_text": "\"yeti\" AND (\"cooler\" OR \"icebox\" OR \"chiller\") AND (\"sticker\" OR \"decal\" OR \"label\")",
+        "target": "['B083HZNBS9', 'B07MJZFHV4', 'B01BCL2OOK', 'B01GQBCIB0']"
+    },
+    "793": {
+        "generated_text": "(Yeti AND (\"45\" OR \"45 oz\") AND (accessories OR add-ons OR attachments OR supplements))",
+        "target": "['B07PPBLB2H', 'B075K2J4LG', 'B072MFXGQH', 'B01CPJB9O4', 'B00H58MLZ2', 'B009HBTZ3Q', 'B06Y1RY4XR']"
+    },
+    "794": {
+        "generated_text": "(yonex AND (mavis AND 500))",
+        "target": "['B00MBFY44U']"
+    },
+    "795": {
+        "generated_text": "(youth AND bike AND boys AND (8-14 OR '8 to 14'))",
+        "target": "['B07532YK99', 'B01LW07J7G']"
+    },
+    "796": {
+        "generated_text": "(\"zero degree\" OR \"extreme cold\" OR \"ultra-insulated\" OR \"cold weather\" OR \"winter\" OR \"ice\") AND (\"sleeping bag\" OR \"sleeping bag\" OR \"camping bag\" OR \"down jacket\" OR \"warm jacket\")",
+        "target": "['B07PP4NJ69']"
+    },
+    "797": {
+        "generated_text": "(zodiac AND c6 AND \"large wheel\" AND NOT bearing AND replacement)",
+        "target": "['B06XGDP94D', 'B001BM31ZW']"
+    }
+}

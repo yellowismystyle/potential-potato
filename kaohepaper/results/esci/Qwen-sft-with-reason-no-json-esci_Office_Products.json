@@ -1,0 +1,738 @@
+{
+    "206": {
+        "generated_text": "(\"#10\" AND \"standard\") AND (\"NOT tint\" AND \"NOT window\" AND \"NOT self seal\")",
+        "target": "['B01N175R8R', 'B06VVLD2GL', 'B078HHGY2L', 'B08CK95JS3']"
+    },
+    "207": {
+        "generated_text": "(\"envelopes\" OR \"mailers\" OR \"stationery\") AND \"#10\" AND (\"without security tint\" OR \"no security coating\" OR \"non-tinted\" OR \"plain\")",
+        "target": "['B06Y3SQG57', 'B01FWMM738']"
+    },
+    "208": {
+        "generated_text": "(\"do not enter signs\" OR \"no entry signs\" OR \"restricted area signs\" OR \"privacy signs\") AND (\"bedroom door\" OR \"bedroom entrance\" OR \"bedroom access\")",
+        "target": "['B094Z7GCNY', 'B085Q7NGFZ', 'B079DVH3GY', 'B0879KJTL5', 'B09BKZ875N', 'B07YSYPGMW', 'B00700Q5MA', 'B06WLKQ6S7', 'B07D7GLM5X']"
+    },
+    "209": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"#8 merchandising tags without string\".\n2. Identify key components:\n   - \"merchandising tags\": This refers to tags used for merchandise display or labeling.\n   - \"without string\": This specifies that the tags should not have strings attached, implying a preference for adhesive or hanging methods without additional strings.\n3. Determine synonyms or related terms:\n   - \"merchandising tags\" could also be referred to as \"display tags\", \"labeling tags\", or \"product tags\".\n   - \"without string\" can be rephrased as \"stringless\", \"no string\", or \"adhesive only\".\n4. Construct a logical query using Boolean operators:\n   - We want to ensure that the search includes all relevant variations of \"merchandising tags\" while excluding any results that mention \"string\".\n   - Use AND to combine necessary conditions and OR to include synonyms.\n5. Finalize the query:\n   - Combine the identified terms using Boolean logic to form a comprehensive search query.\n\nThe final query will look like this:\n(\"merchandising tags\" OR \"display tags\" OR \"labeling tags\" OR \"product tags\") AND (\"without string\" OR \"stringless\" OR \"no string\" OR \"adhesive only\") NOT \"string\". This ensures we capture all relevant products while filtering out those with strings.",
+        "target": "['B07DN7DGLB', 'B07VDRNXL5', 'B081GZHD9C', 'B077XBR4RZ', 'B003H8WOPQ', 'B00485MJG6', 'B00A7FB0XO', 'B00SSCGE6Q', 'B00I0EU22Y', 'B0776MTTSC']"
+    },
+    "210": {
+        "generated_text": "(\"overcharge\" AND \"prime\") NOT (\"unsatisfied\" OR \"overpriced\")",
+        "target": "['B01MA3EYC5']"
+    },
+    "211": {
+        "generated_text": "(\"3 line\" OR \"triple line\" OR \"three-line\" OR \"3-line\") AND (\"hand held\" OR \"portable\" OR \"compact\" OR \"mini\" OR \"travel-sized\") AND (\"label maker\" OR \"labeling machine\" OR \"tagger\" OR \"printing device\")",
+        "target": "['B013DG2FNW', 'B01C5IN89O']"
+    },
+    "212": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"deliveries and packages not accepted\" sign.\n2. Identify key concepts:\n   - \"deliveries\"\n   - \"packages\"\n   - \"not accepted\"\n   - \"sign\"\n3. Consider synonyms or related terms:\n   - \"deliveries\": delivery, shipments\n   - \"packages\": parcels, goods\n   - \"not accepted\": rejection, declined, disallowed\n   - \"sign\": signboard, banner, placard\n4. Construct a Boolean query using these terms to ensure comprehensive coverage of relevant products:\n   - Use AND to combine different concepts that must all be present.\n   - Use OR to include synonyms or related terms for broader coverage.\n5. Formulate the query:\n   - (\"deliveries\" OR \"delivery\" OR \"shipments\") AND (\"packages\" OR \"parcels\" OR \"goods\") AND (\"not accepted\" OR \"rejection\" OR \"declined\" OR \"disallowed\") AND (\"sign\" OR \"signboard\" OR \"banner\" OR \"placard\")\n\nThis query will help retrieve products that match the description of a sign indicating that deliveries and packages are not accepted. The use of synonyms ensures that variations in product descriptions are considered.",
+        "target": "['B07NHPY5WQ']"
+    },
+    "213": {
+        "generated_text": "(\"0.5\" AND \"pens\" AND \"fine point\" AND \"black\" AND NOT \"gel\")",
+        "target": "['B078MCWLX7', 'B08G1GL971', 'B08HD6B57S', 'B08XW8VW46', 'B019QBO3GK']"
+    },
+    "214": {
+        "generated_text": "(0.5 AND (lead OR platinum) AND (b OR bath OR battery) AND (ain OR air))",
+        "target": "['B01HODH9QI', 'B017Q9VRIQ']"
+    },
+    "215": {
+        "generated_text": "(\"0.5\" OR \"0.5mm\" OR \"0.5 lead\") AND (\"lead pencil\" OR \"graphite pencil\") AND (\"without grip\" OR \"no grip\" OR \"non-gripped\" OR \"gripless\")",
+        "target": "['B06XV61B3T', 'B07QW2TR2F', 'B06XTX4STK', 'B01NCU2M3J']"
+    },
+    "216": {
+        "generated_text": "(\"kurotoga\" AND \"mechanical pencil\" AND (\"0.5\" OR \"0.5mm\"))",
+        "target": "['B06XV61B3T', 'B00TOYALAM', 'B00F9MVP08']"
+    },
+    "217": {
+        "generated_text": "\"0.5 mm\" AND \"pens\" AND \"ballpoint\" AND \"black\" AND NOT \"gel\"",
+        "target": "['B0855H2L3D']"
+    },
+    "218": {
+        "generated_text": "(\"chairs\" AND (\"office\" OR \"dining\" OR \"reclining\" OR \"folding\" OR \"ergonomic\" OR \"wooden\" OR \"metal\" OR \"plastic\" OR \"adjustable\" OR \"foldable\" OR \"stackable\" OR \"IKEA\" OR \"HON\" OR \"Steelcase\"))",
+        "target": "['B072Y5MZQH', 'B00IIFW2L4', 'B088381CXS']"
+    },
+    "219": {
+        "generated_text": "\"0zo\" AND NOT \"bit\"",
+        "target": "['B07MZK68FZ', 'B00168CPYO']"
+    },
+    "220": {
+        "generated_text": "(\"1 inch\" OR \"1-inch\" OR \"one inch\") AND (\"3 ring\" OR \"three ring\") AND \"binder\" AND (\"without clear pocket\" OR \"no clear pocket\" OR \"without transparent pocket\" OR \"non-clear pocket\")",
+        "target": "['B07HJYG8PT', 'B07G4MVQPJ', 'B07MVH9SDW', 'B07TK2JTZT', 'B004I01IU4', 'B00974KT7O', 'B00B1FKDKU']"
+    },
+    "221": {
+        "generated_text": "(red OR crimson OR scarlet) AND (notebook OR journal OR diary) AND (wide ruled OR double line)",
+        "target": "['B07CJQGFBY', 'B07MTPDFJ1', 'B09CL18HHQ', 'B003O2RXQU']"
+    },
+    "222": {
+        "generated_text": "(\"1 inch\" OR \"one inch\" OR \"1in\") AND (\"white\" OR \"ivory\" OR \"cream\") AND (\"felt\" OR \"fabric\" OR \"textile\") AND (\"letters\" OR \"alphabet\" OR \"characters\")",
+        "target": "['B07N6CXKVC', 'B06X19BT47', 'B0018OALK6']"
+    },
+    "223": {
+        "generated_text": "(\"long\" OR \"extended\" OR \"extra long\" OR \"lengthy\") AND (\"ruler\" OR \"measuring tape\" OR \"straight edge\")",
+        "target": "['B00309RVJ6', 'B000YZ5U1U']"
+    },
+    "224": {
+        "generated_text": "\"answering machines\" AND NOT \"phone\"",
+        "target": "['B08DW9TNHD', 'B00BLVLHO0', 'B072N3T79P', 'B00JZH89X4', 'B00485PHCE']"
+    },
+    "225": {
+        "generated_text": "\"2 pocket\" AND \"poly folders\" AND NOT \"prongs\"",
+        "target": "['B078G7N8P1', 'B078KF7VVS', 'B07ZQM19H4', 'B07ZQM67HW', 'B084P977G8', 'B003U6N2HY', 'B004Q9VHPI', 'B004Q9ZA0Q', 'B01LQUXIVK', 'B01G8BV3OG', 'B07Z6M1B1F', 'B0734V7GRB', 'B07GGS7M2N', 'B07Z6MDHYX', 'B07Z6ND1SM', 'B093DL61D7', 'B075MPLZRZ', 'B01MYTOHJV']"
+    },
+    "226": {
+        "generated_text": "(green AND plastic AND (folder OR binder OR file) AND (without prongs OR no prongs OR non-pronged OR prongless))",
+        "target": "['B01LQUXIVK', 'B07W94RVM6', 'B07Z6ND1SM', 'B088P8GZBR']"
+    },
+    "227": {
+        "generated_text": "(\"1.5mm\" OR \"1.5 mm\" OR \"1.5-millimeter\") AND (\"chair mat\" OR \"mat for chair\") AND (\"studded\" OR \"with studs\") AND (\"carpeted floors\" OR \"carpet\" OR \"flooring\") AND (\"without lip\" OR \"no lip\")",
+        "target": "['B088D4YRJS', 'B089K8NT3H', 'B08J4DMFPY']"
+    },
+    "228": {
+        "generated_text": "(plastic OR synthetic OR polymeric OR durable) AND (floormat OR mat OR carpet OR 'flooring accessory')",
+        "target": "['B07GNNGXNK']"
+    },
+    "229": {
+        "generated_text": "(\"1/2 inch\" OR \"0.5 inch\" OR \"half inch\" OR \"0.5\\\"\") AND (\"binder\" OR \"notebook\" OR \"jotter\" OR \"journal\" OR \"writing pad\")",
+        "target": "['B07KFZ4RDN', 'B07LC1RPL3', 'B07LBZQGJN', 'B0006SWEEG', 'B01N35Z6HU', 'B016ZHK3PS', 'B0098FKGNE', 'B00972M9B0']"
+    },
+    "230": {
+        "generated_text": "\"manilla envelopes\" AND \"10x13\"",
+        "target": "['B000DN88IU', 'B0821RZJBT', 'B07GMLP42Z', 'B09BSDVZY3', 'B08D252HZ5', 'B00ACDKRFS']"
+    },
+    "231": {
+        "generated_text": "(\"100 day\" OR milestone OR birthday OR celebration OR \"special day\") AND (girls OR female OR toddler OR \"young girl\") AND (gifts OR decorations OR \"milestone items\" OR \"party supplies\")",
+        "target": "['B07NTPZ353', 'B01HY9SU6K', '1684086051', '031008962X']"
+    },
+    "232": {
+        "generated_text": "(\"cardstock\" OR \"printing paper\" OR \"art paper\") AND (\"color\" OR \"multicolor\" OR \"RGB\") AND \"printer\"",
+        "target": "['B01LWNQ8NG', 'B07RQB5WJW', 'B07RSHG542', 'B07QNSDX64']"
+    },
+    "233": {
+        "generated_text": "(calendar OR planner OR organizer OR schedule) AND (weekly OR 7-day OR seven-day OR 'monthly view' OR 'room divider')",
+        "target": "['B07KPZSLKT', 'B07KHL4BT7', 'B07XRXPVQ3', 'B06X9WCP2M', 'B06XB1DS16', 'B075T1BV7R', 'B07GC9YQLC']"
+    },
+    "234": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"13.5 reasons why not to be a liberal\".\n2. Identify key concepts: \n   - \"13.5\" could refer to a specific edition or version.\n   - \"reasons\" indicates multiple factors or points.\n   - \"not to be a liberal\" suggests a focus on contrasting views or arguments against liberalism.\n3. Determine potential product categories or topics:\n   - Books, specifically non-fiction or political analysis.\n   - Media content like documentaries or podcasts.\n   - Educational materials or guides.\n4. Formulate query terms using Boolean operators to capture these aspects:\n   - Include terms related to the specific edition or format if applicable.\n   - Use synonyms or related terms for broader coverage.\n5. Construct the query using logical operators to ensure comprehensive search results.\n\nBased on this analysis, the query can be structured as follows:\n- Focus on products that discuss \"13.5 reasons\" and \"liberalism\".\n- Use terms like \"book\", \"documentary\", \"podcast\", \"education\", \"analysis\".\n- Combine these with Boolean operators to ensure all relevant aspects are covered.\n\nFinal query construction:\n(\"13.5\" AND (\"reasons\" OR \"analysis\") AND (\"not to be a liberal\" OR \"contrasting views\") AND (\"book\" OR \"documentary\" OR \"podcast\" OR \"education\")).\n\nThis query aims to retrieve products that provide detailed insights into 13.5 reasons for not being liberal, covering various formats such as books, documentaries, and educational materials.",
+        "target": "['1601065477', '1630061735']"
+    },
+    "235": {
+        "generated_text": "(\"badges\" OR \"digital badges\" OR \"achievement badges\" OR \"online badges\" OR \"virtual badges\") AND (\"without borders\" OR \"universal\" OR \"global\" OR \"cross-border\" OR \"international\")",
+        "target": "['B07Q78YNCW', 'B07RW8NHHL', '0520295625', 'B0876Y3JG4', 'B07Z8XV24M']"
+    },
+    "236": {
+        "generated_text": "(\"prismacolor\" OR \"Prismacolor\") AND (\"markers\" OR \"felt-tip pens\" OR \"drawing pens\") AND (\"colored\" OR \"colorful\" OR \"multi-color\" OR \"hue\") AND (\"pack\" OR \"set\" OR \"bundle\" OR \"kit\")",
+        "target": "['B000C6RCD0', 'B01M5FYUVN', 'B00M4L52M4', 'B007L4MFS8', 'B00EP3GWV4']"
+    },
+    "237": {
+        "generated_text": "(\"prismacolor\" AND \"premier\" AND \"colored pencils\" AND \"72\")",
+        "target": "['B000C6RCD0', 'B01MFD7HXP', 'B000089DCH', 'B01FUYQWIO', 'B08PW1CT24', 'B06XRMCP8Q', 'B000EVQ89W', 'B0019IP2GE']"
+    },
+    "238": {
+        "generated_text": "(\"26\" AND \"toner\") OR (\"26\" AND \"fitness\") OR (\"26\" AND \"clothing\") OR (\"26\" AND \"accessories\")",
+        "target": "['B07QBNR21W', 'B07F24D9SS', 'B07KLVK6FV', 'B07PHRMRXX', 'B07PSKZ31X', 'B07Q982VM1', 'B089B425D5', 'B0841M1CV9', 'B088GZZS4R', 'B0897PKN8R', 'B0899LRZ54', 'B07D9CLDFW', 'B07XLNR41P', 'B074Q44C61', 'B00DC4ORG4', 'B00J4A2528', 'B015H31W60', 'B01C4SP6Y0', 'B01C4SWMQU', 'B01ENZORC4', 'B01ENZQXMQ', 'B06W9GG9V3', 'B074G535XW', 'B01EK76TWG']"
+    },
+    "239": {
+        "generated_text": "(\"2nd grade\" OR \"second grade\" OR \"grade 2\" OR \"age 8-9\") AND (\"reading games\" OR \"reading practice\" OR \"literacy games\" OR \"reading activities\" OR \"educational games\")",
+        "target": "['B00GLH996M']"
+    },
+    "240": {
+        "generated_text": "(paper OR papery) AND (journals OR diaries OR notebooks OR 'writing pads') AND (bulk OR wholesale OR pack OR lot)",
+        "target": "['B07T3FF9KS', 'B07T1BX2Y6', 'B079JHHYGT', 'B07DXKCBKG']"
+    },
+    "241": {
+        "generated_text": "(\"rollerblade\" OR \"skateboard\" OR \"inline skate\") AND (\"caster\" OR \"wheel\" OR \"support\" OR \"bearing\") AND \"3\"",
+        "target": "['B07VKJHMWC', 'B07V3HMLKT', 'B07KMXHZRJ', 'B06XB6FYQX', 'B01N9WA4Y7']"
+    },
+    "242": {
+        "generated_text": "(\"limited addition\" OR \"limited edition\") AND (\"post it notes\" OR \"sticky notes\")",
+        "target": "['B0002DOC5Y', 'B076XG2XRS', 'B01LLW2S5U', 'B01C8MCISE', 'B00NPANWV6', 'B00CMKA9BG', 'B001BVDIDI']"
+    },
+    "243": {
+        "generated_text": "(\"5 year old\" OR toddler OR preschool OR \"young children\" OR kids) AND (\"study books\" OR \"educational books\" OR \"learning books\" OR \"activity books\" OR workbook)",
+        "target": "['1607194244']"
+    },
+    "244": {
+        "generated_text": "(\"5x8\" OR \"5 x 8\" OR \"5 by 8\") AND (\"spiral\" OR \"ruler\" OR \"ratcheting\") AND (\"index cards\" OR \"note cards\" OR \"writing cards\")",
+        "target": "['B000EFNKVC']"
+    },
+    "245": {
+        "generated_text": "hp63 AND (\"ink cartridges\" AND (\"black\" OR \"color\"))",
+        "target": "['B07W1X23DJ', 'B07THZYFB4', 'B00WJDWG3A', 'B07QPW1ZK7', 'B01DACCPFM', 'B015YVNQ82', 'B08QR83FW6', 'B08NWYDQBF']"
+    },
+    "246": {
+        "generated_text": "(\"7x5\" OR \"7x5 inch\" OR \"7x5 inches\" OR \"7x5-inch\") AND (\"notebook\" OR \"journal\" OR \"diary\" OR \"pad\") AND (\"spiral\" OR \"ruler\" OR \"wirebound\" OR \"ruling\")",
+        "target": "['B0000AQOO6', 'B07W869K1X', 'B08DY7J7KS', 'B07TCDZVQG', 'B07FXWT3TC', 'B077T92H1G']"
+    },
+    "247": {
+        "generated_text": "(\"6x9\" OR \"6x9 inch\" OR \"6x9 inches\" OR \"six by nine\") AND (\"envelopes\" OR \"mailers\" OR \"packages\" OR \"correspondence\")",
+        "target": "['B07YYH92B5', 'B01DJKPE1C']"
+    },
+    "248": {
+        "generated_text": "(\"college\" OR \"university\" OR \"student\" OR \"academic\" OR \"school\") AND (\"scantrons\" OR \"answer sheet\" OR \"test paper\" OR \"exam paper\")",
+        "target": "['B01NARX2N4', 'B01N5O3PEY', 'B01G04SR1I', 'B0163IR7HQ', 'B06XH6HPYZ', 'B01D7UOLCC']"
+    },
+    "249": {
+        "generated_text": "(\"9x12\" OR \"9 x 12\" OR \"9 by 12\" OR \"ninety by twelve\") AND (\"clasp\" OR \"fastener\" OR \"closure\" OR \"seal\") AND (\"envelopes\" OR \"folders\" OR \"pads\" OR \"stationery\")",
+        "target": "['B000DLBX1G']"
+    },
+    "250": {
+        "generated_text": "(901 AND (color OR colorful OR multicolor) AND hp AND (printer OR printing))",
+        "target": "['B08Y5V39L8', 'B08QRCQV46', 'B08MVKXSWP', 'B08M9QN8L2', 'B00VF1SPUA', 'B00VTOJYD0', 'B002KLFLS8', 'B0016P8Q2W']"
+    },
+    "251": {
+        "generated_text": "(901 AND (ink OR \"printer ink\" OR toner OR refill))",
+        "target": "['B00VTOJYD0', 'B002KLFLS8', 'B0016P8Q2W', 'B00CQ8X1DC']"
+    },
+    "252": {
+        "generated_text": "(\"hp ink\" AND \"962xl\" AND (\"combo pack\" OR \"kit\" OR \"set\"))",
+        "target": "['B07MCYDD62', 'B079GZWZ33', 'B07T2S3D6J', 'B07TXR9R4V', 'B09FQ8LSTR', 'B09D81MTV7', 'B08X45CZK1', 'B08THND23Z', 'B0991Z6VLM', 'B07MCYDHFN']"
+    },
+    "253": {
+        "generated_text": "(\"952\" AND \"yellow\" AND \"xl\")",
+        "target": "['B01B6QGNYI']"
+    },
+    "254": {
+        "generated_text": "(\"handwriting without tears\" AND cursive AND kickoff)",
+        "target": "['193981443X', '1939814707', '1939814715', '1939814669', '189162766X', '1934825182', '1934825565', 'B0062TKYKE', '1891627708', '1934825794', 'B00S3TRODG', '1891627805', '193981426X']"
+    },
+    "255": {
+        "generated_text": "\"A Separate Peace\" AND \"John Knowles\"",
+        "target": "['B07HD4DC1W', 'B001LZX3K2', '1411469798', '0743253973']"
+    },
+    "256": {
+        "generated_text": "(\"I'm Dead\" OR \"Dead\" OR \"Dead Band\" OR \"Dead Music\") AND (\"merchandise\" OR \"album\" OR \"support\" OR \"guidance\" OR \"afterlife\")",
+        "target": "['1441317996', '169894795X']"
+    },
+    "257": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"sticky pockets\" and \"planners\".\n2. Consider synonyms or related terms for \"sticky pockets\": \"adhesive pockets\", \"sticky note holders\", \"plastic pockets\".\n3. Consider synonyms or related terms for \"planners\": \"organizers\", \"planning pads\", \"task managers\".\n4. Combine these terms using Boolean operators to ensure comprehensive search coverage.\n\nThe goal is to create a query that captures all possible variations of sticky pocket products used for planners, while ensuring relevance to the original intent.\n\nFinal query construction:\n- Use \"OR\" to include synonyms and related terms.\n- Use \"AND\" to ensure both concepts (\"sticky pockets\" and \"planners\") are included in the search results.\n\nThe structured query will look like this:\n(\"sticky pockets\" OR \"adhesive pockets\" OR \"sticky note holders\" OR \"plastic pockets\") AND (\"planners\" OR \"organizers\" OR \"planning pads\" OR \"task managers\"). This ensures we capture all relevant products for planners that involve sticky or adhesive pockets.",
+        "target": "['B07W74MTZ2', 'B0739LKJLD', 'B0739K72BP', 'B0739K1VYV', 'B0739JWS69', 'B07ZH77M5Y', 'B0186KGEZK', 'B002M7XYOI']"
+    },
+    "258": {
+        "generated_text": "(\"animal print\" OR \"animal design\" OR \"animal motif\" OR \"zoo print\") AND (\"zip\" OR \"zipper\" OR \"closure\") AND (\"binder\" OR \"folder\" OR \"organizer\")",
+        "target": "['B07RLWLQNG']"
+    },
+    "259": {
+        "generated_text": "(\"bluetooth\" OR \"wireless\" OR \"cordless\" OR \"RF\") AND (\"phone\" OR \"mobile\" OR \"smartphone\" OR \"cellphone\")",
+        "target": "['B072N3T79P']"
+    },
+    "260": {
+        "generated_text": "(\"student gifts\" OR \"presents\" OR \"gift ideas\" OR \"school supplies\" OR \"educational gifts\") AND (\"teacher\" OR \"classroom\" OR \"educator\" OR \"instructor\" OR \"school staff\") AND (\"bulk\" OR \"wholesale\" OR \"packaged\" OR \"bulk order\")",
+        "target": "['B07TWHRN3M', 'B07T4GHZCV', 'B07DXNZZL3', 'B076BBTYTK', 'B071ZFX9CG', 'B076S29WBJ', 'B08742P2PT', 'B086RSCY53', 'B07ZS6PZTX', 'B0731T52ND', 'B07CGDM3LP', 'B07NM31V76']"
+    },
+    "261": {
+        "generated_text": "(disc OR DVD OR CD OR media) AND (binding OR binder OR fastener OR assembly) AND (machine OR equipment OR tool)",
+        "target": "['B08389LJD9', 'B00K899QA8', 'B079L4W8MX', 'B07DS9L14X', 'B07YVKVK4R', 'B07Q8Y7CZD', 'B01GQRZDYI', 'B00H63D8NU']"
+    },
+    "262": {
+        "generated_text": "(\"binder\" OR \"folder\" OR \"file\" OR \"organizational tool\") AND (\"stickers\" OR \"adhesive\" OR \"decals\" OR \"labels\" OR \"decorative stickers\")",
+        "target": "['B07BKMDZT1']"
+    },
+    "263": {
+        "generated_text": "(\"designer\" OR \"premium\" OR \"high-quality\" OR \"professional\") AND (\"id badge\" OR \"ID card\" OR \"employee badge\") AND (\"horizontal holder\" OR \"holder\" OR \"rack\" OR \"organizer\") AND (\"lanyard\" OR \"cord\" OR \"strap\")",
+        "target": "['B081P4YPQM', 'B07KWG5LP7', 'B07Y3V1FXP']"
+    },
+    "264": {
+        "generated_text": "(\"name\" OR \"label\" OR \"identifier\" OR \"marking\") AND (\"tag\" OR \"badge\" OR \"sticker\" OR \"label\") AND (\"clip\" OR \"clipper\" OR \"fastener\" OR \"holder\")",
+        "target": "['B0122PXDH2', 'B07STTQ9KW']"
+    },
+    "265": {
+        "generated_text": "(\"carnet\" OR \"ticket\" OR \"voucher\") AND (\"printer\" OR \"printing machine\" OR \"print device\")",
+        "target": "['B00SAI49AG', 'B01LDTRCHA']"
+    },
+    "266": {
+        "generated_text": "(\"teacher supplies\" OR \"educational materials\" OR \"learning resources\" OR \"teaching materials\" OR \"office supplies\" OR \"stationery\" OR \"office equipment\" OR \"classroom resources\" OR \"whiteboards\" OR \"projectors\" OR \"storage solutions\") AND (\"teacher\" OR \"education\" OR \"classroom\" OR \"office\")",
+        "target": "['B00006IEI4', 'B079SSQVML', 'B07GMZ5NBS', 'B071RYD3J4', 'B00006IATI', 'B07VT9Z3WD', 'B07K2DCD1V', '107837788X']"
+    },
+    "267": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"baskets\" and \"gifts\".\n2. Consider synonyms or related terms for \"baskets\": \"storage\", \"containers\", \"gift boxes\", \"present baskets\".\n3. Consider synonyms or related terms for \"gifts\": \"presents\", \"gift items\", \"giftware\".\n4. Combine these terms using Boolean operators to ensure comprehensive coverage of potential product listings.\n\nThe goal is to create a query that captures various ways products might be described while still focusing on the primary intent of finding baskets suitable for gifts.\n\nFinal query construction:\n- Use \"AND\" to ensure both concepts are included.\n- Use \"OR\" to include synonyms and related terms.\n\nThe structured query will look like this:\n(\"baskets\" OR \"storage\" OR \"containers\" OR \"gift boxes\" OR \"present baskets\") AND (\"gifts\" OR \"presents\" OR \"gift items\" OR \"giftware\"). This ensures we capture a wide range of relevant products.",
+        "target": "['B07J4JFLNF', 'B00D6JP6FG']"
+    },
+    "268": {
+        "generated_text": "(\"bed desk\" OR \"bedside table\" OR \"nightstand\" OR \"bedside table\") AND NOT \"cup holder\"",
+        "target": "['B08YYHF3VX', 'B092VJ2YRD', 'B07VVBP6S1', 'B08DFNTXLZ', 'B08FX45XQ5', 'B08F1XL1N8', 'B08F1Z49SB']"
+    },
+    "269": {
+        "generated_text": "(\"small\" OR \"compact\" OR \"mini\" OR \"portable\") AND (\"schedule\" OR \"planner\" OR \"diary\" OR \"organizer\" OR \"timetable\") AND \"book\"",
+        "target": "['B07XDM7XZ1', 'B07WD3GXY4', 'B07YYLT6NS', '1612126979', 'B07HKCB7WN']"
+    },
+    "270": {
+        "generated_text": "(\"large\" OR \"big\" OR \"oversized\" OR \"jumbo\") AND (\"spring\" OR \"coil\" OR \"elastic\" OR \"tension\") AND (\"paper clips\" OR \"clips\" OR \"fasteners\" OR \"office clips\")",
+        "target": "['B07GGSDFVY', 'B07DXSBT5J', 'B07BPJRCSF', 'B002VD6BLG', 'B07QF4R96J']"
+    },
+    "271": {
+        "generated_text": "(\"black\" OR \"dark\" OR \"charcoal\" OR \"ebony\") AND (\"magnetic\" OR \"adhesive\" OR \"sticky\" OR \"wall-mounted\") AND (\"monthly\" OR \"one-month\" OR \"full month\") AND (\"calendar\" OR \"planner\" OR \"schedule\" OR \"diary\")",
+        "target": "['B07JWF823X', 'B07NDNY4KS', 'B07VW6GNXY', 'B076HYQ27Z', 'B074J2NJ6H', 'B01DQ10Y78']"
+    },
+    "272": {
+        "generated_text": "(\"self adhesive\" OR \"sticky\" OR \"no-tack\" OR \"removable\") AND (\"happy holidays\" OR \"holiday\" OR \"festive\" OR \"seasonal\" OR \"Xmas\") AND (\"roll\" OR \"rolled\" OR \"coil\" OR \"continuous\") AND (\"tags\" OR \"labels\" OR \"stickers\" OR \"decal\")",
+        "target": "['B07G56TKTV', 'B06XRZ7TSX', 'B07Z8D95P6', 'B07YZB9TMS', 'B075765XKQ', 'B07575Z7V5', 'B0746TR1LH']"
+    },
+    "273": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"book ends silver\".\n2. Identify key components:\n   - \"book ends\": This likely refers to decorative items used to hold books together, often shaped like animals or other figures.\n   - \"silver\": This suggests a preference for a metallic finish, specifically silver.\n\n3. Consider synonyms and related terms:\n   - For \"book ends\", related terms could include \"book holders\", \"book stoppers\", or \"book organizers\".\n   - For \"silver\", consider variations like \"metallic silver\", \"gilt\", or \"silver-plated\".\n\n4. Construct a Boolean query:\n   - Use AND to ensure both concepts are included.\n   - Use OR to include synonyms and variations.\n\n5. Final query construction:\n   - (\"book ends\" OR \"book holders\" OR \"book stoppers\" OR \"book organizers\") AND (\"silver\" OR \"metallic silver\" OR \"gilt\" OR \"silver-plated\")\n\nThis query will help retrieve products that match the description of book ends with a silver finish, considering different terminologies that might be used in product listings.",
+        "target": "['B07ZYJ1HXV', 'B01N2B6BZB', 'B077BT587N', 'B0009P409S']"
+    },
+    "274": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"book markers\" and \"for women\".\n2. Consider synonyms or related terms for \"book markers\": bookmarks, bookwavers, page markers.\n3. Consider synonyms or related terms for \"women\": female, ladies, women's.\n4. Combine these terms using Boolean operators to ensure the query retrieves relevant products.\n\nThe goal is to find products that are specifically designed as book markers and are targeted towards women. We can use the AND operator to ensure both aspects are covered, and the OR operator to include synonyms.\n\nFinal query construction:\n- (\"book markers\" OR \"bookmarks\" OR \"bookwavers\" OR \"page markers\") AND (\"women\" OR \"female\" OR \"ladies\" OR \"women's\")\n\nThis query will help in retrieving products that are relevant to the original query while considering different ways people might refer to similar items.",
+        "target": "['1441328890', '1441328157', '1441321748', 'B07WHHXP4P', 'B00IRW9IRE', '1593593147']"
+    },
+    "275": {
+        "generated_text": "(\"cotton\" OR \"cotton fiber\" OR \"cotton-based\") AND \"paper\" AND (\"deckled edges\" OR \"ruffled edges\" OR \"distressed edges\")",
+        "target": "['B07N7JHQ21', 'B004955U5W', '161992286X', '1619922835', '1619922827']"
+    },
+    "276": {
+        "generated_text": "(bottle OR container OR bottle cap OR dispenser) AND (shrink OR reduce size OR contract OR compress) AND (wrap OR cover OR tape OR seal) AND (bands OR straps OR ties OR loops)",
+        "target": "['B084P2GKDY', 'B01BO58CX6', 'B018TNDK60']"
+    },
+    "277": {
+        "generated_text": "(forever OR durable OR 'long-lasting') AND stamps AND Disney",
+        "target": "['B07MQL979Y', 'B07GT63QDQ', 'B07FN3N8W4', 'B01BEFRF02', 'B013VNQ84O', 'B00AOU9U3Y', 'B007AW36KW', 'B004KISVEK', 'B002Q8JO9M']"
+    },
+    "278": {
+        "generated_text": "(Brother AND fax AND (ink OR inkjet) AND (cartridges OR \"replacement cartridges\"))",
+        "target": "['B07X5TML8X', 'B07SJ4WPR8', 'B002LGR2A2', 'B00000JDET', 'B00000J19R']"
+    },
+    "279": {
+        "generated_text": "(\"printer\" AND \"brother\" AND \"mcf\")",
+        "target": "['B07C4V4WWF', 'B00MFG588Q', 'B01BHSLJGC', 'B01824ZCBM']"
+    },
+    "280": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"brother tn730 high yield black toner\".\n2. Identify key components:\n   - Brand: Brother\n   - Model: TN730\n   - Feature: High Yield\n   - Type: Toner\n3. Consider synonyms or related terms:\n   - \"high yield\" could also be referred to as \"long lasting\" or \"extended capacity\"\n   - \"toner\" is specific, but we might consider including \"ink\" as it's often used interchangeably.\n4. Construct a Boolean query that combines these elements logically to ensure comprehensive search results.\n5. Use AND to ensure all essential components are included, and OR to account for synonyms.\n\nThe structured query will look like this:\n- Ensure the brand and model are always included.\n- Include \"high yield\" OR its synonyms.\n- Include \"toner\" OR \"ink\".\n\nFinal Boolean query:\n(\"Brother\" AND \"TN730\" AND (\"high yield\" OR \"long lasting\" OR \"extended capacity\") AND (\"toner\" OR \"ink\")).\n\nThis query ensures that the search results will include products that are specifically for the Brother TN730 printer, with a focus on high-yield toners or inks.",
+        "target": "['B075X7TFY5', 'B08915VC1S', 'B08FH8B1MB', 'B08LG788FQ', 'B09D7CMPQ4', 'B08R7HV4SZ', 'B07F65KCHL']"
+    },
+    "281": {
+        "generated_text": "(\"brown\" OR \"chocolate\" OR \"coffee\") AND (\"notecards\" OR \"note cards\" OR \"writing cards\") AND (\"without envelopes\" OR \"no envelopes\" OR \"envelopeless\")",
+        "target": "['B01N3UBE2J']"
+    },
+    "282": {
+        "generated_text": "(bt21 OR model OR series OR device OR product) AND (folder OR storage OR organizer OR case OR holder OR container)",
+        "target": "['B079HSRH1R']"
+    },
+    "283": {
+        "generated_text": "(\"pl\u00e1stico\" OR \"polymer\" OR \"film\") AND (\"burbujas\" OR \"blister\" OR \"padded\") AND (\"embalar\" OR \"package\" OR \"packaging\" OR \"protect\")",
+        "target": "['B07SKSZ36R', 'B07S1JPBL3', 'B07QZCMCVT', 'B07S1JR3WB', 'B07S2MMB2C', 'B07S3R3LJ5', 'B08QTRFQPC', 'B099DPYXDC', 'B07RXFDSQG', 'B06X15257J']"
+    },
+    "284": {
+        "generated_text": "(\"handwriting without tears\" OR \"handwriting without tears program\" OR \"HWT\") AND (\"grade 3\" OR \"third grade\" OR \"3rd grade\" OR \"year 3\")",
+        "target": "['1939814650']"
+    },
+    "285": {
+        "generated_text": "(\"bulletin board\" OR \"display board\" OR \"notice board\" OR \"chalkboard\") AND (\"letters\" OR \"alphabet\" OR \"characters\" OR \"signage\" OR \"stickers\")",
+        "target": "['B0722C7NZL', 'B000NNQ2MY']"
+    },
+    "286": {
+        "generated_text": "(\"chairs\" OR \"seat\" OR \"stool\" OR \"armchair\" OR \"bench\") AND (\"without wheels\" OR \"stationary\" OR \"non-rolling\" OR \"fixed base\")",
+        "target": "['B003BZG1D6', 'B08N6CW2DN', 'B091KFN2Q6', 'B098T7DQ9Y', 'B08ZJGV287', 'B01LYXKF4D', 'B00KOP4U2U', 'B01N09NE9A', 'B0722P7BFN']"
+    },
+    "287": {
+        "generated_text": "(\"bxt\" AND (\"markers\" OR \"felt-tip pens\" OR \"drawing pens\") AND (\"pen\" OR \"stylus\" OR \"writing tool\"))",
+        "target": "['B073WVZ5RR']"
+    },
+    "288": {
+        "generated_text": "(\"ti-nspire\" OR \"Texas Instruments\") AND (\"cas\" OR \"computer algebra\" OR \"CAS\") AND (\"cx\") AND (\"calculator\" OR \"graphing calculator\" OR \"scientific calculator\")",
+        "target": "['B07RL7HM5V', 'B004NBZAYS', 'B07SPVP7D4']"
+    },
+    "289": {
+        "generated_text": "(ti84 AND (plus OR \"plus model\") AND calculator)",
+        "target": "['B007WM3MW2', 'B0001EMM0G', 'B01M1RX9WU', 'B00XOLOQMK', 'B00UG8TIZ4', 'B00EDZDJ42', 'B00UG8TN2M', 'B07SSJQS2Z', 'B00UG8TT4E', 'B00UG8TLTC']"
+    },
+    "290": {
+        "generated_text": "(\"ti84\" OR \"Texas Instruments 84 Plus\") AND (\"plus\" OR \"advanced\" OR \"enhanced\" OR \"professional\") AND (\"graphing calculator\" OR \"scientific calculator\")",
+        "target": "['B007WM3MW2', 'B0001EMM0G', 'B00XOLOQMK', 'B00EDZDJ42', 'B07HG3WGVY', 'B081VV8DW1', 'B07SSJQS2Z', 'B07VWRY81C', 'B07QY3BD1B', 'B078NFWPKK']"
+    },
+    "291": {
+        "generated_text": "(laundry OR washing OR cleaning OR clothes OR garment care) AND (tags OR labels OR identifiers OR branding OR categories)",
+        "target": "['B01H5W9OIE', 'B07G58YWL6', 'B0779GTSZW', 'B07Y12WFGP']"
+    },
+    "292": {
+        "generated_text": "(cartridge OR ink cartridge OR toner cartridge) AND dell AND 21 AND color AND y499d",
+        "target": "['B00MV2PFQ4', 'B00JV4ASB2', 'B00JV4ARF4', 'B0080A73GG', 'B004L3ZECQ', 'B003TE9Y9W']"
+    },
+    "293": {
+        "generated_text": "(\"chair\" OR \"seat\" OR \"stool\" OR \"armchair\") AND (\"tables\" OR \"desk\" OR \"coffee table\" OR \"side table\") AND (\"recliners\" OR \"lounger\" OR \"sofa\" OR \"couch\")",
+        "target": "['B074DW45G8', 'B01N1NA8KZ', 'B01FSGZ6FE', 'B0026IBSUA']"
+    },
+    "294": {
+        "generated_text": "(\"zario\" AND (\"chapstick\" OR \"lip balm\" OR \"lipstick\") AND (\"holder\" OR \"case\" OR \"container\" OR \"organizer\"))",
+        "target": "['B07JGG41FN', 'B07MBDJ9GT', 'B07CG5NKSV']"
+    },
+    "295": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \"Chelsea\", \"stadium\", \"soccer\", \"cards\".\n2. Determine synonyms or related terms for each component:\n   - \"Chelsea\" could refer to Chelsea FC, a football club, so related terms might include \"Chelsea FC\", \"Chelsea Football Club\".\n   - \"Stadium\" could refer to the location where the club plays, such as \"Stamford Bridge\" which is the home ground of Chelsea FC.\n   - \"Soccer\" is another term for football, so related terms could include \"football\", \"soccer\".\n   - \"Cards\" likely refers to trading cards, so related terms could include \"cards\", \"collectibles\", \"memorabilia\".\n3. Construct a Boolean query using these terms to ensure comprehensive coverage of potential product listings.\n\nThe goal is to create a query that captures all possible variations of the original search intent while maintaining precision. We will use AND to ensure all main concepts are included and OR to capture synonyms or related terms.\n\nFinal Boolean query:\n(\"Chelsea\" OR \"Chelsea FC\" OR \"Chelsea Football Club\") AND (\"stadium\" OR \"Stamford Bridge\") AND (\"soccer\" OR \"football\") AND (\"cards\" OR \"collectibles\" OR \"memorabilia\"). This query ensures we retrieve products related to Chelsea FC's stadium memorabilia or collectibles, specifically focusing on soccer-related items.",
+        "target": "['B003MPPNPM']"
+    },
+    "296": {
+        "generated_text": "(\"christmas\" OR \"holiday\" OR \"festive\" OR \"xmas\") AND (\"gifts\" OR \"presents\" OR \"gift ideas\" OR \"holiday gifts\")",
+        "target": "['B07M81TWY7', 'B072W281WG', '1950785246', 'B07WJYBV41', 'B072LNPBZX']"
+    },
+    "297": {
+        "generated_text": "(\"clipboard\" OR \"note pad\" OR \"writing pad\") AND (\"pack\" OR \"set\" OR \"bundle\") AND (\"12\" OR \"dozen\")",
+        "target": "['B000Q62CKE']"
+    },
+    "298": {
+        "generated_text": "(coin OR money OR currency OR nickel OR dime OR quarter OR banknote) AND (changer OR converter OR machine OR device OR tool) AND (\"automatic changer\" OR \"manual changer\" OR \"coin sorting machine\" OR \"coin counting machine\")",
+        "target": "['B079P4FBPS', 'B01MSL9L1Y', 'B00LXS5PVC', 'B008AC5T42']"
+    },
+    "299": {
+        "generated_text": "(\"color coded\" OR \"colored\" OR \"colorful\" OR \"note identification\" OR \"string labeling\") AND (\"guitar strings\" OR \"acoustic guitar strings\" OR \"electric guitar strings\") AND (\"beginner\" OR \"easy\" OR \"simple\" OR \"starter\" OR \"introductory\")",
+        "target": "['B07LBFPNMF', 'B01ISPBAUW', 'B00GTVF6VC']"
+    },
+    "300": {
+        "generated_text": "(\"silver age\" OR \"s'age\" OR \"age\") AND (\"comic book\" OR \"comic\" OR \"graphic novel\" OR \"book\") AND (\"boards\" OR \"hardcover\" OR \"collectible\" OR \"hardbound\")",
+        "target": "['B00D8LMNLC', 'B004TGVU96', 'B000JFKSOE', 'B004D1LBCI', 'B0831TPGRT', 'B00MH3NTD8', 'B003ZUSOC8']"
+    },
+    "301": {
+        "generated_text": "(\"congratulations\" OR \"happy\" OR \"celebration\" OR \"festive\") AND (\"postcards\" OR \"greeting cards\" OR \"card\" OR \"note cards\")",
+        "target": "['B079K6SWYG', 'B07D1D4332', 'B075G2JR47', 'B01MY9242Q']"
+    },
+    "302": {
+        "generated_text": "(\"construction paper\" OR \"art paper\" OR \"craft paper\") AND (\"pastel\" OR \"soft color\" OR \"light shade\")",
+        "target": "['B01BIPH7VA']"
+    },
+    "303": {
+        "generated_text": "(\"continents\" OR \"world\" OR \"globe\" OR \"hemisphere\") AND (\"map\" OR \"chart\" OR \"graph\" OR \"diagram\") AND (\"set\" OR \"bundle\" OR \"collection\")",
+        "target": "['B009A181QU', 'B002OMUOLW', '0545118395', '0528020420']"
+    },
+    "304": {
+        "generated_text": "(cork OR bark OR \"natural wood\") AND (board OR plank OR slate OR surface) AND (stri OR striped OR striping OR pattern OR design)",
+        "target": "['B005CKKHOM']"
+    },
+    "305": {
+        "generated_text": "(coupon OR discount OR voucher OR deal) AND (box OR container OR holder OR storage) AND (organizer OR sorter OR arranger OR system)",
+        "target": "['B07G7ZRX25', 'B01447LJOK']"
+    },
+    "306": {
+        "generated_text": "(\"milk crate\" OR \"milk box\" OR \"record crate\" OR \"storage box\") AND (\"vinyl records\" OR \"records\" OR \"LPs\" OR \"CDs\")",
+        "target": "['B076MFPPYG', 'B06XGBDJMD', 'B017EA6VJW', 'B07NF5BNXB', 'B00I9VP9NU', 'B007IUPR0I', 'B0054029SM', 'B0001ACQQA']"
+    },
+    "307": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"crosscut shredder without basket\".\n2. Identify key components:\n   - \"crosscut\": This refers to the type of shredder technology, which is important for performance.\n   - \"shredder\": This is the main product category.\n   - \"without basket\": This specifies a feature that the shredder should not have.\n\n3. Determine synonyms or related terms:\n   - \"crosscut\" could also be referred to as \"cross-cut\" or \"cross cut\".\n   - \"shredder\" doesn't have many direct synonyms but could include \"document shredder\" or \"office shredder\".\n   - \"without basket\" can be rephrased as \"no basket\", \"basketless\", or \"without bin\".\n\n4. Construct the Boolean query:\n   - We want to ensure that the product is a shredder, so we'll use \"shredder\" AND (\"crosscut\" OR \"cross-cut\" OR \"cross cut\").\n   - We want to exclude products with baskets, so we'll use NOT (\"basket\" OR \"bin\").\n\n5. Combine these into a logical query using Boolean operators.\n\nThe final query will look like this:\n(\"shredder\" AND (\"crosscut\" OR \"cross-cut\" OR \"cross cut\")) AND NOT (\"basket\" OR \"bin\"). This ensures that we retrieve shredders that are crosscut and do not have a basket.",
+        "target": "['B08HD9KTS6']"
+    },
+    "308": {
+        "generated_text": "\"paper shredder\" AND NOT \"basket\"",
+        "target": "['B08HD9KTS6', 'B07WHVKVPR', 'B0046JZ0OW', 'B01E3KVF7O']"
+    },
+    "309": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the original query: \"pocket planner without dates\".\n   - The customer is looking for a pocket planner that does not include dates.\n\n2. Identify key components:\n   - \"pocket planner\": This is the main product type the customer is interested in.\n   - \"without dates\": This specifies a feature or lack thereof, indicating the customer wants a planner that doesn't have date pages.\n\n3. Formulate synonyms or related terms:\n   - \"pocket planner\" could also be referred to as \"compact planner\", \"mini planner\", or \"portable diary\".\n   - \"without dates\" can be expressed as \"no date pages\", \"date-free\", or \"non-dated\".\n\n4. Construct the Boolean query:\n   - We want to ensure we capture all relevant products that match these criteria.\n   - Use AND to combine essential features (\"pocket planner\" AND \"without dates\").\n   - Use OR to include synonyms or variations (\"pocket planner\" OR \"compact planner\" OR \"mini planner\" OR \"portable diary\").\n   - Similarly, use OR for the feature aspect (\"without dates\" OR \"no date pages\" OR \"date-free\" OR \"non-dated\").\n\n5. Finalize the query:\n   - Combine everything using parentheses to ensure logical grouping and clarity.\n\nThe final Boolean query will look like this:\n(\"pocket planner\" OR \"compact planner\" OR \"mini planner\" OR \"portable diary\") AND (\"without dates\" OR \"no date pages\" OR \"date-free\" OR \"non-dated\"). This query should effectively retrieve products that are pocket planners and do not include dates.",
+        "target": "['B07WM1N168', 'B08P6G66R8', 'B08FR6Z6XJ', 'B07W9KYWWG', 'B08ZJ61PP5', 'B08KQFZ2DM', 'B095VTG5ZD']"
+    },
+    "310": {
+        "generated_text": "(planner AND NOT 'spiral binding')",
+        "target": "['B098HJDMM7', 'B08WHYVK5G', 'B08YN8BD92', 'B08ZJ61PP5', 'B08V5JLLLK', 'B0923T8BZR', 'B093R5W239', 'B09875X1C1', 'B08T3JPLX7', 'B07KFKGXPC', 'B08HKNMJJL', 'B08KQFZ2DM']"
+    },
+    "311": {
+        "generated_text": "(\"data\" OR \"information\" OR \"record\" OR \"digital\" OR \"metadata\" OR \"file\") AND (\"stamp\" OR \"seal\" OR \"label\" OR \"marker\" OR \"imprint\")",
+        "target": "['B004HY49KW', 'B0012ND8GC']"
+    },
+    "312": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the original query: \"deco paper clip\".\n2. Identify key components:\n   - \"deco\" likely refers to decorative items.\n   - \"paper clip\" is a specific product type.\n3. Consider synonyms or related terms:\n   - For \"deco\": decorative, ornamental, stylish, artistic.\n   - For \"paper clip\": binder clip, office clip, stationery clip.\n4. Formulate a logical query using Boolean operators:\n   - We want to ensure that both concepts are present, so we'll use AND.\n   - To capture variations, we'll use OR for synonyms.\n\nThe goal is to create a query that retrieves products that are both decorative and related to paper clips, potentially including different types of paper clips or similar items.\n\nFinal query formulation:\n(\"deco\" OR \"decorative\" OR \"ornamental\" OR \"stylish\" OR \"artistic\") AND (\"paper clip\" OR \"binder clip\" OR \"office clip\" OR \"stationery clip\"). This ensures we capture a wide range of relevant products while maintaining focus on the original intent.",
+        "target": "['B07SJFBW5Z', 'B07RH9G2K6']"
+    },
+    "313": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"desk blotter paper pad\".\n2. Identify key components:\n   - \"desk\": This suggests the product is used on or for a desk.\n   - \"blotter\": A blotter is typically used to catch ink or liquid spills, often found on desks.\n   - \"paper\": This indicates the material or type of the product.\n   - \"pad\": This implies multiple sheets or a stack of paper.\n\n3. Consider synonyms and related terms:\n   - \"desk\": office, workspace\n   - \"blotter\": catcher, spill stopper\n   - \"paper\": sheet, sheets, pads\n   - \"pad\": stack, set\n\n4. Construct a Boolean query using these terms to ensure comprehensive coverage while maintaining relevance:\n   - Use AND to ensure all essential aspects are included.\n   - Use OR to include synonyms and related terms.\n\n5. Final Boolean query:\n   (\"desk\" OR \"office\" OR \"workspace\") AND (\"blotter\" OR \"catcher\" OR \"spill stopper\") AND (\"paper\" OR \"sheet\" OR \"sheets\" OR \"pad\" OR \"stack\" OR \"set\")\nThis query will help retrieve products that are relevant to a desk blotter paper pad, considering various synonymous terms.",
+        "target": "['B0043REUFM']"
+    },
+    "314": {
+        "generated_text": "Let me solve this step by step.\n1. Understand the original query: \"napkin rings\" refers to decorative rings used to hold napkins together, often found at dinner tables or parties.\n2. Identify related terms: Consider synonyms, variations, and related concepts that might help broaden the search while maintaining relevance.\n   - Synonyms for \"napkin rings\" could include \"napkin holders,\" \"tableware accessories,\" \"dinner party supplies.\"\n   - Related concepts might include \"decorative rings,\" \"party supplies,\" \"table decorations.\"\n3. Structure the query using Boolean operators to ensure it captures a wide range of relevant products while focusing on the primary concept of \"napkin rings.\"\n   - Use \"OR\" to include synonyms and related terms.\n   - Use \"AND\" to ensure the core concept of \"rings\" is always present.\n4. Formulate the query: Combine these insights into a structured query that maximizes retrieval of relevant products.\n\nThe final query will look like this:\n(\"napkin rings\" OR \"napkin holders\" OR \"tableware accessories\" OR \"dinner party supplies\" OR \"decorative rings\" OR \"party supplies\" OR \"table decorations\") AND \"rings\"\nThis query ensures that we capture various ways products might be described while focusing on the essential aspect of rings.",
+        "target": "['B06Y1SW5K5']"
+    },
+    "315": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"pin collector book\".\n2. Identify key components:\n   - \"pin\": This could refer to collectible pins, which are often used as decorative items or souvenirs.\n   - \"collector\": This suggests someone interested in collecting items, possibly related to hobbies or interests.\n   - \"book\": This indicates that the product might be a book, likely one that contains information about pin collectors or collections.\n\n3. Consider synonyms and related terms:\n   - For \"pin\": collectible, badge, souvenir, item.\n   - For \"collector\": enthusiast, aficionado, devotee.\n   - For \"book\": guide, manual, literature, reference.\n\n4. Construct a Boolean query using these terms to ensure comprehensive coverage of potential products:\n   - Use AND to combine different concepts that must be present.\n   - Use OR to include synonyms and related terms for broader matching.\n\n5. Final Boolean query:\n   - (\"pin\" OR \"collectible\" OR \"badge\" OR \"souvenir\" OR \"item\") AND (\"collector\" OR \"enthusiast\" OR \"aficionado\" OR \"devotee\") AND (\"book\" OR \"guide\" OR \"manual\" OR \"literature\" OR \"reference\").\n\nThis query should effectively retrieve products related to books on pin collecting or books that feature information about collectors and their activities.",
+        "target": "['B0085YATYK', 'B01J6AR2NM', 'B00S8QVHNC', 'B06XZRBXQL']"
+    },
+    "316": {
+        "generated_text": "(dorm OR residential OR \"college dorm\" OR \"student housing\") AND (safe OR secure OR protective OR guard OR assurance) AND (locks OR safes OR \"security cameras\" OR \"fire extinguishers\" OR \"emergency kits\" OR \"smoke detectors\")",
+        "target": "['B01FE5VYRS', 'B005JCZI5G', 'B005F69G5E']"
+    },
+    "317": {
+        "generated_text": "(\"dry erase board\" OR \"whiteboard\" OR \"chalkboard\") AND (\"primary lines\" OR \"grid\" OR \"lines\" OR \"lineset\")",
+        "target": "['B01I2JU73K', 'B07DN5GM5R', 'B07BLJWWS2', 'B074P9CHFV']"
+    },
+    "318": {
+        "generated_text": "\"dunder mifflin\" AND (\"paper\" OR \"office paper\" OR \"stationery\" OR \"copy paper\")",
+        "target": "['B07XQLKXKV', 'B07VRXFWFM', 'B07PZBF1H5', 'B07QV4JQB1']"
+    },
+    "319": {
+        "generated_text": "(\"duster\" OR \"vacuum\" OR \"cleaner\" OR \"suction tool\" OR \"cleaning tool\") AND (\"board\" OR \"surface\" OR \"panel\" OR \"flat surface\")",
+        "target": "['B085CP8WDR', 'B0824GVM54', 'B07BMFFW48', 'B01IV3COII', 'B01FM4G54S', 'B01DEELAG6', 'B016OSWQEE']"
+    },
+    "320": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"editing day sign\".\n2. Identify key components:\n   - \"editing\": This could refer to editing tools, software, or services related to editing.\n   - \"day\": This might imply something that is daily, like a daily sign or a sign for a daily task.\n   - \"sign\": This likely refers to signage, signs, or signs used for indicating or displaying information.\n3. Consider synonyms and related terms:\n   - Editing: edit, editor, editing software, post-production\n   - Day: daily, ongoing, continuous\n   - Sign: signboard, signage, notice, indicator\n4. Construct a logical query using Boolean operators to ensure comprehensive coverage of potential product categories:\n   - Combine synonyms and related terms using OR to capture variations.\n   - Use AND to ensure all aspects of the query are considered.\n5. Formulate the query:\n   - (\"editing\" OR \"edit\" OR \"editor\" OR \"editing software\" OR \"post-production\") AND (\"day\" OR \"daily\" OR \"ongoing\" OR \"continuous\") AND (\"sign\" OR \"signboard\" OR \"signage\" OR \"notice\" OR \"indicator\").\nThis query will help retrieve products related to editing tools or services that are specifically designed for daily use or signage purposes.",
+        "target": "['B0893Z53MS', 'B08996DKGR', 'B089Q2XP2Q', 'B08CNL1K6F', 'B08DR5V8R1', 'B08F1MGTP8', 'B08XVXFSWR', 'B091YL7PQC', 'B093DBX7S7', 'B095PL61BB', 'B0858BL3F4', 'B07G2M8DPY', 'B07BYYH4SL', 'B07V1MPY49', 'B07WKV8CQ2', 'B083JN938L', 'B07HLHHMJC']"
+    },
+    "321": {
+        "generated_text": "(\"Express\" AND (\"Pencils\" OR \"writing instruments\" OR \"crayons\" OR \"art supplies\"))",
+        "target": "['B00WH3CLFK', 'B00TXSZSAW', 'B00PGNSC92', 'B00P5JW9NM', 'B00KKUIGXI', 'B0194I0F5I']"
+    },
+    "322": {
+        "generated_text": "(\"upholstery\" OR \"leather\" OR \"fabric\" OR \"padded\" OR \"comfortable\") AND (\"arm chairs\" OR \"recliners\" OR \"armrests\" OR \"ergonomic\" OR \"seating\")",
+        "target": "['B01M66AQ3D', 'B006NVVP3G']"
+    },
+    "323": {
+        "generated_text": "(\"fake\" OR \"imitation\" OR \"faux\" OR \"synthetic\") AND (\"diamond\" OR \"gemstone\" OR \"sparkle\") AND (\"big\" OR \"large\" OR \"oversized\" OR \"premium\")",
+        "target": "['B072615JBK']"
+    },
+    "324": {
+        "generated_text": "(\"file folders\" OR \"filing folders\" OR \"organizer folders\") AND \"brown\"",
+        "target": "['B07HX38F44', 'B00006IEWN']"
+    },
+    "325": {
+        "generated_text": "(\"important\" OR \"crucial\" OR \"vital\" OR \"essential\") AND (\"document\" OR \"file\" OR \"paper\" OR \"paperwork\" OR \"record\") AND (\"storage\" OR \"cabinet\" OR \"folder\" OR \"binder\" OR \"archive\" OR \"safe\" OR \"secure\")",
+        "target": "['B0198KICTS', 'B07X4DPKCS', 'B07Y7XH8KH', 'B0827XT7L4']"
+    },
+    "326": {
+        "generated_text": "(\"paper mate\") AND (\"flair pen\" OR \"felt tip pen\") AND (\"ultra fine\" OR \"0.4mm tip\")",
+        "target": "['B0013CGFZS', 'B077NWCSY6']"
+    },
+    "327": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"paper cutter blue\".\n2. Identify key components:\n   - \"paper cutter\": This is the main product type the customer is interested in.\n   - \"blue\": This is likely a color specification for the paper cutter.\n3. Consider synonyms or related terms:\n   - \"paper cutter\" could also be referred to as \"scissors\", \"office cutter\", or \"craft cutter\".\n   - \"blue\" is specific, but we might consider variations like \"navy\", \"sky blue\", or \"aqua\" if needed, though these are less likely to be relevant without additional context.\n4. Construct a Boolean query:\n   - We want to ensure that the search results include products that are both \"paper cutters\" and \"blue\". \n   - Use AND to combine these concepts.\n   - Use OR to include synonyms or related terms for \"paper cutter\".\n5. Finalize the query:\n   - Ensure logical structure using parentheses to group synonyms and maintain clarity.\n\nThe final query will look something like this:\n(\"paper cutter\" OR \"scissors\" OR \"office cutter\" OR \"craft cutter\") AND \"blue\"\nThis query ensures that we retrieve products that are blue paper cutters or similar items, covering a broader range of potential matches while maintaining focus on the desired color and product type.",
+        "target": "['B0017KYE5Y', 'B01H5F6DNK']"
+    },
+    "328": {
+        "generated_text": "fountain pen AND NOT (cartridge OR \"with cartridge\")",
+        "target": "['B08MFS5742', 'B00SNIIPIU', 'B07K21CFH3', 'B07DM6KT33', 'B074HR5LC3', 'B078WR5DFQ']"
+    },
+    "329": {
+        "generated_text": "(pens AND red) AND (erasable OR rubber OR eraser)",
+        "target": "['B009QYH554', 'B01EB2BEW0', 'B00KUY6E5G', 'B00H9OND9K']"
+    },
+    "330": {
+        "generated_text": "(\"pilot\" OR \"Pilot Pen\" OR \"Pilot Light\") AND (\"needle point refills\" OR \"needle tips\" OR \"point replacements\" OR \"pen refills\")",
+        "target": "['B00006IEC6', 'B01N5KTVYE', 'B00P1PYX6G', 'B00GYG3Y2K', 'B00F92248K', 'B00P1PJ65E']"
+    },
+    "331": {
+        "generated_text": "(\"wood\" OR \"wooden\" OR \"woodcraft\") AND (\"small\" OR \"compact\" OR \"mini\" OR \"petite\") AND (\"box\" OR \"container\" OR \"case\") AND (\"drawers\" OR \"compartments\" OR \"storage\")",
+        "target": "['B07GRCCW7P']"
+    },
+    "332": {
+        "generated_text": "Let me solve this step by step.\n1. Identify key components of the query: \n   - \"genealogy charts\"\n   - \"forms\"\n   - \"beginners\"\n\n2. Understand the context:\n   - The user is looking for resources related to genealogy that are beginner-friendly, specifically focusing on charts and forms.\n\n3. Determine synonyms or related terms:\n   - \"genealogy charts\" could include \"family tree charts\", \"ancestry charts\", \"genealogical charts\".\n   - \"forms\" might relate to \"templates\", \"workbooks\", \"guides\".\n   - \"beginners\" suggests easy-to-understand materials, so terms like \"introductory\", \"simple\", \"starter\" could be relevant.\n\n4. Construct a logical query using Boolean operators:\n   - Combine synonyms and related terms using OR to ensure a broad search.\n   - Use AND to combine different concepts to narrow down to the most relevant results.\n\n5. Final query construction:\n   - (\"genealogy charts\" OR \"family tree charts\" OR \"ancestry charts\" OR \"genealogical charts\") AND (\"forms\" OR \"templates\" OR \"workbooks\" OR \"guides\") AND (\"beginners\" OR \"introductory\" OR \"simple\" OR \"starter\")\n\nThis query will help retrieve products that are relevant to genealogy for beginners, including charts and forms.",
+        "target": "['B07CZP3XSG', 'B071NL7Q23', 'B072LWTGX3', '1791757456']"
+    },
+    "333": {
+        "generated_text": "(\"labels\" OR \"stickers\" OR \"tags\" OR \"markings\") AND (\"plastic\" OR \"poly\" OR \"resin\") AND (\"storage bins\" OR \"containers\" OR \"boxes\" OR \"holders\")",
+        "target": "['B00MN4VRG2', 'B00BPYX4TE', 'B00007M5KZ']"
+    },
+    "334": {
+        "generated_text": "(\"sorting\" OR \"organize\" OR \"categorize\" OR \"classify\" OR \"arrange\") AND (\"hat\" OR \"cap\" OR \"headwear\" OR \"bonnet\" OR \"capote\")",
+        "target": "['B00439ASRY', 'B00439ASRY', 'B07FQWVF11', 'B07F7PD6CN', 'B07KYTWBH3']"
+    },
+    "335": {
+        "generated_text": "(\"marble\" OR \"marbled\" OR \"granite\" OR \"geometric\" OR \"patterned\") AND (\"notebook\" OR \"journals\" OR \"diaries\" OR \"writing pads\")",
+        "target": "['B001JTL032']"
+    },
+    "336": {
+        "generated_text": "(\"great\" OR \"excellent\" OR \"top-rated\" OR \"high-quality\" OR \"desirable\" OR \"popular\") AND (\"mother\" OR \"mom\" OR \"maternal\" OR \"mums\" OR \"motherhood\" OR \"maternity\")",
+        "target": "['B07MTDLB67', 'B079BCJ2QH']"
+    },
+    "337": {
+        "generated_text": "(\"hallmark\" AND \"shoebox\" AND \"funny\" AND \"christmas\" AND \"cards\")",
+        "target": "['B07JK9BHC6', 'B094YMBSQ1']"
+    },
+    "338": {
+        "generated_text": "(harpia AND (planner OR organizer OR diary OR journal) AND (\"A6\" OR \"a6\"))",
+        "target": "['B082HSWBZD', 'B087P2F9J9', 'B076RHD3MV', 'B076VVHW9K', 'B0789QG3CV']"
+    },
+    "339": {
+        "generated_text": "(\"classroom\" OR \"school\" OR \"educational\") AND (\"box\" OR \"container\" OR \"bin\" OR \"caddy\") AND (\"turn in\" OR \"submit\" OR \"turn over\" OR \"return\")",
+        "target": "['B01K07MXYS', 'B07NZ914C5', 'B07SG322BF', 'B071WWXGG3', 'B014CD2O2M']"
+    },
+    "340": {
+        "generated_text": "(\"HP\" OR \"Hewlett-Packard\") AND (\"201a\") AND (\"black\" OR \"ink\" OR \"cartridge\")",
+        "target": "['B00UBMNYM8']"
+    },
+    "341": {
+        "generated_text": "(\"hp\" AND (\"glossy\" OR \"matte\" OR \"luster\") AND (\"photo paper\" OR \"inkjet paper\") AND \"8.5 x 11\")",
+        "target": "['B07YBGGQSZ', 'B004SGDYF0', 'B004SGDYCI', 'B00066IHMG', 'B0000TIMUG', 'B0061AL71E']"
+    },
+    "342": {
+        "generated_text": "(\"hp\" OR \"Hewlett-Packard\") AND (\"m604\") AND (\"toner\" OR \"toner cartridge\" OR \"ink cartridge\" OR \"print cartridge\")",
+        "target": "['B07MZ1CHWR', 'B073XTMZTY', 'B072QR5WHC', 'B0721PJVBH', 'B06ZZK1FNT', 'B00MCDK9MM', 'B019O00X3U']"
+    },
+    "343": {
+        "generated_text": "(\"immigration\" OR \"legal status\" OR \"visa\" OR \"citizenship\" OR \"deportation\") AND (\"rights\" OR \"entitlements\" OR \"privileges\" OR \"protections\") AND (\"card\" OR \"guide\" OR \"booklet\" OR \"pamphlet\" OR \"wallet card\")",
+        "target": "['B017RKQY3M', 'B00X14Q6E6', 'B0018DWAAQ', '0983723346', 'B004T4WQP0']"
+    },
+    "344": {
+        "generated_text": "\"index cards\" AND \"3x5\" AND \"holder\" AND \"box\" AND \"white\"",
+        "target": "['B00V5DQJWY', 'B071CDTVKK']"
+    },
+    "345": {
+        "generated_text": "(\"ink cartridges\" AND \"hp\" AND \"67xl\" AND \"black\" AND \"color\")",
+        "target": "['B09D7RW4Y8', 'B09B3KR2XS', 'B096ZMZYR5', 'B096V6FR7Q', 'B096MLRDRZ', 'B092Q1DMYT', 'B08XY2DRGX', 'B08M5QZL36', 'B084132H6X', 'B08412PTS8', 'B08CMZHL6R']"
+    },
+    "346": {
+        "generated_text": "(\"photo\" OR \"digital photo\" OR \"image\" OR \"photographic\") AND (\"scanner\" OR \"image scanner\" OR \"photographic scanner\") AND (\"auto feed\" OR \"automatic feed\" OR \"continuous scan\" OR \"multi-page\")",
+        "target": "['B00WXN8JA0', 'B01GU5QEC6']"
+    },
+    "347": {
+        "generated_text": "(\"JMS580\" OR \"JMS 580\" OR \"JMS-580\" OR \"580 model\" OR \"580 series\") AND (\"electronics\" OR \"TV\" OR \"monitor\" OR \"car\" OR \"automotive\" OR \"home goods\")",
+        "target": "['B00HGUWJK6', 'B01C6CSJ8E']"
+    },
+    "348": {
+        "generated_text": "(Kartos AND (stationery OR \"office supplies\" OR \"writing instruments\" OR pens OR pencils OR notebooks OR binders))",
+        "target": "['B01GVGGJ8S', 'B079Q7HCNS', 'B06ZYB99B2', 'B00J9ULAVU', 'B00J7YQH16']"
+    },
+    "349": {
+        "generated_text": "(\"kaweco\" AND (\"sketch up\" OR \"sketchbook\" OR \"drawing\" OR \"art\") AND (\"pencil\" OR \"lead\" OR \"writing tool\" OR \"graphite\"))",
+        "target": "['B06XD55HTT', 'B06XD55HTT', 'B06XCLY7Y5', 'B06XCLY7Y5', 'B00KKNRHIK', 'B00KKNRHIK', 'B01DQCUU5S', 'B00KRZVW1E', 'B00KRZVW1E', 'B01DO1ZV9Q', 'B06XD5F85N', 'B07NY6371P', 'B0747NT6HK', 'B01F1VV94I', 'B07QX3M81M', 'B0077OI0P4', 'B007CEUGP6', 'B007HNFUPI', 'B00KKNTDXM', 'B00CANO0J2']"
+    },
+    "350": {
+        "generated_text": "(kaweco AND (liliput OR 'liliput model') AND ('fountain pen' OR 'ink pen' OR 'calligraphy pen') AND (cartridge OR refill))",
+        "target": "['B00D7C8V4A', 'B00D7BKWDE', 'B006CQSY9K', 'B006CQSXYQ', 'B00D7BV8YG']"
+    },
+    "351": {
+        "generated_text": "(\"sport\" AND \"key covers\" AND \"silicone\") AND (\"caps\" OR \"accessories\")",
+        "target": "['B07G73BLNH', 'B07SFWJ2ZK']"
+    },
+    "352": {
+        "generated_text": "(\"key caps\" OR \"keycaps\" OR \"key stickers\" OR \"keyboard stickers\") AND (\"labels\" OR \"stickers\" OR \"markings\")",
+        "target": "['B08CBR1488', 'B086YVGM16', 'B07K68NQKM', 'B07K68NQKM']"
+    },
+    "353": {
+        "generated_text": "(\"kids\" OR \"children\" OR \"child\" OR \"youth\") AND (\"thank you notes\" OR \"thank you cards\" OR \"note cards\" OR \"greeting cards\") AND (\"fill in the blank\" OR \"pre-printed\" OR \"ready to fill\" OR \"blank lines\")",
+        "target": "['B086P6RTN2', 'B07ZD933SV', 'B07FVNYPSL', 'B078MT76YF', 'B01BMVGVKS']"
+    },
+    "354": {
+        "generated_text": "(\"retractable\" OR \"collapsible\" OR \"foldable\" OR \"extendable\") AND (\"portable\" OR \"lightweight\" OR \"compact\" OR \"easy to carry\")",
+        "target": "['B074473Z6T', 'B005DXQ92W']"
+    },
+    "355": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"red gel.pen\"\n2. Identify key components:\n   - \"red\": This likely refers to the color of the product.\n   - \"gel\": This could refer to the type or style of pen, such as a gel pen.\n   - \"pen\": This is the main product category.\n3. Consider synonyms or related terms:\n   - For \"red,\" consider synonyms like \"crimson\" or \"scarlet.\"\n   - For \"gel,\" consider \"gel pen,\" \"gel ink,\" or \"gel refills.\"\n   - \"Pen\" is straightforward but could include \"ballpoint,\" \"fountain pen,\" etc., depending on context.\n4. Construct a Boolean query:\n   - Use AND to ensure all key components are included.\n   - Use OR to include synonyms or related terms for broader coverage.\n\nThe goal is to create a query that captures the essence of the original request while allowing for variations in terminology that might be used in product listings.\n\nFinal Boolean query:\n(\"red\" OR \"crimson\" OR \"scarlet\") AND (\"gel\" OR \"gel pen\" OR \"gel ink\" OR \"gel refills\") AND (\"pen\" OR \"ballpoint\" OR \"fountain pen\"). This ensures we capture products that are red gel pens or similar items.",
+        "target": "['B00AH6UU48', 'B019QBO77K', 'B07L9WZMH6', 'B00N2NCYQU']"
+    },
+    "356": {
+        "generated_text": "(\"left handed\" OR \"southpaw\" OR \"lefty\" OR \"anomalous\") AND (\"pens\" OR \"writing instruments\" OR \"fountain pens\" OR \"ballpoint pens\")",
+        "target": "['B019KECWCK']"
+    },
+    "357": {
+        "generated_text": "(\"legal forms\" OR \"legal documents\" OR \"forms\" OR \"documents\" OR \"contracts\" OR \"agreements\") AND (\"contractors\" OR \"business owners\" OR \"entrepreneurs\" OR \"small business\" OR \"professional services\")",
+        "target": "['B003FM41SM', 'B0012YTB8U']"
+    },
+    "358": {
+        "generated_text": "(\"little mermaid\" OR \"Disney\" OR \"Mermaid\") AND (\"reusable bag\" OR \"reusable tote\" OR \"eco-friendly bag\" OR \"cloth bag\")",
+        "target": "['B07T8JRXNT', 'B07KRH652V']"
+    },
+    "359": {
+        "generated_text": "(\"locker\" OR \"cabinet\" OR \"storage unit\") AND (\"decorations\" OR \"decoration\" OR \"embellishments\" OR \"wall art\" OR \"posters\" OR \"stickers\" OR \"decals\")",
+        "target": "['B07Y5P34C8']"
+    },
+    "360": {
+        "generated_text": "(\"weekly calendar\" OR \"daily planner\" OR \"month planner\") AND (\"magnetic\" OR \"magnetic surface\" OR \"magnetic holder\") AND (\"white board\" OR \"dry erase board\" OR \"chalkboard\") AND (\"for wall\" OR \"wall mount\" OR \"wall hanging\")",
+        "target": "['B07VX7T8CR', 'B07XRZVQ6Q', 'B07S9PHHCR', 'B07YKDR12T']"
+    },
+    "361": {
+        "generated_text": "(\"scotch tape\" OR \"adhesive tape\" OR \"masking tape\" OR \"3M tape\") AND (\"refills\" OR \"spools\" OR \"cartridges\" OR \"replacements\") AND (\"dispenser\" OR \"holder\" OR \"organizer\" OR \"dispenser unit\")",
+        "target": "['B000Y52D5G', 'B07BWVKMWC', 'B000MFJNVK', 'B0000AQOAB', 'B00DFYH5QA']"
+    },
+    "362": {
+        "generated_text": "(\"mask\" OR \"face mask\" OR \"surgical mask\" OR \"cloth mask\") AND (\"chain\" OR \"metal chain\" OR \"cable\" OR \"wire\") AND (\"lanyard\" OR \"keychain\" OR \"cord\" OR \"strap\")",
+        "target": "['B08G8L78JW', 'B08GWZWKP4', 'B08FC5KVHS', 'B08C2547MH', 'B08G19V77W']"
+    },
+    "363": {
+        "generated_text": "(\"mouse pad\" OR \"computer pad\" OR \"laptop pad\" OR \"mice mat\") AND (\"track pad\" OR \"trackball pad\" OR \"laptop trackpad\")",
+        "target": "['B07X935DDL', 'B07N5YGQLN']"
+    },
+    "364": {
+        "generated_text": "(mouse OR \"computer mouse\" OR \"desktop mouse\" OR \"gaming mouse\") AND (tray OR holder OR pad OR stand OR organizer)",
+        "target": "['B07CJL4ZWJ', 'B071458RJB']"
+    },
+    "365": {
+        "generated_text": "(\"music\" OR \"musical\" OR \"song\" OR \"band\" OR \"orchestra\" OR \"composer\" OR \"melody\") AND (\"bulletin board\" OR \"notice board\" OR \"information board\" OR \"display board\")",
+        "target": "['B083FQSL1S', 'B00KQ6ELLM', 'B004XMNVYI', 'B004PIT0QS', 'B0017OE252', 'B000NNPYCS', '0545177448', 'B00HS5VAN6']"
+    },
+    "366": {
+        "generated_text": "(\"neenah\" AND \"classic\" AND \"crest\") AND \"solar\" AND \"white\" AND \"80 lb\"",
+        "target": "['B07SYZW9TY', 'B000I20NWK', 'B0034JZ79I']"
+    },
+    "367": {
+        "generated_text": "(\"nerite snails\" OR \"nerit snails\") AND (\"live\" OR \"living\" OR \"alive\") AND (\"freshwater\" OR \"aquatic\")",
+        "target": "['B07ZQQGCLK', 'B07T157QNK', 'B07L3S6D2X', 'B079VJV3PK', 'B078HFT91P', 'B072Q6SDC3', 'B071Z27M6P', 'B0711KZKM6', 'B07J1F1383', 'B079VTX386']"
+    },
+    "368": {
+        "generated_text": "(\"small\" OR \"compact\" OR \"mini\" OR \"petite\") AND (\"notebooks\" OR \"pads\" OR \"journals\" OR \"diaries\") AND (\"3x5\")",
+        "target": "['B07V3TRD65', 'B00WKZ3Y88', 'B0764FX686']"
+    },
+    "369": {
+        "generated_text": "(numbered OR labeled OR marked OR indexed) AND (brightly colored OR vibrant OR colorful OR shiny OR eye-catching) AND (sit spots OR seats OR benches OR desks OR chairs) AND (classroom OR school OR educational OR learning space)",
+        "target": "['B07YFP91PS', 'B07W22J7GH', 'B07N6737F7']"
+    },
+    "370": {
+        "generated_text": "(\"office staples\" OR \"office supplies\" OR \"paper clips\" OR \"staplers\" OR \"tape\" OR \"pens\" OR \"notebooks\" OR \"folders\" OR \"stationery\" OR \"paper goods\" OR \"office equipment\") AND (\"office\" OR \"workplace\" OR \"business\")",
+        "target": "['B07Q868JRS', 'B07Q61NR5Z', 'B07Q5VKRRT', 'B079W72LCG', 'B0008GQ0PA', 'B00006IFMO']"
+    },
+    "371": {
+        "generated_text": "(\"oversize\" OR \"large\" OR \"extra large\") AND (\"load\" OR \"cargo\" OR \"transport\" OR \"freight\") AND (\"banner\" OR \"sign\" OR \"placard\" OR \"display\")",
+        "target": "['B07K49X7CS', 'B07G2LK7H9', 'B07G2L9FH7', 'B07G2G5LV5', 'B076C1DC25', 'B01MY7CBFA', 'B07PY54QBP', 'B00HYLB6X8', 'B00HYLB4TY', 'B001JT09KM']"
+    },
+    "372": {
+        "generated_text": "(\"pink\" OR \"rose\" OR \"blush\" OR \"coral\") AND (\"metal\" OR \"steel\" OR \"iron\" OR \"alloy\") AND (\"letter\" OR \"alphabet\" OR \"characters\") AND (\"tray\" OR \"holder\" OR \"organizer\" OR \"container\")",
+        "target": "['B017ULCPJ0']"
+    },
+    "373": {
+        "generated_text": "(\"prince\" OR \"royal\" OR \"castle\" OR \"princess\") AND (\"purse\" OR \"handbag\" OR \"wallet\" OR \"clutch\")",
+        "target": "['B01JNBSD6Y', 'B01EY2JIB6']"
+    },
+    "374": {
+        "generated_text": "(\"religious\" OR \"spiritual\" OR \"faith-based\" OR \"holiday-themed\") AND (\"bulk\" OR \"wholesale\" OR \"large quantity\" OR \"multi-pack\") AND (\"christmas cards\" OR \"Christmas greeting cards\" OR \"holiday cards\")",
+        "target": "['B07ZWCH6GD', 'B073VXPJ7K', 'B010DXYNRY', 'B00DH0Q7UM']"
+    },
+    "375": {
+        "generated_text": "\"seat cushion\" AND NOT \"memory foam\"",
+        "target": "['B08SLL2NKY', 'B09731Q8P6', 'B08T17MZS8']"
+    },
+    "376": {
+        "generated_text": "(\"San Francisco Giants\" OR \"SF Giants\" OR \"Giants\") AND (\"mousepad\" OR \"mice pad\" OR \"computer mouse pad\")",
+        "target": "['B07VZ93BF6']"
+    },
+    "377": {
+        "generated_text": "(\"shark\" OR \"shark-themed\" OR \"shark design\" OR \"shark pattern\") AND (\"pencil\" OR \"writing pencil\" OR \"art pencil\" OR \"sketch pencil\")",
+        "target": "['B07VRGBWGB']"
+    },
+    "378": {
+        "generated_text": "(\"sheet protectors\" OR \"sheet protect\" OR \"folder\" OR \"cover\" OR \"protector\") AND (\"8.5 x 11\" OR \"letter size\") AND (\"no holes\" OR \"holeless\" OR \"without holes\" OR \"non-holed\")",
+        "target": "['B07BMB2GPY', 'B00691ZRQQ', 'B000CD483K']"
+    },
+    "379": {
+        "generated_text": "(\"skim\" AND \"safe\") AND (\"financial\" OR \"skin care\" OR \"sports equipment\")",
+        "target": "['B005CY001I']"
+    },
+    "380": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"small notebook pens\".\n2. Identify key components:\n   - \"small\": This suggests the size of the pens, indicating that the customer is looking for compact or mini-sized pens.\n   - \"notebook\": This implies that the pens should be suitable for writing in notebooks, so they might need to be portable or lightweight.\n   - \"pens\": This is the main product category the customer is interested in.\n\n3. Generate synonyms and related terms:\n   - For \"small\": compact, mini, portable, lightweight.\n   - For \"notebook\": portable, travel, lap, journal.\n   - For \"pens\": pen, writing instrument, stylus (as some people use styluses for digital notebooks).\n\n4. Construct a Boolean query using these terms to ensure comprehensive coverage of potential products:\n   - Use AND to combine different concepts that must all be present.\n   - Use OR to include synonyms and related terms to broaden the search.\n\n5. Final Boolean query:\n   - (\"small\" OR \"compact\" OR \"mini\" OR \"portable\" OR \"lightweight\") AND (\"notebook\" OR \"portable\" OR \"travel\" OR \"lap\" OR \"journal\") AND (\"pens\" OR \"pen\" OR \"writing instrument\" OR \"stylus\").\n```",
+        "target": "['B07DN79GX8']"
+    },
+    "381": {
+        "generated_text": "Let me solve this step by step.\n1. Analyze the original query: \"standing desk electric four legs\".\n2. Identify key components:\n   - \"standing desk\": This is the primary product type the customer is interested in.\n   - \"electric\": Indicates that the desk should have an electric mechanism or feature.\n   - \"four legs\": Specifies the number of legs the desk should have.\n\n3. Determine synonyms or related terms:\n   - \"standing desk\" could also be referred to as \"adjustable desk\" or \"height-adjustable desk\".\n   - \"electric\" might relate to \"powered\", \"motorized\", or \"powered\".\n   - \"four legs\" is specific and doesn't need synonyms but could include \"4 legs\" for clarity.\n\n4. Construct the Boolean query:\n   - Use AND to ensure all key components are included.\n   - Use OR to include synonyms or related terms.\n\n5. Final Boolean query:\n   - (\"standing desk\" OR \"adjustable desk\" OR \"height-adjustable desk\") AND (\"electric\" OR \"powered\" OR \"motorized\") AND (\"four legs\" OR \"4 legs\").\n\nThis query ensures that the search results will include products that are standing desks, have an electric mechanism, and have four legs. The use of synonyms helps broaden the search while maintaining relevance.",
+        "target": "['B08DDL9222']"
+    },
+    "382": {
+        "generated_text": "(tol AND pens AND point) AND (med OR medical)",
+        "target": "['B0838QCYYG', 'B07X2653P3', 'B07X262S6L', 'B07HW1PKMP', 'B0797D2RY2', 'B00UKF6JUU', 'B009HTYWKO', 'B002VLH7AW', 'B002VLH6NU']"
+    },
+    "383": {
+        "generated_text": "(\"wardrobe\" OR \"closet\" OR \"wardrobe unit\" OR \"storage unit\") AND (\"locker\" OR \"storage box\" OR \"locker unit\" OR \"storage locker\")",
+        "target": "['B07L4QW7QH', 'B07GRPW56G', 'B007I9VYRE', 'B0788KC81K']"
+    },
+    "384": {
+        "generated_text": "(\"websters\" OR \"Webster's\") AND (\"spelling corrector\" OR \"spelling checker\" OR \"spelling aid\" OR \"dictionary\" OR \"spell checker\")",
+        "target": "['B0017T0KLC', 'B000XQ6T74', 'B06XXGGN6D']"
+    },
+    "385": {
+        "generated_text": "(\"Where the Crawdads Sing\") AND (paperback) AND (sings OR song OR music OR lyrics)",
+        "target": "['B07XW8M5T3', '1984827618']"
+    },
+    "386": {
+        "generated_text": "(women OR female OR ladies) AND (black OR dark) AND (leather OR suede OR vinyl) AND (personalized OR custom OR branded) AND (portfolio)",
+        "target": "['B01N0ZY3JO']"
+    },
+    "387": {
+        "generated_text": "(\"writing board\" OR \"whiteboard\" OR \"dry erase board\" OR \"chalkboard\") AND (\"wall\" OR \"mounted\" OR \"hanging\" OR \"adhesive\")",
+        "target": "['B01N171T9E']"
+    },
+    "388": {
+        "generated_text": "\"x treme\" AND (\"epdm\" OR \"ethylene propylene diene monomer\") AND (\"bands\" OR \"seals\" OR \"wraps\" OR \"gaskets\")",
+        "target": "['B07GTS2TSL', 'B07FKSRKHK', 'B008X0A71Q', 'B004E2MGQG', 'B00AM2UBVE', 'B009A58LDE']"
+    },
+    "389": {
+        "generated_text": "(\"xray\" AND \"lanyard\" AND \"retractable\") AND (\"oh snap\" OR \"brand flexibility\")",
+        "target": "['B07F3MHP7H']"
+    }
+}

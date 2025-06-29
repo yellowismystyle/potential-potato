@@ -1,0 +1,414 @@
+{
+    "103": {
+        "generated_text": "1 item received AND NOT in package",
+        "target": "['B07DKMCDY5']"
+    },
+    "104": {
+        "generated_text": "baby",
+        "target": "['B07DKMCDY5', 'B0013HOU28', 'B000GFIL8M']"
+    },
+    "105": {
+        "generated_text": "baby gates AND door",
+        "target": "['B001OC5UNK', 'B01MUEGID5']"
+    },
+    "106": {
+        "generated_text": "large AND receiving blankets",
+        "target": "['B081PFLZT4', 'B07VBKRWGM', 'B08DRD584D', 'B089DP2Q6G', 'B083LJV4CH', 'B086GYNTXK', 'B000WKW2SG', 'B07QLNX9SM', 'B075THQ8LG']"
+    },
+    "107": {
+        "generated_text": "First, I'll break down the query into its components:\n- \"nipple\"\n- \"for\"\n- \"breastfeed\"\n- \"babies\"\n</think>\nNow, I'll create query terms that best meet customer needs:\n1. \"nipple care\"\n2. \"breastfeeding products\"\n3. \"nipple care for babies\"\n4. \"nipple care for breastfeeding\"\n5. \"nipple care for babies and breastfeeding\"\n6. \"nipple care for breastfeeding babies\"\n7. \"nipple care for breastfeeding products\"\n8. \"nipple care for breastfeeding babies and products\"\n9. \"nipple care for breastfeeding products and babies\"\n10. \"nipple care for breastfeeding products and babies and babies\"\n</think>\nNow, I'll combine these query terms into a single query:\n{\n    \"query\": \"nipple care for breastfeeding products and babies\"\n}\nThis query term structure ensures that the search results will include products that cater to customers who are looking for nipple care for breastfeeding babies.",
+        "target": "['B004TON9BK', 'B075GSQXQ2', 'B07FH81WSD']"
+    },
+    "108": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for products that are 2 seats and strollers. </think>\n</answer>",
+        "target": "['B0781VL1WR', 'B076DKND6Z', 'B01GHVJHMW', 'B00UVW3PPY', 'B00STG5Z16', 'B00UVW3PSQ']"
+    },
+    "109": {
+        "generated_text": "nose AND frida",
+        "target": "['B01N093BYV', 'B01N4BBTFQ']"
+    },
+    "110": {
+        "generated_text": "4moms pack and play",
+        "target": "['B086FZH4LM']"
+    },
+    "111": {
+        "generated_text": "childs play pin",
+        "target": "['B01MSWRGIY', 'B01MSWRFWY']"
+    },
+    "112": {
+        "generated_text": "grey dresser for kids",
+        "target": "['B07P3HYVPD', 'B06WWQDPZH']"
+    },
+    "113": {
+        "generated_text": "vtech dm223 safe and sound",
+        "target": "['B07ZNBVFXG', 'B07JJ4D4H3', 'B01GED7OIW']"
+    },
+    "114": {
+        "generated_text": "beyond wooden high chair",
+        "target": "['B08CXFXTFK', 'B09CYJ9H2V', 'B07N3CFP7S']"
+    },
+    "115": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for products that can replace a Graco simple switch cover. </think>\n</answer>",
+        "target": "['B00AHVR708', 'B00AHVR6TA', 'B06Y1QQDVZ', 'B01N3MYQ99']"
+    },
+    "116": {
+        "generated_text": "girls pricechair AND pricechair $100 AND pricechair $200",
+        "target": "['B07WRSSSRJ', 'B017B76SZU']"
+    },
+    "117": {
+        "generated_text": "baby swings for infants up to 40lbs",
+        "target": "['B014D4HQ28']"
+    },
+    "118": {
+        "generated_text": "eligible products AND baby",
+        "target": "['B086BL3BB2', 'B07YFCFCPN', 'B0107QP1VE', 'B086C4MG9R', 'B017GYO3I2', 'B01962MDHA', 'B07N6NBRGD', 'B07QN39PZ9', 'B002HOQE6Q']"
+    },
+    "119": {
+        "generated_text": "baby swings infant clearance",
+        "target": "['B01MQM7W6M', 'B07D7DX94B', 'B083FGCFD3', 'B01DGIKD68', 'B01K7VHV2Q', 'B007HHQ4VI']"
+    },
+    "120": {
+        "generated_text": "natural bottle caps",
+        "target": "['B07JM4HSHP']"
+    },
+    "121": {
+        "generated_text": "starbucks sippy cups for baby",
+        "target": "['B01M6C0KET']"
+    },
+    "122": {
+        "generated_text": "monthly stickers AND sticker",
+        "target": "['B07DCCVJ6G', 'B07FFFQP1G', 'B078FWRHC6', 'B00XJSTKR4']"
+    },
+    "123": {
+        "generated_text": " First, I'll break down the query into its components:\n- \"car\" - a product category\n- \"seats\" - a product attribute\n- \"for\" - a condition\n- \"car\" - another product category\n- \"\" - an empty string\n</think>\nNow, I'll create query terms that will help me find products that meet all these criteria:\n1. \"car seats\" - this term will match any car that has seats\n2. \"car seats\" - this term will match any car that has seats\n3. \"car seats\" - this term will match any car that has seats\n4. \"car seats\" - this term will match any car that has seats\n5. \"car seats\" - this term will match any car that has seats\n6. \"car seats\" - this term will match any car that has seats\n7. \"car seats\" - this term will match any car that has seats\n8. \"car seats\" - this term will match any car that has seats\n9. \"car seats\" - this term will match any car that has seats\n10. \"car seats\" - this term will match any car that has seats\n11. \"car seats\" - this term will match any car that has seats\n12. \"car seats\" - this term will match any car that has seats\n13. \"car seats\" - this term will match any car that has seats\n14. \"car seats\" - this term will match any car that has seats\n15. \"car seats\" - this term will match any car that has seats\n16. \"car seats\" - this term will match any car that has seats\n17. \"car seats\" - this term will match any car that has seats\n18. \"car seats\" - this term will match any car that has seats\n19. \"car seats\" - this term will match any car that has seats\n20. \"car seats\" - this term will match any car that has seats\n21. \"car seats\" - this term will match any car that has seats\n22. \"car seats\" - this term will match any car that has seats\n23. \"car seats\" - this term will match any car that has seats\n24. \"car seats\" - this term will match any car that has seats\n25. \"car seats\" - this term will match any car that has seats\n26. \"car seats\" - this term will match any car that has seats\n27. \"car seats\" - this term will match any car that has seats\n28. \"car seats\" - this term will match any car that has seats\n29. \"car seats\" - this term will match any car that has seats\n30. \"car seats\" - this term will match any car that has seats\n31. \"car seats\" - this term will match any car that has seats\n32. \"car seats\" - this term will match any car that has seats\n33. \"car seats\" - this term will match any car that has seats\n34. \"car seats\" - this term will match any car that has seats\n35. \"car seats\" - this term will match any car that has seats\n36. \"car seats\" - this term will match any car that has seats\n37. \"car seats\" - this term will match any car that has seats\n38. \"car seats\" - this term will match any car that has seats\n39. \"car seats\" - this term will match any car that has seats\n40. \"car seats\" - this term will match any car that has seats\n41. \"car seats\" - this term will match any car that has seats\n42. \"car seats\" - this term will match any car that has seats\n43. \"car seats\" - this term will match any car that has seats\n44. \"car seats\" - this term will match any car that has seats\n45. \"car seats\" - this term will match any car that has seats\n46. \"car seats\" - this term will match any car that has seats\n47. \"car seats\" - this term will match any car that has seats\n48. \"car seats\" - this term will match any car that has seats\n49. \"car seats\" - this term will match any car that has seats\n50. \"car seats\" - this term will match any car that has seats\n51. \"car seats\" - this term will match any car that has seats\n52. \"car seats\" - this term will match any car that has seats\n53. \"car seats\" - this term will match any car that has seats\n54",
+        "target": "['B07C2RNRCJ', 'B00TES30F6', 'B007UYBOJU', 'B013YCWASA']"
+    },
+    "124": {
+        "generated_text": "graco classic connect car seat",
+        "target": "['B07C2RNRCJ', 'B00Y285WFO', 'B07CVCHKTT', 'B07D7DX9MR', 'B07C35848T', 'B07N3CJF41', 'B07S27HVLK', 'B07Y5QYR1Q', 'B08K2X1DPC', 'B00BNQEZXS', 'B01NBAA09A', 'B071W2XFXQ', 'B074WJ4T8C']"
+    },
+    "125": {
+        "generated_text": "car seat",
+        "target": "['B07C2RNRCJ', 'B00Y285WFO', 'B07CVCHKTT', 'B07D7DX9MR', 'B00Y2863GQ', 'B07K92FVV7', 'B01N3MYMB2', 'B08K2X1DPC', 'B071W2XFXQ', 'B07L4JPQ64']"
+    },
+    "126": {
+        "generated_text": "pack AND play",
+        "target": "['B07RZQC1T1', 'B07N3CJ7DN']"
+    },
+    "127": {
+        "generated_text": "grey crib set",
+        "target": "['B07GNQ3LVG', 'B07BHMHQR1', 'B077L145M5']"
+    },
+    "128": {
+        "generated_text": "swaddle blanket AND lightweight",
+        "target": "['B088YRHZF5', 'B07VSH8KZG', 'B07SZ6Y3R7', 'B07H4X4LXZ']"
+    },
+    "129": {
+        "generated_text": "car seat",
+        "target": "['B006PB2B6O', 'B06XTT17QC', 'B085WD5SBC']"
+    },
+    "130": {
+        "generated_text": "big",
+        "target": "['B071G68YND', 'B0743NGX15', 'B07C6838KZ', 'B07C6P7X7F', 'B074DZ425B', 'B07GSNX54Q', 'B081ZVX8YY', 'B089LZN3DR', 'B07CG26M3Q', 'B091P3ZCNM', 'B07C6Q446L']"
+    },
+    "131": {
+        "generated_text": "changing table command or option",
+        "target": "['B07Z8VNS8G', 'B00OGIB5E2', 'B01LYCN6A7', 'B00DZFUUTS', 'B0841YRLPY']"
+    },
+    "132": {
+        "generated_text": "baby diaper organizer stand AND baby diaper stand AND diaper stand AND diaper organizer stand",
+        "target": "['B07V61BYZL', 'B07VFQNF4T', 'B07XK85J4Z', 'B08MW1MLPX', 'B08Y19Z831', 'B00006408K', 'B00512VMVI', 'B00HWXXTBA', 'B07HSXJ6QR', 'B07LCJ3SCG', 'B07HSX1J3K']"
+    },
+    "133": {
+        "generated_text": "diaper organizer AND without handles",
+        "target": "['B07V61BYZL', 'B08L4CC4BP', 'B000056OUO', 'B088WDCGZH', 'B08GC3XPPM', 'B08P41T13J', 'B08M6D8YKY', 'B077B8WG7W']"
+    },
+    "134": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for baby feeding spoons that are free of BPA. </think>\n</answer>",
+        "target": "['B07JYT3R3Z', 'B006VB29D8']"
+    },
+    "135": {
+        "generated_text": "easiest curved utensils right-handed without shields",
+        "target": "['B07K589Z1Z', 'B07J6P12X9', 'B08CR6CK77', 'B08XWYZ4DK', 'B074JGZTKV', 'B0002DLAJA', 'B000X9R150']"
+    },
+    "136": {
+        "generated_text": "baby fork",
+        "target": "['B07SBHH4SQ', 'B07P7M4RBK', 'B07BBNS9Z5', 'B07H9KJHGJ']"
+    },
+    "137": {
+        "generated_text": "baby gate summer white",
+        "target": "['B07X1WHVK8']"
+    },
+    "138": {
+        "generated_text": "baby girl lace headbands",
+        "target": "['B07Y4X6H9W', 'B01N9N0NE2', 'B079WMLBSP']"
+    },
+    "139": {
+        "generated_text": "newborn baby boy bunjee",
+        "target": "['B000WJLKQM']"
+    },
+    "140": {
+        "generated_text": "baby shusher",
+        "target": "['B07PSG1Z4V', 'B07QRR6XFW', 'B082DZXY4G']"
+    },
+    "141": {
+        "generated_text": "crib tv soother",
+        "target": "['B07N1JSXKF']"
+    },
+    "142": {
+        "generated_text": " First, I need to understand what the query \"baby nursery closet\" means. It's a common phrase that could refer to a variety of things, such as:\n- A baby nursery\n- A closet for storing baby clothes\n- A closet for storing baby products\n- A closet for storing baby accessories\n- A closet for storing baby toys\n</think>\nNow, I'll create query terms that best meet customer needs based on this understanding.\n<answer>\n{\n    \"query\": \"baby nursery closet\",\n    \"terms\": [\n        \"baby nursery\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"storage\",\n        \"baby clothes\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"baby accessories\",\n        \"baby toys\",\n        \"closet\",\n        \"baby products\",\n        \"",
+        "target": "['B07Y1SFRLN', 'B06XFJ3P64', 'B074PYSZ4R']"
+    },
+    "143": {
+        "generated_text": "the skylight",
+        "target": "['B0833PDHD9']"
+    },
+    "144": {
+        "generated_text": "baby stroller AND car seat",
+        "target": "['B07N3CNKKX']"
+    },
+    "145": {
+        "generated_text": "baby travel bouncer",
+        "target": "['B01HREKVW8']"
+    },
+    "146": {
+        "generated_text": "baby trend hybrid 3-in-1 car seat",
+        "target": "['B06Y1QQDVZ', 'B06WP4PZ1P']"
+    },
+    "147": {
+        "generated_text": "extra large diaper bag backpack",
+        "target": "['B077N4G6DW', 'B07NZMNJPL']"
+    },
+    "148": {
+        "generated_text": "toddler backpack girls personalized",
+        "target": "['B00H2CRNVI']"
+    },
+    "149": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for bamboo diapers of size 6. </think>\n</answer>",
+        "target": "['B07B52D8X1', 'B06Y5W1QLG']"
+    },
+    "150": {
+        "generated_text": "tall plastic dresser",
+        "target": "['B00RYQJFOA', 'B07RLGNS2J']"
+    },
+    "151": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for products that are 6-18 months old.</think>\n</answer>",
+        "target": "['B07DPWMGWL']"
+    },
+    "152": {
+        "generated_text": "bird vinyl decal",
+        "target": "['B085LP54ZP', 'B07XRH9Q76', 'B07K7MMZK5', 'B015QQYU5I', 'B0123E9RX6', 'B00MBPCDR0', 'B004089IGU']"
+    },
+    "153": {
+        "generated_text": "First, I'll break down the query into its key components:\n- \"black\"\n- \"hinged\"\n- \"pet gates\"\n- \"doorways\"\n</think>\nNow, I'll create query terms that will help me find products that meet these criteria:\n1. \"black hinged pet gates\"\n2. \"pet gates\"\n3. \"doorways\"\n4. \"black hinged\"\n5. \"pet gates doorways\"\n6. \"pet gates black\"\n7. \"pet gates doorways black\"\n8. \"pet gates black hinged\"\n9. \"pet gates doorways black hinged\"\n10. \"pet gates black hinged doorways\"\n11. \"pet gates doorways black hinged\"\n12. \"pet gates black hinged doorways\"\n13. \"pet gates doorways black hinged\"\n14. \"pet gates black hinged doorways\"\n15. \"pet gates doorways black hinged\"\n16. \"pet gates black hinged doorways\"\n17. \"pet gates doorways black hinged\"\n18. \"pet gates black hinged doorways\"\n19. \"pet gates doorways black hinged\"\n20. \"pet gates black hinged doorways\"\n21. \"pet gates doorways black hinged\"\n22. \"pet gates black hinged doorways\"\n23. \"pet gates doorways black hinged\"\n24. \"pet gates black hinged doorways\"\n25. \"pet gates doorways black hinged\"\n26. \"pet gates black hinged doorways\"\n27. \"pet gates doorways black hinged\"\n28. \"pet gates black hinged doorways\"\n29. \"pet gates doorways black hinged\"\n30. \"pet gates black hinged doorways\"\n31. \"pet gates doorways black hinged\"\n32. \"pet gates black hinged doorways\"\n33. \"pet gates doorways black hinged\"\n34. \"pet gates black hinged doorways\"\n35. \"pet gates doorways black hinged\"\n36. \"pet gates black hinged doorways\"\n37. \"pet gates doorways black hinged\"\n38. \"pet gates black hinged doorways\"\n39. \"pet gates doorways black hinged\"\n40. \"pet gates black hinged doorways\"\n41. \"pet gates doorways black hinged\"\n42. \"pet gates black hinged doorways\"\n43. \"pet gates doorways black hinged\"\n44. \"pet gates black hinged doorways\"\n45. \"pet gates doorways black hinged\"\n46. \"pet gates black hinged doorways\"\n47. \"pet gates doorways black hinged\"\n48. \"pet gates black hinged doorways\"\n49. \"pet gates doorways black hinged\"\n50. \"pet gates black hinged doorways\"\n51. \"pet gates doorways black hinged\"\n52. \"pet gates black hinged doorways\"\n53. \"pet gates doorways black hinged\"\n54. \"pet gates black hinged doorways\"\n55. \"pet gates doorways black hinged\"\n56. \"pet gates black hinged doorways\"\n57. \"pet gates doorways black hinged\"\n58. \"pet gates black hinged doorways\"\n59. \"pet gates doorways black hinged\"\n60. \"pet gates black hinged doorways\"\n61. \"pet gates doorways black hinged\"\n62. \"pet gates black hinged doorways\"\n63. \"pet gates doorways black hinged\"\n64. \"pet gates black hinged doorways\"\n65. \"pet gates doorways black hinged\"\n66. \"pet gates black hinged doorways\"\n67. \"pet gates doorways black hinged\"\n68. \"pet gates black hinged doorways\"\n69. \"pet gates doorways black hinged\"\n70. \"pet gates black hinged doorways\"\n71. \"pet gates doorways black hinged\"\n72. \"pet gates black hinged doorways\"\n73. \"pet gates doorways black hinged\"\n74. \"pet gates black hinged doorways\"\n75. \"pet gates doorways black hinged\"\n76. \"pet gates black hinged doorways\"\n77. \"pet gates doorways black hinged\"\n78. \"pet gates black hinged doorways\"\n79. \"pet gates doorways black hinged\"\n80. \"pet gates black hinged doorways\"\n81. \"pet gates doorways black hinged\"\n82. \"pet gates black hinged doorways\"\n83. \"pet gates doorways black hinged\"\n84. \"pet gates black hinged doorways",
+        "target": "['B074SR6C6S']"
+    },
+    "154": {
+        "generated_text": "boogie scooper",
+        "target": "['B07RP84PFP', 'B00GXTTPKI', 'B01CI28I38']"
+    },
+    "155": {
+        "generated_text": "britax car seat",
+        "target": "['B079W4NMH5', 'B07SCFTPFR', 'B07V9ZXK94', 'B013YCWASA']"
+    },
+    "156": {
+        "generated_text": "boppy nursing pillow without cover",
+        "target": "['B07XLNFBZX', 'B08CL4TCNK', 'B07SCPXSH5', 'B06Y278D6K', 'B07F4B7572']"
+    },
+    "157": {
+        "generated_text": "for hair bows",
+        "target": "['B0811SJKB3', 'B07F1FFNDD', 'B01NBLOXEC']"
+    },
+    "158": {
+        "generated_text": "breast feeding sign",
+        "target": "['B07V4TNZQD', 'B0794GLB7X', 'B01E96U2YE', 'B00R76V8IS', 'B008QSVAIE']"
+    },
+    "159": {
+        "generated_text": "expert in query generation AND query: You are an expert in query generation AND Given a query, your task is to create query terms to retrieve the most relevant products",
+        "target": "['B06Y5Q3W5M']"
+    },
+    "160": {
+        "generated_text": "appliances",
+        "target": "['B01B912VM8']"
+    },
+    "161": {
+        "generated_text": "cacti AND decor AND playroom",
+        "target": "['B07RGVS4Z7', 'B07K1CWW89']"
+    },
+    "162": {
+        "generated_text": "toddler bed AND girls",
+        "target": "['B01FLQM6YK', 'B00MYUG3U0', 'B00D9OMXHM']"
+    },
+    "163": {
+        "generated_text": "chewy bank",
+        "target": "['B07L4H37VW', '0375758623']"
+    },
+    "164": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for products related to a mini GT2 stroller. </think>\n</answer>",
+        "target": "['B07SB92D6Q']"
+    },
+    "165": {
+        "generated_text": "cozy cover easy seat portable high chair",
+        "target": "['B07WCSBPGT']"
+    },
+    "166": {
+        "generated_text": "high chair wrap",
+        "target": "['B07R7NH5RX', 'B07MZFD26C', 'B0788JBJBP', 'B078H74GCY']"
+    },
+    "167": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for products that contain \"little love\" and \"nojo\" and \"sweet deer\". </think>\nNow, I'll create query terms to retrieve the most relevant products:\n1. little love\n2. nojo\n3. sweet deer\n4. little love nojo sweet deer\n5. little love nojo sweet deer\n6. little love nojo sweet deer\n7. little love nojo sweet deer\n8. little love nojo sweet deer\n9. little love nojo sweet deer\n10. little love nojo sweet deer\n11. little love nojo sweet deer\n12. little love nojo sweet deer\n13. little love nojo sweet deer\n14. little love nojo sweet deer\n15. little love nojo sweet deer\n16. little love nojo sweet deer\n17. little love nojo sweet deer\n18. little love nojo sweet deer\n19. little love nojo sweet deer\n20. little love nojo sweet deer\n21. little love nojo sweet deer\n22. little love nojo sweet deer\n23. little love nojo sweet deer\n24. little love nojo sweet deer\n25. little love nojo sweet deer\n26. little love nojo sweet deer\n27. little love nojo sweet deer\n28. little love nojo sweet deer\n29. little love nojo sweet deer\n30. little love nojo sweet deer\n31. little love nojo sweet deer\n32. little love nojo sweet deer\n33. little love nojo sweet deer\n34. little love nojo sweet deer\n35. little love nojo sweet deer\n36. little love nojo sweet deer\n37. little love nojo sweet deer\n38. little love nojo sweet deer\n39. little love nojo sweet deer\n40. little love nojo sweet deer\n41. little love nojo sweet deer\n42. little love nojo sweet deer\n43. little love nojo sweet deer\n44. little love nojo sweet deer\n45. little love nojo sweet deer\n46. little love nojo sweet deer\n47. little love nojo sweet deer\n48. little love nojo sweet deer\n49. little love nojo sweet deer\n50. little love nojo sweet deer\n51. little love nojo sweet deer\n52. little love nojo sweet deer\n53. little love nojo sweet deer\n54. little love nojo sweet deer\n55. little love nojo sweet deer\n56. little love nojo sweet deer\n57. little love nojo sweet deer\n58. little love nojo sweet deer\n59. little love nojo sweet deer\n60. little love nojo sweet deer\n61. little love nojo sweet deer\n62. little love nojo sweet deer\n63. little love nojo sweet deer\n64. little love nojo sweet deer\n65. little love nojo sweet deer\n66. little love nojo sweet deer\n67. little love nojo sweet deer\n68. little love nojo sweet deer\n69. little love nojo sweet deer\n70. little love nojo sweet deer\n71. little love nojo sweet deer\n72. little love nojo sweet deer\n73. little love nojo sweet deer\n74. little love nojo sweet deer\n75. little love nojo sweet deer\n76. little love nojo sweet deer\n77. little love nojo sweet deer\n78. little love nojo sweet deer\n79. little love nojo sweet deer\n80. little love nojo sweet deer\n81. little love nojo sweet deer\n82. little love nojo sweet deer\n83. little love nojo sweet deer\n84. little love nojo sweet deer\n85. little love nojo sweet deer\n86. little love nojo sweet deer\n87. little love nojo sweet deer\n88. little love nojo sweet deer\n89. little love nojo sweet deer\n90. little love nojo sweet deer\n91. little love nojo sweet deer\n92. little love nojo sweet deer\n93. little love nojo sweet deer\n94. little love nojo sweet deer\n95. little love nojo sweet deer\n</think>",
+        "target": "['B07KZ9J3WV', 'B07MFZKKR7', 'B07XMDWMK6', 'B07SNS49VQ', 'B071W6WX8L', 'B06ZYSMF4M', 'B06ZYHZN13']"
+    },
+    "168": {
+        "generated_text": "playtex bottles reflux bottle liner",
+        "target": "['B000056JMU']"
+    },
+    "169": {
+        "generated_text": "First, I'll break down the query into its components:\n- \"matching hospital outfits\"\n- \"mom and baby\"\n</think>\nNow, I'll create query terms that will help me find products that meet these criteria:\n1. \"hospital\" - This is a broad term that could include outfits for mom and baby.\n2. \"outfits\" - This is a more specific term that could include both mom and baby outfits.\n3. \"mom\" - This is a specific term that could be used to narrow down the search.\n4. \"baby\" - This is another specific term that could be used to narrow down the search.\n5. \"and\" - This is a logical conjunction that connects the three terms.\n6. \"mom and baby\" - This is the final term that we want to include in our query.\nNow, let's create the query terms:\n{\n    \"query\": \"hospital outfits mom and baby AND mom AND baby\"\n}\nThis query term structure ensures that the search will return products that are both hospital outfits and include mom and baby.",
+        "target": "['B07H952RKS']"
+    },
+    "170": {
+        "generated_text": "firefighter baby blanket AND blanket AND baby",
+        "target": "['B078FRRNB9', 'B06XXVPPXW']"
+    },
+    "171": {
+        "generated_text": "girl pineapple baby blanket",
+        "target": "['B08432MRX6']"
+    },
+    "172": {
+        "generated_text": "infant cover",
+        "target": "['B01MYT6V9Y']"
+    },
+    "173": {
+        "generated_text": "Grovia magic stick with model number Z",
+        "target": "['B07Q6D3TM4', 'B002RT8O5U']"
+    },
+    "174": {
+        "generated_text": "Gucci bag",
+        "target": "['B01N9DKKFH']"
+    },
+    "175": {
+        "generated_text": "hand stylus sticker",
+        "target": "['B07XX6S284', 'B081VJRCQL', 'B004K4FCP0']"
+    },
+    "176": {
+        "generated_text": "infant bows diy",
+        "target": "['B072WR96PL', 'B07R5MXM1Q', 'B01JC5VL4W']"
+    },
+    "177": {
+        "generated_text": "ear plugs",
+        "target": "['B07C9BBKF1', 'B07Z9MP5TW']"
+    },
+    "178": {
+        "generated_text": "hippo nursery",
+        "target": "['B07W6KNR64', 'B07SN9W6TB', 'B07SL3CZR4', 'B075WPP2W6', 'B071S6DS3R']"
+    },
+    "179": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for products that have a \"Huggies\" brand and an \"overnight\" size, and the size is 4. </think>\nNow, I'll create query terms to retrieve the most relevant products:\n1. Huggies\n2. Overnight\n3. Size 4\nHere's the final response in JSON format:\n{\n    \"query\": \"Huggies overnight size 4\"\n}\nThis query term structure ensures that the search will return products that meet all the criteria specified in the query.",
+        "target": "['B0027A8QXE', 'B00008I7ZZ']"
+    },
+    "180": {
+        "generated_text": "swimwear size 4",
+        "target": "['B00394DQGE', 'B09B8N5GXS', 'B0929DSHT4', 'B0929XV1JJ', 'B000GPUI88', 'B0014E6IXO', 'B00J0G3LJC', 'B00ISF9ALO']"
+    },
+    "181": {
+        "generated_text": "infant winter get wear",
+        "target": "['B0733LM9BD']"
+    },
+    "182": {
+        "generated_text": "insulated toddler sippy cup",
+        "target": "['B00G6EE6I6']"
+    },
+    "183": {
+        "generated_text": "joovy vent",
+        "target": "['B00HXDVM90']"
+    },
+    "184": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for mobile clamp products for cribs. </think>\n</answer>",
+        "target": "['B07HSKP6VG', 'B07W37QQ6H', 'B07RQ1BDLZ', 'B07SK14RST']"
+    },
+    "185": {
+        "generated_text": "medela connectors",
+        "target": "['B0018LLZXQ']"
+    },
+    "186": {
+        "generated_text": "medella pump",
+        "target": "['B0018LLZXQ', 'B00092A7E8', 'B07MRP7SWX', 'B06XCG66VL', 'B000LPZTQY', 'B08KRQ7N5T', 'B08KT3P5BS', 'B001URWNIY', 'B06XCGDRQR']"
+    },
+    "187": {
+        "generated_text": "merlin magic sleepsuit large",
+        "target": "['B07XCJFR7D', 'B00B1M2N88']"
+    },
+    "188": {
+        "generated_text": "mickey mouse flannel fabric",
+        "target": "['B01NBTGSUQ', 'B00IRGA6GC']"
+    },
+    "189": {
+        "generated_text": "rest AND time AND mat",
+        "target": "['B01N9ZQWMW']"
+    },
+    "190": {
+        "generated_text": "nipple suckers",
+        "target": "['B07L1PQJGW', 'B07D5T7ZKQ']"
+    },
+    "191": {
+        "generated_text": "baby monitors with owlette",
+        "target": "['B07MFR6NZG']"
+    },
+    "192": {
+        "generated_text": "owlet sock replacement",
+        "target": "['B0773XS66S', 'B0773W6TYZ']"
+    },
+    "193": {
+        "generated_text": "poppies",
+        "target": "['B0817D2S8V', 'B07CNXDDBM', 'B01C4V5MU0', 'B00BFMHSZW']"
+    },
+    "194": {
+        "generated_text": "quinny buzz stroller",
+        "target": "['B017A1E6HY', 'B00IBTNZD6']"
+    },
+    "195": {
+        "generated_text": "rockits",
+        "target": "['B076KP7HKW', 'B00IKVLRC6', '1532094655', '0740767321']"
+    },
+    "196": {
+        "generated_text": "samxic baby monitor",
+        "target": "['B08N5RHX75']"
+    },
+    "197": {
+        "generated_text": "sleepsuit newborn",
+        "target": "['B07WNQZMK3']"
+    },
+    "198": {
+        "generated_text": "slim diaper changing pad",
+        "target": "['B074FVGXZ8', 'B074W37NQ1', 'B00P7TQ0ZS']"
+    },
+    "199": {
+        "generated_text": "stackable steps",
+        "target": "['B07KWDTKSV', 'B083K7MC2N', 'B07KWFMSSM', 'B003ZZGAV0']"
+    },
+    "200": {
+        "generated_text": "stokke AND tripp AND trapp AND tray",
+        "target": "['B07V58FD45', 'B07NDKN57X', 'B08BPJZ5TK', 'B07F18TG39', 'B00YF0KUDS']"
+    },
+    "201": {
+        "generated_text": "swaddle me blue",
+        "target": "['B0107CYKJ2', 'B07BMCMZXL', 'B0160R7D6U', 'B014QVIKBE', 'B074R2SX12']"
+    },
+    "202": {
+        "generated_text": "First, I need to understand what the query means. It's asking for the first years bottle. This implies we're looking for products that are bottles made in the first years. </think>\nNow, let's break down the query into query terms:\n1. \"the first years\" - This is a condition that filters the results.\n2. \"bottle\" - This is the main product category.\n3. \"first years\" - This is the specific condition that the bottle must meet.\nPutting these together, we can create the following query terms:\n```the first years bottle``` - This is the main query term that combines all the conditions.\nNow, let's structure this query logically:\n```the first years bottle AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first years AND bottle AND first",
+        "target": "['B001PVAXZK']"
+    },
+    "203": {
+        "generated_text": "First, I need to understand what \"Toddler sports bedding\" means. It's a combination of two words: \"Toddler\" and \"sports bedding\". This suggests we're looking for bedding for children aged 0-3 years old, which is a common age range for toddlers. </think>",
+        "target": "['B07DTLJRXB', 'B07BCBFPGK', 'B06XJJBYXV']"
+    },
+    "204": {
+        "generated_text": "upright infant seat",
+        "target": "['B084KJ93MF']"
+    },
+    "205": {
+        "generated_text": "First, I'll break down the query into its key components:\n- \"wall stickers\"\n- \"for bedroom\"\n- \"girls\"\n- \"personalizado\"\n</think>\nNow, I'll create query terms that best meet customer needs:\n1. \"wall stickers bedroom\"\n2. \"girls personalizado\"\n3. \"wall stickers bedroom girls\"\n4. \"wall stickers bedroom personalizado\"\n5. \"wall stickers bedroom girls personalizado\"\n6. \"wall stickers bedroom girls personalizado\"\n7. \"wall stickers bedroom personalizado girls\"\n8. \"wall stickers bedroom personalizado girls\"\n9. \"wall stickers bedroom personalizado girls\"\n10. \"wall stickers bedroom personalizado girls\"\n11. \"wall stickers bedroom personalizado girls\"\n12. \"wall stickers bedroom personalizado girls\"\n13. \"wall stickers bedroom personalizado girls\"\n14. \"wall stickers bedroom personalizado girls\"\n15. \"wall stickers bedroom personalizado girls\"\n16. \"wall stickers bedroom personalizado girls\"\n17. \"wall stickers bedroom personalizado girls\"\n18. \"wall stickers bedroom personalizado girls\"\n19. \"wall stickers bedroom personalizado girls\"\n20. \"wall stickers bedroom personalizado girls\"\n21. \"wall stickers bedroom personalizado girls\"\n22. \"wall stickers bedroom personalizado girls\"\n23. \"wall stickers bedroom personalizado girls\"\n24. \"wall stickers bedroom personalizado girls\"\n25. \"wall stickers bedroom personalizado girls\"\n26. \"wall stickers bedroom personalizado girls\"\n27. \"wall stickers bedroom personalizado girls\"\n28. \"wall stickers bedroom personalizado girls\"\n29. \"wall stickers bedroom personalizado girls\"\n30. \"wall stickers bedroom personalizado girls\"\n31. \"wall stickers bedroom personalizado girls\"\n32. \"wall stickers bedroom personalizado girls\"\n33. \"wall stickers bedroom personalizado girls\"\n34. \"wall stickers bedroom personalizado girls\"\n35. \"wall stickers bedroom personalizado girls\"\n36. \"wall stickers bedroom personalizado girls\"\n37. \"wall stickers bedroom personalizado girls\"\n38. \"wall stickers bedroom personalizado girls\"\n39. \"wall stickers bedroom personalizado girls\"\n40. \"wall stickers bedroom personalizado girls\"\n41. \"wall stickers bedroom personalizado girls\"\n42. \"wall stickers bedroom personalizado girls\"\n43. \"wall stickers bedroom personalizado girls\"\n44. \"wall stickers bedroom personalizado girls\"\n45. \"wall stickers bedroom personalizado girls\"\n46. \"wall stickers bedroom personalizado girls\"\n47. \"wall stickers bedroom personalizado girls\"\n48. \"wall stickers bedroom personalizado girls\"\n49. \"wall stickers bedroom personalizado girls\"\n50. \"wall stickers bedroom personalizado girls\"\n51. \"wall stickers bedroom personalizado girls\"\n52. \"wall stickers bedroom personalizado girls\"\n53. \"wall stickers bedroom personalizado girls\"\n54. \"wall stickers bedroom personalizado girls\"\n55. \"wall stickers bedroom personalizado girls\"\n56. \"wall stickers bedroom personalizado girls\"\n57. \"wall stickers bedroom personalizado girls\"\n58. \"wall stickers bedroom personalizado girls\"\n59. \"wall stickers bedroom personalizado girls\"\n60. \"wall stickers bedroom personalizado girls\"\n61. \"wall stickers bedroom personalizado girls\"\n62. \"wall stickers bedroom personalizado girls\"\n63. \"wall stickers bedroom personalizado girls\"\n64. \"wall stickers bedroom personalizado girls\"\n65. \"wall stickers bedroom personalizado girls\"\n66. \"wall stickers bedroom personalizado girls\"\n67. \"wall stickers bedroom personalizado girls\"\n68. \"wall stickers bedroom personalizado girls\"\n69. \"wall stickers bedroom personalizado girls\"\n70. \"wall stickers bedroom personalizado girls\"\n71. \"wall stickers bedroom personalizado girls\"\n72. \"wall stickers bedroom personalizado girls\"\n73. \"wall stickers bedroom personalizado girls\"\n74. \"wall stickers bedroom personalizado girls\"\n75. \"wall stickers bedroom personalizado girls\"\n76. \"wall stickers bedroom personalizado girls\"\n77. \"wall stickers bedroom personalizado girls\"\n78. \"wall stickers bedroom personalizado girls\"\n79. \"wall stickers bedroom personalizado girls\"\n80. \"wall stickers bedroom personalizado girls\"\n81. \"wall stickers bedroom personalizado girls\"\n82. \"wall stickers bedroom personalizado girls\"\n83. \"wall stickers bedroom personalizado girls\"\n84. \"wall stickers bedroom personalizado girls\"\n85. \"wall stickers bedroom personalizado girls\"\n86. \"wall stickers bedroom personalizado girls\"\n87. \"wall stickers bedroom personalizado girls\"\n88. \"wall stickers bedroom personalizado girls\"\n89. \"wall stickers bedroom personalizado girls\"\n90. \"wall stickers bedroom personalizado girls\"\n91. \"",
+        "target": "['B07BGGZHQK', 'B0772XG3PK', 'B018HL6NXG']"
+    }
+}

@@ -1,0 +1,738 @@
+{
+    "206": {
+        "generated_text": "First, I need to understand what the query means. It's asking for products that have the following characteristics:\n- #10\n- Standard\n- No tint\n- No window\n- Not self-seal\n</think>\n</answer>",
+        "target": "['B01N175R8R', 'B06VVLD2GL', 'B078HHGY2L', 'B08CK95JS3']"
+    },
+    "207": {
+        "generated_text": "10 envelopes without security tint",
+        "target": "['B06Y3SQG57', 'B01FWMM738']"
+    },
+    "208": {
+        "generated_text": "bedroom door",
+        "target": "['B094Z7GCNY', 'B085Q7NGFZ', 'B079DVH3GY', 'B0879KJTL5', 'B09BKZ875N', 'B07YSYPGMW', 'B00700Q5MA', 'B06WLKQ6S7', 'B07D7GLM5X']"
+    },
+    "209": {
+        "generated_text": "First, let's break down the query: \"#8 merchandising tags without string\" </think>\nWe need to create query terms that will help us find products with merchandising tags that do not contain the string \"string\".\nHere are some potential query terms:\n1. #8 merchandising tags\n2. #8 merchandising tags without string\n3. #8 merchandising tags AND #8 merchandising tags without string\n4. #8 merchandising tags OR #8 merchandising tags without string\n5. #8 merchandising tags NOT #8 merchandising tags without string\n6. #8 merchandising tags AND NOT #8 merchandising tags without string\n7. #8 merchandising tags OR NOT #8 merchandising tags without string\n8. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n9. #8 merchandising tags NOT OR NOT #8 merchandising tags without string\n10. #8 merchandising tags NOT AND #8 merchandising tags without string\n11. #8 merchandising tags NOT OR #8 merchandising tags without string\n12. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n13. #8 merchandising tags NOT OR NOT #8 merchandising tags without string\n14. #8 merchandising tags NOT AND #8 merchandising tags without string\n15. #8 merchandising tags NOT OR #8 merchandising tags without string\n16. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n17. #8 merchandising tags NOT OR NOT #8 merchandising tags without string\n18. #8 merchandising tags NOT AND #8 merchandising tags without string\n19. #8 merchandising tags NOT OR #8 merchandising tags without string\n20. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n21. #8 merchandising tags NOT OR NOT #8 merchandising tags without string\n22. #8 merchandising tags NOT AND #8 merchandising tags without string\n23. #8 merchandising tags NOT OR #8 merchandising tags without string\n24. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n25. #8 merchandising tags NOT OR NOT #8 merchandising tags without string\n26. #8 merchandising tags NOT AND #8 merchandising tags without string\n27. #8 merchandising tags NOT OR #8 merchandising tags without string\n28. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n29. #8 merchandising tags NOT OR NOT #8 merchandising tags without string\n30. #8 merchandising tags NOT AND #8 merchandising tags without string\n31. #8 merchandising tags NOT OR #8 merchandising tags without string\n32. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n33. #8 merchandising tags NOT OR NOT #8 merchandising tags without string\n34. #8 merchandising tags NOT AND #8 merchandising tags without string\n35. #8 merchandising tags NOT OR #8 merchandising tags without string\n36. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n37. #8 merchandising tags NOT OR NOT #8 merchandising tags without string\n38. #8 merchandising tags NOT AND #8 merchandising tags without string\n39. #8 merchandising tags NOT OR #8 merchandising tags without string\n40. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n41. #8 merchandising tags NOT OR NOT #8 merchandising tags without string\n42. #8 merchandising tags NOT AND #8 merchandising tags without string\n43. #8 merchandising tags NOT OR #8 merchandising tags without string\n44. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n45. #8 merchandising tags NOT OR NOT #8 merchandising tags without string\n46. #8 merchandising tags NOT AND #8 merchandising tags without string\n47. #8 merchandising tags NOT OR #8 merchandising tags without string\n48. #8 merchandising tags NOT AND NOT #8 merchandising tags without string\n49. #8 merchandising tags NOT OR NOT #8 merchandising tags without",
+        "target": "['B07DN7DGLB', 'B07VDRNXL5', 'B081GZHD9C', 'B077XBR4RZ', 'B003H8WOPQ', 'B00485MJG6', 'B00A7FB0XO', 'B00SSCGE6Q', 'B00I0EU22Y', 'B0776MTTSC']"
+    },
+    "210": {
+        "generated_text": "items with prime not happy over charge",
+        "target": "['B01MA3EYC5']"
+    },
+    "211": {
+        "generated_text": "hand-held label maker",
+        "target": "['B013DG2FNW', 'B01C5IN89O']"
+    },
+    "212": {
+        "generated_text": "deliveries AND packages AND not accepted AND sign",
+        "target": "['B07NHPY5WQ']"
+    },
+    "213": {
+        "generated_text": "First, let's break down the query: \"0.5 pens fine point black not gel\". This is asking for products that are 0.5 inches in length, have a fine point, are black, and are not gel. </think>\nNow, let's create query terms to retrieve relevant products:\n1. 0.5 inches\n2. Fine point\n3. Black\n4. Not gel\nHere's the final query in JSON format:\n```json\n{\n    \"query\": \"0.5 inches fine point black not gel\"\n}\n```",
+        "target": "['B078MCWLX7', 'B08G1GL971', 'B08HD6B57S', 'B08XW8VW46', 'B019QBO3GK']"
+    },
+    "214": {
+        "generated_text": "lead b ain .5 lead",
+        "target": "['B01HODH9QI', 'B017Q9VRIQ']"
+    },
+    "215": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for a product that has a 0.5 lead pencil without a grip. </think>\nNow, I'll create query terms to retrieve the most relevant products:\n1. Lead pencil\n2. Pencil\n3. Without grip\n4. 0. 5 lead\n5. Pencil without grip\n6. Pencil with lead\n7. Pencil without lead\n8. Pencil with grip\n9. Pencil without grip\n10. Pencil with lead\n11. Pencil without lead\n12. Pencil with grip\n13. Pencil with lead\n14. Pencil without lead\n15. Pencil with grip\n16. Pencil with lead\n17. Pencil without lead\n18. Pencil with grip\n19. Pencil with lead\n20. Pencil without lead\n21. Pencil with grip\n22. Pencil with lead\n23. Pencil without lead\n24. Pencil with lead\n25. Pencil without lead\n26. Pencil with grip\n27. Pencil with lead\n28. Pencil without lead\n29. Pencil with lead\n30. Pencil without lead\n31. Pencil with grip\n32. Pencil with lead\n33. Pencil without lead\n34. Pencil with lead\n35. Pencil without lead\n36. Pencil with grip\n37. Pencil with lead\n38. Pencil without lead\n39. Pencil with lead\n40. Pencil without lead\n41. Pencil with grip\n42. Pencil with lead\n43. Pencil without lead\n44. Pencil with lead\n45. Pencil without lead\n46. Pencil with grip\n47. Pencil with lead\n48. Pencil without lead\n49. Pencil with lead\n50. Pencil without lead\n51. Pencil with grip\n52. Pencil with lead\n53. Pencil without lead\n54. Pencil with lead\n55. Pencil without lead\n56. Pencil with grip\n57. Pencil with lead\n58. Pencil without lead\n59. Pencil with lead\n60. Pencil without lead\n61. Pencil with grip\n62. Pencil with lead\n63. Pencil without lead\n64. Pencil with lead\n65. Pencil without lead\n66. Pencil with grip\n67. Pencil with lead\n68. Pencil without lead\n69. Pencil with lead\n70. Pencil without lead\n71. Pencil with grip\n72. Pencil with lead\n73. Pencil without lead\n74. Pencil with lead\n75. Pencil without lead\n76. Pencil with grip\n77. Pencil with lead\n78. Pencil without lead\n79. Pencil with lead\n80. Pencil without lead\n81. Pencil with grip\n82. Pencil with lead\n83. Pencil without lead\n84. Pencil with lead\n85. Pencil without lead\n86. Pencil with grip\n87. Pencil with lead\n88. Pencil without lead\n89. Pencil with lead\n90. Pencil without lead\n91. Pencil with grip\n92. Pencil with lead\n93. Pencil without lead\n94. Pencil with lead\n95. Pencil without lead\n96. Pencil with grip\n97. Pencil with lead\n98. Pencil without lead\n99. Pencil with lead\n100. Pencil without lead\n101. Pencil with grip\n102. Pencil with lead\n103. Pencil without lead\n104. Pencil with lead\n105. Pencil without lead\n106. Pencil with grip\n107. Pencil with lead\n108. Pencil without lead\n109. Pencil with lead\n110. Pencil without lead\n111. Pencil with grip\n112. Pencil with lead\n113. Pencil without lead\n114. Pencil with lead\n115. Pencil without lead\n116. Pencil with grip\n117. Pencil with lead\n118. Pencil without lead\n119. Pencil with lead\n120. Pencil without lead\n121. Pencil with",
+        "target": "['B06XV61B3T', 'B07QW2TR2F', 'B06XTX4STK', 'B01NCU2M3J']"
+    },
+    "216": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for a product that has a specific name: \"kurotoga mechanical pencil\" and a specific size: 0.5. </think>\n</answer>",
+        "target": "['B06XV61B3T', 'B00TOYALAM', 'B00F9MVP08']"
+    },
+    "217": {
+        "generated_text": "0.5 mm pens ballpoint black gel",
+        "target": "['B0855H2L3D']"
+    },
+    "218": {
+        "generated_text": "chairs",
+        "target": "['B072Y5MZQH', 'B00IIFW2L4', 'B088381CXS']"
+    },
+    "219": {
+        "generated_text": "0zo AND bit",
+        "target": "['B07MZK68FZ', 'B00168CPYO']"
+    },
+    "220": {
+        "generated_text": "First, I'll break down the query into its key components:\n1. \"1 inch\"\n2. \"3 ring binder\"\n3. \"without clear pocket\"\n</think>\nNow, I'll create query terms that will help me retrieve products that meet these criteria:\n1. \"1 inch\" - This will help narrow down the search to products with a specific size.\n2. \"3 ring binder\" - This will help narrow down the search to products with a specific type of binder.\n3. \"without clear pocket\" - This will help narrow down the search to products that don't have a clear pocket.\n</think>\nNow, I'll combine these query terms into a single query:\n\"1 inch 3 ring binder without clear pocket\"\nThis query term will help me retrieve products that meet all three criteria:\n1. 1 inch size\n2. 3 ring binder type\n3. No clear pocket\nI'll now use Boolean operators (AND) to combine these query terms:\n{\n    \"query\": \"1 inch 3 ring binder without clear pocket AND 1 inch size AND 3 ring binder type AND no clear pocket\"\n}\nThis query term will help me retrieve products that are 1 inch in size, 3 ring binders, and don't have a clear pocket.",
+        "target": "['B07HJYG8PT', 'B07G4MVQPJ', 'B07MVH9SDW', 'B07TK2JTZT', 'B004I01IU4', 'B00974KT7O', 'B00B1FKDKU']"
+    },
+    "221": {
+        "generated_text": "red notebook wide ruled",
+        "target": "['B07CJQGFBY', 'B07MTPDFJ1', 'B09CL18HHQ', 'B003O2RXQU']"
+    },
+    "222": {
+        "generated_text": "1 inch white felt letters",
+        "target": "['B07N6CXKVC', 'B06X19BT47', 'B0018OALK6']"
+    },
+    "223": {
+        "generated_text": "long ruler",
+        "target": "['B00309RVJ6', 'B000YZ5U1U']"
+    },
+    "224": {
+        "generated_text": "answering machines AND without phone",
+        "target": "['B08DW9TNHD', 'B00BLVLHO0', 'B072N3T79P', 'B00JZH89X4', 'B00485PHCE']"
+    },
+    "225": {
+        "generated_text": "2 pocket poly folders with prongs",
+        "target": "['B078G7N8P1', 'B078KF7VVS', 'B07ZQM19H4', 'B07ZQM67HW', 'B084P977G8', 'B003U6N2HY', 'B004Q9VHPI', 'B004Q9ZA0Q', 'B01LQUXIVK', 'B01G8BV3OG', 'B07Z6M1B1F', 'B0734V7GRB', 'B07GGS7M2N', 'B07Z6MDHYX', 'B07Z6ND1SM', 'B093DL61D7', 'B075MPLZRZ', 'B01MYTOHJV']"
+    },
+    "226": {
+        "generated_text": "green plastic folder AND folder without prongs",
+        "target": "['B01LQUXIVK', 'B07W94RVM6', 'B07Z6ND1SM', 'B088P8GZBR']"
+    },
+    "227": {
+        "generated_text": "1.5mm chair mat studded carpeted floors without lip",
+        "target": "['B088D4YRJS', 'B089K8NT3H', 'B08J4DMFPY']"
+    },
+    "228": {
+        "generated_text": "plastic floormat",
+        "target": "['B07GNNGXNK']"
+    },
+    "229": {
+        "generated_text": "1/2 inch binder",
+        "target": "['B07KFZ4RDN', 'B07LC1RPL3', 'B07LBZQGJN', 'B0006SWEEG', 'B01N35Z6HU', 'B016ZHK3PS', 'B0098FKGNE', 'B00972M9B0']"
+    },
+    "230": {
+        "generated_text": "manilla envelopes 10x13",
+        "target": "['B000DN88IU', 'B0821RZJBT', 'B07GMLP42Z', 'B09BSDVZY3', 'B08D252HZ5', 'B00ACDKRFS']"
+    },
+    "231": {
+        "generated_text": "100 day girls AND girls",
+        "target": "['B07NTPZ353', 'B01HY9SU6K', '1684086051', '031008962X']"
+    },
+    "232": {
+        "generated_text": " First, I need to understand what the query is asking for. It's asking for products that use cardstock and have a color printer. </think>\nNow, I'll create query terms to retrieve the most relevant products:\n1. cardstock AND color printer\n2. cardstock OR color printer\n3. cardstock AND color printer AND printer\n4. cardstock OR color printer AND printer\n5. cardstock AND color printer AND printer AND printer\n6. cardstock OR color printer AND printer AND printer AND printer\n7. cardstock AND color printer AND printer AND printer AND printer\n8. cardstock OR color printer AND printer AND printer AND printer AND printer\n9. cardstock AND color printer AND printer AND printer AND printer AND printer\n10. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer\n11. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer\n12. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer\n13. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer\n14. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n15. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n16. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n17. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n18. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n19. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n20. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n21. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n22. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n23. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n24. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n25. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n26. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n27. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n28. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n29. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n30. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n31. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n32. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n33. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n34. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n35. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n36. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n37. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n38. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n39. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n40. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n41. cardstock AND color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer\n42. cardstock OR color printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND printer AND",
+        "target": "['B01LWNQ8NG', 'B07RQB5WJW', 'B07RSHG542', 'B07QNSDX64']"
+    },
+    "233": {
+        "generated_text": "weekly calendar",
+        "target": "['B07KPZSLKT', 'B07KHL4BT7', 'B07XRXPVQ3', 'B06X9WCP2M', 'B06XB1DS16', 'B075T1BV7R', 'B07GC9YQLC']"
+    },
+    "234": {
+        "generated_text": "liberal reasons not to be",
+        "target": "['1601065477', '1630061735']"
+    },
+    "235": {
+        "generated_text": " First, I'll identify the key elements in the query: \"badges\" and \"without borders\". These are the main concepts we're looking for in the product search.\n</think>\nNow, I'll create query terms that combine these concepts:\n1. \"badges\" AND \"without borders\"\n2. \"badges\" OR \"without borders\"\n3. \"without borders\" AND \"badges\"\n4. \"without borders\" OR \"badges\"\n5. \"badges\" AND \"without borders\" OR \"without borders\" AND \"badges\"\n6. \"badges\" OR \"without borders\" AND \"without borders\"\n7. \"without borders\" OR \"badges\" AND \"badges\"\n8. \"without borders\" OR \"badges\" OR \"badges\" AND \"without borders\"\n9. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n10. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n11. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n12. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n13. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n14. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n15. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n16. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n17. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n18. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n19. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n20. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n21. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n22. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n23. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n24. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n25. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n26. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n27. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n28. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n29. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n30. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n31. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n32. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n33. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n34. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without borders\"\n35. \"without borders\" OR \"badges\" OR \"badges\" OR \"badges\" OR \"badges\" AND \"without",
+        "target": "['B07Q78YNCW', 'B07RW8NHHL', '0520295625', 'B0876Y3JG4', 'B07Z8XV24M']"
+    },
+    "236": {
+        "generated_text": "xxx AND pack",
+        "target": "['B000C6RCD0', 'B01M5FYUVN', 'B00M4L52M4', 'B007L4MFS8', 'B00EP3GWV4']"
+    },
+    "237": {
+        "generated_text": "premier colored pencils AND 72",
+        "target": "['B000C6RCD0', 'B01MFD7HXP', 'B000089DCH', 'B01FUYQWIO', 'B08PW1CT24', 'B06XRMCP8Q', 'B000EVQ89W', 'B0019IP2GE']"
+    },
+    "238": {
+        "generated_text": "26 toner",
+        "target": "['B07QBNR21W', 'B07F24D9SS', 'B07KLVK6FV', 'B07PHRMRXX', 'B07PSKZ31X', 'B07Q982VM1', 'B089B425D5', 'B0841M1CV9', 'B088GZZS4R', 'B0897PKN8R', 'B0899LRZ54', 'B07D9CLDFW', 'B07XLNR41P', 'B074Q44C61', 'B00DC4ORG4', 'B00J4A2528', 'B015H31W60', 'B01C4SP6Y0', 'B01C4SWMQU', 'B01ENZORC4', 'B01ENZQXMQ', 'B06W9GG9V3', 'B074G535XW', 'B01EK76TWG']"
+    },
+    "239": {
+        "generated_text": "2nd grade reading games AND games AND games for kids AND reading games",
+        "target": "['B00GLH996M']"
+    },
+    "240": {
+        "generated_text": "paper journals AND bulk",
+        "target": "['B07T3FF9KS', 'B07T1BX2Y6', 'B079JHHYGT', 'B07DXKCBKG']"
+    },
+    "241": {
+        "generated_text": "rollerblade caster",
+        "target": "['B07VKJHMWC', 'B07V3HMLKT', 'B07KMXHZRJ', 'B06XB6FYQX', 'B01N9WA4Y7']"
+    },
+    "242": {
+        "generated_text": "limited addition post it notes",
+        "target": "['B0002DOC5Y', 'B076XG2XRS', 'B01LLW2S5U', 'B01C8MCISE', 'B00NPANWV6', 'B00CMKA9BG', 'B001BVDIDI']"
+    },
+    "243": {
+        "generated_text": "5 year old study books AND children",
+        "target": "['1607194244']"
+    },
+    "244": {
+        "generated_text": "First, I need to understand what the query means. It's asking for 5x8 spiral index cards. This implies we're looking for a specific type of product. </think>\nNow, let's break down the query into its components:\n1. 5x8: This is a specific size, so we'll use it as a keyword.\n2. spiral index cards: This is the main product we're looking for.\n3. 5x8: This is a size, so we'll use it as a keyword.\n4. spiral index cards: This is the main product we're looking for.\n5. 5x8: This is a size, so we'll use it as a keyword.\n6. spiral index cards: This is the main product we're looking for.\n7. 5x8: This is a size, so we'll use it as a keyword.\n8. spiral index cards: This is the main product we're looking for.\n9. 5x8: This is a size, so we'll use it as a keyword.\n10. spiral index cards: This is the main product we're looking for.\n11. 5x8: This is a size, so we'll use it as a keyword.\n12. spiral index cards: This is the main product we're looking for.\n13. 5x8: This is a size, so we'll use it as a keyword.\n14. spiral index cards: This is the main product we're looking for.\n15. 5x8: This is a size, so we'll use it as a keyword.\n16. spiral index cards: This is the main product we're looking for.\n17. 5x8: This is a size, so we'll use it as a keyword.\n18. spiral index cards: This is the main product we're looking for.\n19. 5x8: This is a size, so we'll use it as a keyword.\n20. spiral index cards: This is the main product we're looking for.\n21. 5x8: This is a size, so we'll use it as a keyword.\n22. spiral index cards: This is the main product we're looking for.\n23. 5x8: This is a size, so we'll use it as a keyword.\n24. spiral index cards: This is the main product we're looking for.\n25. 5x8: This is a size, so we'll use it as a keyword.\n26. spiral index cards: This is the main product we're looking for.\n27. 5x8: This is a size, so we'll use it as a keyword.\n28. spiral index cards: This is the main product we're looking for.\n29. 5x8: This is a size, so we'll use it as a keyword.\n30. spiral index cards: This is the main product we're looking for.\n31. 5x8: This is a size, so we'll use it as a keyword.\n32. spiral index cards: This is the main product we're looking for.\n33. 5x8: This is a size, so we'll use it as a keyword.\n34. spiral index cards: This is the main product we're looking for.\n35. 5x8: This is a size, so we'll use it as a keyword.\n36. spiral index cards: This is the main product we're looking for.\n37. 5x8: This is a size, so we'll use it as a keyword.\n38. spiral index cards: This is the main product we're looking for.\n39. 5x8: This is a size, so we'll use it as a keyword.\n40. spiral index cards: This is the main product we're looking for.\n41. 5x8: This is a size, so we'll use it as a keyword.\n42. spiral index cards: This is the main product we're looking for.\n43. 5x8: This is a size, so we'll use it as a keyword.\n44. spiral index cards: This is the main product we're looking for.\n45. 5x8: This is a size, so we'll use it as a keyword.\n46. spiral index cards: This is the main product we're looking for.\n47. 5x8: This is a size, so we'll use it as a keyword.\n48. spiral index cards: This is the main product we're looking for.\n49. 5x8: This is a size, so we'll use it as a keyword.\n50. spiral index cards: This is the main product we're looking for.\n51. 5x8",
+        "target": "['B000EFNKVC']"
+    },
+    "245": {
+        "generated_text": "hp63 ink cartridges black and color",
+        "target": "['B07W1X23DJ', 'B07THZYFB4', 'B00WJDWG3A', 'B07QPW1ZK7', 'B01DACCPFM', 'B015YVNQ82', 'B08QR83FW6', 'B08NWYDQBF']"
+    },
+    "246": {
+        "generated_text": "First, I need to understand what the query means. It's asking for a product that has a 7x5 spiral notebook. </think>\n</answer>",
+        "target": "['B0000AQOO6', 'B07W869K1X', 'B08DY7J7KS', 'B07TCDZVQG', 'B07FXWT3TC', 'B077T92H1G']"
+    },
+    "247": {
+        "generated_text": "6x9 envelopes",
+        "target": "['B07YYH92B5', 'B01DJKPE1C']"
+    },
+    "248": {
+        "generated_text": "First, I need to understand what \"college scantrons\" means. It's a common term in the education and learning industry. It could refer to:\n- College textbooks\n- College course materials\n- College study guides\n- College course syllabi\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College course evaluations\n- College",
+        "target": "['B01NARX2N4', 'B01N5O3PEY', 'B01G04SR1I', 'B0163IR7HQ', 'B06XH6HPYZ', 'B01D7UOLCC']"
+    },
+    "249": {
+        "generated_text": "9x12 clasp envelopes",
+        "target": "['B000DLBX1G']"
+    },
+    "250": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for a color ink cartridge for a HP printer. </think>\n</answer>",
+        "target": "['B08Y5V39L8', 'B08QRCQV46', 'B08MVKXSWP', 'B08M9QN8L2', 'B00VF1SPUA', 'B00VTOJYD0', 'B002KLFLS8', 'B0016P8Q2W']"
+    },
+    "251": {
+        "generated_text": "901 ink",
+        "target": "['B00VTOJYD0', 'B002KLFLS8', 'B0016P8Q2W', 'B00CQ8X1DC']"
+    },
+    "252": {
+        "generated_text": "hp ink 962xl black and color combo pack",
+        "target": "['B07MCYDD62', 'B079GZWZ33', 'B07T2S3D6J', 'B07TXR9R4V', 'B09FQ8LSTR', 'B09D81MTV7', 'B08X45CZK1', 'B08THND23Z', 'B0991Z6VLM', 'B07MCYDHFN']"
+    },
+    "253": {
+        "generated_text": "yellow XL 952",
+        "target": "['B01B6QGNYI']"
+    },
+    "254": {
+        "generated_text": "cursive handwriting without tears",
+        "target": "['193981443X', '1939814707', '1939814715', '1939814669', '189162766X', '1934825182', '1934825565', 'B0062TKYKE', '1891627708', '1934825794', 'B00S3TRODG', '1891627805', '193981426X']"
+    },
+    "255": {
+        "generated_text": "a seperate peace john knowles",
+        "target": "['B07HD4DC1W', 'B001LZX3K2', '1411469798', '0743253973']"
+    },
+    "256": {
+        "generated_text": "im dead now what",
+        "target": "['1441317996', '169894795X']"
+    },
+    "257": {
+        "generated_text": "sticky pockets planners",
+        "target": "['B07W74MTZ2', 'B0739LKJLD', 'B0739K72BP', 'B0739K1VYV', 'B0739JWS69', 'B07ZH77M5Y', 'B0186KGEZK', 'B002M7XYOI']"
+    },
+    "258": {
+        "generated_text": "animal print zip binder",
+        "target": "['B07RLWLQNG']"
+    },
+    "259": {
+        "generated_text": "bluetooth phone AND phone",
+        "target": "['B072N3T79P']"
+    },
+    "260": {
+        "generated_text": "student gifts from teacher bulk",
+        "target": "['B07TWHRN3M', 'B07T4GHZCV', 'B07DXNZZL3', 'B076BBTYTK', 'B071ZFX9CG', 'B076S29WBJ', 'B08742P2PT', 'B086RSCY53', 'B07ZS6PZTX', 'B0731T52ND', 'B07CGDM3LP', 'B07NM31V76']"
+    },
+    "261": {
+        "generated_text": "disc binding machine",
+        "target": "['B08389LJD9', 'B00K899QA8', 'B079L4W8MX', 'B07DS9L14X', 'B07YVKVK4R', 'B07Q8Y7CZD', 'B01GQRZDYI', 'B00H63D8NU']"
+    },
+    "262": {
+        "generated_text": "binder stickers",
+        "target": "['B07BKMDZT1']"
+    },
+    "263": {
+        "generated_text": "designer id badge horizontal holder lanyard",
+        "target": "['B081P4YPQM', 'B07KWG5LP7', 'B07Y3V1FXP']"
+    },
+    "264": {
+        "generated_text": "name tag clip",
+        "target": "['B0122PXDH2', 'B07STTQ9KW']"
+    },
+    "265": {
+        "generated_text": "carnet printer",
+        "target": "['B00SAI49AG', 'B01LDTRCHA']"
+    },
+    "266": {
+        "generated_text": " First, I need to understand what \"teacher supplies\" means. It's a broad category that includes things like:\n- Classroom supplies\n- Classroom equipment\n- Classroom decorations\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n- Classroom supplies\n- Classroom materials\n- Classroom tools\n- Classroom equipment\n-",
+        "target": "['B00006IEI4', 'B079SSQVML', 'B07GMZ5NBS', 'B071RYD3J4', 'B00006IATI', 'B07VT9Z3WD', 'B07K2DCD1V', '107837788X']"
+    },
+    "267": {
+        "generated_text": " First, I'll break down the query \"baskets for gifts\" into its components:\n- \"baskets\" - This is a keyword\n- \"for\" - This is a preposition\n- \"gifts\" - This is a noun\n</think>\nNow, I'll create query terms that combine these components:\n1. \"baskets for gifts\"\n2. \"gifts baskets\"\n3. \"gifts baskets for\"\n4. \"gifts baskets of\"\n5. \"gifts baskets of gifts\"\n6. \"gifts baskets of gifts for\"\n7. \"gifts baskets of gifts of\"\n8. \"gifts baskets of gifts of gifts\"\n9. \"gifts baskets of gifts of gifts for\"\n10. \"gifts baskets of gifts of gifts of\"\n11. \"gifts baskets of gifts of gifts of gifts\"\n12. \"gifts baskets of gifts of gifts of gifts for\"\n13. \"gifts baskets of gifts of gifts of gifts of\"\n14. \"gifts baskets of gifts of gifts of gifts of gifts\"\n15. \"gifts baskets of gifts of gifts of gifts of gifts for\"\n16. \"gifts baskets of gifts of gifts of gifts of gifts of\"\n17. \"gifts baskets of gifts of gifts of gifts of gifts of gifts\"\n18. \"gifts baskets of gifts of gifts of gifts of gifts of gifts for\"\n19. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of\"\n20. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts\"\n21. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts for\"\n22. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of\"\n23. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts\"\n24. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts for\"\n25. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of\"\n26. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts\"\n27. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts for\"\n28. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of\"\n29. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts\"\n30. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts for\"\n31. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of\"\n32. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts\"\n33. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts for\"\n34. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of\"\n35. \"gifts baskets of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts of gifts\"\n</answer>",
+        "target": "['B07J4JFLNF', 'B00D6JP6FG']"
+    },
+    "268": {
+        "generated_text": "bed desk AND cup holder",
+        "target": "['B08YYHF3VX', 'B092VJ2YRD', 'B07VVBP6S1', 'B08DFNTXLZ', 'B08FX45XQ5', 'B08F1XL1N8', 'B08F1Z49SB']"
+    },
+    "269": {
+        "generated_text": "small schedule book",
+        "target": "['B07XDM7XZ1', 'B07WD3GXY4', 'B07YYLT6NS', '1612126979', 'B07HKCB7WN']"
+    },
+    "270": {
+        "generated_text": "large spring paper clips",
+        "target": "['B07GGSDFVY', 'B07DXSBT5J', 'B07BPJRCSF', 'B002VD6BLG', 'B07QF4R96J']"
+    },
+    "271": {
+        "generated_text": "black magnetic monthly calendar",
+        "target": "['B07JWF823X', 'B07NDNY4KS', 'B07VW6GNXY', 'B076HYQ27Z', 'B074J2NJ6H', 'B01DQ10Y78']"
+    },
+    "272": {
+        "generated_text": "self adhesive happy holidays roll tags",
+        "target": "['B07G56TKTV', 'B06XRZ7TSX', 'B07Z8D95P6', 'B07YZB9TMS', 'B075765XKQ', 'B07575Z7V5', 'B0746TR1LH']"
+    },
+    "273": {
+        "generated_text": "book ends AND silver",
+        "target": "['B07ZYJ1HXV', 'B01N2B6BZB', 'B077BT587N', 'B0009P409S']"
+    },
+    "274": {
+        "generated_text": "book markers for women",
+        "target": "['1441328890', '1441328157', '1441321748', 'B07WHHXP4P', 'B00IRW9IRE', '1593593147']"
+    },
+    "275": {
+        "generated_text": "cotton paper deckled edges",
+        "target": "['B07N7JHQ21', 'B004955U5W', '161992286X', '1619922835', '1619922827']"
+    },
+    "276": {
+        "generated_text": "bottle shrink wrap bands",
+        "target": "['B084P2GKDY', 'B01BO58CX6', 'B018TNDK60']"
+    },
+    "277": {
+        "generated_text": "forever stamps Disney",
+        "target": "['B07MQL979Y', 'B07GT63QDQ', 'B07FN3N8W4', 'B01BEFRF02', 'B013VNQ84O', 'B00AOU9U3Y', 'B007AW36KW', 'B004KISVEK', 'B002Q8JO9M']"
+    },
+    "278": {
+        "generated_text": "brother AND fax AND ink cartridges",
+        "target": "['B07X5TML8X', 'B07SJ4WPR8', 'B002LGR2A2', 'B00000JDET', 'B00000J19R']"
+    },
+    "279": {
+        "generated_text": "printer brother mcf",
+        "target": "['B07C4V4WWF', 'B00MFG588Q', 'B01BHSLJGC', 'B01824ZCBM']"
+    },
+    "280": {
+        "generated_text": "high yield black toner",
+        "target": "['B075X7TFY5', 'B08915VC1S', 'B08FH8B1MB', 'B08LG788FQ', 'B09D7CMPQ4', 'B08R7HV4SZ', 'B07F65KCHL']"
+    },
+    "281": {
+        "generated_text": "brown notecards without envelopes",
+        "target": "['B01N3UBE2J']"
+    },
+    "282": {
+        "generated_text": "folder contains BT21",
+        "target": "['B079HSRH1R']"
+    },
+    "283": {
+        "generated_text": "pl\u00e1stico de burbujas para embalar",
+        "target": "['B07SKSZ36R', 'B07S1JPBL3', 'B07QZCMCVT', 'B07S1JR3WB', 'B07S2MMB2C', 'B07S3R3LJ5', 'B08QTRFQPC', 'B099DPYXDC', 'B07RXFDSQG', 'B06X15257J']"
+    },
+    "284": {
+        "generated_text": "handwriting grade 3",
+        "target": "['1939814650']"
+    },
+    "285": {
+        "generated_text": "bulletin board letters",
+        "target": "['B0722C7NZL', 'B000NNQ2MY']"
+    },
+    "286": {
+        "generated_text": "chairs without wheels",
+        "target": "['B003BZG1D6', 'B08N6CW2DN', 'B091KFN2Q6', 'B098T7DQ9Y', 'B08ZJGV287', 'B01LYXKF4D', 'B00KOP4U2U', 'B01N09NE9A', 'B0722P7BFN']"
+    },
+    "287": {
+        "generated_text": "markers AND pen",
+        "target": "['B073WVZ5RR']"
+    },
+    "288": {
+        "generated_text": "ti-nspire cas cx calculator",
+        "target": "['B07RL7HM5V', 'B004NBZAYS', 'B07SPVP7D4']"
+    },
+    "289": {
+        "generated_text": "ti84 plus calculator",
+        "target": "['B007WM3MW2', 'B0001EMM0G', 'B01M1RX9WU', 'B00XOLOQMK', 'B00UG8TIZ4', 'B00EDZDJ42', 'B00UG8TN2M', 'B07SSJQS2Z', 'B00UG8TT4E', 'B00UG8TLTC']"
+    },
+    "290": {
+        "generated_text": "TI-84 Plus graphing calculator compatible products",
+        "target": "['B007WM3MW2', 'B0001EMM0G', 'B00XOLOQMK', 'B00EDZDJ42', 'B07HG3WGVY', 'B081VV8DW1', 'B07SSJQS2Z', 'B07VWRY81C', 'B07QY3BD1B', 'B078NFWPKK']"
+    },
+    "291": {
+        "generated_text": "laundry tags",
+        "target": "['B01H5W9OIE', 'B07G58YWL6', 'B0779GTSZW', 'B07Y12WFGP']"
+    },
+    "292": {
+        "generated_text": "dell 21 color y499d cartridge",
+        "target": "['B00MV2PFQ4', 'B00JV4ASB2', 'B00JV4ARF4', 'B0080A73GG', 'B004L3ZECQ', 'B003TE9Y9W']"
+    },
+    "293": {
+        "generated_text": "First, I'll break down the query into its components:\n- chair\n- tables\n- recliners\n</think>\nNow, I'll create query terms that will help me find products that meet these criteria:\n1. chair tables\n2. recliners\n3. tables recliners\n4. chairs tables recliners\n5. chairs tables recliners\n6. recliners tables chairs\n7. recliners tables chairs\n8. chairs tables recliners tables\n9. recliners tables chairs tables\n10. chairs tables recliners tables\n11. recliners tables chairs tables\n12. chairs tables recliners tables\n13. recliners tables chairs tables\n14. chairs tables recliners tables\n15. recliners tables chairs tables\n16. chairs tables recliners tables\n17. recliners tables chairs tables\n18. chairs tables recliners tables\n19. recliners tables chairs tables\n20. chairs tables recliners tables\n21. recliners tables chairs tables\n22. chairs tables recliners tables\n23. recliners tables chairs tables\n24. chairs tables recliners tables\n25. recliners tables chairs tables\n26. chairs tables recliners tables\n27. recliners tables chairs tables\n28. chairs tables recliners tables\n29. recliners tables chairs tables\n30. chairs tables recliners tables\n31. recliners tables chairs tables\n32. chairs tables recliners tables\n33. recliners tables chairs tables\n34. chairs tables recliners tables\n35. recliners tables chairs tables\n36. chairs tables recliners tables\n37. recliners tables chairs tables\n38. chairs tables recliners tables\n39. recliners tables chairs tables\n40. chairs tables recliners tables\n41. recliners tables chairs tables\n42. chairs tables recliners tables\n43. recliners tables chairs tables\n44. chairs tables recliners tables\n45. recliners tables chairs tables\n46. chairs tables recliners tables\n47. recliners tables chairs tables\n48. chairs tables recliners tables\n49. recliners tables chairs tables\n50. chairs tables recliners tables\n51. recliners tables chairs tables\n52. chairs tables recliners tables\n53. recliners tables chairs tables\n54. chairs tables recliners tables\n55. recliners tables chairs tables\n56. chairs tables recliners tables\n57. recliners tables chairs tables\n58. chairs tables recliners tables\n59. recliners tables chairs tables\n60. chairs tables recliners tables\n61. recliners tables chairs tables\n62. chairs tables recliners tables\n63. recliners tables chairs tables\n64. chairs tables recliners tables\n65. recliners tables chairs tables\n66. chairs tables recliners tables\n67. recliners tables chairs tables\n68. chairs tables recliners tables\n69. recliners tables chairs tables\n70. chairs tables recliners tables\n71. recliners tables chairs tables\n72. chairs tables recliners tables\n73. recliners tables chairs tables\n74. chairs tables recliners tables\n75. recliners tables chairs tables\n76. chairs tables recliners tables\n77. recliners tables chairs tables\n78. chairs tables recliners tables\n79. recliners tables chairs tables\n80. chairs tables recliners tables\n81. recliners tables chairs tables\n82. chairs tables recliners tables\n83. recliners tables chairs tables\n84. chairs tables recliners tables\n85. recliners tables chairs tables\n86. chairs tables recliners tables\n87. recliners tables chairs tables\n88. chairs tables recliners tables\n89. recliners tables chairs tables\n90. chairs tables recliners tables\n91. recliners tables chairs tables\n92. chairs tables recliners tables\n93. recliners tables chairs tables\n94. chairs tables recliners tables\n95. recliners tables chairs tables\n</think>",
+        "target": "['B074DW45G8', 'B01N1NA8KZ', 'B01FSGZ6FE', 'B0026IBSUA']"
+    },
+    "294": {
+        "generated_text": "zario chapstick holder",
+        "target": "['B07JGG41FN', 'B07MBDJ9GT', 'B07CG5NKSV']"
+    },
+    "295": {
+        "generated_text": "Chelsea stadium soccer cards",
+        "target": "['B003MPPNPM']"
+    },
+    "296": {
+        "generated_text": "christmas gifts",
+        "target": "['B07M81TWY7', 'B072W281WG', '1950785246', 'B07WJYBV41', 'B072LNPBZX']"
+    },
+    "297": {
+        "generated_text": "First, I need to understand what the query means. It's asking for product names that contain \"12\" in the bottom pack. </think>\n</answer>",
+        "target": "['B000Q62CKE']"
+    },
+    "298": {
+        "generated_text": "First, I need to understand what the query \"coin changers\" means. It's a common phrase in the cryptocurrency and digital currency space. It's not a specific product name, but rather a phrase that could refer to various products or services related to cryptocurrency and digital currency. </think>\n</answer>",
+        "target": "['B079P4FBPS', 'B01MSL9L1Y', 'B00LXS5PVC', 'B008AC5T42']"
+    },
+    "299": {
+        "generated_text": "beginner guitar strings",
+        "target": "['B07LBFPNMF', 'B01ISPBAUW', 'B00GTVF6VC']"
+    },
+    "300": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for comic book boards from the 'Silver Age'. </think>\n</answer>",
+        "target": "['B00D8LMNLC', 'B004TGVU96', 'B000JFKSOE', 'B004D1LBCI', 'B0831TPGRT', 'B00MH3NTD8', 'B003ZUSOC8']"
+    },
+    "301": {
+        "generated_text": "congratulations postcards",
+        "target": "['B079K6SWYG', 'B07D1D4332', 'B075G2JR47', 'B01MY9242Q']"
+    },
+    "302": {
+        "generated_text": "construction paper AND pastel",
+        "target": "['B01BIPH7VA']"
+    },
+    "303": {
+        "generated_text": " First, I need to understand what the query means. It appears to be a map of continents and sets of countries. This suggests we're looking for products that are related to continents and countries. </think>\nNow, let's break down the continents and countries:\n1. Continents: The continents are typically divided into several groups, such as Asia, Africa, North America, South America, Europe, and Oceania.\n2. Countries: Countries are the smallest units of a continent, and they are further divided into provinces, states, and regions.\nTo retrieve products related to continents and countries, we can use the following query terms:\n```continents map set\n```\nThis query uses the AND operator to combine continents and countries, ensuring that we get products that are related to both continents and countries.\nHere's the final answer in JSON format:\n```json\n{\n    \"query\": \"continents map set\"\n}\n```",
+        "target": "['B009A181QU', 'B002OMUOLW', '0545118395', '0528020420']"
+    },
+    "304": {
+        "generated_text": "cork board",
+        "target": "['B005CKKHOM']"
+    },
+    "305": {
+        "generated_text": "coupon box organizer",
+        "target": "['B07G7ZRX25', 'B01447LJOK']"
+    },
+    "306": {
+        "generated_text": "milk crate vinyl records",
+        "target": "['B076MFPPYG', 'B06XGBDJMD', 'B017EA6VJW', 'B07NF5BNXB', 'B00I9VP9NU', 'B007IUPR0I', 'B0054029SM', 'B0001ACQQA']"
+    },
+    "307": {
+        "generated_text": "First, I need to understand what the query means. It's asking for products that have a crosscut shredder without a basket. </think>\n</answer>",
+        "target": "['B08HD9KTS6']"
+    },
+    "308": {
+        "generated_text": "paper shredder AND basket",
+        "target": "['B08HD9KTS6', 'B07WHVKVPR', 'B0046JZ0OW', 'B01E3KVF7O']"
+    },
+    "309": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for a product that has a \"pocket planner\" and doesn't include any specific dates. </think>\nNow, I'll create query terms to retrieve products that meet these criteria:\n<answer>\n{\n    \"query\": \"pocket planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND planner AND",
+        "target": "['B07WM1N168', 'B08P6G66R8', 'B08FR6Z6XJ', 'B07W9KYWWG', 'B08ZJ61PP5', 'B08KQFZ2DM', 'B095VTG5ZD']"
+    },
+    "310": {
+        "generated_text": "planner without spiral binding",
+        "target": "['B098HJDMM7', 'B08WHYVK5G', 'B08YN8BD92', 'B08ZJ61PP5', 'B08V5JLLLK', 'B0923T8BZR', 'B093R5W239', 'B09875X1C1', 'B08T3JPLX7', 'B07KFKGXPC', 'B08HKNMJJL', 'B08KQFZ2DM']"
+    },
+    "311": {
+        "generated_text": "data stamp",
+        "target": "['B004HY49KW', 'B0012ND8GC']"
+    },
+    "312": {
+        "generated_text": "deco paper clip AND paper clip",
+        "target": "['B07SJFBW5Z', 'B07RH9G2K6']"
+    },
+    "313": {
+        "generated_text": "desk blotter AND paper pad",
+        "target": "['B0043REUFM']"
+    },
+    "314": {
+        "generated_text": "napkin rings",
+        "target": "['B06Y1SW5K5']"
+    },
+    "315": {
+        "generated_text": "pin collector book",
+        "target": "['B0085YATYK', 'B01J6AR2NM', 'B00S8QVHNC', 'B06XZRBXQL']"
+    },
+    "316": {
+        "generated_text": "dorm safe",
+        "target": "['B01FE5VYRS', 'B005JCZI5G', 'B005F69G5E']"
+    },
+    "317": {
+        "generated_text": "dry erase board AND primary lines",
+        "target": "['B01I2JU73K', 'B07DN5GM5R', 'B07BLJWWS2', 'B074P9CHFV']"
+    },
+    "318": {
+        "generated_text": "mifflin paper",
+        "target": "['B07XQLKXKV', 'B07VRXFWFM', 'B07PZBF1H5', 'B07QV4JQB1']"
+    },
+    "319": {
+        "generated_text": "duster board",
+        "target": "['B085CP8WDR', 'B0824GVM54', 'B07BMFFW48', 'B01IV3COII', 'B01FM4G54S', 'B01DEELAG6', 'B016OSWQEE']"
+    },
+    "320": {
+        "generated_text": "editing AND day AND sign",
+        "target": "['B0893Z53MS', 'B08996DKGR', 'B089Q2XP2Q', 'B08CNL1K6F', 'B08DR5V8R1', 'B08F1MGTP8', 'B08XVXFSWR', 'B091YL7PQC', 'B093DBX7S7', 'B095PL61BB', 'B0858BL3F4', 'B07G2M8DPY', 'B07BYYH4SL', 'B07V1MPY49', 'B07WKV8CQ2', 'B083JN938L', 'B07HLHHMJC']"
+    },
+    "321": {
+        "generated_text": "express pencils",
+        "target": "['B00WH3CLFK', 'B00TXSZSAW', 'B00PGNSC92', 'B00P5JW9NM', 'B00KKUIGXI', 'B0194I0F5I']"
+    },
+    "322": {
+        "generated_text": "upholstery AND arm chairs",
+        "target": "['B01M66AQ3D', 'B006NVVP3G']"
+    },
+    "323": {
+        "generated_text": "diamond AND big",
+        "target": "['B072615JBK']"
+    },
+    "324": {
+        "generated_text": "brown folder",
+        "target": "['B07HX38F44', 'B00006IEWN']"
+    },
+    "325": {
+        "generated_text": "important documents storage",
+        "target": "['B0198KICTS', 'B07X4DPKCS', 'B07Y7XH8KH', 'B0827XT7L4']"
+    },
+    "326": {
+        "generated_text": "First, I'll break down the query into its key components:\n- \"paper mate flair\"\n- \"felt tip pens\"\n- \"ultra fine point (0.4mm)\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n- \"0.4mm\"\n",
+        "target": "['B0013CGFZS', 'B077NWCSY6']"
+    },
+    "327": {
+        "generated_text": "paper cutter blue",
+        "target": "['B0017KYE5Y', 'B01H5F6DNK']"
+    },
+    "328": {
+        "generated_text": "fountain pen without cartridge",
+        "target": "['B08MFS5742', 'B00SNIIPIU', 'B07K21CFH3', 'B07DM6KT33', 'B074HR5LC3', 'B078WR5DFQ']"
+    },
+    "329": {
+        "generated_text": "red pens AND erasable",
+        "target": "['B009QYH554', 'B01EB2BEW0', 'B00KUY6E5G', 'B00H9OND9K']"
+    },
+    "330": {
+        "generated_text": "pilot needle point refills",
+        "target": "['B00006IEC6', 'B01N5KTVYE', 'B00P1PYX6G', 'B00GYG3Y2K', 'B00F92248K', 'B00P1PJ65E']"
+    },
+    "331": {
+        "generated_text": "First, I'll break down the query into its components:\n- \"wood\" - a material\n- \"small box\" - a type of container\n- \"with drawers\" - a feature\n</think>\nNow, I'll create query terms that combine these elements:\n1. Wood small box with drawers\n2. Wood box with drawers\n3. Small box with drawers\n4. Wooden box with drawers\n5. Small wooden box with drawers\n6. Wooden small box with drawers\n7. Small wooden box with drawers\n8. Wooden box with drawers\n9. Small wooden box with drawers\n10. Wooden small box with drawers\n11. Small wooden box with drawers\n12. Wooden box with drawers\n13. Small wooden box with drawers\n14. Wooden small box with drawers\n15. Small wooden box with drawers\n16. Wooden box with drawers\n17. Small wooden box with drawers\n18. Wooden small box with drawers\n19. Small wooden box with drawers\n20. Wooden box with drawers\n21. Small wooden box with drawers\n22. Wooden small box with drawers\n23. Small wooden box with drawers\n24. Wooden box with drawers\n25. Small wooden box with drawers\n26. Wooden small box with drawers\n27. Small wooden box with drawers\n28. Wooden box with drawers\n29. Small wooden box with drawers\n30. Wooden small box with drawers\n</think>\nNow, I'll combine these terms using Boolean operators to create a more comprehensive query:\n{\n    \"query\": \"wood small box with drawers\"\n}\nThis query uses the AND operator to combine all the terms, ensuring that it retrieves the most relevant products that meet the customer's needs.",
+        "target": "['B07GRCCW7P']"
+    },
+    "332": {
+        "generated_text": "genealogy charts and forms beginners",
+        "target": "['B07CZP3XSG', 'B071NL7Q23', 'B072LWTGX3', '1791757456']"
+    },
+    "333": {
+        "generated_text": "plastic storage bins labels",
+        "target": "['B00MN4VRG2', 'B00BPYX4TE', 'B00007M5KZ']"
+    },
+    "334": {
+        "generated_text": "sorting hat AND hat",
+        "target": "['B00439ASRY', 'B00439ASRY', 'B07FQWVF11', 'B07F7PD6CN', 'B07KYTWBH3']"
+    },
+    "335": {
+        "generated_text": "marble notebook",
+        "target": "['B001JTL032']"
+    },
+    "336": {
+        "generated_text": "great mother food",
+        "target": "['B07MTDLB67', 'B079BCJ2QH']"
+    },
+    "337": {
+        "generated_text": "hallmark shoebox funny christmas cards",
+        "target": "['B07JK9BHC6', 'B094YMBSQ1']"
+    },
+    "338": {
+        "generated_text": "a6 planner",
+        "target": "['B082HSWBZD', 'B087P2F9J9', 'B076RHD3MV', 'B076VVHW9K', 'B0789QG3CV']"
+    },
+    "339": {
+        "generated_text": "turn in box classroom",
+        "target": "['B01K07MXYS', 'B07NZ914C5', 'B07SG322BF', 'B071WWXGG3', 'B014CD2O2M']"
+    },
+    "340": {
+        "generated_text": "hp 201a black",
+        "target": "['B00UBMNYM8']"
+    },
+    "341": {
+        "generated_text": "hp AND glossy AND photo paper AND 8.5 x 11",
+        "target": "['B07YBGGQSZ', 'B004SGDYF0', 'B004SGDYCI', 'B00066IHMG', 'B0000TIMUG', 'B0061AL71E']"
+    },
+    "342": {
+        "generated_text": "HP M604 toner",
+        "target": "['B07MZ1CHWR', 'B073XTMZTY', 'B072QR5WHC', 'B0721PJVBH', 'B06ZZK1FNT', 'B00MCDK9MM', 'B019O00X3U']"
+    },
+    "343": {
+        "generated_text": "immigration rights AND card",
+        "target": "['B017RKQY3M', 'B00X14Q6E6', 'B0018DWAAQ', '0983723346', 'B004T4WQP0']"
+    },
+    "344": {
+        "generated_text": "white box 3x5 holder",
+        "target": "['B00V5DQJWY', 'B071CDTVKK']"
+    },
+    "345": {
+        "generated_text": "First, I'll break down the query into its components:\n- \"ink cartridges\"\n- \"hp 67xl\"\n- \"black and color\"\n</think>\nNow, I'll create query terms that best meet customer needs:\n1. \"ink cartridges\" - This is a broad term that could include various types of ink cartridges.\n2. \"hp 67xl\" - This is a specific model number, which could be important for customers looking for a particular product.\n3. \"black and color\" - This is a specific color combination, which could be important for customers looking for a particular product.\nPutting it all together, here are some query terms that could be used to retrieve the most relevant products:\n{\n    \"query\": \"ink cartridges hp 67xl black and color\"\n}\nThis query term uses the Boolean operator \"AND\" to combine the three components of the query. It ensures that the customer will get products that include ink cartridges, are hp 67xl, and have black and color as a color combination.",
+        "target": "['B09D7RW4Y8', 'B09B3KR2XS', 'B096ZMZYR5', 'B096V6FR7Q', 'B096MLRDRZ', 'B092Q1DMYT', 'B08XY2DRGX', 'B08M5QZL36', 'B084132H6X', 'B08412PTS8', 'B08CMZHL6R']"
+    },
+    "346": {
+        "generated_text": "photo scanner AND auto feed",
+        "target": "['B00WXN8JA0', 'B01GU5QEC6']"
+    },
+    "347": {
+        "generated_text": "jms580",
+        "target": "['B00HGUWJK6', 'B01C6CSJ8E']"
+    },
+    "348": {
+        "generated_text": "kartos stationery",
+        "target": "['B01GVGGJ8S', 'B079Q7HCNS', 'B06ZYB99B2', 'B00J9ULAVU', 'B00J7YQH16']"
+    },
+    "349": {
+        "generated_text": "kaweco sketch up pencil",
+        "target": "['B06XD55HTT', 'B06XD55HTT', 'B06XCLY7Y5', 'B06XCLY7Y5', 'B00KKNRHIK', 'B00KKNRHIK', 'B01DQCUU5S', 'B00KRZVW1E', 'B00KRZVW1E', 'B01DO1ZV9Q', 'B06XD5F85N', 'B07NY6371P', 'B0747NT6HK', 'B01F1VV94I', 'B07QX3M81M', 'B0077OI0P4', 'B007CEUGP6', 'B007HNFUPI', 'B00KKNTDXM', 'B00CANO0J2']"
+    },
+    "350": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for a product that contains \"kaweco\" and \"liliput fountain pen cartridge\". </think>\nNow, I'll create query terms to retrieve the most relevant products:\n1. Kaweco fountain pen cartridge\n2. Kaweco liliput fountain pen cartridge\n3. Kaweco fountain pen cartridge (with specific model)\n4. Kaweco liliput fountain pen cartridge (with specific model)\n5. Kaweco fountain pen cartridge (with specific brand)\n6. Kaweco liliput fountain pen cartridge (with specific brand)\n7. Kaweco fountain pen cartridge (with specific model and brand)\n8. Kaweco liliput fountain pen cartridge (with specific model and brand)\n9. Kaweco fountain pen cartridge (with specific brand and model)\n10. Kaweco liliput fountain pen cartridge (with specific brand and model)\n11. Kaweco fountain pen cartridge (with specific brand and model and specific year)\n12. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year)\n13. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year)\n14. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year)\n15. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year and specific year)\n16. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year and specific year)\n17. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year)\n18. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year)\n19. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year)\n20. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year)\n21. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year)\n22. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year)\n23. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n24. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n25. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n26. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n27. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n28. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n29. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n30. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n21. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n22. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n23. Kaweco fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year and specific year)\n24. Kaweco liliput fountain pen cartridge (with specific brand and model and specific year and specific year and specific year and specific year and specific year and specific year and specific",
+        "target": "['B00D7C8V4A', 'B00D7BKWDE', 'B006CQSY9K', 'B006CQSXYQ', 'B00D7BV8YG']"
+    },
+    "351": {
+        "generated_text": "sport caps silicone",
+        "target": "['B07G73BLNH', 'B07SFWJ2ZK']"
+    },
+    "352": {
+        "generated_text": "key caps with labels",
+        "target": "['B08CBR1488', 'B086YVGM16', 'B07K68NQKM', 'B07K68NQKM']"
+    },
+    "353": {
+        "generated_text": "kids thank you notes fill in the blank",
+        "target": "['B086P6RTN2', 'B07ZD933SV', 'B07FVNYPSL', 'B078MT76YF', 'B01BMVGVKS']"
+    },
+    "354": {
+        "generated_text": "retraction of product",
+        "target": "['B074473Z6T', 'B005DXQ92W']"
+    },
+    "355": {
+        "generated_text": "red gel pen AND gel pen AND pen",
+        "target": "['B00AH6UU48', 'B019QBO77K', 'B07L9WZMH6', 'B00N2NCYQU']"
+    },
+    "356": {
+        "generated_text": " First, I'll identify the key terms in the query: \"left handed pens\". These are the main concepts we're looking for in the search results.\n</think>\nNow, I'll create query terms that include these key terms:\n1. Left-handed\n2. Pencils\n3. Pens\n4. Handwriting\n5. Art supplies\n6. Stationery\n7. Office supplies\n8. Personal care\n9. Hobby\n10. Creative\n11. Writing\n12. Art\n13. Stationery store\n14. Office supply store\n15. Hobby store\n16. Creative store\n17. Writing supplies\n18. Art supplies store\n19. Stationery store\n20. Office supply store\n21. Hobby store\n22. Creative store\n23. Writing supplies\n24. Art supplies\n25. Stationery\n26. Office supply\n27. Hobby\n28. Creative\n29. Writing\n30. Art\n31. Stationery store\n32. Office supply store\n33. Hobby store\n34. Creative store\n35. Writing supplies\n36. Art supplies\n37. Stationery\n38. Office supply\n39. Hobby\n40. Creative\n41. Writing\n42. Art\n43. Stationery store\n44. Office supply store\n45. Hobby store\n46. Creative store\n47. Writing supplies\n48. Art supplies\n49. Stationery\n50. Office supply\n51. Hobby\n52. Creative\n53. Writing\n54. Art\n55. Stationery store\n56. Office supply store\n57. Hobby store\n58. Creative store\n59. Writing supplies\n60. Art supplies\n61. Stationery\n62. Office supply\n63. Hobby\n64. Creative\n65. Writing\n66. Art\n67. Stationery store\n68. Office supply store\n69. Hobby store\n70. Creative store\n71. Writing supplies\n72. Art supplies\n73. Stationery\n74. Office supply\n75. Hobby\n76. Creative\n77. Writing\n78. Art\n79. Stationery store\n80. Office supply store\n81. Hobby store\n82. Creative store\n83. Writing supplies\n84. Art supplies\n85. Stationery\n86. Office supply\n87. Hobby\n88. Creative\n89. Writing\n90. Art\n91. Stationery store\n92. Office supply store\n93. Hobby store\n94. Creative store\n95. Writing supplies\n96. Art supplies\n97. Stationery\n98. Office supply\n99. Hobby\n100. Creative\n101. Writing\n102. Art\n103. Stationery store\n104. Office supply store\n105. Hobby store\n106. Creative store\n107. Writing supplies\n108. Art supplies\n109. Stationery\n110. Office supply\n111. Hobby\n112. Creative\n113. Writing\n114. Art\n115. Stationery store\n116. Office supply store\n117. Hobby store\n118. Creative store\n119. Writing supplies\n120. Art supplies\n121. Stationery\n122. Office supply\n123. Hobby\n124. Creative\n125. Writing\n126. Art\n127. Stationery store\n128. Office supply store\n129. Hobby store\n130. Creative store\n131. Writing supplies\n132. Art supplies\n133. Stationery\n134. Office supply\n135. Hobby\n136. Creative\n137. Writing\n138. Art\n139. Stationery store\n140. Office supply store\n141. Hobby store\n142. Creative store\n143. Writing supplies\n144. Art supplies\n145. Stationery\n146. Office supply\n147. Hobby\n148. Creative\n149. Writing\n150. Art\n151. Stationery store\n152. Office supply store\n153. Hobby store\n154. Creative store\n155. Writing supplies\n156. Art supplies\n157. Stationery\n158. Office supply\n",
+        "target": "['B019KECWCK']"
+    },
+    "357": {
+        "generated_text": "legal forms AND contractors",
+        "target": "['B003FM41SM', 'B0012YTB8U']"
+    },
+    "358": {
+        "generated_text": "little mermaid reusable bag",
+        "target": "['B07T8JRXNT', 'B07KRH652V']"
+    },
+    "359": {
+        "generated_text": "locker decorations",
+        "target": "['B07Y5P34C8']"
+    },
+    "360": {
+        "generated_text": "weekly calendar magnetic white board for wall",
+        "target": "['B07VX7T8CR', 'B07XRZVQ6Q', 'B07S9PHHCR', 'B07YKDR12T']"
+    },
+    "361": {
+        "generated_text": "Scotch tape refill dispensers",
+        "target": "['B000Y52D5G', 'B07BWVKMWC', 'B000MFJNVK', 'B0000AQOAB', 'B00DFYH5QA']"
+    },
+    "362": {
+        "generated_text": "mask chain lanyard",
+        "target": "['B08G8L78JW', 'B08GWZWKP4', 'B08FC5KVHS', 'B08C2547MH', 'B08G19V77W']"
+    },
+    "363": {
+        "generated_text": "First, I need to understand what the query is asking for. It's asking for mouse pads that are also track pads. </think>\n</answer>",
+        "target": "['B07X935DDL', 'B07N5YGQLN']"
+    },
+    "364": {
+        "generated_text": "mouse tray",
+        "target": "['B07CJL4ZWJ', 'B071458RJB']"
+    },
+    "365": {
+        "generated_text": "music bulletin board",
+        "target": "['B083FQSL1S', 'B00KQ6ELLM', 'B004XMNVYI', 'B004PIT0QS', 'B0017OE252', 'B000NNPYCS', '0545177448', 'B00HS5VAN6']"
+    },
+    "366": {
+        "generated_text": "neenah classic crest solar solar white 80 lb",
+        "target": "['B07SYZW9TY', 'B000I20NWK', 'B0034JZ79I']"
+    },
+    "367": {
+        "generated_text": "snails live freshwater",
+        "target": "['B07ZQQGCLK', 'B07T157QNK', 'B07L3S6D2X', 'B079VJV3PK', 'B078HFT91P', 'B072Q6SDC3', 'B071Z27M6P', 'B0711KZKM6', 'B07J1F1383', 'B079VTX386']"
+    },
+    "368": {
+        "generated_text": "First, I need to understand what the query is asking for. It appears to be asking for small notebooks that are 3x5. </think>\n</answer>",
+        "target": "['B07V3TRD65', 'B00WKZ3Y88', 'B0764FX686']"
+    },
+    "369": {
+        "generated_text": "numbered brughtly colored sit spots classroom product",
+        "target": "['B07YFP91PS', 'B07W22J7GH', 'B07N6737F7']"
+    },
+    "370": {
+        "generated_text": "office staples",
+        "target": "['B07Q868JRS', 'B07Q61NR5Z', 'B07Q5VKRRT', 'B079W72LCG', 'B0008GQ0PA', 'B00006IFMO']"
+    },
+    "371": {
+        "generated_text": "oversize AND load banner",
+        "target": "['B07K49X7CS', 'B07G2LK7H9', 'B07G2L9FH7', 'B07G2G5LV5', 'B076C1DC25', 'B01MY7CBFA', 'B07PY54QBP', 'B00HYLB6X8', 'B00HYLB4TY', 'B001JT09KM']"
+    },
+    "372": {
+        "generated_text": "pink metal letter tray",
+        "target": "['B017ULCPJ0']"
+    },
+    "373": {
+        "generated_text": "prince purse",
+        "target": "['B01JNBSD6Y', 'B01EY2JIB6']"
+    },
+    "374": {
+        "generated_text": "religious bulk christmas cards",
+        "target": "['B07ZWCH6GD', 'B073VXPJ7K', 'B010DXYNRY', 'B00DH0Q7UM']"
+    },
+    "375": {
+        "generated_text": "seat cushion AND memory foam",
+        "target": "['B08SLL2NKY', 'B09731Q8P6', 'B08T17MZS8']"
+    },
+    "376": {
+        "generated_text": "Giants mousepad",
+        "target": "['B07VZ93BF6']"
+    },
+    "377": {
+        "generated_text": "shark pencil",
+        "target": "['B07VRGBWGB']"
+    },
+    "378": {
+        "generated_text": "sheet protectors AND 8.5 x 11 AND no holes",
+        "target": "['B07BMB2GPY', 'B00691ZRQQ', 'B000CD483K']"
+    },
+    "379": {
+        "generated_text": "store:products",
+        "target": "['B005CY001I']"
+    },
+    "380": {
+        "generated_text": "small notebook pen",
+        "target": "['B07DN79GX8']"
+    },
+    "381": {
+        "generated_text": "standing desk electric four legs",
+        "target": "['B08DDL9222']"
+    },
+    "382": {
+        "generated_text": "tall AND pointed",
+        "target": "['B0838QCYYG', 'B07X2653P3', 'B07X262S6L', 'B07HW1PKMP', 'B0797D2RY2', 'B00UKF6JUU', 'B009HTYWKO', 'B002VLH7AW', 'B002VLH6NU']"
+    },
+    "383": {
+        "generated_text": "First, I need to understand what the query \"wardrobe locker\" means. It's a common phrase in the fashion and home decor industry. It could refer to a specific product, a category, or a search term. </think>\n</answer>",
+        "target": "['B07L4QW7QH', 'B07GRPW56G', 'B007I9VYRE', 'B0788KC81K']"
+    },
+    "384": {
+        "generated_text": "websters spelling corrector AND spelling corrector AND spelling correction",
+        "target": "['B0017T0KLC', 'B000XQ6T74', 'B06XXGGN6D']"
+    },
+    "385": {
+        "generated_text": "First, let's break down the query: \"where thr crawdads sing paperback\" </think>\nWe need to find products that contain \"crawdads\" and \"paperback\".\nNow, let's create query terms:\n1. Crawdads\n2. Paperback\n3. Thr\n4. Thr crawdads\n5. Thr crawdads sing\n6. Thr crawdads sing paperback\n7. Thr crawdads sing paperbacks\n8. Thr crawdads sing paperbacks\n9. Thr crawdads sing paperbacks\n10. Thr crawdads sing paperbacks\n11. Thr crawdads sing paperbacks\n12. Thr crawdads sing paperbacks\n13. Thr crawdads sing paperbacks\n14. Thr crawdads sing paperbacks\n15. Thr crawdads sing paperbacks\n16. Thr crawdads sing paperbacks\n17. Thr crawdads sing paperbacks\n18. Thr crawdads sing paperbacks\n19. Thr crawdads sing paperbacks\n20. Thr crawdads sing paperbacks\n21. Thr crawdads sing paperbacks\n22. Thr crawdads sing paperbacks\n23. Thr crawdads sing paperbacks\n24. Thr crawdads sing paperbacks\n25. Thr crawdads sing paperbacks\n26. Thr crawdads sing paperbacks\n27. Thr crawdads sing paperbacks\n28. Thr crawdads sing paperbacks\n29. Thr crawdads sing paperbacks\n30. Thr crawdads sing paperbacks\n31. Thr crawdads sing paperbacks\n32. Thr crawdads sing paperbacks\n33. Thr crawdads sing paperbacks\n34. Thr crawdads sing paperbacks\n35. Thr crawdads sing paperbacks\n36. Thr crawdads sing paperbacks\n37. Thr crawdads sing paperbacks\n38. Thr crawdads sing paperbacks\n39. Thr crawdads sing paperbacks\n40. Thr crawdads sing paperbacks\n41. Thr crawdads sing paperbacks\n42. Thr crawdads sing paperbacks\n43. Thr crawdads sing paperbacks\n44. Thr crawdads sing paperbacks\n45. Thr crawdads sing paperbacks\n46. Thr crawdads sing paperbacks\n47. Thr crawdads sing paperbacks\n48. Thr crawdads sing paperbacks\n49. Thr crawdads sing paperbacks\n50. Thr crawdads sing paperbacks\n51. Thr crawdads sing paperbacks\n52. Thr crawdads sing paperbacks\n53. Thr crawdads sing paperbacks\n54. Thr crawdads sing paperbacks\n55. Thr crawdads sing paperbacks\n56. Thr crawdads sing paperbacks\n57. Thr crawdads sing paperbacks\n58. Thr crawdads sing paperbacks\n59. Thr crawdads sing paperbacks\n60. Thr crawdads sing paperbacks\n61. Thr crawdads sing paperbacks\n62. Thr crawdads sing paperbacks\n63. Thr crawdads sing paperbacks\n64. Thr crawdads sing paperbacks\n65. Thr crawdads sing paperbacks\n66. Thr crawdads sing paperbacks\n67. Thr crawdads sing paperbacks\n68. Thr crawdads sing paperbacks\n69. Thr crawdads sing paperbacks\n70. Thr crawdads sing paperbacks\n71. Thr crawdads sing paperbacks\n72. Thr crawdads sing paperbacks\n73. Thr crawdads sing paperbacks\n74. Thr crawdads sing paperbacks\n75. Thr crawdads sing paperbacks\n76. Thr crawdads sing paperbacks\n77. Thr crawdads sing paperbacks\n78. Thr crawdads sing paperbacks\n79. Thr crawdads sing paperbacks\n80. Thr crawdads sing paperbacks\n81. Thr crawdads sing paperbacks\n82. Thr crawdads sing paperbacks\n83. Thr crawdads sing paperbacks\n84. Thr crawdads sing paperbacks\n85. Thr crawdads sing paperbacks\n86. Thr crawdads sing paperbacks\n87. Thr crawdads sing paperbacks\n88. Thr crawdads sing paperbacks\n89. Thr crawdads sing paperbacks\n90. Thr crawdads sing paperbacks\n91. Thr crawdads sing paperbacks\n92. Thr crawd",
+        "target": "['B07XW8M5T3', '1984827618']"
+    },
+    "386": {
+        "generated_text": "women black leather padfolio",
+        "target": "['B01N0ZY3JO']"
+    },
+    "387": {
+        "generated_text": "writing board",
+        "target": "['B01N171T9E']"
+    },
+    "388": {
+        "generated_text": "x treme epdm bands",
+        "target": "['B07GTS2TSL', 'B07FKSRKHK', 'B008X0A71Q', 'B004E2MGQG', 'B00AM2UBVE', 'B009A58LDE']"
+    },
+    "389": {
+        "generated_text": "xray lanyard retractable",
+        "target": "['B07F3MHP7H']"
+    }
+}
